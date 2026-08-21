@@ -42,17 +42,19 @@ def run():
     queries = [("forensic+medicine+India", True), ("medico-legal", True), ("taphonomy", False), ("virtopsy", False), ("forensic+pathology", False)]
     all_items = []; seen = set()
     for q, ind in queries:
-        f = feedparser.parse(f"https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en")
-        for e in f.entries:
-            t = e.title.split(' - ')[0]
-            uid = hashlib.md5(t.encode()).hexdigest()
-            if uid in seen: continue
-            seen.add(uid)
-            dt = datetime.datetime(*e.published_parsed[:6], tzinfo=datetime.timezone.utc)
-            itm = {"title": t, "summary": e.summary[:180], "source": e.source.title if 'source' in e else "News", "published": e.published, "dt": dt, "url": e.link}
-            itm["category"] = get_category(itm["title"] + itm["summary"])
-            itm["score"] = score(itm, ind)
-            all_items.append(itm)
+        try:
+            f = feedparser.parse(f"https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en")
+            for e in f.entries:
+                t = e.title.split(' - ')[0]
+                uid = hashlib.md5(t.encode()).hexdigest()
+                if uid in seen: continue
+                seen.add(uid)
+                dt = datetime.datetime(*e.published_parsed[:6], tzinfo=datetime.timezone.utc)
+                itm = {"title": t, "summary": e.summary[:180], "source": e.source.title if 'source' in e else "News", "published": e.published, "dt": dt, "url": e.link}
+                itm["category"] = get_category(itm["title"] + itm["summary"])
+                itm["score"] = score(itm, ind)
+                all_items.append(itm)
+        except: continue
     
     if not all_items: return
     all_items.sort(key=lambda x: x['score'], reverse=True)
