@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:11:18.583467",
+  "updated": "2026-08-23T15:34:44.399839",
   "total_found": 33,
   "items": [
     {
@@ -39,7 +39,7 @@
       "published": "Fri, 21 Aug 2026 15:17:04 GMT",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmxDcTNPU1VxcTB2Nm4wZE9fRFNfcFdnYmszdmNFTHZVQ211ZWJUN0pvQS1fYW1VZ0xNQVptY0RNZlVHZUpieVhlUTQ4a1RfYlljUHhhZExuelJvejRLMkJfek02dnVJYUdGRUFBem5XOVNUX1ZxNUx0Q043WFZfOEJQckVYbXVlQ3VObkl1SjhIVHhlSk1fQlFTdl82V1N5NmowRTZqdnE?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
-      "score": 45,
+      "score": 40,
       "rank": 4
     },
     {
@@ -153,16 +153,6 @@
       "rank": 15
     },
     {
-      "title": "Ho Chi Minh City: CASA-295 aircraft to transport martyrs\u2019 remains samples for DNA testing",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEpteTM5cFhvbldqMFRsRTlEemtvTDdCWXNtS2ZqLTFYaVpGWE51c09JcUxQOF93Zm5OdHp4S2RjSjl3YmFsa0FtdlhyVEs5SEd3M3BkNkdudS03YkFNWkM5N05iNlM0YUdKWG53Z1",
-      "source": "en.qdnd.vn",
-      "published": "Fri, 21 Aug 2026 15:24:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEpteTM5cFhvbldqMFRsRTlEemtvTDdCWXNtS2ZqLTFYaVpGWE51c09JcUxQOF93Zm5OdHp4S2RjSjl3YmFsa0FtdlhyVEs5SEd3M3BkNkdudS03YkFNWkM5N05iNlM0YUdKWG53Z1luV0FmdExGZThWNWNpRnRQbWZIQ01TTlRudDZEbWVIcnhvNS1nRHNOT0s3d3dpSkhWWkh1U01ya2U1QjBuWFZpQ2trNzdEUHV3RkxJMVVKUC1JS3Frby1rTF8yeVM?oc=5",
-      "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
-      "score": 20,
-      "rank": 16
-    },
-    {
       "title": "Tay Ninh completes DNA sampling of martyrs\u2019 graves",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0Q4bWNTWWZBODNjaklwQUdsOG4xNFRXSWZPOG9EVXdTWFlucVdmYjBPbWhVcTdKNy1hdkk4Tk4xN0E3eGk1VkdqSmZTdXRPaWd4TFdfM2xSQzRaSVZHS2UtcVA1RDJpMDFqa1FmMk",
       "source": "VOV World",
@@ -170,7 +160,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0Q4bWNTWWZBODNjaklwQUdsOG4xNFRXSWZPOG9EVXdTWFlucVdmYjBPbWhVcTdKNy1hdkk4Tk4xN0E3eGk1VkdqSmZTdXRPaWd4TFdfM2xSQzRaSVZHS2UtcVA1RDJpMDFqa1FmMkFnVUEwZmpFTEJ4YlN5cjRxWW9nUzN4Mzl5cWxnSTVXQUU?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
       "score": 20,
-      "rank": 17
+      "rank": 16
     },
     {
       "title": "A solemn atmosphere prevails at the excavation and DNA sampling ceremony of the remains of fallen soldiers at An Phu Cemetery.",
@@ -180,7 +170,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjUtelNhZFJHUm1LdExVRXl6YnlSbm9ES0Zxbm5xTXBOMmJGdkdncDRfY1MwOVlQay1HcFZUdDNrZGdQU3Z1NGxXSk52SHZXS2F3c0tnTVh6d2RKSW5KTXBOYmZaR0Ywb0tRN0lDYy0xTUphTUVTWmtzb1FFSlhzY0p6Rm5Wbk9YSUdUY3NqZ1EwT0ZrWjRPc084ek9FMlFnMmlPR1ZIblA4YWtKQVlmZE1n?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
       "score": 20,
-      "rank": 18
+      "rank": 17
     },
     {
       "title": "What Nigerian DNA Reveals About Crime, Identity and Our Shared Ancestry",
@@ -190,7 +180,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcGhCb25UYnVkbUF1elBab2M1MjN1RFI0TnlJdDBOYWtrWVlzeDdIeGhMSENYN1lycUtVbmtSTjlJb09SSHBTSGFHWV8wYVl5N1F3VWFxbEwyeEI3YUxKN0hUZ01oVmFaS29YM05KaDR4S2NfQUx4elZtZy15X0VOdEdtVUE0blFfcTh3dEtWa3hxUElPbGZLRHluZEk5MWgtbHNpQ2ZYTlpBQmVBSFVV?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
       "score": 20,
-      "rank": 19
+      "rank": 18
     },
     {
       "title": "Special flight carries samples of martyrs\u2019 remains to Hanoi for DNA identification",
@@ -200,7 +190,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPME1ZOXZmY2dKSW1nQVd4aG1zT3JCZDRUYlhBQkxod1k3OGZfOEZNYldfbDhUX0x5Y3RwOW02QTFHckpIbFpRQU04ZW9zbGk5bTFiZ1ZXc21uVFI3Q2R4UmhNdGxwaUJLemV1WlI5UkJpbE1qc3pIbkRNWTNmZWlhNW9XQjVCNUJUYjBOenVUMmdNQXh4RHRtQVp6dklMa28xLVdRbDNMWmVDakpUNDdKY1JUMjF1Z3ZrWktv?oc=5",
       "category": "\ud83e\uddec DNA",
       "score": 15,
-      "rank": 20
+      "rank": 19
     },
     {
       "title": "Special flight carries over 7,000 samples of war martyrs\u2019remains to Hanoi for DNA identification",
@@ -210,7 +200,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVVNWWllvanQ0R3pnbWI3Um50Um9wN25nLWZOSmlCbHpfcS1LRER0MmtRN3YwR0JuRU81dFpRVjRiX1ZBTGx5Wm1EUEJQMnZVR0hTU0FfaW1tX1gzcEhDZnIzMi1jRGRnWjhYZkR4VmVRb3lJLUpCRWRpVG5LR1p3R3I3aHg1YWliZGpjczFzYXJXcXlBSklRYTBWMkxfemtWTVJmdzJlbXBxYTNzWGR2RmxNVnlNSEw4T3ZLWC0tMzk2UHY0NjNXdHdFbHJSSTdvekdKVGljTTNQTldoV0dfWVNR?oc=5",
       "category": "\ud83e\uddec DNA",
       "score": 15,
-      "rank": 21
+      "rank": 20
     },
     {
       "title": "DNA testing solves 55-year-old mystery from fatal train accident",
@@ -220,7 +210,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0xvQXlVMHZSNFpRZVdhX2FyWTcySlYxVkJYa3FrbHJCdERwS2Y2MkZFMmJQRFdCSWNyNjdITVNGU3JLVGU2S3AzR0I0a1RIc1Atc0NDLW5YTkFSTERsQ25Tb2d3Y1QxZmZQTXpRd3Vvck5rTnNMemV5VERjZVktQUs4Ymlpa2xSNmlMMEc3OThmZEljQnpTYVRCbUJZM1QxMGZpdUZ3?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
       "score": 15,
-      "rank": 22
+      "rank": 21
     },
     {
       "title": "Over 7,000 samples of war martyrs\u2019remains transported to Hanoi for DNA identification",
@@ -230,7 +220,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNODhneGVQSG5YN3hXZnRVanFsVmp5alB5VUt5TXhXVW81dTJCdllwZTRXUkFlTEljYXBjaG12VkIwY2ZWNmlrb0xFODFSUFhJVE5nOG4wUjVqNUtSTXpHeWJFQnp2U2I2aVM3bHlnWFlGYzEtV3JLX3gxVGh6QUFsdm9iRTZwaVhqM1ZKR3ZEdlBmNDJPZF9jM3V4WXo3MUFabmVwTER4ZlJKSnRGajAyRG95eFZ1Y3h1aDFhcUJrcmY2OGZVcEN2X0xIS1JNRDZjeDlv?oc=5",
       "category": "\ud83e\uddec DNA",
       "score": 15,
-      "rank": 23
+      "rank": 22
     },
     {
       "title": "Special flight carries 7,104 martyrs\u2019 remains samples for identification",
@@ -238,6 +228,16 @@
       "source": "SGGP English Edition",
       "published": "Fri, 21 Aug 2026 11:37:04 GMT",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVBNcmtYbzlvQ3FfX1RJU1ZLaWZ2WkRibldVNEpoQXlZaXpKSEFNWkYyeUhlZ1VzVi1zcVVTdDFPdFBKNnZrX1Q0VE5LaG15dHh1Z0VYS3NUYjU3ejNnS3hJUm9PY0VKMFhRWE1nd3QtMnE2V3pFWDJzQVlQNmtnTlprX0thRXpFSGNCTkJLUXZCYjdGeDQ0ZUNfakpyeWY3bnFkaTl1WHZacmxQSnc?oc=5",
+      "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
+      "score": 15,
+      "rank": 23
+    },
+    {
+      "title": "Ho Chi Minh City: CASA-295 aircraft to transport martyrs\u2019 remains samples for DNA testing",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEpteTM5cFhvbldqMFRsRTlEemtvTDdCWXNtS2ZqLTFYaVpGWE51c09JcUxQOF93Zm5OdHp4S2RjSjl3YmFsa0FtdlhyVEs5SEd3M3BkNkdudS03YkFNWkM5N05iNlM0YUdKWG53Z1",
+      "source": "en.qdnd.vn",
+      "published": "Fri, 21 Aug 2026 15:24:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEpteTM5cFhvbldqMFRsRTlEemtvTDdCWXNtS2ZqLTFYaVpGWE51c09JcUxQOF93Zm5OdHp4S2RjSjl3YmFsa0FtdlhyVEs5SEd3M3BkNkdudS03YkFNWkM5N05iNlM0YUdKWG53Z1luV0FmdExGZThWNWNpRnRQbWZIQ01TTlRudDZEbWVIcnhvNS1nRHNOT0s3d3dpSkhWWkh1U01ya2U1QjBuWFZpQ2trNzdEUHV3RkxJMVVKUC1JS3Frby1rTF8yeVM?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
       "score": 15,
       "rank": 24
