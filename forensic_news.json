@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-24T21:50:44.337779",
+  "updated": "2026-08-24T22:14:33.786992",
   "total_found": 31,
   "items": [
-    {
-      "title": "From Postmortem to DNA Profiling: AIIMS Patna Trains 34 DSPs in Forensic Investigation",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUZUYWJCcFZ1Ylltd0dJemxQMEEtRDQtWDdMcWVaaG9feE42RHhpRkluQ25kOF81UnVKT0Z6NnVZUWx5VDNPYm15TnFZN0FuWUNXaFJ5aXdqUXVXOTlyNnBvRVl1WERhb2h5OUhhN3",
-      "source": "Patna Press",
-      "published": "Sun, 23 Aug 2026 14:01:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUZUYWJCcFZ1Ylltd0dJemxQMEEtRDQtWDdMcWVaaG9feE42RHhpRkluQ25kOF81UnVKT0Z6NnVZUWx5VDNPYm15TnFZN0FuWUNXaFJ5aXdqUXVXOTlyNnBvRVl1WERhb2h5OUhhN3BKQUNkNWs4bVk3dHp3cDhTMVRST1VvVlkwU0E?oc=5",
-      "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
-      "score": 55,
-      "rank": 1
-    },
     {
       "title": "How Dr Yaseen Bismilla is revolutionising forensic pathology education on TikTok",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVRhMTFDVWo5a3Q3cnlSUExpNGNpNEthSXhnVU1td2Z0TS1wS3M2VnBDYWdlSWtTNWlQSjNjQzAxV1d6Mk5uUWExRlZURmV0d0lPRmJGeFBFdkdyWU1OWkFqeXlfbUkxOGJmeURRck",
@@ -20,6 +10,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVRhMTFDVWo5a3Q3cnlSUExpNGNpNEthSXhnVU1td2Z0TS1wS3M2VnBDYWdlSWtTNWlQSjNjQzAxV1d6Mk5uUWExRlZURmV0d0lPRmJGeFBFdkdyWU1OWkFqeXlfbUkxOGJmeURRck5HbUJhSHVkTkRjcFVhZTA3LXFvVVhkMWE3MzFWYUZVc0tZRnhNSzlaTGx0OWpSNlgyVkNuM2p5b0FYbV9Uc3JnTFFEZmFFTnNYVVM0RDZlaUNsYXpPalVlT1lreXh2X2dqQWNN?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
       "score": 55,
+      "rank": 1
+    },
+    {
+      "title": "Legal Aspects of Post-Mortem Examination (Autopsy) in India and the United States: A Comparative Analysis",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV3JkeEw5b1MzRm5kUWJ1Nl9tWmhWYmdBNTdtYXZWczBIZGpIOGpZcWtQcXV3QUxBZEpUc2pqWXN3ODdhRmJzano5SHAtT0FxRFJvS2QxS3gwS0xITzlHbVA4cTZOZU9oblM0VllKQ2",
+      "source": "Legal Service India",
+      "published": "Sat, 22 Aug 2026 11:44:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV3JkeEw5b1MzRm5kUWJ1Nl9tWmhWYmdBNTdtYXZWczBIZGpIOGpZcWtQcXV3QUxBZEpUc2pqWXN3ODdhRmJzano5SHAtT0FxRFJvS2QxS3gwS0xITzlHbVA4cTZOZU9oblM0VllKQ295RENFOHdZMUVfeVBuaTEzQmtjd3ZUS0wwaVNYU29iOGxZRW5JcDdTSnNXdnpqblh2ZnRQZGxQY1FCRnZHR0ZoTU1lSUdmb2NmTTkzQmdnM20tUTVUSHp6clZBaG80cTR0c2ZNX0VSOU84ZWc4TkNGZ0FzZjU3REU?oc=5",
+      "category": "\ud83c\uddee\ud83c\uddf3 INDIA",
+      "score": 40,
       "rank": 2
     },
     {
@@ -93,7 +93,7 @@
       "rank": 9
     },
     {
-      "title": "DNA breakthrough identifies 9/11 victim after 25 years",
+      "title": "9/11 Victim Identified 25 Years After Attacks Using Family DNA: Here\u2019s How",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDNHRmR0VDhuanp0bUlhM3dERE45ZWFhSVh5U0I0bEFaTTZxT200bURUZWp4d0U0MHh5ZzNVU2wtTTdyUXhrdzFYUEtfVHl1TVotWkd5N2hZMER1MG0yZWZKZDBtTDdETDdaZWVxQ2",
       "source": "Newsweek",
       "published": "Mon, 24 Aug 2026 20:56:00 GMT",
@@ -263,21 +263,21 @@
       "rank": 26
     },
     {
-      "title": "Lake County Among First in Nation to Launch Rapid DNA Testing",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdLc1BfclhIeWNtZHhXWkFfUjNQZllVMXgydmxhWUF4MVI4b0dFMUt5RDhiN3hSLWRIYmdLcGc4N1EtUGxTSVlrdmFwaThIZTZxV3hUYnpPbmJiVFhoTDFxQ2kyeXM2bzdiLV9TR0",
-      "source": "lakeandsumterstyle.com",
-      "published": "Tue, 18 Aug 2026 20:39:37 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdLc1BfclhIeWNtZHhXWkFfUjNQZllVMXgydmxhWUF4MVI4b0dFMUt5RDhiN3hSLWRIYmdLcGc4N1EtUGxTSVlrdmFwaThIZTZxV3hUYnpPbmJiVFhoTDFxQ2kyeXM2bzdiLV9TR0NoR0FmdTFTRjZPM2toQnEtb0gxTXBSOG0tUUtsZDUwa2tZbGNvekdoQQ?oc=5",
-      "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
-      "score": 5,
-      "rank": 27
-    },
-    {
       "title": "Over 7,000 martyr remains samples leave Ho Chi Minh City for Hanoi for DNA testing",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzRaamlWOENpMUwyQWNERVM5cWNsN0pNcE5VRXNxVTQyc0JkUFhHNmZ4SXhST0N3Zm54dG0tR1hEMmJ0MlFNOFZKLTF6VVdkVDR1RjNxbk5KcHYwTUh0RlZOZGw4VUV0dnJENERfNF",
       "source": "Tuoi Tre News | The News Gateway to Vietnam",
       "published": "Fri, 21 Aug 2026 09:16:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzRaamlWOENpMUwyQWNERVM5cWNsN0pNcE5VRXNxVTQyc0JkUFhHNmZ4SXhST0N3Zm54dG0tR1hEMmJ0MlFNOFZKLTF6VVdkVDR1RjNxbk5KcHYwTUh0RlZOZGw4VUV0dnJENERfNFJHYVU5b2FSdnozTUtGb3lfMTlFT2tGTG53dkEyTkNYdXZXYm04YnNBaUY4alFSSlFYSmJuREFTY2dzekE1VXBRSEo4c014YWpyWGZUZWU0S1ktQXRwODhF?oc=5",
+      "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
+      "score": 5,
+      "rank": 27
+    },
+    {
+      "title": "Lake County Among First in Nation to Launch Rapid DNA Testing",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdLc1BfclhIeWNtZHhXWkFfUjNQZllVMXgydmxhWUF4MVI4b0dFMUt5RDhiN3hSLWRIYmdLcGc4N1EtUGxTSVlrdmFwaThIZTZxV3hUYnpPbmJiVFhoTDFxQ2kyeXM2bzdiLV9TR0",
+      "source": "lakeandsumterstyle.com",
+      "published": "Tue, 18 Aug 2026 20:39:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdLc1BfclhIeWNtZHhXWkFfUjNQZllVMXgydmxhWUF4MVI4b0dFMUt5RDhiN3hSLWRIYmdLcGc4N1EtUGxTSVlrdmFwaThIZTZxV3hUYnpPbmJiVFhoTDFxQ2kyeXM2bzdiLV9TR0NoR0FmdTFTRjZPM2toQnEtb0gxTXBSOG0tUUtsZDUwa2tZbGNvekdoQQ?oc=5",
       "category": "\ud83c\uddf3\ud83c\uddf4 GLOBAL",
       "score": 5,
       "rank": 28
