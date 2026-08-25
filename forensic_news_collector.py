@@ -4,42 +4,106 @@ import datetime
 import re
 import hashlib
 import os
+import difflib
+import urllib.parse
 
-# --- CONFIG ---
+# --- ENHANCED CONFIG ---
 KEYWORDS = {
-    "INDIA": ["india", "indian", "supreme court", "high court", "nmc", "mohfw", "hyderabad", "delhi", "mumbai", "bengaluru"],
-    "PMI": ["postmortem interval", "time since death", "taphonomy", "decomposition"],
-    "DNA": ["dna identification", "forensic genetics", "skeletal remains", "disaster victim identification", "dvi"],
-    "TOX": ["toxicology", "poisoning", "drug detection", "psychoactive"],
-    "LEGAL": ["medico-legal", "medicolegal", "autopsy report", "court evidence", "forensic evidence"],
-    "PMCT": ["virtopsy", "postmortem ct", "forensic imaging", "radiology"],
-    "TECH": ["ai forensic", "machine learning forensic", "forensic technology", "new forensic method", "invention"]
+    "INDIA": [
+        "india", "indian", "supreme court", "high court", "nfsu", "pib", "cfsl", "fsl",
+        "forensic lab", "aiims", "state fsl", "national forensic", "forensic science", "mha",
+        "dna", "forensic", "medico-legal", "medicolegal"
+    ],
 }
 
 FORENSIC_KEYWORDS = [
     "forensic", "pathology", "autopsy", "dna", "identification", "toxicology", "evidence",
     "postmortem", "medico-legal", "victim identification", "virtopsy", "taphonomy",
-    "anthropology", "odontology", "decomposition", "time since death", "dvi"
+    "anthropology", "odontology", "decomposition", "dvi", "forensic laboratory", "cfsl", "fsl",
+    "digital forensics", "cyber forensics", "mobile forensic", "forensic genetics", "toxicological"
 ]
 
-def get_category(text):
-    text = text.lower()
-    if any(k in text for k in KEYWORDS["INDIA"]): return "🇮🇳 INDIA"
-    if any(k in text for k in KEYWORDS["LEGAL"]): return "⚖️ LEGAL"
-    if any(k in text for k in KEYWORDS["PMI"]): return "⏱️ PMI"
-    if any(k in text for k in KEYWORDS["DNA"]): return "🧬 DNA"
-    if any(k in text for k in KEYWORDS["TOX"]): return "🧪 TOX"
-    if any(k in text for k in KEYWORDS["PMCT"]): return "🪻 PMCT"
-    if any(k in text for k in KEYWORDS["TECH"]): return "🔬 TECH"
-    return "🇳🇴 GLOBAL"
+# Domains that should be treated as high-priority India sources
+INDIA_PRIMARY_DOMAINS = {
+    "pib.gov.in": 30,
+    "nfsu.edu.in": 25,
+    "nfsu.ac.in": 25,
+    "supremecourtofindia.nic.in": 30,
+    "indiankanoon.org": 20,
+    "aiims.edu": 18,
+    "aiims.ac.in": 18,
+}
 
-def is_forensic_relevant(text):
-    """Check if article is actually forensic/medico-legal related."""
-    text_lower = text.lower()
-    return any(k in text_lower for k in FORENSIC_KEYWORDS)
+MAINSTREAM_INDIA_DOMAINS = {
+    "thehindu.com": 15,
+    "indianexpress.com": 15,
+    "hindustantimes.com": 15,
+    "timesofindia.indiatimes.com": 12,
+    "ndtv.com": 12,
+    "pti.in": 12,
+    "ani.com": 10,
+    "economictimes.indiatimes.com": 10,
+}
+
+# Google News query templates we will use (India-focused and global forensic queries)
+QUERIES = [
+    # High-priority institutional/government queries
+    ("site:nfsu.edu.in forensic OR "forensic"", True),
+    ("site:nfsu.ac.in forensic OR "forensic"", True),
+    ("site:pib.gov.in forensic OR "forensic"", True),
+    ("site:supremecourtofindia.nic.in dna OR forensic OR 'expert evidence'", True),
+
+    # Judicial & legal reporting
+    ("dna evidence supreme court india", True),
+    ("forensic laboratory cfsl fsl india", True),
+
+    # Digital forensics and cyber
+    ("digital forensics India cyber forensics ncf l meity", True),
+
+    # Broader forensic topics (India-focused, but allow global fallback)
+    ("forensic medicine India", True),
+    ("dna identification India", True),
+    ("forensic toxicology India", True),
+    ("mobile forensic van India", True),
+
+    # Global forensic queries (keep separate, flagged as global)
+    ("forensic science dna", False),
+    ("forensic toxicology research", False),
+    ("digital forensics tools", False),
+]
+
+MAX_AGE_HOURS = 168  # 7 days
+MAX_RESULTS = 40
+
+# Stopwords for naive normalization/dedupe
+STOPWORDS = set(["the","a","an","of","in","on","for","and","to","with","after","at","by","from","india","indian"])
+
+
+def normalize_title(t):
+    """Lowercase, remove punctuation, collapse whitespace, remove stopwords. Return normalized string."""
+    if not t:
+        return ""
+    t = t.lower()
+    t = re.sub(r"https?://\S+", "", t)
+    t = re.sub(r"[^a-z0-9\s]", " ", t)
+    parts = [w for w in t.split() if w not in STOPWORDS]
+    return " ".join(parts)
+
+
+def event_key(item):
+    """Create an event-level key for deduplication using normalized title + domain + forensic keyword fingerprint."""
+    nt = normalize_title(item.get('title',''))
+    domain = urllib.parse.urlparse(item.get('url','')).netloc.lower()
+    # fingerprint of forensic keywords present
+    kws = [k for k in FORENSIC_KEYWORDS if k in (item.get('title','') + ' ' + item.get('summary','')).lower()]
+    return hashlib.md5((nt + '|' + domain + '|' + ','.join(kws)).encode()).hexdigest()
+
+
+def similar(a, b):
+    return difflib.SequenceMatcher(None, a, b).ratio()
+
 
 def parse_publication_date(entry):
-    """Extract and parse publication date from RSS entry."""
     try:
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             return datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
@@ -47,149 +111,183 @@ def parse_publication_date(entry):
             return datetime.datetime(*entry.updated_parsed[:6], tzinfo=datetime.timezone.utc)
     except (TypeError, ValueError):
         pass
+    # try to parse 'published' string loosely
+    if hasattr(entry, 'published') and entry.published:
+        try:
+            return datetime.datetime.fromisoformat(entry.published)
+        except Exception:
+            pass
     return None
 
+
 def is_within_7_days(pub_dt):
-    """HARD FILTER: Reject articles older than 7 days."""
     if not pub_dt:
         return False
     now = datetime.datetime.now(datetime.timezone.utc)
     age_hours = (now - pub_dt).total_seconds() / 3600
-    return age_hours <= 168  # 7 days = 168 hours
+    return age_hours <= MAX_AGE_HOURS
 
-def score(item, is_india):
-    """Score article based on recency, content, and relevance."""
+
+def is_forensic_relevant(text):
+    text_lower = text.lower()
+    return any(k in text_lower for k in FORENSIC_KEYWORDS)
+
+
+def domain_priority(url):
+    try:
+        d = urllib.parse.urlparse(url).netloc.lower()
+    except Exception:
+        return 0
+    for k,v in INDIA_PRIMARY_DOMAINS.items():
+        if k in d:
+            return v
+    for k,v in MAINSTREAM_INDIA_DOMAINS.items():
+        if k in d:
+            return v
+    return 0
+
+
+def score(item, is_india_query):
     s = 0
-    text = (item['title'] + " " + item['summary']).lower()
-    age_hours = item['age_hours']
-    
-    # Recency scoring (strongly prioritize recent)
-    if age_hours < 24: 
+    text = (item.get('title','') + " " + item.get('summary','')).lower()
+    age_hours = item.get('age_hours', 999999)
+
+    # Recency
+    if age_hours < 6:
+        s += 40
+    elif age_hours < 24:
         s += 30
-    elif age_hours < 48: 
+    elif age_hours < 48:
         s += 20
-    elif age_hours < 72: 
-        s += 15
-    elif age_hours < 168:
-        s += 5
-    
-    # Forensic relevance
-    if "forensic" in text: 
-        s += 25
-    if any(k in text for k in ["pathology", "autopsy", "medico-legal", "evidence"]):
-        s += 15
-    
-    # India bonus (but not overwhelming)
-    if is_india: 
+    elif age_hours < 72:
         s += 10
-    
-    # Penalize generic crime without forensic angle
-    if any(k in text for k in ["arrested", "murdered", "killed", "death"]) and "forensic" not in text:
-        s -= 50
-    
+    elif age_hours < MAX_AGE_HOURS:
+        s += 5
+
+    # Forensic relevance
+    matches = sum(1 for k in FORENSIC_KEYWORDS if k in text)
+    s += matches * 8
+
+    # India/source priority
+    dp = domain_priority(item.get('url',''))
+    if is_india_query:
+        s += 10
+    s += dp
+
+    # Penalize generic crime headlines without forensic keywords
+    if any(k in text for k in ["arrested", "suspect", "murdered", "killed"]) and not is_forensic_relevant(text):
+        s -= 60
+
     return s
 
+
 def run():
-    queries = [
-        ("forensic+medicine+India", True),
-        ("medico-legal+India", True),
-        ("forensic+pathology", False),
-        ("forensic+identification", False),
-        ("dna+identification", False),
-        ("taphonomy", False),
-        ("virtopsy", False),
-        ("forensic+anthropology", False),
-        ("postmortem+interval", False),
-    ]
-    
     all_items = []
-    seen = set()
-    
     now = datetime.datetime.now(datetime.timezone.utc)
-    
-    for q, is_india_query in queries:
+    seen_event_keys = {}
+    failed_sources = []
+
+    for q, is_india_query in QUERIES:
         try:
-            f = feedparser.parse(f"https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en")
+            rss_url = f"https://news.google.com/rss/search?q={urllib.parse.quote_plus(q)}&hl=en-IN&gl=IN&ceid=IN:en"
+            f = feedparser.parse(rss_url)
+            if getattr(f, 'bozo', False):
+                # feedparser sets bozo if feed parsing had problems, but continue
+                pass
             for e in f.entries:
                 try:
-                    # Extract title and publication date
-                    t = e.title.split(' - ')[0].strip() if e.title else "Unknown"
+                    title = e.title.split(' - ')[0].strip() if hasattr(e, 'title') else "Unknown"
                     pub_dt = parse_publication_date(e)
-                    
-                    # HARD REJECT >7 DAYS
+                    # hard filter by date
                     if not is_within_7_days(pub_dt):
                         continue
-                    
-                    # HARD REJECT IRRELEVANT (unless India query)
-                    summary = e.summary[:200] if hasattr(e, 'summary') else ""
-                    if not is_india_query and not is_forensic_relevant(t + " " + summary):
+                    summary = e.summary[:400] if hasattr(e, 'summary') else ""
+
+                    # optional relevance filter for non-India queries
+                    if not is_india_query and not is_forensic_relevant(title + ' ' + summary):
                         continue
-                    
-                    # DEDUPLICATION
-                    uid = hashlib.md5(t.encode()).hexdigest()
-                    if uid in seen:
-                        continue
-                    seen.add(uid)
-                    
-                    # NORMALIZE & PARSE
-                    age_hours = (now - pub_dt).total_seconds() / 3600 if pub_dt else 999999
-                    
+
+                    url = e.link if hasattr(e, 'link') else ""
+
                     itm = {
-                        "title": t,
-                        "summary": e.summary[:200] if hasattr(e, 'summary') else "",
-                        "source": e.source.title if hasattr(e, 'source') else "News",
-                        "published": e.published if hasattr(e, 'published') else "",
-                        "url": e.link if hasattr(e, 'link') else "",
-                        "dt": pub_dt,
-                        "age_hours": age_hours,
+                        'title': title,
+                        'summary': summary,
+                        'source': e.source.title if hasattr(e, 'source') else (urllib.parse.urlparse(url).netloc or 'News'),
+                        'published': e.published if hasattr(e, 'published') else '',
+                        'url': url,
+                        'dt': pub_dt,
                     }
-                    
-                    # CATEGORIZE
-                    itm["category"] = get_category(itm["title"] + itm["summary"])
-                    
-                    # SCORE
-                    itm["score"] = score(itm, is_india_query)
-                    
-                    all_items.append(itm)
-                    
-                except (ValueError, TypeError, AttributeError):
+                    itm['age_hours'] = (now - pub_dt).total_seconds() / 3600 if pub_dt else 999999
+                    itm['category'] = '🇮🇳 INDIA' if any(k in (title + ' ' + summary).lower() for k in KEYWORDS['INDIA']) or ('india' in url.lower()) else '🌎 GLOBAL'
+                    itm['score'] = score(itm, is_india_query)
+
+                    # Event-level deduplication: compute event key and collapse similar titles
+                    ek = event_key(itm)
+                    if ek in seen_event_keys:
+                        # merge by preferring higher-score source
+                        existing = seen_event_keys[ek]
+                        if itm['score'] > existing['score']:
+                            seen_event_keys[ek] = itm
+                        continue
+                    else:
+                        # also check for high similarity to existing normalized titles (catch near-duplicates)
+                        nt = normalize_title(title)
+                        duplicate_found = False
+                        for k, existing in list(seen_event_keys.items()):
+                            sim = similar(nt, normalize_title(existing['title']))
+                            if sim > 0.85:
+                                # consider same event; keep best source
+                                duplicate_found = True
+                                if itm['score'] > existing['score']:
+                                    seen_event_keys[k] = itm
+                                break
+                        if duplicate_found:
+                            continue
+                        seen_event_keys[ek] = itm
+
+                except Exception:
                     continue
         except Exception as e:
+            failed_sources.append(q)
             continue
-    
-    # SORT BY SCORE
-    all_items.sort(key=lambda x: x['score'], reverse=True)
-    
-    # SELECT UP TO 40 (but don't force it)
-    final_items = all_items[:40]
-    
-    # Preserve existing feed if no valid stories
-    if not final_items:
-        return
-    
-    # BUILD OUTPUT
-    out = {
-        "updated": datetime.datetime.now().isoformat(),
-        "total_found": len(final_items),
-        "items": []
-    }
-    
-    for i, itm in enumerate(final_items):
-        output_item = {
-            "title": itm['title'],
-            "summary": itm['summary'],
-            "source": itm['source'],
-            "published": itm['published'],
-            "url": itm['url'],
-            "category": itm['category'],
-            "score": itm['score'],
-            "rank": i + 1
-        }
-        out['items'].append(output_item)
-    
-    # WRITE JSON
-    with open('forensic_news.json', 'w') as f:
-        json.dump(out, f, indent=2)
 
-if __name__ == "__main__":
+    # Prepare list
+    all_items = list(seen_event_keys.values())
+    # final sort
+    all_items.sort(key=lambda x: x['score'], reverse=True)
+    final_items = all_items[:MAX_RESULTS]
+
+    # If nothing found, keep existing file unchanged
+    if not final_items:
+        print("No items found within filters; aborting JSON write to avoid breaking existing feed.")
+        return
+
+    out = {
+        'updated': datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        'total_found': len(final_items),
+        'items': []
+    }
+
+    for i, itm in enumerate(final_items):
+        out_item = {
+            'title': itm['title'],
+            'summary': itm['summary'],
+            'source': itm['source'],
+            'published': itm['published'],
+            'url': itm['url'],
+            'category': itm['category'],
+            'score': itm['score'],
+            'rank': i + 1
+        }
+        out['items'].append(out_item)
+
+    # safe write
+    tmp = 'forensic_news.tmp.json'
+    with open(tmp, 'w') as f:
+        json.dump(out, f, indent=2)
+    os.replace(tmp, 'forensic_news.json')
+    print(f"Wrote forensic_news.json with {len(final_items)} items. Failed sources: {failed_sources}")
+
+
+if __name__ == '__main__':
     run()
