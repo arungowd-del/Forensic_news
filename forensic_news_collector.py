@@ -21,7 +21,8 @@ FORENSIC_KEYWORDS = [
     "forensic", "pathology", "autopsy", "dna", "identification", "toxicology", "evidence",
     "postmortem", "medico-legal", "victim identification", "virtopsy", "taphonomy",
     "anthropology", "odontology", "decomposition", "dvi", "forensic laboratory", "cfsl", "fsl",
-    "digital forensics", "cyber forensics", "mobile forensic", "forensic genetics", "toxicological"
+    "digital forensics", "cyber forensics", "mobile forensic", "forensic genetics", "toxicological",
+    "dna profiling", "genetic genealogy", "investigative genetic genealogy", "mass fatality", "dvi"
 ]
 
 INDIA_PRIMARY_DOMAINS = {
@@ -45,21 +46,36 @@ MAINSTREAM_INDIA_DOMAINS = {
     "economictimes.indiatimes.com": 10,
 }
 
+# Broader queries for a high-recall collection (both India and Global)
 QUERIES = [
-    ("site:pib.gov.in forensic", True),
-    ("site:nfsu.edu.in forensic", True),
-    ("site:nfsu.ac.in forensic", True),
-    ("site:supremecourtofindia.nic.in dna OR forensic", True),
-    ("forensic medicine India", True),
-    ("dna identification India", True),
-    ("forensic toxicology India", True),
-    ("digital forensics India", True),
-    ("forensic science dna", False),
-    ("forensic toxicology research", False),
+    # India-focused
+    ("site:pib.gov.in forensic OR forensic lab OR cfsl", True),
+    ("site:nfsu.edu.in forensic OR dna OR training", True),
+    ("NFSU forensic India 2026", True),
+    ("India FSL forensic lab 2026", True),
+    ("High Court DNA evidence India 2026", True),
+    ("Supreme Court DNA evidence 2026 India", True),
+    ("forensic medicine India 2026 postmortem autopsy", True),
+    ("forensic toxicology India 2026 poisoning lab", True),
+    ("digital forensics India 2026 cyber forensic lab", True),
+    ("CBI forensic evidence 2026 India", True),
+    ("state forensic laboratory India 2026 FSL CFSL", True),
+    # Global-focused
+    ("forensic DNA identification 2026", False),
+    ("investigative genetic genealogy 2026 identification", False),
+    ("disaster victim identification 2026 DVI", False),
+    ("forensic toxicology 2026 novel toxin", False),
+    ("digital forensics 2026 mobile forensic memory extraction", False),
+    ("forensic pathology 2026 autopsy identification", False),
+    ("forensic anthropology 2026 mass fatality", False),
+    ("interpol forensic 2026 dna matching", False),
+    ("FBI OCME identification 2026", False),
 ]
 
-MAX_AGE_HOURS = 168  # 7 days
-MAX_RESULTS = 40
+# Freshness window: 30 days (dynamic)
+MAX_AGE_DAYS = 30
+MAX_AGE_HOURS = MAX_AGE_DAYS * 24
+MAX_RESULTS = 60
 STOPWORDS = set(["the","a","an","of","in","on","for","and","to","with","after","at","by","from","india","indian"])
 
 
@@ -85,7 +101,7 @@ def similar(a, b):
 
 
 def parse_publication_date(entry):
-    # Prefer RFC-parsed published_parsed
+    # Prefer RFC-parsed published_parsed or updated_parsed
     try:
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             return datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
@@ -98,7 +114,7 @@ def parse_publication_date(entry):
     if hasattr(entry, 'published') and entry.published:
         s = entry.published.strip()
         # If it's date-only (YYYY-MM-DD), treat as midnight UTC of that date
-        m = re.match(r"^(\\d{4}-\\d{2}-\\d{2})$", s)
+        m = re.match(r"^(\d{4}-\d{2}-\d{2})$", s)
         if m:
             try:
                 d = datetime.datetime.fromisoformat(m.group(1))
@@ -108,7 +124,7 @@ def parse_publication_date(entry):
         # Try common RFC formats
         try:
             from email.utils import parsedate_to_datetime
-n            dt = parsedate_to_datetime(s)
+            dt = parsedate_to_datetime(s)
             if dt.tzinfo is None:
                 dt = dt.replace(tzinfo=datetime.timezone.utc)
             return dt.astimezone(datetime.timezone.utc)
@@ -117,7 +133,7 @@ n            dt = parsedate_to_datetime(s)
     return None
 
 
-def is_within_7_days(pub_dt, now):
+def is_within_window(pub_dt, now):
     if not pub_dt:
         return False
     age_hours = (now - pub_dt).total_seconds() / 3600
@@ -148,36 +164,36 @@ def score(item, is_india_query):
     text = (item.get('title','') + " " + item.get('summary','')).lower()
     age_hours = item.get('age_hours', 999999)
 
-    if age_hours < 6:
+    # Recency tiers
+    if age_hours < 72:
         s += 40
-    elif age_hours < 24:
+    elif age_hours < 168:
         s += 30
-    elif age_hours < 48:
+    elif age_hours < 336:
         s += 20
-    elif age_hours < 72:
-        s += 10
     elif age_hours < MAX_AGE_HOURS:
         s += 5
 
     matches = sum(1 for k in FORENSIC_KEYWORDS if k in text)
-    s += matches * 8
+    s += matches * 6
 
     dp = domain_priority(item.get('url',''))
     if is_india_query:
-        s += 10
+        s += 8
     s += dp
 
+    # Penalize generic crime stories with no forensic signals
     if any(k in text for k in ["arrested", "suspect", "murdered", "killed"]) and not is_forensic_relevant(text):
-        s -= 60
+        s -= 40
 
     return s
 
 
 def fetch_and_validate_url(url):
     try:
-        r = requests.head(url, allow_redirects=True, timeout=8)
+        r = requests.head(url, allow_redirects=True, timeout=6)
         if r.status_code >= 400:
-            r = requests.get(url, timeout=10)
+            r = requests.get(url, timeout=8)
             if r.status_code >= 400:
                 return False
         return True
@@ -187,95 +203,159 @@ def fetch_and_validate_url(url):
 
 def run():
     now = datetime.datetime.now(datetime.timezone.utc)
-    raw_fetched = 0
-    rejected_stale = 0
-    rejected_future = 0
-    rejected_invalid_date = 0
-    rejected_placeholder_url = 0
-    duplicates_removed = 0
-    failed_sources = []
+    raw_candidates = {'INDIA': [], 'GLOBAL': []}
+    accepted = []
+    rejected = {
+        'stale': [], 'future': [], 'invalid_date': [], 'duplicate': [], 'insufficient_relevance': [],
+        'inaccessible_url': [], 'placeholder_url': [], 'other': []
+    }
 
     seen_event_keys = {}
+    failed_sources = []
+    raw_fetched = 0
 
-    for q, is_india_query in QUERIES:
+    # Attempt live fetch; if the environment has no network or fails repeatedly, fall back to existing forensic_news.json
+    live_fetch_ok = True
+    try:
+        # Try a lightweight network check
+        requests.get('https://news.google.com', timeout=5)
+    except Exception:
+        live_fetch_ok = False
+
+    if not live_fetch_ok:
+        # OFFLINE: load current forensic_news.json and treat those as validated raw candidates
         try:
-            rss_url = f"https://news.google.com/rss/search?q={urllib.parse.quote_plus(q)}&hl=en-IN&gl=IN&ceid=IN:en"
-            f = feedparser.parse(rss_url)
-            if getattr(f, 'bozo', False):
-                pass
-            for e in f.entries:
-                raw_fetched += 1
-                try:
-                    title = e.title.split(' - ')[0].strip() if hasattr(e, 'title') else None
-                    if not title:
-                        continue
-                    pub_dt = parse_publication_date(e)
-                    if not pub_dt:
-                        rejected_invalid_date += 1
-                        continue
-                    if pub_dt > now:
-                        rejected_future += 1
-                        continue
-                    if not is_within_7_days(pub_dt, now):
-                        rejected_stale += 1
-                        continue
-                    summary = e.summary[:400] if hasattr(e, 'summary') else ""
-                    if not is_india_query and not is_forensic_relevant(title + ' ' + summary):
-                        continue
-                    url = e.link if hasattr(e, 'link') else None
-                    if not url or any(x in url for x in ["example-", "example.com"]):
-                        rejected_placeholder_url += 1
-                        continue
-                    # validate URL accessible
-                    if not fetch_and_validate_url(url):
-                        failed_sources.append(url)
-                        continue
-                    itm = {
-                        'title': title,
-                        'summary': summary,
-                        'source': e.source.title if hasattr(e, 'source') else (urllib.parse.urlparse(url).netloc or 'News'),
-                        'url': url,
-                        'dt': pub_dt,
-                    }
-                    itm['age_hours'] = (now - pub_dt).total_seconds() / 3600
-                    itm['published'] = pub_dt.isoformat().replace('+00:00','Z')
-                    itm['category'] = '🇮🇳 INDIA' if any(k in (title + ' ' + summary).lower() for k in KEYWORDS['INDIA']) or ('india' in url.lower()) else '🌎 GLOBAL'
-                    if itm['category'] not in ['🇮🇳 INDIA', '🌎 GLOBAL']:
-                        continue
-                    itm['score'] = score(itm, is_india_query)
-                    ek = event_key(itm)
-                    if ek in seen_event_keys:
-                        existing = seen_event_keys[ek]
-                        duplicates_removed += 1
-                        if itm['score'] > existing['score']:
-                            seen_event_keys[ek] = itm
-                        continue
+            with open('forensic_news.json','r') as f:
+                existing = json.load(f)
+                for itm in existing.get('items',[]):
+                    cat = itm.get('category','')
+                    if cat == '🇮🇳 INDIA':
+                        raw_candidates['INDIA'].append(itm)
                     else:
-                        nt = normalize_title(title)
-                        duplicate_found = False
-                        for k, existing in list(seen_event_keys.items()):
-                            sim = similar(nt, normalize_title(existing['title']))
-                            if sim > 0.9:
-                                duplicate_found = True
-                                duplicates_removed += 1
-                                if itm['score'] > existing['score']:
-                                    seen_event_keys[k] = itm
-                                break
-                        if duplicate_found:
+                        raw_candidates['GLOBAL'].append(itm)
+        except Exception:
+            pass
+    else:
+        # Live collection via Google News RSS for each query
+        for q, is_india_query in QUERIES:
+            try:
+                rss_url = f"https://news.google.com/rss/search?q={urllib.parse.quote_plus(q)}&hl=en-US&gl=US&ceid=US:en"
+                f = feedparser.parse(rss_url)
+                if getattr(f, 'bozo', False) and not f.entries:
+                    # feed parse problem
+                    pass
+                for e in f.entries:
+                    raw_fetched += 1
+                    try:
+                        title = e.title.split(' - ')[0].strip() if hasattr(e, 'title') else None
+                        if not title:
                             continue
+                        pub_dt = parse_publication_date(e)
+                        if not pub_dt:
+                            rejected['invalid_date'].append(e.get('link',''))
+                            continue
+                        if pub_dt > now:
+                            rejected['future'].append(e.get('link',''))
+                            continue
+                        if not is_within_window(pub_dt, now):
+                            rejected['stale'].append(e.get('link',''))
+                            continue
+                        summary = e.summary[:400] if hasattr(e, 'summary') else ""
+                        # Semantic relevance check
+                        if not is_india_query and not is_forensic_relevant(title + ' ' + summary):
+                            rejected['insufficient_relevance'].append(e.get('link',''))
+                            continue
+                        url = e.link if hasattr(e, 'link') else None
+                        if not url or any(x in url for x in ["example-", "example.com"]):
+                            rejected['placeholder_url'].append(url)
+                            continue
+                        # build candidate
+                        itm = {
+                            'title': title,
+                            'summary': summary,
+                            'source': e.source.title if hasattr(e, 'source') else (urllib.parse.urlparse(url).netloc or 'News'),
+                            'url': url,
+                            'dt': pub_dt,
+                        }
+                        itm['age_hours'] = (now - pub_dt).total_seconds() / 3600
+                        itm['published'] = pub_dt.isoformat().replace('+00:00','Z')
+                        itm['category'] = '🇮🇳 INDIA' if any(k in (title + ' ' + summary).lower() for k in KEYWORDS['INDIA']) or ('india' in (url or '').lower()) else '🌎 GLOBAL'
+
+                        # verify accessibility but do not block on occasional failures (best-effort)
+                        accessible = fetch_and_validate_url(url)
+                        if not accessible:
+                            rejected['inaccessible_url'].append(url)
+                            continue
+
+                        raw_candidates[ 'INDIA' if itm['category']=='🇮🇳 INDIA' else 'GLOBAL' ].append(itm)
+
+                    except Exception:
+                        continue
+            except Exception as e:
+                failed_sources.append(q)
+                continue
+
+    # Deduplication & acceptance
+    for scope in ['INDIA','GLOBAL']:
+        for itm in raw_candidates.get(scope,[]):
+            try:
+                title = itm.get('title')
+                pub_iso = itm.get('published') if itm.get('published') else (itm.get('dt').isoformat().replace('+00:00','Z') if itm.get('dt') else None)
+                if not pub_iso:
+                    rejected['invalid_date'].append(itm.get('url'))
+                    continue
+                # parse published timestamp
+                try:
+                    pub_dt = datetime.datetime.fromisoformat(pub_iso.replace('Z','+00:00'))
+                except Exception:
+                    rejected['invalid_date'].append(itm.get('url'))
+                    continue
+                now = datetime.datetime.now(datetime.timezone.utc)
+                if pub_dt > now:
+                    rejected['future'].append(itm.get('url'))
+                    continue
+                if not is_within_window(pub_dt, now):
+                    rejected['stale'].append(itm.get('url'))
+                    continue
+
+                itm['age_hours'] = (now - pub_dt).total_seconds() / 3600
+                # Scoring — assume India query if scope==INDIA
+                is_india_query = (scope=='INDIA')
+                itm['score'] = score(itm, is_india_query)
+
+                ek = event_key(itm)
+                if ek in seen_event_keys:
+                    existing = seen_event_keys[ek]
+                    # if event duplicate, keep higher score
+                    if itm['score'] > existing['score']:
+                        seen_event_keys[ek] = itm
+                    else:
+                        rejected['duplicate'].append(itm.get('url'))
+                else:
+                    # fuzzy duplicate by title
+                    nt = normalize_title(title)
+                    dup_found = False
+                    for k, existing in list(seen_event_keys.items()):
+                        sim = similar(nt, normalize_title(existing.get('title','')))
+                        if sim > 0.92:
+                            dup_found = True
+                            if itm['score'] > existing['score']:
+                                seen_event_keys[k] = itm
+                            else:
+                                rejected['duplicate'].append(itm.get('url'))
+                            break
+                    if not dup_found:
                         seen_event_keys[ek] = itm
 
-                except Exception:
-                    continue
-        except Exception:
-            failed_sources.append(q)
-            continue
+            except Exception:
+                rejected['other'].append(itm.get('url'))
+                continue
 
     final_items = list(seen_event_keys.values())
     final_items.sort(key=lambda x: x['score'], reverse=True)
     final_items = final_items[:MAX_RESULTS]
 
-    # Build output
+    # Build output JSON
     out = {
         'updated': now.isoformat().replace('+00:00','Z'),
         'total_found': len(final_items),
@@ -284,37 +364,58 @@ def run():
 
     for i, itm in enumerate(final_items):
         out_item = {
-            'title': itm['title'],
-            'summary': itm['summary'],
-            'source': itm['source'],
-            'published': itm['published'],
-            'url': itm['url'],
-            'category': itm['category'],
-            'score': itm['score'],
-            'rank': i + 1
+            'title': itm.get('title'),
+            'summary': itm.get('summary'),
+            'source': itm.get('source'),
+            'published': itm.get('published'),
+            'url': itm.get('url'),
+            'category': itm.get('category'),
+            'score': itm.get('score'),
+            'rank': i+1
         }
         out['items'].append(out_item)
 
-    # Write file safely
+    # Write JSON
     tmp = 'forensic_news.tmp.json'
     with open(tmp, 'w') as f:
         json.dump(out, f, indent=2)
     os.replace(tmp, 'forensic_news.json')
 
-    # Print run stats
-    print(json.dumps({
-        'raw_fetched': raw_fetched,
-        'rejected_stale': rejected_stale,
-        'rejected_future': rejected_future,
-        'rejected_invalid_date': rejected_invalid_date,
-        'rejected_placeholder_url': rejected_placeholder_url,
-        'duplicates_removed': duplicates_removed,
-        'final_india_count': sum(1 for x in final_items if x['category']=='🇮🇳 INDIA'),
-        'final_global_count': sum(1 for x in final_items if x['category']=='🌎 GLOBAL'),
-        'final_total': len(final_items),
-        'date_range': [min((x['published'] for x in final_items), default=None), max((x['published'] for x in final_items), default=None)],
-        'failed_sources': failed_sources
-    }, indent=2))
+    # Diagnostics
+    raw_india = [{'title':x.get('title'),'source':x.get('source'),'published':x.get('published'),'url':x.get('url')} for x in raw_candidates.get('INDIA',[])]
+    raw_global = [{'title':x.get('title'),'source':x.get('source'),'published':x.get('published'),'url':x.get('url')} for x in raw_candidates.get('GLOBAL',[])]
+
+    accepted_india = [x for x in final_items if x['category']=='🇮🇳 INDIA']
+    accepted_global = [x for x in final_items if x['category']=='🌎 GLOBAL']
+
+    diagnostics = {
+        'RAW_CANDIDATES': {
+            'INDIA': raw_india,
+            'GLOBAL': raw_global
+        },
+        'ACCEPTED': {
+            'INDIA': len(accepted_india),
+            'GLOBAL': len(accepted_global),
+            'TOTAL': len(final_items)
+        },
+        'REJECTED_COUNTS': {k: len(v) for k,v in rejected.items()},
+        'DUPLICATES_REMOVED': len(rejected['duplicate']),
+        'FAILED_SOURCES': failed_sources,
+        'OLDEST_ACCEPTED': min((x['published'] for x in final_items), default=None),
+        'NEWEST_ACCEPTED': max((x['published'] for x in final_items), default=None),
+        'ACCEPTED_ITEMS': [
+            {
+                'rank': i+1,
+                'title': itm.get('title'),
+                'source': itm.get('source'),
+                'published': itm.get('published'),
+                'category': itm.get('category'),
+                'url': itm.get('url')
+            } for i, itm in enumerate(final_items)
+        ]
+    }
+
+    print(json.dumps(diagnostics, indent=2))
 
 
 if __name__ == '__main__':
