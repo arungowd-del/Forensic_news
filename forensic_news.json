@@ -1,226 +1,46 @@
 {
-  "updated": "2026-08-25T18:58:00Z",
-  "total_found": 22,
+  "updated": "2026-08-26T00:00:00Z",
+  "total_found": 4,
   "items": [
     {
-      "title": "Government approves major expansion and modernization of forensic infrastructure across India",
-      "summary": "Press Information Bureau: National Forensic Infrastructure Enhancement Scheme approved with allocations for CFSL/FSL upgrades, mobile forensic vans, DNA and cyber forensics capacity-building.",
-      "source": "Press Information Bureau",
-      "published": "2026-06-15",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2241343&reg=1&lang=1",
+      "title": "NFSU's International Digital Dispute Resolution Centre Holds First Board Meeting, Declared Operational",
+      "summary": "The National Forensic Sciences University held its first Board of Governors meeting for the International Digital Dispute Resolution Centre (IDDRC) and declared the Centre operational; Justice A.R. Dave was appointed President. The Centre emphasises digital evidence and technology-driven dispute resolution.",
+      "source": "LiveLaw",
+      "published": "2026-08-25T00:00:00Z",
+      "url": "https://www.livelaw.in/lawschool/news/nfsus-international-digital-dispute-resolution-centre-holds-first-board-meeting-declared-operational-547300",
       "category": "🇮🇳 INDIA",
       "score": 95,
       "rank": 1
     },
     {
-      "title": "FORENSIC LABS AND FORENSIC INFRASTRUCTURE: Upgradation plan and new CFSLs",
-      "summary": "PIB release detailing the National Forensic Infrastructure Enhancement Scheme, new CFSL buildings and the e-Forensics platform linking laboratories nationwide.",
-      "source": "Press Information Bureau",
-      "published": "2025-06-10",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2036389",
-      "category": "🇮🇳 INDIA",
-      "score": 88,
+      "title": "New identification of previously unknown World Trade Center victim using investigative genetic genealogy",
+      "summary": "The New York City Office of Chief Medical Examiner and NYPD announced the identification of a previously unknown World Trade Center victim using investigative genetic genealogy (FIGG), confirmed by standard forensic laboratory testing. The case underscores FIGG's role in long-term mass-disaster identifications.",
+      "source": "NYC Office of Chief Medical Examiner / Mayor's Office",
+      "published": "2026-08-24T00:00:00Z",
+      "url": "https://www.nyc.gov/site/ocme/news/cm0226/mayor-mamdani-office-chief-medical-examiner-new-identification-world",
+      "category": "🌎 GLOBAL",
+      "score": 90,
       "rank": 2
     },
     {
-      "title": "Supreme Court lays down nationwide norms for handling DNA evidence",
-      "summary": "Landmark directions emphasize chain of custody, packaging, and transport timelines for DNA samples in criminal cases to ensure evidentiary reliability.",
-      "source": "Hindustan Times",
-      "published": "2025-07-01",
-      "url": "https://www.hindustantimes.com/india-news/apex-court-lays-down-nationwide-norms-on-dna-evidence-handling-101752605075558.html",
+      "title": "Navy sailor, wife and two children found dead at south Mumbai home; probe on",
+      "summary": "Four family members were found dead at official accommodation in Navy Nagar, Colaba; a forensic team examined the premises and postmortem/forensic analysis is awaited to determine cause and sequence of deaths.",
+      "source": "The Hindu",
+      "published": "2026-08-16T00:00:00Z",
+      "url": "https://www.thehindu.com/news/cities/mumbai/navy-sailor-wife-and-two-children-found-dead-at-south-mumbai-home-probe-on/article71352396.ece",
       "category": "🇮🇳 INDIA",
-      "score": 86,
+      "score": 75,
       "rank": 3
     },
     {
-      "title": "High Court orders DNA tests on mortal remains of seafarer killed in Gulf attack",
-      "summary": "Mumbai High Court directs DNA verification for skeletal remains sent to state FSLs to establish identity after conflicting postmortem documentation.",
+      "title": "Court allows CBI plea seeking further probe into NEET leak",
+      "summary": "A Delhi court allowed the CBI to pursue additional electronic and digital forensic evidence in the NEET-UG 2026 paper leak investigation, permitting the agency to gather data linked to further co-conspirators identified through digital forensics.",
       "source": "Hindustan Times",
-      "published": "2026-07-12",
-      "url": "https://www.hindustantimes.com/cities/mumbai-news/hc-orders-dna-tests-on-mortal-remains-of-seafarer-killed-in-gulf-attack-101775588823803.html",
-      "category": "🇮🇳 INDIA",
-      "score": 80,
-      "rank": 4
-    },
-    {
-      "title": "Madras High Court orders fresh autopsy after independent forensic review",
-      "summary": "Court found discrepancies between initial postmortem report and its video record; directed re-examination and SIT probe in a suspicious death.",
-      "source": "Indian Express",
-      "published": "2026-06-20",
-      "url": "https://indianexpress.com/article/legal-news/body-truthful-witness-madras-high-court-autopsy-newlywed-woman-10805185/",
-      "category": "🇮🇳 INDIA",
-      "score": 78,
-      "rank": 5
-    },
-    {
-      "title": "AIIMS conducts second postmortem in high-profile Twisha Sharma case",
-      "summary": "AIIMS team returned for further testing; second autopsy report differs from initial findings, with forensic samples sent for additional analysis.",
-      "source": "Hindustan Times",
-      "published": "2026-05-02",
-      "url": "https://www.hindustantimes.com/india-news/twisha-sharma-death-aiims-team-to-return-for-more-testing-second-autopsy-report-to-take-time-101779639209973.html",
-      "category": "🇮🇳 INDIA",
-      "score": 76,
-      "rank": 6
-    },
-    {
-      "title": "Ahmedabad cold case solved after 34 years using DNA profiling",
-      "summary": "Crime branch and FSL investigators used forensic DNA to identify remains and link suspects in a decades-old disappearance and murder.",
-      "source": "NDTV",
-      "published": "2026-04-11",
-      "url": "https://www.ndtv.com/india-news/guilt-dna-and-a-ghost-ahmedabad-murder-cracked-after-3-decades-11472377",
-      "category": "🇮🇳 INDIA",
-      "score": 74,
-      "rank": 7
-    },
-    {
-      "title": "Government inaugurates new CFSL building in Kolkata as part of modernization plan",
-      "summary": "New Central Forensic Science Laboratory inaugurated; regional coverage and equipment upgrades to serve multiple states in the eastern region.",
-      "source": "Press Information Bureau",
-      "published": "2025-06-25",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2133128",
-      "category": "🇮🇳 INDIA",
-      "score": 72,
-      "rank": 8
-    },
-    {
-      "title": "Budget allocations and MHA directives accelerate forensic modernization and mobile van deployment",
-      "summary": "Union budget 2026–27 and an MHA directive push for district-level labs, mobile forensic vans and faster DNA/toxicology reporting across states.",
-      "source": "Economic Times / Government reports",
-      "published": "2026-02-01",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/budget-2026-27-over-rs-1300-crore-allocated-for-forensic-related-schemes-under-mha/articleshow/127843925.cms",
+      "published": "2026-08-15T00:00:00Z",
+      "url": "https://www.hindustantimes.com/india-news/court-allows-cbi-plea-seeking-further-probe-into-neet-leak-101786781083272.html",
       "category": "🇮🇳 INDIA",
       "score": 70,
-      "rank": 9
-    },
-    {
-      "title": "National cyber forensics capacity expands; nearly 2,500 personnel trained under cybercrime roadmap",
-      "summary": "Law enforcement personnel trained in digital forensic techniques, with new national cyber forensic labs and emphasis on indigenous tools and MeitY initiatives.",
-      "source": "Economic Times",
-      "published": "2026-03-10",
-      "url": "https://economictimes.indiatimes.com/tech/technology/cybercrime-roadmap-2026-nearly-2500-law-enforcement-personnel-trained-on-latest-forensic-tools-techniques/articleshow/126270912.cms",
-      "category": "🇮🇳 INDIA",
-      "score": 68,
-      "rank": 10
-    },
-    {
-      "title": "India to host INTERPOL Digital Forensic Experts meeting at NFSU",
-      "summary": "NFSU to host international meeting of digital forensic experts, highlighting India's growing role in cross-border forensic cooperation and training.",
-      "source": "The420 (events coverage)",
-      "published": "2026-09-15",
-      "url": "https://the420.in/nfsu-interpol-dfeg-ai-digital-forensics-summit-india-2026/",
-      "category": "🇮🇳 INDIA",
-      "score": 66,
-      "rank": 11
-    },
-    {
-      "title": "Mobile forensic vans deployed widely to preserve scene evidence",
-      "summary": "Regional reporting on how mobile forensic units equipped with DNA sampling, digital forensics kits and narcotics testing are improving evidence integrity at crime scenes.",
-      "source": "Budding Forensic Expert (industry coverage)",
-      "published": "2026-07-20",
-      "url": "https://www.buddingforensicexpert.in/2026/07/mobile-forensic-vans-how-they-are-revolutionising-crime-scene-investigation.html",
-      "category": "🇮🇳 INDIA",
-      "score": 64,
-      "rank": 12
-    },
-    {
-      "title": "Gujarat man allegedly poisoned and buried; DNA testing ordered",
-      "summary": "Police investigations uncovered poisoning and burial; remains sent for DNA profiling at state forensic lab to establish identity and link suspects.",
-      "source": "NDTV",
-      "published": "2026-05-30",
-      "url": "https://www.ndtv.com/india-news/gujarat-man-poisoned-buried-by-wife-family-believed-he-was-in-australia-11840201",
-      "category": "🇮🇳 INDIA",
-      "score": 62,
-      "rank": 13
-    },
-    {
-      "title": "Forensic medicine: how postmortems and toxicology resolve disputed causes of death",
-      "summary": "Explainer coverage describing the role of forensic pathology, toxicology and lab analysis in differentiating causes of death and supporting judicial processes.",
-      "source": "Times of India",
-      "published": "2026-04-17",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/forensic-medicine-uncovering-the-hidden-truth-behind-mysterious-deaths/articleshow/115634696.cms",
-      "category": "🇮🇳 INDIA",
-      "score": 60,
-      "rank": 14
-    },
-    {
-      "title": "Videotaped postmortem and forensic evidence used in investigation of suspicious death",
-      "summary": "Covering a case where transparent postmortem procedures and forensic sample preservation led to renewed investigation and judicial oversight.",
-      "source": "Hindustan Times",
-      "published": "2026-06-28",
-      "url": "https://www.hindustantimes.com/india-news/unclothed-body-drenched-urine-shocking-details-delhi-woman-radha-gayatri-death-mussoorie-homestay-husband-101781668388554.html",
-      "category": "🇮🇳 INDIA",
-      "score": 58,
-      "rank": 15
-    },
-    {
-      "title": "Global: New forensic DNA technique speeds identification in disaster victim cases",
-      "summary": "International research report describing an improved DNA profiling method with implications for mass-disaster victim identification and cross-border forensic collaboration.",
-      "source": "Nature / Research coverage",
-      "published": "2026-08-10",
-      "url": "https://www.nature.com/articles/example-dna-technique-2026",
-      "category": "🌎 GLOBAL",
-      "score": 55,
-      "rank": 16
-    },
-    {
-      "title": "Global: Advances in digital forensics tools for memory and mobile analysis",
-      "summary": "Industry coverage of new tools for mobile device and memory forensics, including AI-assisted triage and court-ready reporting features.",
-      "source": "Forensic Magazine",
-      "published": "2026-08-12",
-      "url": "https://www.forensicmag.com/example-digital-forensics-tools-2026",
-      "category": "🌎 GLOBAL",
-      "score": 52,
-      "rank": 17
-    },
-    {
-      "title": "Supreme Court clarifies admissibility standards for electronic and forensic evidence",
-      "summary": "Judicial commentary and coverage summarizing recent Supreme Court guidance on reliability, chain of custody and corroboration standards for expert forensic testimony.",
-      "source": "SCC Online / legal reporting",
-      "published": "2026-07-30",
-      "url": "https://www.scconline.com/blog/post/2026/08/05/supreme-court-july-2026-explore-key-judgments-and-stories/",
-      "category": "🇮🇳 INDIA",
-      "score": 50,
-      "rank": 18
-    },
-    {
-      "title": "Indian policy: MeitY and Make-in-India push for indigenous cyber-forensic tools",
-      "summary": "Policy coverage on MeitY encouraging adoption and development of indigenous tools for digital forensics to ensure data sovereignty and operational independence.",
-      "source": "The420 / Policy coverage",
-      "published": "2026-06-05",
-      "url": "https://the420.in/meity-make-in-india-cyber-forensic-tools-forensic-labs/",
-      "category": "🇮🇳 INDIA",
-      "score": 48,
-      "rank": 19
-    },
-    {
-      "title": "Global: Forensic toxicology methods updated for emerging synthetic poisons",
-      "summary": "Technical report on adaptation of toxicology laboratory protocols to detect new synthetic toxins and improve detection windows.",
-      "source": "Journal of Forensic Toxicology",
-      "published": "2026-08-05",
-      "url": "https://www.jforensictoxicology.org/example-synthetic-poisons-2026",
-      "category": "🌎 GLOBAL",
-      "score": 46,
-      "rank": 20
-    },
-    {
-      "title": "Court allows late-stage DNA testing in circumstantial case to ensure scientific justice",
-      "summary": "Delhi High Court permitted fresh DNA tests during final arguments, underscoring the courts' willingness to integrate forensic science to achieve just outcomes.",
-      "source": "IndiaLaw / legal blog",
-      "published": "2026-04-22",
-      "url": "https://www.indialaw.in/blog/civil/dna-testing-paternity-disputes-supreme-court/",
-      "category": "🇮🇳 INDIA",
-      "score": 44,
-      "rank": 21
-    },
-    {
-      "title": "Global: New inter-operable forensic data platforms accelerate lab workflows",
-      "summary": "Coverage on national forensic data platforms that link labs, police and courts to reduce backlog and accelerate evidence turnaround.",
-      "source": "GovTech / International",
-      "published": "2026-07-15",
-      "url": "https://www.govtech.com/example-forensic-data-platforms-2026",
-      "category": "🌎 GLOBAL",
-      "score": 40,
-      "rank": 22
+      "rank": 4
     }
   ]
 }
