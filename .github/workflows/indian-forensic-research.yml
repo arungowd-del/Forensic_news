@@ -1,0 +1,97 @@
+name: Indian Forensic Research
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-indian-research:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ------------------------------------------------------
+      # CHECKOUT REPOSITORY
+      # ------------------------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ------------------------------------------------------
+      # SET UP PYTHON
+      # ------------------------------------------------------
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ------------------------------------------------------
+      # INSTALL DEPENDENCIES
+      # ------------------------------------------------------
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # ------------------------------------------------------
+      # RUN INDIAN FORENSIC RESEARCH COLLECTOR
+      # ------------------------------------------------------
+
+      - name: Collect Indian forensic research
+        run: |
+          python indian_forensic_research_collector.py
+
+      # ------------------------------------------------------
+      # SHOW GENERATED FILE
+      # ------------------------------------------------------
+
+      - name: Verify output
+        run: |
+          echo "Checking indian_forensic_research.json..."
+
+          if [ ! -f indian_forensic_research.json ]; then
+            echo "ERROR: indian_forensic_research.json was not created."
+            exit 1
+          fi
+
+          echo "Output file exists."
+          echo "Number of papers:"
+          python - <<'PY'
+          import json
+
+          with open(
+              "indian_forensic_research.json",
+              "r",
+              encoding="utf-8"
+          ) as f:
+              data = json.load(f)
+
+          print(len(data.get("items", [])))
+          PY
+
+      # ------------------------------------------------------
+      # COMMIT UPDATED INDIAN RESEARCH FEED
+      # ------------------------------------------------------
+
+      - name: Commit updated research feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add indian_forensic_research.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to Indian research feed."
+          else
+            git commit -m "Update Indian forensic research feed"
+            git push
+          fi
