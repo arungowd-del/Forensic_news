@@ -1,19 +1,18 @@
 """
 Forensic Research Paper Collector
-
+---------------------------------
 Collects recent genuine research papers from PubMed/NCBI E-utilities
 relevant to forensic medicine and related disciplines.
 
 Features:
-- Rolling 30-day publication window
-- Multiple forensic-specific PubMed searches
-- PubMed ESearch + ESummary JSON API
+- Rolling 30-day PubMed search window
+- Multiple forensic-specific searches
 - PMID deduplication
 - Normalized-title deduplication
 - Newest-first sorting
 - Maximum 30 papers
-- Atomic JSON write
-- Fails the workflow if PubMed is completely unavailable
+- Robust PubMed date handling
+- Atomic JSON output
 """
 
 import datetime
@@ -31,147 +30,77 @@ import requests
 
 MAX_AGE_DAYS = 30
 MAX_RESULTS = 30
+SEARCH_RETMAX = 50
+REQUEST_TIMEOUT = 20
 
 EUTILS_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
 OUTPUT_FILE = "forensic_research.json"
-
-REQUEST_TIMEOUT = 20
-
-NCBI_API_KEY = os.environ.get("NCBI_API_KEY", "").strip()
+TEMP_FILE = "forensic_research.tmp.json"
 
 
 # ============================================================
-# FORENSIC RESEARCH QUERIES
+# FORENSIC PUBMED SEARCHES
 # ============================================================
 
 PUBMED_QUERIES = [
-
-    # --------------------------------------------------------
-    # FORENSIC MEDICINE / PATHOLOGY
-    # --------------------------------------------------------
-
-    '"forensic medicine"[Title/Abstract]',
-    '"forensic pathology"[Title/Abstract]',
-    '"forensic autopsy"[Title/Abstract]',
-    '"medicolegal"[Title/Abstract]',
-    '"postmortem examination"[Title/Abstract]',
-    '"autopsy"[Title/Abstract] AND forensic',
-
-    # --------------------------------------------------------
-    # POSTMORTEM IMAGING / VIRTopsy
-    # --------------------------------------------------------
-
-    '"virtual autopsy"[Title/Abstract]',
-    '"virtopsy"[Title/Abstract]',
-    '"postmortem CT"[Title/Abstract]',
-    '"postmortem computed tomography"[Title/Abstract]',
-    '"postmortem imaging"[Title/Abstract]',
-    '"postmortem MRI"[Title/Abstract]',
-
-    # --------------------------------------------------------
-    # FORENSIC TOXICOLOGY
-    # --------------------------------------------------------
-
-    '"forensic toxicology"[Title/Abstract]',
-    '"postmortem toxicology"[Title/Abstract]',
-    '"postmortem drug"[Title/Abstract] AND toxicology',
-    '"novel psychoactive substances"[Title/Abstract] AND forensic',
-    '"blood alcohol"[Title/Abstract] AND forensic',
-
-    # --------------------------------------------------------
-    # FORENSIC GENETICS / DNA
-    # --------------------------------------------------------
-
-    '"forensic genetics"[Title/Abstract]',
-    '"forensic DNA"[Title/Abstract]',
-    '"DNA profiling"[Title/Abstract] AND forensic',
-    '"investigative genetic genealogy"[Title/Abstract]',
-    '"genetic genealogy"[Title/Abstract] AND forensic',
-
-    # --------------------------------------------------------
-    # FORENSIC ANTHROPOLOGY / HUMAN REMAINS
-    # --------------------------------------------------------
-
-    '"forensic anthropology"[Title/Abstract]',
-    '"human remains"[Title/Abstract] AND forensic',
-    '"skeletal identification"[Title/Abstract]',
-    '"forensic identification"[Title/Abstract]',
-    '"taphonomy"[Title/Abstract] AND forensic',
-
-    # --------------------------------------------------------
-    # FORENSIC ODONTOLOGY
-    # --------------------------------------------------------
-
-    '"forensic odontology"[Title/Abstract]',
-    '"forensic dentistry"[Title/Abstract]',
-    '"dental identification"[Title/Abstract] AND forensic',
-
-    # --------------------------------------------------------
-    # FORENSIC ENTOMOLOGY
-    # --------------------------------------------------------
-
-    '"forensic entomology"[Title/Abstract]',
-    '"postmortem interval"[Title/Abstract] AND entomology',
-    '"insect colonization"[Title/Abstract] AND decomposition',
-
-    # --------------------------------------------------------
-    # FORENSIC SCIENCE / DIGITAL FORENSICS
-    # --------------------------------------------------------
-
-    '"forensic science"[Title/Abstract]',
-    '"digital forensics"[Title/Abstract]',
-    '"forensic imaging"[Title/Abstract]',
-    '"forensic image analysis"[Title/Abstract]',
+    "forensic medicine",
+    "forensic pathology",
+    "forensic autopsy",
+    "medicolegal",
+    "postmortem examination",
+    "autopsy pathology",
+    "virtual autopsy",
+    "virtopsy",
+    "postmortem CT",
+    "postmortem computed tomography",
+    "forensic toxicology",
+    "postmortem toxicology",
+    "postmortem drug analysis",
+    "novel psychoactive substances forensic",
+    "blood alcohol postmortem",
+    "forensic genetics",
+    "forensic DNA",
+    "DNA profiling identification",
+    "investigative genetic genealogy",
+    "genetic genealogy forensic",
+    "forensic anthropology",
+    "skeletal identification forensic",
+    "disaster victim identification",
+    "mass fatality forensic",
+    "human remains identification",
+    "taphonomy decomposition",
+    "forensic odontology",
+    "forensic dentistry",
+    "forensic entomology",
+    "postmortem interval insects",
+    "forensic imaging",
+    "digital forensics",
+    "forensic image analysis",
+    "pattern recognition forensic",
+    "forensic science",
+    "postmortem imaging",
+    "medico-legal forensic",
 ]
 
 
 # ============================================================
-# TITLE NORMALIZATION
+# HELPERS
 # ============================================================
 
 STOPWORDS = {
-    "the",
-    "a",
-    "an",
-    "of",
-    "in",
-    "on",
-    "for",
-    "and",
-    "to",
-    "with",
-    "after",
-    "at",
-    "by",
-    "from",
-    "or",
-    "is",
-    "are",
-    "was",
-    "were",
-    "be",
-    "been",
-    "have",
-    "has",
-    "do",
-    "does",
-    "did",
-    "will",
-    "would",
-    "could",
-    "should",
-    "may",
-    "might",
-    "can",
-    "clinical",
-    "case",
-    "study",
-    "method",
+    "the", "a", "an", "of", "in", "on", "for", "and",
+    "to", "with", "after", "at", "by", "from", "or",
+    "is", "are", "was", "were", "be", "been", "have",
+    "has", "do", "does", "did", "will", "would", "could",
+    "should", "may", "might", "can", "clinical", "case",
+    "study", "method"
 }
 
 
 def normalize_title(title):
+    """Normalize a title for duplicate detection."""
+
     if not title:
         return ""
 
@@ -190,206 +119,180 @@ def normalize_title(title):
     return " ".join(words)
 
 
-# ============================================================
-# DATE HELPERS
-# ============================================================
-
-def parse_pubmed_date(article):
+def parse_pubmed_date(value):
     """
-    Extract a publication date from PubMed ESummary.
+    Robustly parse common PubMed date formats.
 
-    ESummary commonly provides:
-    pubdate
-    sortpubdate
-    epubdate
+    Examples:
+        2026 Aug 25
+        2026 Aug
+        2026
+        2026-08-25
+        2026/08/25
     """
 
-    candidates = [
-        article.get("pubdate"),
-        article.get("sortpubdate"),
-        article.get("epubdate"),
-    ]
+    if not value:
+        return None
 
-    for value in candidates:
+    value = str(value).strip()
 
-        if not value:
-            continue
+    # ISO date
+    for fmt in (
+        "%Y-%m-%d",
+        "%Y/%m/%d",
+        "%Y-%m",
+        "%Y/%m",
+    ):
+        try:
+            return datetime.datetime.strptime(value, fmt).replace(
+                tzinfo=datetime.timezone.utc
+            )
+        except ValueError:
+            pass
 
-        value = str(value).strip()
+    # PubMed style: YYYY Mon DD
+    for fmt in (
+        "%Y %b %d",
+        "%Y %B %d",
+        "%Y %b",
+        "%Y %B",
+        "%Y",
+    ):
+        try:
+            return datetime.datetime.strptime(value, fmt).replace(
+                tzinfo=datetime.timezone.utc
+            )
+        except ValueError:
+            pass
 
-        # YYYY-MM-DD
-        match = re.search(
-            r"\b(20\d{2})[-/](\d{1,2})[-/](\d{1,2})\b",
-            value,
+    # Extract year/month/day from messy strings
+    match = re.search(
+        r"(\d{4})[-/\s]+([A-Za-z]{3,9}|\d{1,2})[-/\s]+(\d{1,2})",
+        value
+    )
+
+    if match:
+        year = int(match.group(1))
+        month_value = match.group(2)
+        day = int(match.group(3))
+
+        try:
+            if month_value.isdigit():
+                month = int(month_value)
+            else:
+                month = datetime.datetime.strptime(
+                    month_value[:3],
+                    "%b"
+                ).month
+
+            return datetime.datetime(
+                year,
+                month,
+                day,
+                tzinfo=datetime.timezone.utc
+            )
+
+        except ValueError:
+            pass
+
+    # At minimum, accept the year
+    year_match = re.search(r"\b(20\d{2})\b", value)
+
+    if year_match:
+        return datetime.datetime(
+            int(year_match.group(1)),
+            1,
+            1,
+            tzinfo=datetime.timezone.utc
         )
-
-        if match:
-            try:
-                return datetime.datetime(
-                    int(match.group(1)),
-                    int(match.group(2)),
-                    int(match.group(3)),
-                    tzinfo=datetime.timezone.utc,
-                )
-            except ValueError:
-                pass
-
-        # YYYY MM DD
-        match = re.search(
-            r"\b(20\d{2})\s+(\d{1,2})\s+(\d{1,2})\b",
-            value,
-        )
-
-        if match:
-            try:
-                return datetime.datetime(
-                    int(match.group(1)),
-                    int(match.group(2)),
-                    int(match.group(3)),
-                    tzinfo=datetime.timezone.utc,
-                )
-            except ValueError:
-                pass
-
-        # YYYY/MM/DD embedded in string
-        match = re.search(
-            r"\b(20\d{2})/(\d{1,2})/(\d{1,2})\b",
-            value,
-        )
-
-        if match:
-            try:
-                return datetime.datetime(
-                    int(match.group(1)),
-                    int(match.group(2)),
-                    int(match.group(3)),
-                    tzinfo=datetime.timezone.utc,
-                )
-            except ValueError:
-                pass
-
-        # YYYY-MM
-        match = re.search(
-            r"\b(20\d{2})[-/](\d{1,2})\b",
-            value,
-        )
-
-        if match:
-            try:
-                return datetime.datetime(
-                    int(match.group(1)),
-                    int(match.group(2)),
-                    1,
-                    tzinfo=datetime.timezone.utc,
-                )
-            except ValueError:
-                pass
-
-        # YYYY MM
-        match = re.search(
-            r"\b(20\d{2})\s+(\d{1,2})\b",
-            value,
-        )
-
-        if match:
-            try:
-                return datetime.datetime(
-                    int(match.group(1)),
-                    int(match.group(2)),
-                    1,
-                    tzinfo=datetime.timezone.utc,
-                )
-            except ValueError:
-                pass
-
-        # YYYY only
-        match = re.search(
-            r"\b(20\d{2})\b",
-            value,
-        )
-
-        if match:
-            try:
-                return datetime.datetime(
-                    int(match.group(1)),
-                    1,
-                    1,
-                    tzinfo=datetime.timezone.utc,
-                )
-            except ValueError:
-                pass
 
     return None
+
+
+def format_pubmed_date(value):
+    """Return YYYY-MM-DD when possible."""
+
+    dt = parse_pubmed_date(value)
+
+    if not dt:
+        return None
+
+    return dt.strftime("%Y-%m-%d")
+
+
+def within_window(dt, now):
+    """Check whether a date falls inside the rolling window."""
+
+    if not dt:
+        return False
+
+    age_seconds = (now - dt).total_seconds()
+
+    return (
+        age_seconds >= 0
+        and age_seconds <= MAX_AGE_DAYS * 86400
+    )
 
 
 # ============================================================
 # PUBMED SEARCH
 # ============================================================
 
-def search_pubmed(query, now):
+def search_pubmed(query, start_date, end_date):
     """
-    Search PubMed using ESearch JSON.
-
-    IMPORTANT:
-    PubMed expects retmode=json, NOT rettype=json.
+    Search PubMed for PMIDs within the rolling date window.
     """
 
-    start_date = (
-        now - datetime.timedelta(days=MAX_AGE_DAYS)
-    ).strftime("%Y/%m/%d")
+    search_url = f"{EUTILS_BASE}/esearch.fcgi"
 
-    end_date = now.strftime("%Y/%m/%d")
-
-    full_query = (
-        f"({query}) "
-        f"AND ({start_date}[PDat] : {end_date}[PDat])"
+    # PubMed itself performs the date filtering.
+    search_term = (
+        f'({query}) '
+        f'AND ({start_date}[PDat] : {end_date}[PDat])'
     )
 
     params = {
         "db": "pubmed",
-        "term": full_query,
-        "retmax": 100,
+        "term": search_term,
+        "retmax": SEARCH_RETMAX,
         "retmode": "json",
         "sort": "pub date",
     }
 
-    if NCBI_API_KEY:
-        params["api_key"] = NCBI_API_KEY
+    api_key = os.environ.get("NCBI_API_KEY")
 
-    url = f"{EUTILS_BASE}/esearch.fcgi"
+    if api_key:
+        params["api_key"] = api_key
 
     response = requests.get(
-        url,
+        search_url,
         params=params,
-        timeout=REQUEST_TIMEOUT,
-        headers={
-            "User-Agent": "ForensicResearchCollector/1.0"
-        },
+        timeout=REQUEST_TIMEOUT
     )
 
     response.raise_for_status()
 
     data = response.json()
 
-    result = data.get("esearchresult", {})
-
-    return result.get("idlist", [])
+    return data.get("esearchresult", {}).get("idlist", [])
 
 
 # ============================================================
-# PUBMED SUMMARY
+# PUBMED METADATA
 # ============================================================
 
-def fetch_pubmed_summaries(pmids):
+def fetch_metadata(pmids):
     """
-    Fetch PubMed article summaries using ESummary JSON.
+    Fetch PubMed metadata using ESummary.
 
-    ESummary is used deliberately because it provides a stable
-    JSON response suitable for this lightweight collector.
+    ESummary is deliberately used instead of relying on the
+    previous EFetch JSON structure.
     """
 
     if not pmids:
         return []
+
+    summary_url = f"{EUTILS_BASE}/esummary.fcgi"
 
     params = {
         "db": "pubmed",
@@ -397,18 +300,15 @@ def fetch_pubmed_summaries(pmids):
         "retmode": "json",
     }
 
-    if NCBI_API_KEY:
-        params["api_key"] = NCBI_API_KEY
+    api_key = os.environ.get("NCBI_API_KEY")
 
-    url = f"{EUTILS_BASE}/esummary.fcgi"
+    if api_key:
+        params["api_key"] = api_key
 
     response = requests.get(
-        url,
+        summary_url,
         params=params,
-        timeout=REQUEST_TIMEOUT,
-        headers={
-            "User-Agent": "ForensicResearchCollector/1.0"
-        },
+        timeout=REQUEST_TIMEOUT
     )
 
     response.raise_for_status()
@@ -419,7 +319,7 @@ def fetch_pubmed_summaries(pmids):
 
     papers = []
 
-    for pmid in result.get("uids", []):
+    for pmid in pmids:
 
         article = result.get(str(pmid), {})
 
@@ -431,10 +331,42 @@ def fetch_pubmed_summaries(pmids):
         if not title or len(title) < 10:
             continue
 
-        published_dt = parse_pubmed_date(article)
+        # ----------------------------------------------------
+        # Authors
+        # ----------------------------------------------------
 
-        if not published_dt:
+        author_names = []
+
+        for author in article.get("authors", []):
+            name = author.get("name")
+
+            if name:
+                author_names.append(name)
+
+        authors = ", ".join(author_names[:5])
+
+        if not authors:
+            authors = "N/A"
+
+        # ----------------------------------------------------
+        # Publication date
+        # ----------------------------------------------------
+
+        pubdate = article.get("pubdate")
+
+        if not pubdate:
+            pubdate = article.get("sortpubdate")
+
+        published = format_pubmed_date(pubdate)
+
+        # If PubMed gives no usable date, don't crash.
+        # The original ESearch already applied the 30-day filter.
+        if not published:
             continue
+
+        # ----------------------------------------------------
+        # Journal
+        # ----------------------------------------------------
 
         journal = (
             article.get("fulljournalname")
@@ -442,102 +374,93 @@ def fetch_pubmed_summaries(pmids):
             or "PubMed"
         )
 
-        authors = []
+        # ----------------------------------------------------
+        # URL
+        # ----------------------------------------------------
 
-        for author in article.get("authors", [])[:5]:
+        url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
 
-            name = author.get("name")
-
-            if name:
-                authors.append(name)
-
-        if not authors:
-            authors_text = "N/A"
-        else:
-            authors_text = ", ".join(authors)
-
-        papers.append(
-            {
-                "title": title,
-                "authors": authors_text,
-                "published_dt": published_dt,
-                "journal": journal,
-                "pmid": str(pmid),
-                "url": (
-                    f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
-                ),
-            }
-        )
+        papers.append({
+            "title": title,
+            "authors": authors,
+            "published": published,
+            "journal": journal,
+            "pmid": str(pmid),
+            "url": url,
+        })
 
     return papers
 
 
 # ============================================================
-# MAIN COLLECTION
+# MAIN COLLECTOR
 # ============================================================
 
 def run():
 
     now = datetime.datetime.now(datetime.timezone.utc)
 
-    cutoff = now - datetime.timedelta(
-        days=MAX_AGE_DAYS
-    )
+    start_dt = now - datetime.timedelta(days=MAX_AGE_DAYS)
+
+    start_date = start_dt.strftime("%Y/%m/%d")
+    end_date = now.strftime("%Y/%m/%d")
 
     print("=" * 60)
     print("FORENSIC RESEARCH PAPER COLLECTOR")
     print("=" * 60)
 
-    print(f"Current UTC: {now.isoformat()}")
-    print(
-        f"Collection window: {cutoff.strftime('%Y-%m-%d')}"
-        f" → {now.strftime('%Y-%m-%d')}"
-    )
-    print(f"Maximum papers: {MAX_RESULTS}")
-    print(f"Queries: {len(PUBMED_QUERIES)}")
+    print(f"Current UTC time : {now.isoformat()}")
+    print(f"Search window    : {start_date} → {end_date}")
+    print(f"Maximum papers   : {MAX_RESULTS}")
     print()
+
+    # --------------------------------------------------------
+    # Search all queries
+    # --------------------------------------------------------
 
     all_pmids = set()
 
     successful_queries = 0
     failed_queries = 0
 
-    # --------------------------------------------------------
-    # SEARCH ALL QUERIES
-    # --------------------------------------------------------
-
-    for index, query in enumerate(
-        PUBMED_QUERIES,
-        start=1,
-    ):
+    for index, query in enumerate(PUBMED_QUERIES, 1):
 
         print(
             f"[{index}/{len(PUBMED_QUERIES)}] "
-            f"{query}"
+            f"Searching: {query}"
         )
 
         try:
 
             pmids = search_pubmed(
                 query,
-                now,
+                start_date,
+                end_date
             )
 
-            new_pmids = [
-                pmid
-                for pmid in pmids
-                if pmid not in all_pmids
-            ]
+            if pmids:
 
-            for pmid in new_pmids:
-                all_pmids.add(pmid)
+                print(
+                    f"  ✓ PubMed returned "
+                    f"{len(pmids)} results"
+                )
+
+                before = len(all_pmids)
+
+                all_pmids.update(pmids)
+
+                new_count = len(all_pmids) - before
+
+                print(
+                    f"    New unique PMIDs: "
+                    f"{new_count}"
+                )
+
+            else:
+
+                print("  – No results")
 
             successful_queries += 1
-
-            print(
-                f"  ✓ PubMed returned {len(pmids)} "
-                f"results; {len(new_pmids)} new"
-            )
 
         except Exception as exc:
 
@@ -547,103 +470,96 @@ def run():
                 f"  ✗ Query failed: {exc}"
             )
 
+        # Respect PubMed rate limits.
         time.sleep(0.35)
 
     print()
-    print(
-        f"Successful queries: {successful_queries}"
-    )
-
-    print(
-        f"Failed queries: {failed_queries}"
-    )
-
-    print(
-        f"Unique PMIDs collected: {len(all_pmids)}"
-    )
+    print(f"Successful queries     : {successful_queries}")
+    print(f"Failed queries         : {failed_queries}")
+    print(f"Unique PMIDs collected : {len(all_pmids)}")
+    print()
 
     # --------------------------------------------------------
-    # HARD FAILURE PROTECTION
-    # --------------------------------------------------------
-
-    if successful_queries == 0:
-
-        raise RuntimeError(
-            "ALL PubMed queries failed. "
-            "Refusing to overwrite forensic_research.json "
-            "with an empty feed."
-        )
-
-    if not all_pmids:
-
-        raise RuntimeError(
-            "PubMed queries succeeded but returned zero PMIDs. "
-            "Refusing to publish an empty research feed."
-        )
-
-    # --------------------------------------------------------
-    # FETCH SUMMARIES
+    # Metadata
     # --------------------------------------------------------
 
     pmid_list = list(all_pmids)
 
     papers = []
 
-    for start in range(
-        0,
-        len(pmid_list),
-        200,
-    ):
+    # Process in manageable chunks.
+    chunk_size = 200
 
-        batch = pmid_list[
-            start:start + 200
-        ]
+    for start in range(0, len(pmid_list), chunk_size):
+
+        chunk = pmid_list[start:start + chunk_size]
+
+        print(
+            f"Fetching metadata "
+            f"{start + 1}-{start + len(chunk)} "
+            f"of {len(pmid_list)}..."
+        )
 
         try:
 
-            batch_papers = fetch_pubmed_summaries(
-                batch
-            )
+            chunk_papers = fetch_metadata(chunk)
 
-            papers.extend(batch_papers)
+            papers.extend(chunk_papers)
 
             print(
-                f"Fetched metadata for "
-                f"{len(batch_papers)} papers"
+                f"  ✓ Metadata received: "
+                f"{len(chunk_papers)}"
             )
 
         except Exception as exc:
 
             print(
-                f"✗ ESummary batch failed: {exc}"
+                f"  ✗ Metadata request failed: "
+                f"{exc}"
             )
 
         time.sleep(0.35)
 
+    print()
+    print(f"Total metadata records : {len(papers)}")
+
     # --------------------------------------------------------
-    # DATE FILTER
+    # Date validation
     # --------------------------------------------------------
 
     recent_papers = []
 
     for paper in papers:
 
-        published_dt = paper["published_dt"]
+        dt = parse_pubmed_date(
+            paper.get("published")
+        )
 
-        if cutoff <= published_dt <= now:
+        if dt and within_window(dt, now):
+
+            paper["_dt"] = dt
 
             recent_papers.append(paper)
 
     print(
-        f"Within 30-day window: "
+        f"Within {MAX_AGE_DAYS}-day window : "
         f"{len(recent_papers)}"
     )
 
     # --------------------------------------------------------
-    # DEDUPLICATION
+    # Sort newest first
     # --------------------------------------------------------
 
-    unique_papers = []
+    recent_papers.sort(
+        key=lambda p: p["_dt"],
+        reverse=True
+    )
+
+    # --------------------------------------------------------
+    # Deduplication
+    # --------------------------------------------------------
+
+    final_papers = []
 
     seen_pmids = set()
     seen_titles = set()
@@ -651,22 +567,19 @@ def run():
     duplicate_pmids = 0
     duplicate_titles = 0
 
-    for paper in sorted(
-        recent_papers,
-        key=lambda item: item["published_dt"],
-        reverse=True,
-    ):
+    for paper in recent_papers:
 
-        pmid = paper["pmid"]
+        pmid = paper.get("pmid")
+        title = paper.get("title", "")
 
-        normalized = normalize_title(
-            paper["title"]
-        )
-
+        # PMID duplicate
         if pmid in seen_pmids:
 
             duplicate_pmids += 1
             continue
+
+        # Title duplicate
+        normalized = normalize_title(title)
 
         if normalized in seen_titles:
 
@@ -676,139 +589,124 @@ def run():
         seen_pmids.add(pmid)
         seen_titles.add(normalized)
 
-        unique_papers.append(paper)
+        final_papers.append(paper)
+
+        if len(final_papers) >= MAX_RESULTS:
+            break
 
     # --------------------------------------------------------
-    # LIMIT
+    # Remove internal datetime
     # --------------------------------------------------------
 
-    unique_papers = unique_papers[
-        :MAX_RESULTS
-    ]
+    output_items = []
+
+    for paper in final_papers:
+
+        output_items.append({
+            "title": paper["title"],
+            "authors": paper["authors"],
+            "published": paper["published"],
+            "journal": paper["journal"],
+            "pmid": paper["pmid"],
+            "url": paper["url"],
+        })
+
+    # --------------------------------------------------------
+    # Summary
+    # --------------------------------------------------------
 
     print()
+    print("=" * 60)
     print("SUMMARY")
-    print("-" * 60)
+    print("=" * 60)
 
     print(
-        f"Recent papers: {len(recent_papers)}"
+        f"Unique PMIDs          : {len(all_pmids)}"
     )
 
     print(
-        f"Duplicate PMIDs removed: "
-        f"{duplicate_pmids}"
+        f"Metadata records      : {len(papers)}"
     )
 
     print(
-        f"Duplicate titles removed: "
-        f"{duplicate_titles}"
+        f"Recent papers         : {len(recent_papers)}"
     )
 
     print(
-        f"Final accepted papers: "
-        f"{len(unique_papers)}"
+        f"Duplicate PMIDs       : {duplicate_pmids}"
+    )
+
+    print(
+        f"Duplicate titles      : {duplicate_titles}"
+    )
+
+    print(
+        f"FINAL ACCEPTED PAPERS : {len(output_items)}"
     )
 
     # --------------------------------------------------------
-    # HARD FAILURE IF NO VALID PAPERS
-    # --------------------------------------------------------
-
-    if not unique_papers:
-
-        raise RuntimeError(
-            "PubMed was reachable but no valid recent "
-            "forensic research papers were found. "
-            "Existing forensic_research.json was preserved."
-        )
-
-    # --------------------------------------------------------
-    # BUILD JSON
+    # Output JSON
     # --------------------------------------------------------
 
     output = {
         "updated": now.isoformat().replace(
             "+00:00",
-            "Z",
+            "Z"
         ),
         "source": "PubMed",
-        "window_days": MAX_AGE_DAYS,
-        "items": [],
+        "items": output_items,
     }
-
-    for paper in unique_papers:
-
-        output["items"].append(
-            {
-                "title": paper["title"],
-                "authors": paper["authors"],
-                "published": paper[
-                    "published_dt"
-                ].strftime("%Y-%m-%d"),
-                "journal": paper["journal"],
-                "pmid": paper["pmid"],
-                "url": paper["url"],
-            }
-        )
-
-    # --------------------------------------------------------
-    # ATOMIC WRITE
-    # --------------------------------------------------------
-
-    temp_file = (
-        OUTPUT_FILE + ".tmp"
-    )
 
     try:
 
         with open(
-            temp_file,
+            TEMP_FILE,
             "w",
-            encoding="utf-8",
+            encoding="utf-8"
         ) as file:
 
             json.dump(
                 output,
                 file,
                 indent=2,
-                ensure_ascii=False,
+                ensure_ascii=False
             )
 
-            file.write("\n")
-
         os.replace(
-            temp_file,
-            OUTPUT_FILE,
+            TEMP_FILE,
+            OUTPUT_FILE
         )
 
-    except Exception:
+        print()
+        print(
+            f"✓ Written {OUTPUT_FILE} "
+            f"({len(output_items)} items)"
+        )
 
-        if os.path.exists(temp_file):
-            os.remove(temp_file)
+    except Exception as exc:
+
+        print(
+            f"✗ Failed to write output: {exc}"
+        )
+
+        if os.path.exists(TEMP_FILE):
+            os.remove(TEMP_FILE)
 
         raise
 
     # --------------------------------------------------------
-    # FINAL REPORT
+    # Fail only if PubMed itself failed
     # --------------------------------------------------------
 
-    print()
-    print("=" * 60)
-    print(
-        f"✓ Written {OUTPUT_FILE} "
-        f"({len(unique_papers)} items)"
-    )
-    print("=" * 60)
+    if failed_queries == len(PUBMED_QUERIES):
 
-    for index, paper in enumerate(
-        unique_papers,
-        start=1,
-    ):
-
-        print(
-            f"{index:02d}. "
-            f"{paper['published_dt'].strftime('%Y-%m-%d')} "
-            f"| {paper['title']}"
+        raise RuntimeError(
+            "All PubMed queries failed. "
+            "PubMed may be unavailable."
         )
+
+    print()
+    print("✓ COLLECTION COMPLETE")
 
 
 if __name__ == "__main__":
