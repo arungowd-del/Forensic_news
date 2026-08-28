@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T13:49:44.715866+00:00",
+  "updated": "2026-08-28T01:58:17.216705+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -225,22 +225,22 @@
       "country": "India"
     },
     {
-      "title": "Unsafe at any dose",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-07-29",
-      "authors": "Alan Cassels",
-      "url": "https://doi.org/10.20529/ijme.2026.031",
-      "doi": "10.20529/ijme.2026.031",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "The quiet win",
       "journal": "Indian Journal of Medical Ethics",
       "published": "2026-07-29",
       "authors": "Favour Rubyson Kharnaior",
       "url": "https://doi.org/10.20529/ijme.2026.039",
       "doi": "10.20529/ijme.2026.039",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Unsafe at any dose",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-07-29",
+      "authors": "Alan Cassels",
+      "url": "https://doi.org/10.20529/ijme.2026.031",
+      "doi": "10.20529/ijme.2026.031",
       "source": "Crossref",
       "country": "India"
     },
