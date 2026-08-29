@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-28T17:57:33.974482+00:00",
+  "updated": "2026-08-29T01:28:44.423733+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
   "items": [
-    {
-      "title": "Navigating educational barriers: Bridging the gaps in forensic medicine and medical jurisprudence within Ayurveda studies in India",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-07-29",
-      "authors": "Aakriti Sharma, NK Mishra, Shobha Bhat K",
-      "url": "https://doi.org/10.20529/ijme.2026.036",
-      "doi": "10.20529/ijme.2026.036",
-      "source": "Crossref",
-      "country": "India"
-    },
     {
       "title": "Unnatural Sexual Offenses and Indian Laws: Historical Context, Current Position, and Future Outlook",
       "journal": "Journal of Indian Academy of Forensic Medicine",
@@ -41,16 +31,6 @@
       "authors": "Daksh Yadav, Raghav Sharma, Aakriti Varshney",
       "url": "https://doi.org/10.1177/09710973261473031",
       "doi": "10.1177/09710973261473031",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Fatal Anaphylaxis Following Measles Vaccination: A Forensic Autopsy-Based Case Report",
-      "journal": "Indian Internet Journal of Forensic Medicine and Toxicology",
-      "published": "2026-07-29",
-      "authors": "Parimal Chauhan, Darshan D Galoria, Pradip S Rana",
-      "url": "https://doi.org/10.48165/iijfmt.2026.24.12.06",
-      "doi": "10.48165/iijfmt.2026.24.12.06",
       "source": "Crossref",
       "country": "India"
     },
@@ -125,12 +105,42 @@
       "country": "India"
     },
     {
+      "title": "Lay persons are not “lay” in Ethics Committees: Why the term merits ethical reconsideration",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-07",
+      "authors": "Abhijit Poddar, SR Rao",
+      "url": "https://doi.org/10.20529/ijme.2026.047",
+      "doi": "10.20529/ijme.2026.047",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Integrating humanities into undergraduate medical curricula: A narrative review exploring focus areas, pedagogical design, and evaluation strategies",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-04",
+      "authors": "Punithalingam Youhasan",
+      "url": "https://doi.org/10.20529/ijme.2026.046",
+      "doi": "10.20529/ijme.2026.046",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Sociodemographic profile and methods of suicide: A three-year autopsy based retrospective study from North India",
       "journal": "International Journal of Forensic Medicine",
       "published": "2026-08-01",
       "authors": "Abhishek Sharma, Manoj Kumar Sharma",
       "url": "https://doi.org/10.33545/27074447.2026.v8.i8a.153",
       "doi": "10.33545/27074447.2026.v8.i8a.153",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Stray Dog Attacks: Injury Pattern and Recent Legal Advances in India",
+      "journal": "Academic Forensic Pathology",
+      "published": "2026-08-12",
+      "authors": "Devendra Jadav",
+      "url": "https://doi.org/10.1177/19253621261478808",
+      "doi": "10.1177/19253621261478808",
       "source": "Crossref",
       "country": "India"
     },
@@ -271,6 +281,16 @@
       "authors": "Ramkumar Mukundarajan, Saurabh Saigal",
       "url": "https://doi.org/10.5005/jaypee-journals-10071-25142.179",
       "doi": "10.5005/jaypee-journals-10071-25142.179",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Pulmonary talcosis: An interesting autopsy revelation",
+      "journal": "Lung India",
+      "published": "2026-08-29",
+      "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
+      "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
+      "doi": "10.4103/lungindia.lungindia_200_26",
       "source": "Crossref",
       "country": "India"
     },
