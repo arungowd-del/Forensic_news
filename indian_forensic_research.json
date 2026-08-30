@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T20:15:03.945138+00:00",
+  "updated": "2026-08-30T02:49:04.440664+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -85,22 +85,32 @@
       "country": "India"
     },
     {
-      "title": "Assessment of Knowledge and Awareness about Consent among Students in a Medical College",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-07-30",
-      "authors": "Basil K Babu, Vinay Kumar MS, Raghavendra Babu YP, Dinesh Kumar K",
-      "url": "https://doi.org/10.1177/09710973261471646",
-      "doi": "10.1177/09710973261471646",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Burden and determinants of snakebite mortality in Tamil Nadu, India: a surveillance and verbal autopsy study",
       "journal": "Transactions of The Royal Society of Tropical Medicine and Hygiene",
       "published": "2026-08-22",
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Lay persons are not “lay” in Ethics Committees: Why the term merits ethical reconsideration",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-07",
+      "authors": "Abhijit Poddar, SR Rao",
+      "url": "https://doi.org/10.20529/ijme.2026.047",
+      "doi": "10.20529/ijme.2026.047",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Integrating humanities into undergraduate medical curricula: A narrative review exploring focus areas, pedagogical design, and evaluation strategies",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-04",
+      "authors": "Punithalingam Youhasan",
+      "url": "https://doi.org/10.20529/ijme.2026.046",
+      "doi": "10.20529/ijme.2026.046",
       "source": "Crossref",
       "country": "India"
     },
