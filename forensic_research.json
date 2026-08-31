@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T01:56:32.382046Z",
+  "updated": "2026-08-31T11:58:48.755152Z",
   "source": "PubMed",
   "items": [
     {
@@ -11,12 +11,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42610473/"
     },
     {
-      "title": "Integrated micro-solid-phase extraction with miniature mass spectrometry for on-site detection of illicit drugs in human hair.",
-      "authors": "Zhang Y, Zhang J, Wu J, Liu C, Liu Y",
+      "title": "ΔA146Ply exerts anti-triple-negative breast cancer effects by inducing ferroptosis via regulation of the CYP24A1-mediated calcitriol-vitamin D receptor pathway.",
+      "authors": "Yu Y, Zhang Z, Wang D, Bai X, He D",
       "published": "2026-08-30",
-      "journal": "Journal of chromatography. A",
-      "pmid": "42320232",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320232/"
+      "journal": "Toxicology and applied pharmacology",
+      "pmid": "42669384",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42669384/"
     },
     {
       "title": "Interpretable generative machine learning platform for chronological prediction of forensic paper aging via GC-IMS volatiles characterization in judicial authentication.",
@@ -27,12 +27,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42229280/"
     },
     {
-      "title": "Gene flow, kinship, and source population assignment in Chrysomya blow flies.",
-      "authors": "Salem AM, Picard CJ, Eleftherianos I, Zaher EE, Al-Akeel RK",
+      "title": "Integrated micro-solid-phase extraction with miniature mass spectrometry for on-site detection of illicit drugs in human hair.",
+      "authors": "Zhang Y, Zhang J, Wu J, Liu C, Liu Y",
+      "published": "2026-08-30",
+      "journal": "Journal of chromatography. A",
+      "pmid": "42320232",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42320232/"
+    },
+    {
+      "title": "Overview of the re-evaluation of trace elements as nutritional feed additives in the European Union: characterization, safety, and efficacy.",
+      "authors": "López-Gálvez G, Bastos ML, Cubadda F, Gralak MA, Hogstrand C",
       "published": "2026-08-29",
-      "journal": "Scientific reports",
-      "pmid": "42668273",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668273/"
+      "journal": "Journal of the science of food and agriculture",
+      "pmid": "42666066",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666066/"
     },
     {
       "title": "Fatal waterhouse-friderichsen syndrome at autopsy: a systematic review and forensic diagnostic framework.",
@@ -51,28 +59,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42637047/"
     },
     {
-      "title": "Thymic teratoma in a chicken and a literature review of gonadal and extragonadal teratomas in veterinary species.",
-      "authors": "Harris MC, Frank CB",
+      "title": "Self-skin Examination for Skin Cancer Detection in High-risk Populations: A Diagnostic Accuracy Study and Implications for Cancer Education.",
+      "authors": "Climstein M, Stapelberg M, Miller I, Rosic N, Hudson J",
       "published": "2026-08-29",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "pmid": "42668361",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668361/"
-    },
-    {
-      "title": "Postmortem CT findings of cardiac and great-vessel blood clots in fatal hypothermia: comparison with autopsy measurements.",
-      "authors": "Takeuchi A, Jin S, Kiuchi T, Matoba T, Hara Y",
-      "published": "2026-08-29",
-      "journal": "Legal medicine (Tokyo, Japan)",
-      "pmid": "42667862",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667862/"
-    },
-    {
-      "title": "Spatial lipidomics of the human brain: systematic review of current state and future perspectives.",
-      "authors": "Cabasino C, Enrico P, Bottaro F, De Santis D, Cagnoli C",
-      "published": "2026-08-29",
-      "journal": "Molecular psychiatry",
-      "pmid": "42668271",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668271/"
+      "journal": "Journal of cancer education : the official journal of the American Association for Cancer Education",
+      "pmid": "42665703",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665703/"
     },
     {
       "title": "Identification and characterization of novel alternatively spliced isoforms of the human RAB8B gene.",
@@ -83,12 +75,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42667459/"
     },
     {
-      "title": "Identification of new targets for the protection against radiation-induced brain injury through integrated dual-omics analysis.",
-      "authors": "Li X, Shu K, He X, Zhou M, Ding Z",
+      "title": "Spatial lipidomics of the human brain: systematic review of current state and future perspectives.",
+      "authors": "Cabasino C, Enrico P, Bottaro F, De Santis D, Cagnoli C",
       "published": "2026-08-29",
-      "journal": "Experimental neurology",
-      "pmid": "42668079",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668079/"
+      "journal": "Molecular psychiatry",
+      "pmid": "42668271",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668271/"
     },
     {
       "title": "Early Retinal UCHL1 Dysregulation Coupled With Synaptic Loss Reflects Alzheimer's Disease Severity.",
@@ -99,12 +91,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42666080/"
     },
     {
-      "title": "Overview of the re-evaluation of trace elements as nutritional feed additives in the European Union: characterization, safety, and efficacy.",
-      "authors": "López-Gálvez G, Bastos ML, Cubadda F, Gralak MA, Hogstrand C",
+      "title": "Identification of new targets for the protection against radiation-induced brain injury through integrated dual-omics analysis.",
+      "authors": "Li X, Shu K, He X, Zhou M, Ding Z",
       "published": "2026-08-29",
-      "journal": "Journal of the science of food and agriculture",
-      "pmid": "42666066",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42666066/"
+      "journal": "Experimental neurology",
+      "pmid": "42668079",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668079/"
+    },
+    {
+      "title": "TEX264-mediated ER-phagy dysfunction contributes to Cadmium-induced ER stress: Implication of hippocampal neuronal apoptosis and cognitive deficits.",
+      "authors": "Gao Y, Cao L, Hong Y, Ke H, Yuan Q",
+      "published": "2026-08-29",
+      "journal": "Chemico-biological interactions",
+      "pmid": "42668033",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668033/"
+    },
+    {
+      "title": "Gene flow, kinship, and source population assignment in Chrysomya blow flies.",
+      "authors": "Salem AM, Picard CJ, Eleftherianos I, Zaher EE, Al-Akeel RK",
+      "published": "2026-08-29",
+      "journal": "Scientific reports",
+      "pmid": "42668273",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668273/"
+    },
+    {
+      "title": "Postmortem CT findings of cardiac and great-vessel blood clots in fatal hypothermia: comparison with autopsy measurements.",
+      "authors": "Takeuchi A, Jin S, Kiuchi T, Matoba T, Hara Y",
+      "published": "2026-08-29",
+      "journal": "Legal medicine (Tokyo, Japan)",
+      "pmid": "42667862",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667862/"
+    },
+    {
+      "title": "Thymic teratoma in a chicken and a literature review of gonadal and extragonadal teratomas in veterinary species.",
+      "authors": "Harris MC, Frank CB",
+      "published": "2026-08-29",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "pmid": "42668361",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668361/"
     },
     {
       "title": "Macrophage RSAD2 Couples mtDNA Synthesis With a Self-Amplifying Inflammatory Circuit to Orchestrate Tissue Repair.",
@@ -123,60 +147,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42667651/"
     },
     {
-      "title": "Self-skin Examination for Skin Cancer Detection in High-risk Populations: A Diagnostic Accuracy Study and Implications for Cancer Education.",
-      "authors": "Climstein M, Stapelberg M, Miller I, Rosic N, Hudson J",
-      "published": "2026-08-29",
-      "journal": "Journal of cancer education : the official journal of the American Association for Cancer Education",
-      "pmid": "42665703",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42665703/"
-    },
-    {
-      "title": "TEX264-mediated ER-phagy dysfunction contributes to Cadmium-induced ER stress: Implication of hippocampal neuronal apoptosis and cognitive deficits.",
-      "authors": "Gao Y, Cao L, Hong Y, Ke H, Yuan Q",
-      "published": "2026-08-29",
-      "journal": "Chemico-biological interactions",
-      "pmid": "42668033",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668033/"
-    },
-    {
-      "title": "Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study.",
-      "authors": "Sepehri Shamloo A, Chiba T, Tijssen JGP, Althof T, Boveda S",
+      "title": "Development of a cut-off score for the growth and empowerment measure for Aboriginal and Torres Strait Islander young people (Growth and Empowerment Measure Youth).",
+      "authors": "Wittenhagen L, Meurk C, Dale P, Harden S, Williams M",
       "published": "2026-08-28",
-      "journal": "European heart journal",
-      "pmid": "42663237",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663237/"
-    },
-    {
-      "title": "Central Nervous System Infections in Sudden Unexpected Death in Infancy: A Systematic Review of Autopsy-Based Pediatric Pathology.",
-      "authors": "Camatti J, Santunione AL, Cecchi R, Carretto E, Radheshi E",
-      "published": "2026-08-28",
-      "journal": "Fetal and pediatric pathology",
-      "pmid": "42663317",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663317/"
-    },
-    {
-      "title": "Attention-deficit hyperactivity disorder and perinatal mental illness: a population-based study.",
-      "authors": "Vigod SN, Zipursky J, Babujee A, Barker LC, Bolea-Alamanac B",
-      "published": "2026-08-28",
-      "journal": "Social psychiatry and psychiatric epidemiology",
-      "pmid": "42663665",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663665/"
-    },
-    {
-      "title": "Emerging Risk of Visceral Leishmaniasis in a Non-Endemic Area of Southern Brazil: Sand Fly Survey and Identification of a Dog Positive for Leishmania infantum Using a kDNA-Based PCR Assay.",
-      "authors": "Guesser JVC, Yoshikawa AAG, Beneti JC, Cardoso SF, Dutra LR",
-      "published": "2026-08-28",
-      "journal": "Acta tropica",
-      "pmid": "42665181",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42665181/"
-    },
-    {
-      "title": "How We Mentalize Shapes Our Sexual Life: Evidence from a Cross-Lagged Panel Analysis.",
-      "authors": "Gaertner LHC, Fuchshuber J, Reininger KM, Briken P",
-      "published": "2026-08-28",
-      "journal": "Journal of sex research",
-      "pmid": "42664387",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42664387/"
+      "journal": "The Australian and New Zealand journal of psychiatry",
+      "pmid": "42664077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664077/"
     },
     {
       "title": "Broad-spectrum LC-MS/MS hair analysis for monitoring recreational drug use in electronic dance music festival attendees.",
@@ -187,20 +163,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42663887/"
     },
     {
-      "title": "Development of a cut-off score for the growth and empowerment measure for Aboriginal and Torres Strait Islander young people (Growth and Empowerment Measure Youth).",
-      "authors": "Wittenhagen L, Meurk C, Dale P, Harden S, Williams M",
+      "title": "TensorPat: Explainable artificial intelligence for EEG-based violence-stimulus classification.",
+      "authors": "Tas S, Tanko D, Gun MV, Yildirim K, Goktas OF",
       "published": "2026-08-28",
-      "journal": "The Australian and New Zealand journal of psychiatry",
-      "pmid": "42664077",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42664077/"
+      "journal": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+      "pmid": "42663982",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663982/"
     },
     {
-      "title": "Three-year review of tetrahydrocannabinol and alcohol blood concentrations and effects in impaired driving investigations in Ontario, Canada.",
-      "authors": "Amundarain S, Currie Z, Woodall K",
+      "title": "Prevalence, determinants and trends of anabolic-androgenic steroid use among 93,437 high-school students: Repeated cross-sectional studies in Italy.",
+      "authors": "Molinaro S, Vigani A, Stival C, Lugo A, Cerrai S",
       "published": "2026-08-28",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "42664071",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42664071/"
+      "journal": "Public health",
+      "pmid": "42664874",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664874/"
     },
     {
       "title": "Eight years of nationwide routine wastewater surveillance in New Zealand: Demonstrating its complementary role in public health policy.",
@@ -211,36 +187,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42664537/"
     },
     {
-      "title": "Simian Immunodeficiency virus/ Human Immunodeficiency virus induces arachidonic acid-mediated inflammation in the heart by a Pannexin-1 mechanism.",
-      "authors": "Ajasin D, Devin S, Labberton J, Valdebenito S, Donoso M",
+      "title": "Workup and management of rhythm disorders in myocarditis and inflammatory cardiomyopathy: a clinical consensus statement of the European Heart Rhythm Association and the Heart Failure Association of the ESC, the ESC Working Group on Myocardial & Pericardial Diseases, the European Association of Preventive Cardiology of the ESC, the Heart Rhythm Society, the Asian Pacific Heart Rhythm Society, and the Latin American Heart Rhythm Society.",
+      "authors": "Peretto G, Basso C, Berruezo A, Bollano E, Caforio ALP",
       "published": "2026-08-28",
-      "journal": "The American journal of pathology",
-      "pmid": "42665161",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42665161/"
+      "journal": "European journal of heart failure",
+      "pmid": "42663246",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663246/"
     },
     {
-      "title": "Evolving an Aptameric Nose for Synthetic Cannabinoids Through Modular Reprogramming of Specificity.",
-      "authors": "He Y, Zhang F, Wang H, Yang Y, Shao K",
+      "title": "Congenital Skin Sloughing in the Setting of Hydrops Fetalis Secondary to Congenital Diffuse Lymphangiectasia Mimicking Epidermolysis Bullosa.",
+      "authors": "Rafferty S, Wilson KL, Mancuso JB, Larsen N, Osborne GA",
       "published": "2026-08-28",
-      "journal": "Angewandte Chemie (International ed. in English)",
-      "pmid": "42664060",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42664060/"
+      "journal": "Pediatric dermatology",
+      "pmid": "42665572",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665572/"
     },
     {
-      "title": "In vivo imaging of synaptic density in psychotropic-free adults with autism spectrum disorder: a [¹¹C]UCB-J PET study.",
-      "authors": "Yokokura M, Tamayama T, Kameno Y, Iwabuchi T, Goto T",
+      "title": "Preparation of Formalin-Fixed, Paraffin-Embedded Bone Marrow Samples for Spatial Transcriptomics Using EDTA-Based Decalcification.",
+      "authors": "Campos-Dopazo L, Cócera M, Aguirre-Ruiz P, Ripalda-Cemborain P, Sarvide S",
       "published": "2026-08-28",
-      "journal": "Molecular psychiatry",
-      "pmid": "42661058",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661058/"
+      "journal": "Journal of visualized experiments : JoVE",
+      "pmid": "42667190",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667190/"
     },
     {
-      "title": "HER2-Targeted Therapy for Metastatic Colorectal Cancer: Current Evidence, Patient Selection, and Practical Treatment Sequencing.",
-      "authors": "Sagawa T, Nagashima H, Fujikawa K",
+      "title": "Three-year review of tetrahydrocannabinol and alcohol blood concentrations and effects in impaired driving investigations in Ontario, Canada.",
+      "authors": "Amundarain S, Currie Z, Woodall K",
       "published": "2026-08-28",
-      "journal": "Journal of gastrointestinal cancer",
-      "pmid": "42663748",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663748/"
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42664071",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664071/"
+    },
+    {
+      "title": "Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study.",
+      "authors": "Sepehri Shamloo A, Chiba T, Tijssen JGP, Althof T, Boveda S",
+      "published": "2026-08-28",
+      "journal": "European heart journal",
+      "pmid": "42663237",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663237/"
+    },
+    {
+      "title": "Nanobodies targeting SARS-CoV-2 papain-like protease exert dual antiviral and anti-inflammatory effects.",
+      "authors": "Liu G, Chen J, Wu F, Wei P, Wu Y",
+      "published": "2026-08-28",
+      "journal": "Journal of virology",
+      "pmid": "42663461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663461/"
+    },
+    {
+      "title": "Acute respiratory viral inflammation and metastatic dormancy: direct evidence, mechanistic convergence, and research priorities.",
+      "authors": "Atoom AM, Rizaev J, Polatova D, Patel PN, Jamuna KV",
+      "published": "2026-08-28",
+      "journal": "Cancer treatment and research communications",
+      "pmid": "42664754",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664754/"
     }
   ]
 }
