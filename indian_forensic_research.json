@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T10:53:32.018910+00:00",
+  "updated": "2026-09-01T15:51:21.877250+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -51,6 +51,16 @@
       "authors": "Dhivagar K, Perumal P, Vidya M, Manoranjan B, Vinay Bannur",
       "url": "https://doi.org/10.1177/09710973261477208",
       "doi": "10.1177/09710973261477208",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Association Between Blood Cadmium Levels and Cognitive Function in Patients with Parkinson’s Disease: A Pilot Study",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-09-01",
+      "authors": "Richa Choudhary, AK Singh, Shamrendra Narayan, Pradeep Kumar Yadav",
+      "url": "https://doi.org/10.1177/09710973261473437",
+      "doi": "10.1177/09710973261473437",
       "source": "Crossref",
       "country": "India"
     },
