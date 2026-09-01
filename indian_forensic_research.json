@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T15:51:21.877250+00:00",
+  "updated": "2026-09-01T20:22:00.708425+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -85,12 +85,22 @@
       "country": "India"
     },
     {
-      "title": "Burden and determinants of snakebite mortality in Tamil Nadu, India: a surveillance and verbal autopsy study",
-      "journal": "Transactions of The Royal Society of Tropical Medicine and Hygiene",
-      "published": "2026-08-22",
-      "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
-      "url": "https://doi.org/10.1093/trstmh/trag092",
-      "doi": "10.1093/trstmh/trag092",
+      "title": "Lay persons are not “lay” in Ethics Committees: Why the term merits ethical reconsideration",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-07",
+      "authors": "Abhijit Poddar, SR Rao",
+      "url": "https://doi.org/10.20529/ijme.2026.047",
+      "doi": "10.20529/ijme.2026.047",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Integrating humanities into undergraduate medical curricula: A narrative review exploring focus areas, pedagogical design, and evaluation strategies",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-04",
+      "authors": "Punithalingam Youhasan",
+      "url": "https://doi.org/10.20529/ijme.2026.046",
+      "doi": "10.20529/ijme.2026.046",
       "source": "Crossref",
       "country": "India"
     },
@@ -125,16 +135,6 @@
       "country": "India"
     },
     {
-      "title": "Autopsy-Confirmed Disseminated Human NeuroCoenurosis: First Report from India",
-      "journal": "Neurology India",
-      "published": "2026-08-19",
-      "authors": "Thejas N Javagal Amith, Valakunja Harikrishna Ganaraja, Jitender Saini, Aishwarya Iyer, B N Nandeesh, M Netravathi",
-      "url": "https://doi.org/10.4103/neurol-india.neurol-india-d-26-00071",
-      "doi": "10.4103/neurol-india.neurol-india-d-26-00071",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Sexual Assault Nurse Examiners (SANE) in Forensic Investigations: A Narrative Review",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-08-11",
@@ -161,16 +161,6 @@
       "authors": "Duha Ali Abdullah Aliwi, Obaida Ali Al-Dulaimi",
       "url": "https://doi.org/10.37506/7m58fh76",
       "doi": "10.37506/7m58fh76",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Occult Hepatic Pathology in Medicolegal Autopsies: A Single-Center Histopathological Study From Jharkhand, India",
-      "journal": "Cureus",
-      "published": "2026-08-03",
-      "authors": "Sujit D. R Biswal, Manoj K Paswan, Anshu Jamaiyar",
-      "url": "https://doi.org/10.7759/cureus.113846",
-      "doi": "10.7759/cureus.113846",
       "source": "Crossref",
       "country": "India"
     },
@@ -215,16 +205,6 @@
       "country": "India"
     },
     {
-      "title": "The Blue Enigma: Decoding A typical Organ Discoloration-A Case Report",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Sudhanil Sarkar, Deepmalya Sengupta, Molly Banerjee, Sampad Barui",
-      "url": "https://doi.org/10.37506/v2mgge44",
-      "doi": "10.37506/v2mgge44",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Severe Lead Toxicity Simulating Myelodysplastic Neoplasm: A Case Report",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-08-11",
@@ -235,22 +215,22 @@
       "country": "India"
     },
     {
+      "title": "The Blue Enigma: Decoding A typical Organ Discoloration-A Case Report",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-08-11",
+      "authors": "Sudhanil Sarkar, Deepmalya Sengupta, Molly Banerjee, Sampad Barui",
+      "url": "https://doi.org/10.37506/v2mgge44",
+      "doi": "10.37506/v2mgge44",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Pattern of Pedestrian Limb Injuries in Road Traffic Accident CasesAutopsied at Victoria Hospital, Bmcri, Bengaluru",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-08-11",
       "authors": "Sumangala CN, Venkata Raghava S, Hemanth Reddy U P",
       "url": "https://doi.org/10.37506/381heb66",
       "doi": "10.37506/381heb66",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Pulmonary talcosis: An interesting autopsy revelation",
-      "journal": "Lung India",
-      "published": "2026-08-29",
-      "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
-      "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
-      "doi": "10.4103/lungindia.lungindia_200_26",
       "source": "Crossref",
       "country": "India"
     },
