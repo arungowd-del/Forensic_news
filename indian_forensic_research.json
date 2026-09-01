@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T22:14:52.642902+00:00",
+  "updated": "2026-09-01T02:54:30.221803+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -105,12 +105,12 @@
       "country": "India"
     },
     {
-      "title": "Sociodemographic profile and methods of suicide: A three-year autopsy based retrospective study from North India",
-      "journal": "International Journal of Forensic Medicine",
-      "published": "2026-08-01",
-      "authors": "Abhishek Sharma, Manoj Kumar Sharma",
-      "url": "https://doi.org/10.33545/27074447.2026.v8.i8a.153",
-      "doi": "10.33545/27074447.2026.v8.i8a.153",
+      "title": "Death, Decomposition, and the Domes: Making Specimens for Forensic Toxicology in British India",
+      "journal": "Isis",
+      "published": "2026-09-01",
+      "authors": "Uponita Mukherjee",
+      "url": "https://doi.org/10.1086/742429",
+      "doi": "10.1086/742429",
       "source": "Crossref",
       "country": "India"
     },
@@ -121,6 +121,16 @@
       "authors": "Devendra Jadav",
       "url": "https://doi.org/10.1177/19253621261478808",
       "doi": "10.1177/19253621261478808",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Machine learning-based classification of population affinity in two North Indian populations using morphological dental traits-Forensic implications",
+      "journal": "Legal Medicine",
+      "published": "2026-09-01",
+      "authors": "Damini Siwan, Ankita Guleria, Rakesh Meena, Nandini Chitara, Akansha Rana, Ayushi Srivastava, Tej Kaur, Arun K. Garg, Vishal Sharma, Kewal Krishan",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.102903",
+      "doi": "10.1016/j.legalmed.2026.102903",
       "source": "Crossref",
       "country": "India"
     },
