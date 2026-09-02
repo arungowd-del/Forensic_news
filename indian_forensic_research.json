@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T20:22:00.708425+00:00",
+  "updated": "2026-09-02T02:14:29.496643+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -131,6 +131,16 @@
       "authors": "Damini Siwan, Ankita Guleria, Rakesh Meena, Nandini Chitara, Akansha Rana, Ayushi Srivastava, Tej Kaur, Arun K. Garg, Vishal Sharma, Kewal Krishan",
       "url": "https://doi.org/10.1016/j.legalmed.2026.102903",
       "doi": "10.1016/j.legalmed.2026.102903",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Autopsy-Confirmed Disseminated Human NeuroCoenurosis: First Report from India",
+      "journal": "Neurology India",
+      "published": "2026-08-19",
+      "authors": "Thejas N Javagal Amith, Valakunja Harikrishna Ganaraja, Jitender Saini, Aishwarya Iyer, B N Nandeesh, M Netravathi",
+      "url": "https://doi.org/10.4103/neurol-india.neurol-india-d-26-00071",
+      "doi": "10.4103/neurol-india.neurol-india-d-26-00071",
       "source": "Crossref",
       "country": "India"
     },
