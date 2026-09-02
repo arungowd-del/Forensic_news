@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:14:29.496643+00:00",
+  "updated": "2026-09-02T10:18:57.292417+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -171,6 +171,16 @@
       "authors": "Duha Ali Abdullah Aliwi, Obaida Ali Al-Dulaimi",
       "url": "https://doi.org/10.37506/7m58fh76",
       "doi": "10.37506/7m58fh76",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Occult Hepatic Pathology in Medicolegal Autopsies: A Single-Center Histopathological Study From Jharkhand, India",
+      "journal": "Cureus",
+      "published": "2026-08-03",
+      "authors": "Sujit D. R Biswal, Manoj K Paswan, Anshu Jamaiyar",
+      "url": "https://doi.org/10.7759/cureus.113846",
+      "doi": "10.7759/cureus.113846",
       "source": "Crossref",
       "country": "India"
     },
