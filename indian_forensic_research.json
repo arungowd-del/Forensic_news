@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T15:31:59.669856+00:00",
+  "updated": "2026-09-04T20:06:54.817947+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,16 +91,6 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Lay persons are not “lay” in Ethics Committees: Why the term merits ethical reconsideration",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-08-07",
-      "authors": "Abhijit Poddar, SR Rao",
-      "url": "https://doi.org/10.20529/ijme.2026.047",
-      "doi": "10.20529/ijme.2026.047",
       "source": "Crossref",
       "country": "India"
     },
@@ -275,22 +265,22 @@
       "country": "India"
     },
     {
+      "title": "Paraquat poisoning in pregnancy",
+      "journal": "Indian Journal of Pathology and Microbiology",
+      "published": "2026-09-03",
+      "authors": "Pradeep Vaideeswar, Rahul Rajbhar",
+      "url": "https://doi.org/10.4103/ijpm.ijpm_957_24",
+      "doi": "10.4103/ijpm.ijpm_957_24",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Pulmonary talcosis: An interesting autopsy revelation",
       "journal": "Lung India",
       "published": "2026-08-29",
       "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
       "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
       "doi": "10.4103/lungindia.lungindia_200_26",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Medicolegal News",
-      "journal": "Journal of Indian Medico Legal and Ethics Association",
-      "published": "2026-08-28",
-      "authors": "Sushma Pande, Sanket S Pande",
-      "url": "https://doi.org/10.5005/jimlea-11019-0022",
-      "doi": "10.5005/jimlea-11019-0022",
       "source": "Crossref",
       "country": "India"
     }
