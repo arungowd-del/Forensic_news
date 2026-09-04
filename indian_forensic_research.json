@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T20:21:22.001459+00:00",
+  "updated": "2026-09-04T02:16:42.758835+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,6 +91,16 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Lay persons are not “lay” in Ethics Committees: Why the term merits ethical reconsideration",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-07",
+      "authors": "Abhijit Poddar, SR Rao",
+      "url": "https://doi.org/10.20529/ijme.2026.047",
+      "doi": "10.20529/ijme.2026.047",
       "source": "Crossref",
       "country": "India"
     },
