@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T02:16:42.758835+00:00",
+  "updated": "2026-09-04T10:16:52.423434+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -245,22 +245,22 @@
       "country": "India"
     },
     {
-      "title": "The Blue Enigma: Decoding A typical Organ Discoloration-A Case Report",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Sudhanil Sarkar, Deepmalya Sengupta, Molly Banerjee, Sampad Barui",
-      "url": "https://doi.org/10.37506/v2mgge44",
-      "doi": "10.37506/v2mgge44",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Severe Lead Toxicity Simulating Myelodysplastic Neoplasm: A Case Report",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-08-11",
       "authors": "Anamika Bakliwal, Anil Handoo, Jatin Munjal, Aditi Mittal, Sanjeev Kumar Sharma",
       "url": "https://doi.org/10.37506/jxavyc15",
       "doi": "10.37506/jxavyc15",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The Blue Enigma: Decoding A typical Organ Discoloration-A Case Report",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-08-11",
+      "authors": "Sudhanil Sarkar, Deepmalya Sengupta, Molly Banerjee, Sampad Barui",
+      "url": "https://doi.org/10.37506/v2mgge44",
+      "doi": "10.37506/v2mgge44",
       "source": "Crossref",
       "country": "India"
     },
