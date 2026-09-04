@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-04T01:39:31.033160Z",
+  "updated": "2026-09-04T10:03:44.997587Z",
   "source": "PubMed",
   "items": [
+    {
+      "title": "Microplastics in the umbilical vein of fetal growth restricted and healthy fetuses: A preliminary Turkish selected case series.",
+      "authors": "Bıyık İ, Şener H, Tinelli A",
+      "published": "2026-09-04",
+      "journal": "Turkish journal of obstetrics and gynecology",
+      "pmid": "42095682",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42095682/"
+    },
     {
       "title": "The Cardiometabolic Effects of Menopause.",
       "authors": "Karam J, Lau ES, Shufelt CL",
@@ -11,28 +19,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42691325/"
     },
     {
-      "title": "Activation of transposable elements is linked to a region- and cell type-specific interferon response in Parkinson's disease.",
-      "authors": "Garza R, Adami A, Thiruvalluvan A, Wijesinghe S, Curle A",
-      "published": "2026-09-04",
-      "journal": "Science advances",
-      "pmid": "42685224",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685224/"
-    },
-    {
-      "title": "Phytogenic MnFe(2)O(4) nanoparticles derived from phyllanthus emblica for multifunctional applications: dye degradation, antibacterial activity, and latent fingerprint enhancement with MATLAB-based similarity analysis.",
-      "authors": "D N, P R, G Y",
+      "title": "Progress in nanoparticle-mediated photothermal therapy for Acne vulgaris: Recent clinical advances and potential AI integration.",
+      "authors": "Manivasagan P, Joe A, Han HW, Thambi T, Jeon YJ",
       "published": "2026-09-03",
-      "journal": "International journal of phytoremediation",
-      "pmid": "42689498",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689498/"
-    },
-    {
-      "title": "Notes from the Field: Cannabis Detection Among Overdose Deaths - United States, 2021-2025.",
-      "authors": "Tanz LJ, Quader ZS, Mattson CL, Vivolo-Kantor AM",
-      "published": "2026-09-03",
-      "journal": "MMWR. Morbidity and mortality weekly report",
-      "pmid": "42691021",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691021/"
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "pmid": "42691576",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691576/"
     },
     {
       "title": "Evaluation of the use of molecular markers for the prediction of human facial features for forensic purposes: a systematic review.",
@@ -43,52 +35,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42690258/"
     },
     {
-      "title": "Death, bereavement and grief 'etiquette': Exploring remembrance and values.",
-      "authors": "Dayes J, Keenan J, Wilson G, Sadza M, Croucher K",
-      "published": "2026-09-03",
-      "journal": "Death studies",
-      "pmid": "42689340",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689340/"
-    },
-    {
-      "title": "Surface oxygen-enriched molydenum boride integrated electrode for high-performance hydrogen evolution reaction.",
-      "authors": "Sun J, Liu C, Zhao P, Chen X, Li F",
-      "published": "2026-09-03",
-      "journal": "Chemical communications (Cambridge, England)",
-      "pmid": "42581814",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581814/"
-    },
-    {
-      "title": "Asymmetric urinary lesions associated with Proteus mirabilis infection in a beef calf.",
-      "authors": "Kanno C, Kanazashi R, Sato S, Maeda Y, Sasaki A",
-      "published": "2026-09-03",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "pmid": "42689872",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689872/"
-    },
-    {
-      "title": "Emerging tick-borne viral diseases in East Asia: pathology-driven insights into pathogenesis and disease causality.",
-      "authors": "Hirata Y, Sakai Y, Suzuki T",
-      "published": "2026-09-03",
-      "journal": "Clinical microbiology reviews",
-      "pmid": "42690064",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690064/"
-    },
-    {
-      "title": "An integrated extraction-free LAMP platform with colorimetric, real-time, and immunochromatographic strip detection for rapid male-specific DNA screening in forensic triage.",
-      "authors": "Kim Y, Choi J, Oh Y, Kim E, Lee H",
-      "published": "2026-09-03",
-      "journal": "Analytical sciences : the international journal of the Japan Society for Analytical Chemistry",
-      "pmid": "42690552",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690552/"
-    },
-    {
       "title": "A technical note on the preparation and staining of unfixed, undecalcified and unembedded fresh and taphonomically altered human bone with five common stains and dyes.",
       "authors": "Dinu SA, Sluis I, Duijst W, Krap T",
       "published": "2026-09-03",
       "journal": "International journal of legal medicine",
       "pmid": "42690259",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42690259/"
+    },
+    {
+      "title": "Medico-legal governance of mass fatality incidents: A scoping review of forensic organisational models, operational vulnerabilities and lessons learned.",
+      "authors": "Sirago G, Esposito M, Sessa F, Salerno M, Solarino B",
+      "published": "2026-09-03",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42693386",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693386/"
     },
     {
       "title": "PCIPG: A comprehensive framework for protein complex identification based on a probabilistic graphical model.",
@@ -99,6 +59,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42691127/"
     },
     {
+      "title": "Prompt Strategy and Model Choice in AI-Assisted Gross Anatomy Education: Evaluating Zero-Shot, Few-Shot, and Chain-of-Thought Prompting for Image Interpretation.",
+      "authors": "Mavrych V, Shaibah HS, Obeidat A, Yaqinuddin A, Ikram MF",
+      "published": "2026-09-03",
+      "journal": "Clinical anatomy (New York, N.Y.)",
+      "pmid": "42693451",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693451/"
+    },
+    {
+      "title": "Generative multi-objective optimization of national park boundary growth within coupled human and natural systems: Evidence from the candidate Altai Mountains National Park.",
+      "authors": "Han J, Yang Z, Han F",
+      "published": "2026-09-03",
+      "journal": "Journal of environmental management",
+      "pmid": "42691800",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691800/"
+    },
+    {
       "title": "Thermal alteration of skeletal remains in forensic anthropology: a systematic review.",
       "authors": "Cevahiroglu N, Buyuksungur A",
       "published": "2026-09-03",
@@ -107,20 +83,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42690257/"
     },
     {
-      "title": "Changes in five cerebrospinal fluid and three plasma Alzheimer's disease biomarkers across increasing brain amyloid-beta and tau pathology burden.",
-      "authors": "Mastrangelo A, Baiardi S, Ruggeri E, Bentivenga GM, Vargiu CM",
+      "title": "Pharmaceuticals and Illicit Drugs in Environmental Waters: A Systematic Review and Quantitative Analysis of Global Trends 2004-2021. Part 1.",
+      "authors": "Coelho FDA, Morgan R, Campos LC",
       "published": "2026-09-03",
-      "journal": "Acta neuropathologica",
-      "pmid": "42690439",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690439/"
+      "journal": "Environmental toxicology and pharmacology",
+      "pmid": "42692313",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692313/"
     },
     {
-      "title": "Independent prognostic value of semaphorin-4D, interleukin-1β and complement activation in newly diagnosed multiple myeloma patients.",
-      "authors": "Ntanasis-Stathopoulos I, Nikolaou PE, Filippatos C, Miliotis M, Kostopoulos IV",
+      "title": "Notes from the Field: Cannabis Detection Among Overdose Deaths - United States, 2021-2025.",
+      "authors": "Tanz LJ, Quader ZS, Mattson CL, Vivolo-Kantor AM",
       "published": "2026-09-03",
-      "journal": "Haematologica",
-      "pmid": "42687818",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687818/"
+      "journal": "MMWR. Morbidity and mortality weekly report",
+      "pmid": "42691021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691021/"
+    },
+    {
+      "title": "Death, bereavement and grief 'etiquette': Exploring remembrance and values.",
+      "authors": "Dayes J, Keenan J, Wilson G, Sadza M, Croucher K",
+      "published": "2026-09-03",
+      "journal": "Death studies",
+      "pmid": "42689340",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689340/"
     },
     {
       "title": "The Effect of Forum Theater on Nursing Students' Attitudes Toward Forensic Psychiatric Patients.",
@@ -131,36 +115,52 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42687132/"
     },
     {
-      "title": "Fentanyl concentrations for peripheral blood and brain samples in non-medical postmortem cases.",
-      "authors": "Chang HH, Cliburn K, Kemp J, Mata DC",
-      "published": "2026-09-02",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "42687423",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687423/"
+      "title": "Phytogenic MnFe(2)O(4) nanoparticles derived from phyllanthus emblica for multifunctional applications: dye degradation, antibacterial activity, and latent fingerprint enhancement with MATLAB-based similarity analysis.",
+      "authors": "D N, P R, G Y",
+      "published": "2026-09-03",
+      "journal": "International journal of phytoremediation",
+      "pmid": "42689498",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689498/"
     },
     {
-      "title": "Catecholaminergic polymorphic ventricular tachycardia mediated by ryanodine receptor 2: a validated risk stratification.",
-      "authors": "Lieve KV, van der Werf C, Kallas D, Denjoy I, Bos JM",
-      "published": "2026-09-02",
-      "journal": "European heart journal",
-      "pmid": "41416846",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41416846/"
+      "title": "Comparative effectiveness of clarithromycin and azithromycin for pertussis in hospitalised infants in Italy: a multicentre target trial emulation study.",
+      "authors": "Lo Vecchio A, Moracas C, Poeta M, Colomba C, Petrarca L",
+      "published": "2026-09-03",
+      "journal": "The Lancet. Child & adolescent health",
+      "pmid": "42692047",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692047/"
     },
     {
-      "title": "Postmortem Blood Procalcitonin (PCT) for identifying sepsis as a cause of death: a systematic review and meta-analysis.",
-      "authors": "Chandran A, Khadanga S, Gupta A, Chhabra D, Kori A",
-      "published": "2026-09-02",
-      "journal": "International journal of legal medicine",
-      "pmid": "42684429",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684429/"
+      "title": "Changes in five cerebrospinal fluid and three plasma Alzheimer's disease biomarkers across increasing brain amyloid-beta and tau pathology burden.",
+      "authors": "Mastrangelo A, Baiardi S, Ruggeri E, Bentivenga GM, Vargiu CM",
+      "published": "2026-09-03",
+      "journal": "Acta neuropathologica",
+      "pmid": "42690439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690439/"
     },
     {
-      "title": "Essential antiarrhythmic drug accessibility worldwide: A multi-survey study and comprehensive evaluation of access and supply challenges.",
-      "authors": "Postema PG, Reijnhout ND, Ballacci F, Manders EA, Hoeksema WF",
-      "published": "2026-09-02",
-      "journal": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
-      "pmid": "42680576",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42680576/"
+      "title": "Extracellular chromatin fragments as biomarkers for cancer screening.",
+      "authors": "Vinciguerra M, K Tsoneva D",
+      "published": "2026-09-03",
+      "journal": "Seminars in cancer biology",
+      "pmid": "42692176",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692176/"
+    },
+    {
+      "title": "Surface oxygen-enriched molydenum boride integrated electrode for high-performance hydrogen evolution reaction.",
+      "authors": "Sun J, Liu C, Zhao P, Chen X, Li F",
+      "published": "2026-09-03",
+      "journal": "Chemical communications (Cambridge, England)",
+      "pmid": "42581814",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581814/"
+    },
+    {
+      "title": "High Embolic Risk with Orbital Atherectomy for Calcified Peripheral Artery Disease.",
+      "authors": "Gilyazov R, de Oliveira BB, Glushkov M, Deegan P, MacTaggart J",
+      "published": "2026-09-03",
+      "journal": "Annals of biomedical engineering",
+      "pmid": "42693302",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693302/"
     },
     {
       "title": "Factors Associated With Requests for Mental Health Services Among Sexual Violence Survivors in South Korea: A Retrospective Cohort Study.",
@@ -171,38 +171,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42681573/"
     },
     {
-      "title": "Artificial Intelligence Systems in Prosthodontics: Current Applications and Challenges.",
-      "authors": "Faure M, Millet C, Richert R, Rokhshad R, Tamimi F",
-      "published": "2026-09-02",
-      "journal": "Australian dental journal",
-      "pmid": "42687376",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687376/"
-    },
-    {
-      "title": "Transformative Potential of Laser Induced Breakdown Spectroscopy (LIBS) for the Analysis of Crime Scene Evidences: Application in Forensic Science.",
-      "authors": "R A, Shrivastava S, Saxena AK",
-      "published": "2026-09-02",
-      "journal": "Critical reviews in analytical chemistry",
-      "pmid": "42682092",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682092/"
-    },
-    {
-      "title": "Establishment of a novel human nervous system tissue bank: University of Debrecen tissue bank-introduction and retrospective data analysis.",
-      "authors": "Bencs V, Hortobágyi T, Nagy AC, Kozák M, Méhes G",
-      "published": "2026-09-02",
-      "journal": "Cell and tissue banking",
-      "pmid": "42684486",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684486/"
-    },
-    {
-      "title": "Ammonia gas induced interfacial reconstruction of Cu/Zn-MOFs enhances SOD-like catalysis for intracellular ROS regulation and osteoimmunomodulation.",
-      "authors": "Feng S, Yu J, Gao X, Tang LJ, Yang Z",
-      "published": "2026-09-02",
-      "journal": "Journal of materials chemistry. B",
-      "pmid": "42610189",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42610189/"
-    },
-    {
       "title": "POLD1 and Endometrial Cancer: Molecular Mechanisms, Genomic Pathology, and Emerging Therapeutics.",
       "authors": "Houlal A, Mobarki M, Musawi S, Péoc'h M, Karpathiou G",
       "published": "2026-09-02",
@@ -211,12 +179,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42684934/"
     },
     {
-      "title": "Quantitative Isomer Profiling of Synthetic Phosphatidylethanol by NMR and Advanced MS Techniques.",
-      "authors": "Bantle M, Brockbals L, Gossert AD, Gjuroski I, Furrer J",
+      "title": "Guidance for laboratory implementation, governance and continuous assurance of artificial intelligence in histopathology.",
+      "authors": "Rakha EA, Wesseling J, Kovács A, Ryška A, Provenzano E",
       "published": "2026-09-02",
-      "journal": "Journal of the American Society for Mass Spectrometry",
-      "pmid": "42690745",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690745/"
+      "journal": "Virchows Archiv : an international journal of pathology",
+      "pmid": "42684470",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684470/"
+    },
+    {
+      "title": "A Modified Delphi Study on the Ethics and Governance of Live Injecting at Aesthetic Conferences. Is There a Better and Safer Alternative?",
+      "authors": "Goodman GJ, Magnusson MR, Rahman E, Boxley SG, Kumar N",
+      "published": "2026-09-02",
+      "journal": "Aesthetic surgery journal",
+      "pmid": "42680160",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680160/"
+    },
+    {
+      "title": "Postmortem Blood Procalcitonin (PCT) for identifying sepsis as a cause of death: a systematic review and meta-analysis.",
+      "authors": "Chandran A, Khadanga S, Gupta A, Chhabra D, Kori A",
+      "published": "2026-09-02",
+      "journal": "International journal of legal medicine",
+      "pmid": "42684429",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684429/"
     },
     {
       "title": "In vitro study and in silico reveal Teucrium Polium L. methanolic extract as an apoptosis inducer and a potential Bcl-2 inhibitor for breast cancer.",
@@ -227,12 +211,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42684581/"
     },
     {
-      "title": "Integrative Surface Antigen Profiling of KLK2 and STEAP1 in Advanced Prostate Cancer.",
-      "authors": "Sayar E, Richards HM, Gulati R, Patel RA, Hanratty B",
+      "title": "A proposed morphological and metric method for three-dimensional nasal reconstruction.",
+      "authors": "Singh S, Purkait R",
       "published": "2026-09-02",
-      "journal": "Molecular cancer research : MCR",
-      "pmid": "42189191",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42189191/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42684428",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684428/"
+    },
+    {
+      "title": "Fentanyl concentrations for peripheral blood and brain samples in non-medical postmortem cases.",
+      "authors": "Chang HH, Cliburn K, Kemp J, Mata DC",
+      "published": "2026-09-02",
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42687423",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687423/"
+    },
+    {
+      "title": "Multiple Measles Transmission Events Associated With a Single Traveler Arriving in the United States, May 2025.",
+      "authors": "Fowler JJ, Metz A, Barnes M, Gearhart SL, Filardo TD",
+      "published": "2026-09-02",
+      "journal": "The Journal of infectious diseases",
+      "pmid": "41762149",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41762149/"
     },
     {
       "title": "Arsenic-driven agricultural soil risk exceeds industrial contamination in Punjab, India: a replicated EDXRF and 16S rRNA assessment across three land-use types and three agro-ecological districts.",
