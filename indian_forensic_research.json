@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T20:06:54.817947+00:00",
+  "updated": "2026-09-05T02:17:32.979112+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -81,16 +81,6 @@
       "authors": "Yogeswari V, Arunjayan R., Nithya S",
       "url": "https://doi.org/10.1177/09710973261471709",
       "doi": "10.1177/09710973261471709",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Burden and determinants of snakebite mortality in Tamil Nadu, India: a surveillance and verbal autopsy study",
-      "journal": "Transactions of The Royal Society of Tropical Medicine and Hygiene",
-      "published": "2026-08-22",
-      "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
-      "url": "https://doi.org/10.1093/trstmh/trag092",
-      "doi": "10.1093/trstmh/trag092",
       "source": "Crossref",
       "country": "India"
     },
@@ -275,12 +265,12 @@
       "country": "India"
     },
     {
-      "title": "Pulmonary talcosis: An interesting autopsy revelation",
-      "journal": "Lung India",
-      "published": "2026-08-29",
-      "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
-      "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
-      "doi": "10.4103/lungindia.lungindia_200_26",
+      "title": "Medicolegal News",
+      "journal": "Journal of Indian Medico Legal and Ethics Association",
+      "published": "2026-08-28",
+      "authors": "Sushma Pande, Sanket S Pande",
+      "url": "https://doi.org/10.5005/jimlea-11019-0022",
+      "doi": "10.5005/jimlea-11019-0022",
       "source": "Crossref",
       "country": "India"
     }
