@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T02:17:32.979112+00:00",
+  "updated": "2026-09-05T09:45:36.912550+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -81,6 +81,26 @@
       "authors": "Yogeswari V, Arunjayan R., Nithya S",
       "url": "https://doi.org/10.1177/09710973261471709",
       "doi": "10.1177/09710973261471709",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Burden and determinants of snakebite mortality in Tamil Nadu, India: a surveillance and verbal autopsy study",
+      "journal": "Transactions of The Royal Society of Tropical Medicine and Hygiene",
+      "published": "2026-08-22",
+      "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
+      "url": "https://doi.org/10.1093/trstmh/trag092",
+      "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Lay persons are not “lay” in Ethics Committees: Why the term merits ethical reconsideration",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-07",
+      "authors": "Abhijit Poddar, SR Rao",
+      "url": "https://doi.org/10.20529/ijme.2026.047",
+      "doi": "10.20529/ijme.2026.047",
       "source": "Crossref",
       "country": "India"
     },
@@ -261,6 +281,16 @@
       "authors": "Pradeep Vaideeswar, Rahul Rajbhar",
       "url": "https://doi.org/10.4103/ijpm.ijpm_957_24",
       "doi": "10.4103/ijpm.ijpm_957_24",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Pulmonary talcosis: An interesting autopsy revelation",
+      "journal": "Lung India",
+      "published": "2026-08-29",
+      "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
+      "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
+      "doi": "10.4103/lungindia.lungindia_200_26",
       "source": "Crossref",
       "country": "India"
     },
