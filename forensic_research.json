@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-04T19:58:25.765984Z",
+  "updated": "2026-09-05T01:40:26.961918Z",
   "source": "PubMed",
   "items": [
+    {
+      "title": "Antidiabetic and antioxidant potentials of the ethyl acetate fraction of Momordica charantia leaf methanolic extract: in vitro and in silico studies.",
+      "authors": "Lawal TA, Sholadoye QO, Adeyemo KA, Segba DE",
+      "published": "2026-09-05",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42160833",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160833/"
+    },
+    {
+      "title": "Identification of a pyrazolo[3,4-b]pyridine chemotype for dual focal adhesion kinase 1/2 (FAK1/2) targeting in triple-negative breast cancer.",
+      "authors": "Li H, Sun L, Ling H, Chang Y, Ren S",
+      "published": "2026-09-05",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42172799",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42172799/"
+    },
+    {
+      "title": "Biphenyl sulfonylurea Analogs as novel antiangiogenic agents: A repositioning and molecular modelling strategy.",
+      "authors": "Modh DH, Joshi M, Patel BM, Deokar H, Walhekar VS",
+      "published": "2026-09-05",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42172794",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42172794/"
+    },
+    {
+      "title": "Over-Penetration Risk of TASER 10 Conducted Electrical Weapon Darts in Humans.",
+      "authors": "Ho J, Dawes DM, Kunz SN, Ho KP, Miner JR",
+      "published": "2026-09-04",
+      "journal": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
+      "pmid": "42567155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42567155/"
+    },
+    {
+      "title": "Detection and Quantification of Carbon Monoxide in Postmortem Liver Tissues via Headspace GC-MS as an Alternative to Blood.",
+      "authors": "Velez AA, Phipps R",
+      "published": "2026-09-04",
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42696422",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696422/"
+    },
+    {
+      "title": "Implementation of an Evidence-Based Retinal Evaluation Pathway for Pediatric Abusive Head Trauma.",
+      "authors": "McLean N, Vargas-Whale R, Porterfield L",
+      "published": "2026-09-04",
+      "journal": "Journal of pediatric health care : official publication of National Association of Pediatric Nurse Associates & Practitioners",
+      "pmid": "42695963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42695963/"
+    },
+    {
+      "title": "The necessity of a humanitarian approach in clinical forensic medicine.",
+      "authors": "Aydoğdu HI",
+      "published": "2026-09-04",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42696391",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696391/"
+    },
     {
       "title": "Microplastics in the umbilical vein of fetal growth restricted and healthy fetuses: A preliminary Turkish selected case series.",
       "authors": "Bıyık İ, Şener H, Tinelli A",
@@ -11,12 +67,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42095682/"
     },
     {
-      "title": "Structural basis of internal Vangl2 peptide recognition by the Dvl2 PDZ domain.",
-      "authors": "Yang H, Deng H, Chen K, Zhang P, Xie N",
+      "title": "Familial, neuropathological and cellular analysis identify ARPP21 as a major amyotrophic lateral sclerosis associated gene in French cohorts.",
+      "authors": "de Bertier S, Amador MD, Guissart C, Miki T, Boillée S",
       "published": "2026-09-04",
-      "journal": "Molecular biomedicine",
-      "pmid": "42693382",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693382/"
+      "journal": "Acta neuropathologica",
+      "pmid": "42696048",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696048/"
+    },
+    {
+      "title": "Comparative GC-MS and LC-MS/MS characterization of four 8-hydroxyhexahydrocannabinol stereoisomers and their TMS derivatives.",
+      "authors": "Ieuji K, Kondo M, Nakamura K, Takahashi H",
+      "published": "2026-09-04",
+      "journal": "Forensic toxicology",
+      "pmid": "42696198",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696198/"
     },
     {
       "title": "Activation of transposable elements is linked to a region- and cell type-specific interferon response in Parkinson's disease.",
@@ -27,6 +91,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685224/"
     },
     {
+      "title": "Medication Safety Pictograms to Reduce Drug-Impaired Driving.",
+      "authors": "Corbett MR, Osawa KA, Neuman KM, Walls HC, Hogan KA",
+      "published": "2026-09-04",
+      "journal": "Journal of studies on alcohol and drugs",
+      "pmid": "42696352",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696352/"
+    },
+    {
       "title": "The Cardiometabolic Effects of Menopause.",
       "authors": "Karam J, Lau ES, Shufelt CL",
       "published": "2026-09-04",
@@ -35,20 +107,68 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42691325/"
     },
     {
-      "title": "Medico-legal governance of mass fatality incidents: A scoping review of forensic organisational models, operational vulnerabilities and lessons learned.",
-      "authors": "Sirago G, Esposito M, Sessa F, Salerno M, Solarino B",
-      "published": "2026-09-03",
-      "journal": "Medicine, science, and the law",
-      "pmid": "42693386",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693386/"
+      "title": "Structural basis of internal Vangl2 peptide recognition by the Dvl2 PDZ domain.",
+      "authors": "Yang H, Deng H, Chen K, Zhang P, Xie N",
+      "published": "2026-09-04",
+      "journal": "Molecular biomedicine",
+      "pmid": "42693382",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693382/"
     },
     {
-      "title": "Independent prognostic value of semaphorin-4D, interleukin-1β and complement activation in newly diagnosed multiple myeloma patients.",
-      "authors": "Ntanasis-Stathopoulos I, Nikolaou PE, Filippatos C, Miliotis M, Kostopoulos IV",
+      "title": "Progress in nanoparticle-mediated photothermal therapy for Acne vulgaris: Recent clinical advances and potential AI integration.",
+      "authors": "Manivasagan P, Joe A, Han HW, Thambi T, Jeon YJ",
       "published": "2026-09-03",
-      "journal": "Haematologica",
-      "pmid": "42687818",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687818/"
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "pmid": "42691576",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691576/"
+    },
+    {
+      "title": "The novel trends and sustainable developments of graphene nanostructures for medical applications.",
+      "authors": "Awad SA, Al-Khubaisi AA, AlHeety NF, Khalaf EM, Elsayed DA",
+      "published": "2026-09-03",
+      "journal": "RSC advances",
+      "pmid": "42694696",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694696/"
+    },
+    {
+      "title": "Asymmetric urinary lesions associated with Proteus mirabilis infection in a beef calf.",
+      "authors": "Kanno C, Kanazashi R, Sato S, Maeda Y, Sasaki A",
+      "published": "2026-09-03",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "pmid": "42689872",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689872/"
+    },
+    {
+      "title": "Surface oxygen-enriched molydenum boride integrated electrode for high-performance hydrogen evolution reaction.",
+      "authors": "Sun J, Liu C, Zhao P, Chen X, Li F",
+      "published": "2026-09-03",
+      "journal": "Chemical communications (Cambridge, England)",
+      "pmid": "42581814",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581814/"
+    },
+    {
+      "title": "Extracellular chromatin fragments as biomarkers for cancer screening.",
+      "authors": "Vinciguerra M, K Tsoneva D",
+      "published": "2026-09-03",
+      "journal": "Seminars in cancer biology",
+      "pmid": "42692176",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692176/"
+    },
+    {
+      "title": "Liquid chromatography-tandem mass spectrometry quantification of five antihistamines in antemortem blood: method validation and application.",
+      "authors": "Jean K, Kahl KW, Reidy LJ",
+      "published": "2026-09-03",
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42593219",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593219/"
+    },
+    {
+      "title": "Thermal alteration of skeletal remains in forensic anthropology: a systematic review.",
+      "authors": "Cevahiroglu N, Buyuksungur A",
+      "published": "2026-09-03",
+      "journal": "International journal of legal medicine",
+      "pmid": "42690257",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690257/"
     },
     {
       "title": "An integrated extraction-free LAMP platform with colorimetric, real-time, and immunochromatographic strip detection for rapid male-specific DNA screening in forensic triage.",
@@ -67,52 +187,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42689498/"
     },
     {
-      "title": "A technical note on the preparation and staining of unfixed, undecalcified and unembedded fresh and taphonomically altered human bone with five common stains and dyes.",
-      "authors": "Dinu SA, Sluis I, Duijst W, Krap T",
+      "title": "The Effect of Forum Theater on Nursing Students' Attitudes Toward Forensic Psychiatric Patients.",
+      "authors": "Hançer Tok H, Ediz Ç, Uzun LN",
       "published": "2026-09-03",
-      "journal": "International journal of legal medicine",
-      "pmid": "42690259",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690259/"
-    },
-    {
-      "title": "Liquid chromatography-tandem mass spectrometry quantification of five antihistamines in antemortem blood: method validation and application.",
-      "authors": "Jean K, Kahl KW, Reidy LJ",
-      "published": "2026-09-03",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "42593219",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593219/"
-    },
-    {
-      "title": "Surface oxygen-enriched molydenum boride integrated electrode for high-performance hydrogen evolution reaction.",
-      "authors": "Sun J, Liu C, Zhao P, Chen X, Li F",
-      "published": "2026-09-03",
-      "journal": "Chemical communications (Cambridge, England)",
-      "pmid": "42581814",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581814/"
-    },
-    {
-      "title": "Prompt Strategy and Model Choice in AI-Assisted Gross Anatomy Education: Evaluating Zero-Shot, Few-Shot, and Chain-of-Thought Prompting for Image Interpretation.",
-      "authors": "Mavrych V, Shaibah HS, Obeidat A, Yaqinuddin A, Ikram MF",
-      "published": "2026-09-03",
-      "journal": "Clinical anatomy (New York, N.Y.)",
-      "pmid": "42693451",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693451/"
-    },
-    {
-      "title": "Thermal alteration of skeletal remains in forensic anthropology: a systematic review.",
-      "authors": "Cevahiroglu N, Buyuksungur A",
-      "published": "2026-09-03",
-      "journal": "International journal of legal medicine",
-      "pmid": "42690257",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690257/"
-    },
-    {
-      "title": "Changes in five cerebrospinal fluid and three plasma Alzheimer's disease biomarkers across increasing brain amyloid-beta and tau pathology burden.",
-      "authors": "Mastrangelo A, Baiardi S, Ruggeri E, Bentivenga GM, Vargiu CM",
-      "published": "2026-09-03",
-      "journal": "Acta neuropathologica",
-      "pmid": "42690439",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690439/"
+      "journal": "Journal of forensic nursing",
+      "pmid": "42687132",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687132/"
     },
     {
       "title": "Pharmaceuticals and Illicit Drugs in Environmental Waters: A Systematic Review and Quantitative Analysis of Global Trends 2004-2021. Part 1.",
@@ -123,30 +203,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42692313/"
     },
     {
-      "title": "LASS2 alleviates liver fibrosis by interacting with THBS1, TFRC, and APOE to inhibit TGF-β1 signaling and ferroptosis, and by reshaping the hepatocyte lipid secretome to suppress paracrine HSC activation.",
-      "authors": "Yu R, Li X, Huang Y, Yu Y, Ling D",
-      "published": "2026-09-03",
-      "journal": "Cellular signalling",
-      "pmid": "42692124",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42692124/"
-    },
-    {
-      "title": "PCIPG: A comprehensive framework for protein complex identification based on a probabilistic graphical model.",
-      "authors": "Huang Y, Yang L, Wang J, Gong X",
-      "published": "2026-09-03",
-      "journal": "PLoS computational biology",
-      "pmid": "42691127",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691127/"
-    },
-    {
-      "title": "The novel trends and sustainable developments of graphene nanostructures for medical applications.",
-      "authors": "Awad SA, Al-Khubaisi AA, AlHeety NF, Khalaf EM, Elsayed DA",
-      "published": "2026-09-03",
-      "journal": "RSC advances",
-      "pmid": "42694696",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694696/"
-    },
-    {
       "title": "Generative multi-objective optimization of national park boundary growth within coupled human and natural systems: Evidence from the candidate Altai Mountains National Park.",
       "authors": "Han J, Yang Z, Han F",
       "published": "2026-09-03",
@@ -155,76 +211,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42691800/"
     },
     {
-      "title": "Death, bereavement and grief 'etiquette': Exploring remembrance and values.",
-      "authors": "Dayes J, Keenan J, Wilson G, Sadza M, Croucher K",
+      "title": "Changes in five cerebrospinal fluid and three plasma Alzheimer's disease biomarkers across increasing brain amyloid-beta and tau pathology burden.",
+      "authors": "Mastrangelo A, Baiardi S, Ruggeri E, Bentivenga GM, Vargiu CM",
       "published": "2026-09-03",
-      "journal": "Death studies",
-      "pmid": "42689340",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689340/"
-    },
-    {
-      "title": "High Embolic Risk with Orbital Atherectomy for Calcified Peripheral Artery Disease.",
-      "authors": "Gilyazov R, de Oliveira BB, Glushkov M, Deegan P, MacTaggart J",
-      "published": "2026-09-03",
-      "journal": "Annals of biomedical engineering",
-      "pmid": "42693302",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693302/"
-    },
-    {
-      "title": "Progress in nanoparticle-mediated photothermal therapy for Acne vulgaris: Recent clinical advances and potential AI integration.",
-      "authors": "Manivasagan P, Joe A, Han HW, Thambi T, Jeon YJ",
-      "published": "2026-09-03",
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "pmid": "42691576",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691576/"
-    },
-    {
-      "title": "Extracellular chromatin fragments as biomarkers for cancer screening.",
-      "authors": "Vinciguerra M, K Tsoneva D",
-      "published": "2026-09-03",
-      "journal": "Seminars in cancer biology",
-      "pmid": "42692176",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42692176/"
-    },
-    {
-      "title": "Asymmetric urinary lesions associated with Proteus mirabilis infection in a beef calf.",
-      "authors": "Kanno C, Kanazashi R, Sato S, Maeda Y, Sasaki A",
-      "published": "2026-09-03",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "pmid": "42689872",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689872/"
-    },
-    {
-      "title": "The Effect of Forum Theater on Nursing Students' Attitudes Toward Forensic Psychiatric Patients.",
-      "authors": "Hançer Tok H, Ediz Ç, Uzun LN",
-      "published": "2026-09-03",
-      "journal": "Journal of forensic nursing",
-      "pmid": "42687132",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687132/"
-    },
-    {
-      "title": "Evaluation of the use of molecular markers for the prediction of human facial features for forensic purposes: a systematic review.",
-      "authors": "Valverde-Vilcherrez A, Budowle B, Neyra-Rivera C",
-      "published": "2026-09-03",
-      "journal": "International journal of legal medicine",
-      "pmid": "42690258",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690258/"
-    },
-    {
-      "title": "Comparative effectiveness of clarithromycin and azithromycin for pertussis in hospitalised infants in Italy: a multicentre target trial emulation study.",
-      "authors": "Lo Vecchio A, Moracas C, Poeta M, Colomba C, Petrarca L",
-      "published": "2026-09-03",
-      "journal": "The Lancet. Child & adolescent health",
-      "pmid": "42692047",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42692047/"
-    },
-    {
-      "title": "Notes from the Field: Cannabis Detection Among Overdose Deaths - United States, 2021-2025.",
-      "authors": "Tanz LJ, Quader ZS, Mattson CL, Vivolo-Kantor AM",
-      "published": "2026-09-03",
-      "journal": "MMWR. Morbidity and mortality weekly report",
-      "pmid": "42691021",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691021/"
+      "journal": "Acta neuropathologica",
+      "pmid": "42690439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690439/"
     },
     {
       "title": "Emerging tick-borne viral diseases in East Asia: pathology-driven insights into pathogenesis and disease causality.",
@@ -235,12 +227,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42690064/"
     },
     {
-      "title": "Postmortem Blood Procalcitonin (PCT) for identifying sepsis as a cause of death: a systematic review and meta-analysis.",
-      "authors": "Chandran A, Khadanga S, Gupta A, Chhabra D, Kori A",
-      "published": "2026-09-02",
-      "journal": "International journal of legal medicine",
-      "pmid": "42684429",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684429/"
+      "title": "Notes from the Field: Cannabis Detection Among Overdose Deaths - United States, 2021-2025.",
+      "authors": "Tanz LJ, Quader ZS, Mattson CL, Vivolo-Kantor AM",
+      "published": "2026-09-03",
+      "journal": "MMWR. Morbidity and mortality weekly report",
+      "pmid": "42691021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691021/"
+    },
+    {
+      "title": "LASS2 alleviates liver fibrosis by interacting with THBS1, TFRC, and APOE to inhibit TGF-β1 signaling and ferroptosis, and by reshaping the hepatocyte lipid secretome to suppress paracrine HSC activation.",
+      "authors": "Yu R, Li X, Huang Y, Yu Y, Ling D",
+      "published": "2026-09-03",
+      "journal": "Cellular signalling",
+      "pmid": "42692124",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692124/"
     }
   ]
 }
