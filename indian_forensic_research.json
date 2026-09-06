@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T14:42:53.490108+00:00",
+  "updated": "2026-09-06T19:50:20.559225+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -271,6 +271,16 @@
       "authors": "Sumangala CN, Venkata Raghava S, Hemanth Reddy U P",
       "url": "https://doi.org/10.37506/381heb66",
       "doi": "10.37506/381heb66",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Paraquat poisoning in pregnancy",
+      "journal": "Indian Journal of Pathology and Microbiology",
+      "published": "2026-09-03",
+      "authors": "Pradeep Vaideeswar, Rahul Rajbhar",
+      "url": "https://doi.org/10.4103/ijpm.ijpm_957_24",
+      "doi": "10.4103/ijpm.ijpm_957_24",
       "source": "Crossref",
       "country": "India"
     },
