@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T16:58:04.468286+00:00",
+  "updated": "2026-09-07T20:57:53.285387+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,6 +91,46 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "(Cross)roads: a crossword on health research and practice ethics",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-07",
+      "authors": "Josyula K Lakshmi",
+      "url": "https://doi.org/10.20529/ijme.2026.054",
+      "doi": "10.20529/ijme.2026.054",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Care, control, and justice: A feminist review of Eko",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-02",
+      "authors": "Malu Mohan, Sunu C Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.053",
+      "doi": "10.20529/ijme.2026.053",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Workforce capacity and the ethics of ‘batting’",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-29",
+      "authors": "Kinshuk Gupta",
+      "url": "https://doi.org/10.20529/ijme.2026.052",
+      "doi": "10.20529/ijme.2026.052",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Working at the frontlines, trailing behind in fair remuneration: ethics of the ASHA workers’ socio-economic position",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-27",
+      "authors": "Sumitha K, Lekshmi Anand, Ashtamoorthy Erayoor",
+      "url": "https://doi.org/10.20529/ijme.2026.051",
+      "doi": "10.20529/ijme.2026.051",
       "source": "Crossref",
       "country": "India"
     },
@@ -261,46 +301,6 @@
       "authors": "Mirjana Tanić Slavić, Danijela Bubanja-Petrović, Damir Gashi",
       "url": "https://doi.org/10.37506/ytb7x269",
       "doi": "10.37506/ytb7x269",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "The Blue Enigma: Decoding A typical Organ Discoloration-A Case Report",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Sudhanil Sarkar, Deepmalya Sengupta, Molly Banerjee, Sampad Barui",
-      "url": "https://doi.org/10.37506/v2mgge44",
-      "doi": "10.37506/v2mgge44",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Severe Lead Toxicity Simulating Myelodysplastic Neoplasm: A Case Report",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Anamika Bakliwal, Anil Handoo, Jatin Munjal, Aditi Mittal, Sanjeev Kumar Sharma",
-      "url": "https://doi.org/10.37506/jxavyc15",
-      "doi": "10.37506/jxavyc15",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Pattern of Pedestrian Limb Injuries in Road Traffic Accident CasesAutopsied at Victoria Hospital, Bmcri, Bengaluru",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Sumangala CN, Venkata Raghava S, Hemanth Reddy U P",
-      "url": "https://doi.org/10.37506/381heb66",
-      "doi": "10.37506/381heb66",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Paraquat poisoning in pregnancy",
-      "journal": "Indian Journal of Pathology and Microbiology",
-      "published": "2026-09-03",
-      "authors": "Pradeep Vaideeswar, Rahul Rajbhar",
-      "url": "https://doi.org/10.4103/ijpm.ijpm_957_24",
-      "doi": "10.4103/ijpm.ijpm_957_24",
       "source": "Crossref",
       "country": "India"
     }
