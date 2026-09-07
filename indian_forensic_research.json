@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:12:43.050442+00:00",
+  "updated": "2026-09-07T16:58:04.468286+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,6 +91,26 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Listening with the hands: Music, attention, and ethical presence in clinical practice",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-21",
+      "authors": "Yogesh Sharad Salphale",
+      "url": "https://doi.org/10.20529/ijme.2026.050",
+      "doi": "10.20529/ijme.2026.050",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Playing the game: At what cost?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-14",
+      "authors": "Padma Prakash",
+      "url": "https://doi.org/10.20529/ijme.2026.049",
+      "doi": "10.20529/ijme.2026.049",
       "source": "Crossref",
       "country": "India"
     },
@@ -281,26 +301,6 @@
       "authors": "Pradeep Vaideeswar, Rahul Rajbhar",
       "url": "https://doi.org/10.4103/ijpm.ijpm_957_24",
       "doi": "10.4103/ijpm.ijpm_957_24",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Pulmonary talcosis: An interesting autopsy revelation",
-      "journal": "Lung India",
-      "published": "2026-08-29",
-      "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
-      "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
-      "doi": "10.4103/lungindia.lungindia_200_26",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Medicolegal News",
-      "journal": "Journal of Indian Medico Legal and Ethics Association",
-      "published": "2026-08-28",
-      "authors": "Sushma Pande, Sanket S Pande",
-      "url": "https://doi.org/10.5005/jimlea-11019-0022",
-      "doi": "10.5005/jimlea-11019-0022",
       "source": "Crossref",
       "country": "India"
     }
