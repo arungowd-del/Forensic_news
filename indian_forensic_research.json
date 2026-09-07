@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T02:10:32.163784+00:00",
+  "updated": "2026-09-07T11:12:43.050442+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,6 +91,16 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Beyond pathologising: Youth, psychosis, and care",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-12",
+      "authors": "Shema Abraham",
+      "url": "https://doi.org/10.20529/ijme.2026.048",
+      "doi": "10.20529/ijme.2026.048",
       "source": "Crossref",
       "country": "India"
     },
