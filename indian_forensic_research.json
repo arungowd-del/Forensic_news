@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T02:22:20.714547+00:00",
+  "updated": "2026-09-08T10:22:33.521677+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -81,6 +81,16 @@
       "authors": "Yogeswari V, Arunjayan R., Nithya S",
       "url": "https://doi.org/10.1177/09710973261471709",
       "doi": "10.1177/09710973261471709",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Burden and determinants of snakebite mortality in Tamil Nadu, India: a surveillance and verbal autopsy study",
+      "journal": "Transactions of The Royal Society of Tropical Medicine and Hygiene",
+      "published": "2026-08-22",
+      "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
+      "url": "https://doi.org/10.1093/trstmh/trag092",
+      "doi": "10.1093/trstmh/trag092",
       "source": "Crossref",
       "country": "India"
     },
@@ -215,6 +225,16 @@
       "country": "India"
     },
     {
+      "title": "Autopsy-Confirmed Disseminated Human NeuroCoenurosis: First Report from India",
+      "journal": "Neurology India",
+      "published": "2026-08-19",
+      "authors": "Thejas N Javagal Amith, Valakunja Harikrishna Ganaraja, Jitender Saini, Aishwarya Iyer, B N Nandeesh, M Netravathi",
+      "url": "https://doi.org/10.4103/neurol-india.neurol-india-d-26-00071",
+      "doi": "10.4103/neurol-india.neurol-india-d-26-00071",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Sexual Assault Nurse Examiners (SANE) in Forensic Investigations: A Narrative Review",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-08-11",
@@ -281,26 +301,6 @@
       "authors": "Mirjana Tanić Slavić, Danijela Bubanja-Petrović, Damir Gashi",
       "url": "https://doi.org/10.37506/ytb7x269",
       "doi": "10.37506/ytb7x269",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "The Blue Enigma: Decoding A typical Organ Discoloration-A Case Report",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Sudhanil Sarkar, Deepmalya Sengupta, Molly Banerjee, Sampad Barui",
-      "url": "https://doi.org/10.37506/v2mgge44",
-      "doi": "10.37506/v2mgge44",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Severe Lead Toxicity Simulating Myelodysplastic Neoplasm: A Case Report",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Anamika Bakliwal, Anil Handoo, Jatin Munjal, Aditi Mittal, Sanjeev Kumar Sharma",
-      "url": "https://doi.org/10.37506/jxavyc15",
-      "doi": "10.37506/jxavyc15",
       "source": "Crossref",
       "country": "India"
     }
