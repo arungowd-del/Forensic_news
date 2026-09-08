@@ -1,22 +1,38 @@
 {
-  "updated": "2026-09-07T20:51:27.437180Z",
+  "updated": "2026-09-08T01:42:57.441503Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Classification of acceleration and deceleration craniocerebral injuries by using cascaded deep learning models.",
-      "authors": "Liu YW, Tian ZL, Liu YY, Fu EH, Dong HW",
-      "published": "2026-09-07",
-      "journal": "International journal of legal medicine",
-      "pmid": "42702661",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702661/"
+      "title": "Shifting drivers and predictable corridors of an illegal wildlife trade network.",
+      "authors": "Olah G, León-Pérez R, Berryman AJ, Asner GP, Heinsohn R",
+      "published": "2026-09-08",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42636352",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636352/"
     },
     {
-      "title": "Clinical characteristics, treatment strategies, and amputation outcomes in electrical burn patients: A single-center experience.",
-      "authors": "Yavuz A, Sarı AE, Akgün AE, Akın M",
-      "published": "2026-09-07",
-      "journal": "Turkish journal of surgery",
-      "pmid": "42670043",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42670043/"
+      "title": "State-sponsored agenda setting: Measuring the impact of narrative laundering.",
+      "authors": "Warren PL, Linvill DL, Saucier CJ",
+      "published": "2026-09-08",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42696539",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696539/"
+    },
+    {
+      "title": "Non-destructive forensic identification and quantification of cocaine through sealed packaging using FT-NIR spectroscopy and hyperspectral imaging.",
+      "authors": "Spinelli E, Casamassima R, Marini F",
+      "published": "2026-09-08",
+      "journal": "Analytica chimica acta",
+      "pmid": "42242816",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42242816/"
+    },
+    {
+      "title": "Association Between Menopausal Hormone Therapy and Alzheimer Disease Neuropathology.",
+      "authors": "Bruno J, Shaw JS, Hosseini SMH, for Alzheimer's Disease Neuroimaging Initiative",
+      "published": "2026-09-08",
+      "journal": "Neurology",
+      "pmid": "42585606",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585606/"
     },
     {
       "title": "Urinary false-positive ecstasy screening by Mebeverine Metabolite: a confirmatory study and controlled administration.",
@@ -27,6 +43,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42704114/"
     },
     {
+      "title": "Clinical characteristics, treatment strategies, and amputation outcomes in electrical burn patients: A single-center experience.",
+      "authors": "Yavuz A, Sarı AE, Akgün AE, Akın M",
+      "published": "2026-09-07",
+      "journal": "Turkish journal of surgery",
+      "pmid": "42670043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42670043/"
+    },
+    {
+      "title": "SnSe/SnO2 Heterojunction-Based Single-Sensor Virtual Electronic Nose with Low Reaction Barrier for Trace Identification of Volatile Sulfur Compounds toward Illicit Methamphetamine Trafficking Traceability.",
+      "authors": "Hao J, Liu H, Huang C, Ling F, Peng D",
+      "published": "2026-09-07",
+      "journal": "ACS applied materials & interfaces",
+      "pmid": "42704827",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704827/"
+    },
+    {
       "title": "T1-Weighted MRI of the proximal humerus: Toward a non-ionizing approach to forensic age estimation in a French cohort.",
       "authors": "Ekizoglu O, Dario M, Pastor M, Cyteval C, Martrille L",
       "published": "2026-09-07",
@@ -35,12 +67,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42702662/"
     },
     {
-      "title": "A Forensic Risk Score for Femicide Prevention: Development and Exploratory Application in 103 Medicolegal Cases in Brazil.",
-      "authors": "de Souza TM, Komatsu AV, Kolb KL, Zulai LGT",
+      "title": "Incidental transmural granulomatous enteritis caused by Molineus torulosus in a capuchin monkey (Sapajus nigritus) under human care: pathological and morphometric findings.",
+      "authors": "de Freitas Alves Vieira F, Megumi Nogueira Sato L, Oliveira Miranda M, Canevese Rahal S, Gonçalves Lins JG",
+      "published": "2026-09-07",
+      "journal": "Veterinary research communications",
+      "pmid": "42704399",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704399/"
+    },
+    {
+      "title": "Classification of acceleration and deceleration craniocerebral injuries by using cascaded deep learning models.",
+      "authors": "Liu YW, Tian ZL, Liu YY, Fu EH, Dong HW",
+      "published": "2026-09-07",
+      "journal": "International journal of legal medicine",
+      "pmid": "42702661",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702661/"
+    },
+    {
+      "title": "Impairment of hippocampal gamma oscillations, mitochondria and neurovascular function in CADASIL.",
+      "authors": "Shao W, Oliveira DV, Naia L, Li Y, Bjørnholm KD",
+      "published": "2026-09-07",
+      "journal": "Brain : a journal of neurology",
+      "pmid": "41622715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41622715/"
+    },
+    {
+      "title": "A mitochondria-targeted ratiometric fluorescent probe for visualizing NO generation coupled with mitochondrial pH variations during autophagy.",
+      "authors": "Ji L, Fu A, Yang Y, Wang Y, Zhang Y",
       "published": "2026-09-06",
-      "journal": "Violence against women",
-      "pmid": "42701334",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701334/"
+      "journal": "Talanta",
+      "pmid": "42702098",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702098/"
     },
     {
       "title": "GIN-CRC-Pareto: A graph-based pareto-optimized multi-task learning framework to identify miRNA-target interactions in colorectal cancer.",
@@ -59,52 +115,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42702247/"
     },
     {
-      "title": "A mitochondria-targeted ratiometric fluorescent probe for visualizing NO generation coupled with mitochondrial pH variations during autophagy.",
-      "authors": "Ji L, Fu A, Yang Y, Wang Y, Zhang Y",
+      "title": "A Forensic Risk Score for Femicide Prevention: Development and Exploratory Application in 103 Medicolegal Cases in Brazil.",
+      "authors": "de Souza TM, Komatsu AV, Kolb KL, Zulai LGT",
       "published": "2026-09-06",
-      "journal": "Talanta",
-      "pmid": "42702098",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702098/"
-    },
-    {
-      "title": "NMJ-associated transcriptomic remodeling correlates with disease severity in juvenile dermatomyositis.",
-      "authors": "Sanfilippo C, Castrogiovanni P, Imbesi R, Fagone P, Scuderi G",
-      "published": "2026-09-05",
-      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-      "pmid": "42700229",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700229/"
-    },
-    {
-      "title": "Self-defenestration associated with 3-MeO-PCE ingestion.",
-      "authors": "Knapp-Gisclon A, Mayer C, Bellouard M, Oliero J, Rambaud C",
-      "published": "2026-09-05",
-      "journal": "International journal of legal medicine",
-      "pmid": "42698019",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698019/"
-    },
-    {
-      "title": "Descriptive Epidemiology of solitary death (kodokushi) in Tokyo's 23 wards, Japan, 2016-2023.",
-      "authors": "Ninomiya H, Ae R, Suzuki H",
-      "published": "2026-09-05",
-      "journal": "Journal of epidemiology",
-      "pmid": "42702562",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702562/"
-    },
-    {
-      "title": "Laminar pattern disruption in fetal incipient polymicrogyria: insights from post-mortem magnetic resonance imaging and neuropathological correlation.",
-      "authors": "Izzo G, Tortora M, Toto V, Lanna M, Doneda C",
-      "published": "2026-09-05",
-      "journal": "Pediatric radiology",
-      "pmid": "42700236",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700236/"
-    },
-    {
-      "title": "Toward proportionate ethical review of animal models in forensic research.",
-      "authors": "Akrep A",
-      "published": "2026-09-05",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42700312",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700312/"
+      "journal": "Violence against women",
+      "pmid": "42701334",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701334/"
     },
     {
       "title": "Intergenerational patterns of child protection contact and offspring mental disorders from birth to age 18 years: A population-based study of Australian young people.",
@@ -115,20 +131,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42700558/"
     },
     {
-      "title": "Role of autopsy in sudden deaths from undiagnosed cardiac amyloidosis: a systematic review with an illustrative autopsy case.",
-      "authors": "Lazzari J, Scatena A, Ciulli P, Aimo A, Castiglione V",
+      "title": "Descriptive Epidemiology of solitary death (kodokushi) in Tokyo's 23 wards, Japan, 2016-2023.",
+      "authors": "Ninomiya H, Ae R, Suzuki H",
       "published": "2026-09-05",
-      "journal": "Legal medicine (Tokyo, Japan)",
-      "pmid": "42702192",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702192/"
+      "journal": "Journal of epidemiology",
+      "pmid": "42702562",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702562/"
     },
     {
-      "title": "Biphenyl sulfonylurea Analogs as novel antiangiogenic agents: A repositioning and molecular modelling strategy.",
-      "authors": "Modh DH, Joshi M, Patel BM, Deokar H, Walhekar VS",
+      "title": "NMJ-associated transcriptomic remodeling correlates with disease severity in juvenile dermatomyositis.",
+      "authors": "Sanfilippo C, Castrogiovanni P, Imbesi R, Fagone P, Scuderi G",
       "published": "2026-09-05",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42172794",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42172794/"
+      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "pmid": "42700229",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700229/"
+    },
+    {
+      "title": "Laminar pattern disruption in fetal incipient polymicrogyria: insights from post-mortem magnetic resonance imaging and neuropathological correlation.",
+      "authors": "Izzo G, Tortora M, Toto V, Lanna M, Doneda C",
+      "published": "2026-09-05",
+      "journal": "Pediatric radiology",
+      "pmid": "42700236",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700236/"
+    },
+    {
+      "title": "Self-defenestration associated with 3-MeO-PCE ingestion.",
+      "authors": "Knapp-Gisclon A, Mayer C, Bellouard M, Oliero J, Rambaud C",
+      "published": "2026-09-05",
+      "journal": "International journal of legal medicine",
+      "pmid": "42698019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698019/"
+    },
+    {
+      "title": "Toward proportionate ethical review of animal models in forensic research.",
+      "authors": "Akrep A",
+      "published": "2026-09-05",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42700312",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700312/"
     },
     {
       "title": "Next-generation forensic 3D surface documentation with projection-assisted digital spray multicamera photogrammetry and 3D gaussian splatting.",
@@ -139,12 +179,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42700311/"
     },
     {
-      "title": "A HiBiT-Tagged Influenza A Virus Reporter System Reveals Cytokine-Inhibitory Micropeptide 53 as a Modulator of Viral Infection and Immunopathology.",
-      "authors": "Ma S, Liu S, Zhao C, Shi W, Zhang C",
+      "title": "Antidiabetic and antioxidant potentials of the ethyl acetate fraction of Momordica charantia leaf methanolic extract: in vitro and in silico studies.",
+      "authors": "Lawal TA, Sholadoye QO, Adeyemo KA, Segba DE",
       "published": "2026-09-05",
-      "journal": "Virologica Sinica",
-      "pmid": "42700929",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700929/"
+      "journal": "Bioorganic chemistry",
+      "pmid": "42160833",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160833/"
     },
     {
       "title": "Validity and reliability of a targeted nutrition-risk screening tool for mental health services.",
@@ -155,12 +195,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42628747/"
     },
     {
-      "title": "Antidiabetic and antioxidant potentials of the ethyl acetate fraction of Momordica charantia leaf methanolic extract: in vitro and in silico studies.",
-      "authors": "Lawal TA, Sholadoye QO, Adeyemo KA, Segba DE",
+      "title": "A HiBiT-Tagged Influenza A Virus Reporter System Reveals Cytokine-Inhibitory Micropeptide 53 as a Modulator of Viral Infection and Immunopathology.",
+      "authors": "Ma S, Liu S, Zhao C, Shi W, Zhang C",
       "published": "2026-09-05",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42160833",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160833/"
+      "journal": "Virologica Sinica",
+      "pmid": "42700929",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700929/"
     },
     {
       "title": "Identification of a pyrazolo[3,4-b]pyridine chemotype for dual focal adhesion kinase 1/2 (FAK1/2) targeting in triple-negative breast cancer.",
@@ -179,68 +219,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42700285/"
     },
     {
-      "title": "Pharmaceuticals and Illicit Drugs in Environmental Waters: A Systematic Review and Quantitative Analysis of Global Trends 2004-2021. Part 2.",
-      "authors": "Coelho FDA, Morgan R, Campos LC",
-      "published": "2026-09-04",
-      "journal": "Environmental toxicology and pharmacology",
-      "pmid": "42697345",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697345/"
+      "title": "Biphenyl sulfonylurea Analogs as novel antiangiogenic agents: A repositioning and molecular modelling strategy.",
+      "authors": "Modh DH, Joshi M, Patel BM, Deokar H, Walhekar VS",
+      "published": "2026-09-05",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42172794",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42172794/"
     },
     {
-      "title": "Spontaneous metastatic mammary carcinomas in 2 capuchin monkeys: pathology and immunohistochemical findings with a brief literature review.",
-      "authors": "Macêdo IL, Cerqueira LA, G Fonseca YN, Souza AR, G L Chisté AL",
-      "published": "2026-09-04",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "pmid": "42698194",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698194/"
+      "title": "Role of autopsy in sudden deaths from undiagnosed cardiac amyloidosis: a systematic review with an illustrative autopsy case.",
+      "authors": "Lazzari J, Scatena A, Ciulli P, Aimo A, Castiglione V",
+      "published": "2026-09-05",
+      "journal": "Legal medicine (Tokyo, Japan)",
+      "pmid": "42702192",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702192/"
     },
     {
-      "title": "Eosinophilic Cerebrospinal Fluid Pleocytosis in A Dog With Hypertrophic Pachymeningitis and Generalized Eosinophilic Disease.",
-      "authors": "Daudén D, Platt SR, Crosby-Durrani HE, Aworinde A, Ricci E",
+      "title": "Medication Safety Pictograms to Reduce Drug-Impaired Driving.",
+      "authors": "Corbett MR, Osawa KA, Neuman KM, Walls HC, Hogan KA",
       "published": "2026-09-04",
-      "journal": "Veterinary clinical pathology",
-      "pmid": "42698121",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698121/"
-    },
-    {
-      "title": "Targeting the mitochondrial functional network: Decoding upstream pathological mechanisms and novel therapeutic paradigms for Alzheimer's disease.",
-      "authors": "Li X, Wan R, Wu Y, Zhao Y, Chen X",
-      "published": "2026-09-04",
-      "journal": "Ageing research reviews",
-      "pmid": "42697335",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697335/"
-    },
-    {
-      "title": "Self-Report Health Screening Tools in Female Athletes: A Systematic Review of Domain Coverage, Validation, and Use Across Participation Levels.",
-      "authors": "Steele C, Simpson MH, Jacobs E, Galan-Lopez N, Taylor L",
-      "published": "2026-09-04",
-      "journal": "Sports medicine (Auckland, N.Z.)",
-      "pmid": "42698044",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698044/"
-    },
-    {
-      "title": "Systematic Review and Meta-Analysis: Risk Factors for Suicide in Youth Psychological Autopsy Studies.",
-      "authors": "Dobin D, Ryan TC, Afzal S, Sweeney FG, Kannam C",
-      "published": "2026-09-04",
-      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
-      "pmid": "42697409",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697409/"
-    },
-    {
-      "title": "Activation of transposable elements is linked to a region- and cell type-specific interferon response in Parkinson's disease.",
-      "authors": "Garza R, Adami A, Thiruvalluvan A, Wijesinghe S, Curle A",
-      "published": "2026-09-04",
-      "journal": "Science advances",
-      "pmid": "42685224",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685224/"
-    },
-    {
-      "title": "Detection and Quantification of Carbon Monoxide in Postmortem Liver Tissues via Headspace GC-MS as an Alternative to Blood.",
-      "authors": "Velez AA, Phipps R",
-      "published": "2026-09-04",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "42696422",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696422/"
+      "journal": "Journal of studies on alcohol and drugs",
+      "pmid": "42696352",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696352/"
     }
   ]
 }
