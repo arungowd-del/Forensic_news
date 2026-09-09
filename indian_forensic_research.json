@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:41:40.225787+00:00",
+  "updated": "2026-09-09T20:15:31.786190+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,6 +91,16 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Do AI chatbots used for Alzheimer’s disease patients risk worsening psychosis?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-09",
+      "authors": "Bor Luen Tang",
+      "url": "https://doi.org/10.20529/ijme.2026.055",
+      "doi": "10.20529/ijme.2026.055",
       "source": "Crossref",
       "country": "India"
     },
@@ -291,16 +301,6 @@
       "authors": "Mansi Gupta, Kapil Dev, Akash Kumar, Ankit Srivastava",
       "url": "https://doi.org/10.37506/6ykydd02",
       "doi": "10.37506/6ykydd02",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "From Trial by Ordeal to Trial by Science: A Forensic Commentary on Bharatiya Nyaya Pranali",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "R.N.Mangoli, Vinayak Nidasosi, Dadibai Asma Nazirahmed",
-      "url": "https://doi.org/10.37506/2trwn497",
-      "doi": "10.37506/2trwn497",
       "source": "Crossref",
       "country": "India"
     }
