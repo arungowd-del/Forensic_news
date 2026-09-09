@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T01:50:04.811407Z",
+  "updated": "2026-09-09T10:14:21.482337Z",
   "source": "PubMed",
   "items": [
     {
@@ -11,44 +11,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42626224/"
     },
     {
-      "title": "Family mass murder in the United States, 1970-2019: Perpetrator mental health characteristics and the role of domestic violence.",
-      "authors": "Girgis RR, Hesson H, Gallagher GF, Hunterton CK, Mazero MD",
+      "title": "Rapid identification of blood using RT-RPA: A pilot study.",
+      "authors": "Su CW, Tsai LC, Chung YL, Lin YC, Lee JC",
       "published": "2026-09-08",
       "journal": "Journal of forensic sciences",
-      "pmid": "42708415",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708415/"
+      "pmid": "42708373",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708373/"
     },
     {
-      "title": "Age and sex estimation from Japanese femoral computed tomographic images using foundation models.",
-      "authors": "Torimitsu S, Ikari H, Tsuneya S, Uemura Y, Okada M",
+      "title": "Non-destructive forensic identification and quantification of cocaine through sealed packaging using FT-NIR spectroscopy and hyperspectral imaging.",
+      "authors": "Spinelli E, Casamassima R, Marini F",
       "published": "2026-09-08",
-      "journal": "International journal of legal medicine",
-      "pmid": "42706467",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42706467/"
+      "journal": "Analytica chimica acta",
+      "pmid": "42242816",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42242816/"
     },
     {
-      "title": "Testing the utility of porcine and synthetic femora as nonhuman analogs in skeletal trauma research.",
-      "authors": "Antonelli LS, Raymond DE, Kendell AE, Bartelink EJ, Isa MI",
+      "title": "A Rapid Poly(ethylene glycol)-Assisted Magnetic Isolation Approach for High-Throughput Extracellular Vesicle Isolation and Subsequent Biomarker Analysis.",
+      "authors": "Sun L, Duke L, Vied C, Hammel G, Pate B",
       "published": "2026-09-08",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42708389",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708389/"
-    },
-    {
-      "title": "Unravelling genetic diversity, population connectivity, and evolutionary relationships of Indian mealybugs through mtCO1-based phylogenetic and haplotype analyses.",
-      "authors": "Gotyal BS, Shivakumara KT, Joshi S, Shreyashwini HD, Divya C",
-      "published": "2026-09-08",
-      "journal": "Molecular biology reports",
-      "pmid": "42709290",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709290/"
-    },
-    {
-      "title": "Analytical Life Cycle Assessment as a 10-Stage Framework for Evaluating and Improving the Sustainability of Analytical Workflows.",
-      "authors": "Mansour FR, Locatelli M, Omer KM, Mohammed Ameen SS, Bedair A",
-      "published": "2026-09-08",
-      "journal": "Analytical chemistry",
-      "pmid": "42708730",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708730/"
+      "journal": "ACS nano",
+      "pmid": "42708923",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708923/"
     },
     {
       "title": "Association Between Menopausal Hormone Therapy and Alzheimer Disease Neuropathology.",
@@ -59,44 +43,68 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42585606/"
     },
     {
-      "title": "Rapid identification of blood using RT-RPA: A pilot study.",
-      "authors": "Su CW, Tsai LC, Chung YL, Lin YC, Lee JC",
+      "title": "BasNet: Attention U-Net-Based Automated Axon Segmentation in Bielschowsky Silver-Stained Histology.",
+      "authors": "Schönenberger L, Egli L, Gkotsoulias D, Stadelmann C, Granziera C",
       "published": "2026-09-08",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42708373",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708373/"
+      "journal": "Neuroinformatics",
+      "pmid": "42709277",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709277/"
     },
     {
-      "title": "Forensic analysis of gasoline residues in urban soil samples: Consequences for vehicle arson investigation.",
-      "authors": "Kasherman Y, Stier E, Muller D, Chibel R, Grafit A",
-      "published": "2026-09-08",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42708381",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708381/"
-    },
-    {
-      "title": "Correlative Electron-Ion Beam Analysis of the Effect of Lithiophilic Interlayers on Regulating the Li+ Flux Distribution in Anode Free Solid-State Batteries.",
-      "authors": "Sharma S, Santiago A, Martinez-Ibañez M, Suresh Kumar A, De Castro O",
-      "published": "2026-09-08",
-      "journal": "ACS applied materials & interfaces",
-      "pmid": "42709881",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709881/"
-    },
-    {
-      "title": "Utility of tissue as an alternative specimen to blood for measuring volatile hydrocarbon concentrations in fire-related-deaths.",
-      "authors": "Hiraiwa R, Sasao A, Yonemitsu K, Hirata K, Ohtsu Y",
-      "published": "2026-09-08",
-      "journal": "Forensic toxicology",
-      "pmid": "42709365",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709365/"
-    },
-    {
-      "title": "Protease inhibition: breaking the barriers of chemoresistance in cancer.",
-      "authors": "Kurian GA",
+      "title": "Macrophage heterogeneity in organ fibrosis in the era of single-cell omics.",
+      "authors": "Qiu W, Huang Y, Chen J, Chu C, Shen Q",
       "published": "2026-09-08",
       "journal": "Molecular biology reports",
-      "pmid": "42709258",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709258/"
+      "pmid": "42709259",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709259/"
+    },
+    {
+      "title": "Tracing the evolution and diversity of human parvovirus B19 across human history.",
+      "authors": "Zeibig T, Spyrou MA, Kocher A, Gaul E, Aldenderfer M",
+      "published": "2026-09-08",
+      "journal": "Current biology : CB",
+      "pmid": "42710491",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710491/"
+    },
+    {
+      "title": "State-sponsored agenda setting: Measuring the impact of narrative laundering.",
+      "authors": "Warren PL, Linvill DL, Saucier CJ",
+      "published": "2026-09-08",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42696539",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696539/"
+    },
+    {
+      "title": "Accidental cut throat injuries by kite-strings - A case series.",
+      "authors": "Meena S, Singh BK, Jain AP, Sharma M, Gawali D",
+      "published": "2026-09-08",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42709488",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709488/"
+    },
+    {
+      "title": "Data After Death: Post-Mortem Ethics of Burn Patient Records and Images.",
+      "authors": "Khorsandi J, Mansoury B, Blank L, Ahmed AB, Alkhouri S",
+      "published": "2026-09-08",
+      "journal": "Journal of burn care & research : official publication of the American Burn Association",
+      "pmid": "42286915",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42286915/"
+    },
+    {
+      "title": "Sudden cardiac death revealing extensive cardiovascular IgG4-related disease: a forensic autopsy case report.",
+      "authors": "Kouada R, Meddeb O, El Aini I, Makni C, Nfikha Z",
+      "published": "2026-09-08",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42709386",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709386/"
+    },
+    {
+      "title": "Detection rate of pathogenic variants by postmortem genetic testing for sudden cardiac death among children and young adults: systematic review and meta-analysis.",
+      "authors": "Fukushima KK, Itaya T, Kamiakito Y, Ohno S, Kotani H",
+      "published": "2026-09-08",
+      "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+      "pmid": "42708325",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708325/"
     },
     {
       "title": "Reply to: Food insecurity and mortality in older adults: a prospective reconstruction.",
@@ -115,76 +123,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42708388/"
     },
     {
-      "title": "Effects of bleach on carcass postmortem microbiomes and necrophagous beetle carcass attendance and their internal microbiomes.",
-      "authors": "Waters KA, Guenther M, Yoskowitz KH, Malone A, Grigsby A",
+      "title": "Correlative Electron-Ion Beam Analysis of the Effect of Lithiophilic Interlayers on Regulating the Li+ Flux Distribution in Anode Free Solid-State Batteries.",
+      "authors": "Sharma S, Santiago A, Martinez-Ibañez M, Suresh Kumar A, De Castro O",
       "published": "2026-09-08",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42708394",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708394/"
-    },
-    {
-      "title": "Characterisation of the designer cathinone N-isopropylbutylone by a multi-technique approach and its metabolic profiling and stability assessment using dried matrix spots.",
-      "authors": "Odoardi S, Mestria S, Biosa G, Valentini V, Bassi M",
-      "published": "2026-09-08",
-      "journal": "Analytical and bioanalytical chemistry",
-      "pmid": "42709180",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709180/"
-    },
-    {
-      "title": "Cross-disease protein aggregate interactions in neurodegeneration: from molecular mechanisms to therapeutic strategies.",
-      "authors": "Yang W, Lu Y",
-      "published": "2026-09-08",
-      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-      "pmid": "42709250",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709250/"
-    },
-    {
-      "title": "Data After Death: Post-Mortem Ethics of Burn Patient Records and Images.",
-      "authors": "Khorsandi J, Mansoury B, Blank L, Ahmed AB, Alkhouri S",
-      "published": "2026-09-08",
-      "journal": "Journal of burn care & research : official publication of the American Burn Association",
-      "pmid": "42286915",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42286915/"
-    },
-    {
-      "title": "Exploring feature variability in digitally captured signatures-Part I: Variability in genuine signatures and the effects of collection sessions and writing position.",
-      "authors": "Heckeroth J, Kerkhoff A, Schmidt P, Marquis R, Kupferschmid E",
-      "published": "2026-09-08",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42708378",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708378/"
-    },
-    {
-      "title": "Detection rate of pathogenic variants by postmortem genetic testing for sudden cardiac death among children and young adults: systematic review and meta-analysis.",
-      "authors": "Fukushima KK, Itaya T, Kamiakito Y, Ohno S, Kotani H",
-      "published": "2026-09-08",
-      "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
-      "pmid": "42708325",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708325/"
-    },
-    {
-      "title": "Sudden cardiac death revealing extensive cardiovascular IgG4-related disease: a forensic autopsy case report.",
-      "authors": "Kouada R, Meddeb O, El Aini I, Makni C, Nfikha Z",
-      "published": "2026-09-08",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42709386",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709386/"
-    },
-    {
-      "title": "Macrophage heterogeneity in organ fibrosis in the era of single-cell omics.",
-      "authors": "Qiu W, Huang Y, Chen J, Chu C, Shen Q",
-      "published": "2026-09-08",
-      "journal": "Molecular biology reports",
-      "pmid": "42709259",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709259/"
-    },
-    {
-      "title": "Accidental cut throat injuries by kite-strings - A case series.",
-      "authors": "Meena S, Singh BK, Jain AP, Sharma M, Gawali D",
-      "published": "2026-09-08",
-      "journal": "Medicine, science, and the law",
-      "pmid": "42709488",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709488/"
+      "journal": "ACS applied materials & interfaces",
+      "pmid": "42709881",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709881/"
     },
     {
       "title": "The \"Lock-and-Key\" Advantage: Molecularly Imprinted Polymers in Modern Electrophoresis in Drug Assay.",
@@ -195,20 +139,68 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42708384/"
     },
     {
-      "title": "A Rapid Poly(ethylene glycol)-Assisted Magnetic Isolation Approach for High-Throughput Extracellular Vesicle Isolation and Subsequent Biomarker Analysis.",
-      "authors": "Sun L, Duke L, Vied C, Hammel G, Pate B",
+      "title": "Beyond the scalpel: forensic patterns, epistemic limits, and the medico-legal classification of femicide.",
+      "authors": "Miziara CSMG, Miziara ID",
       "published": "2026-09-08",
-      "journal": "ACS nano",
-      "pmid": "42708923",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708923/"
+      "journal": "Clinics (Sao Paulo, Brazil)",
+      "pmid": "42710358",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710358/"
     },
     {
-      "title": "State-sponsored agenda setting: Measuring the impact of narrative laundering.",
-      "authors": "Warren PL, Linvill DL, Saucier CJ",
+      "title": "Testing the utility of porcine and synthetic femora as nonhuman analogs in skeletal trauma research.",
+      "authors": "Antonelli LS, Raymond DE, Kendell AE, Bartelink EJ, Isa MI",
+      "published": "2026-09-08",
+      "journal": "Journal of forensic sciences",
+      "pmid": "42708389",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708389/"
+    },
+    {
+      "title": "Shifting drivers and predictable corridors of an illegal wildlife trade network.",
+      "authors": "Olah G, León-Pérez R, Berryman AJ, Asner GP, Heinsohn R",
       "published": "2026-09-08",
       "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "pmid": "42696539",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696539/"
+      "pmid": "42636352",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636352/"
+    },
+    {
+      "title": "Gross and histopathologic characterization of feline cystitis.",
+      "authors": "Hartmann G, Lamego EC, Santos IR, Paz MC, Machado REH",
+      "published": "2026-09-08",
+      "journal": "Journal of comparative pathology",
+      "pmid": "42710301",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710301/"
+    },
+    {
+      "title": "Exploring feature variability in digitally captured signatures-Part I: Variability in genuine signatures and the effects of collection sessions and writing position.",
+      "authors": "Heckeroth J, Kerkhoff A, Schmidt P, Marquis R, Kupferschmid E",
+      "published": "2026-09-08",
+      "journal": "Journal of forensic sciences",
+      "pmid": "42708378",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708378/"
+    },
+    {
+      "title": "Characterisation of the designer cathinone N-isopropylbutylone by a multi-technique approach and its metabolic profiling and stability assessment using dried matrix spots.",
+      "authors": "Odoardi S, Mestria S, Biosa G, Valentini V, Bassi M",
+      "published": "2026-09-08",
+      "journal": "Analytical and bioanalytical chemistry",
+      "pmid": "42709180",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709180/"
+    },
+    {
+      "title": "Differentiating indicators of vulnerability to deliberate self-harm in forensic and non-forensic patients with schizophrenia spectrum disorders: a multinational LASSO-based analysis.",
+      "authors": "Iozzino L, Martella D, Toffol E, Torino G, Caselani E",
+      "published": "2026-09-08",
+      "journal": "BMJ mental health",
+      "pmid": "42711065",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711065/"
+    },
+    {
+      "title": "Unravelling genetic diversity, population connectivity, and evolutionary relationships of Indian mealybugs through mtCO1-based phylogenetic and haplotype analyses.",
+      "authors": "Gotyal BS, Shivakumara KT, Joshi S, Shreyashwini HD, Divya C",
+      "published": "2026-09-08",
+      "journal": "Molecular biology reports",
+      "pmid": "42709290",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709290/"
     },
     {
       "title": "An avuncular relationship generating a parent-offspring signal in forensic familial DNA searching: a case report.",
@@ -219,28 +211,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42706466/"
     },
     {
-      "title": "Non-destructive forensic identification and quantification of cocaine through sealed packaging using FT-NIR spectroscopy and hyperspectral imaging.",
-      "authors": "Spinelli E, Casamassima R, Marini F",
+      "title": "Protease inhibition: breaking the barriers of chemoresistance in cancer.",
+      "authors": "Kurian GA",
       "published": "2026-09-08",
-      "journal": "Analytica chimica acta",
-      "pmid": "42242816",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42242816/"
+      "journal": "Molecular biology reports",
+      "pmid": "42709258",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709258/"
     },
     {
-      "title": "GC-MS-based volatolomics and machine learning for predicting bloodstain time since deposition.",
-      "authors": "Zhang WJ, Han QR, Zheng JL",
+      "title": "Family mass murder in the United States, 1970-2019: Perpetrator mental health characteristics and the role of domestic violence.",
+      "authors": "Girgis RR, Hesson H, Gallagher GF, Hunterton CK, Mazero MD",
       "published": "2026-09-08",
-      "journal": "Analytical and bioanalytical chemistry",
-      "pmid": "42706329",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42706329/"
+      "journal": "Journal of forensic sciences",
+      "pmid": "42708415",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708415/"
     },
     {
-      "title": "Shifting drivers and predictable corridors of an illegal wildlife trade network.",
-      "authors": "Olah G, León-Pérez R, Berryman AJ, Asner GP, Heinsohn R",
+      "title": "Forensic analysis of gasoline residues in urban soil samples: Consequences for vehicle arson investigation.",
+      "authors": "Kasherman Y, Stier E, Muller D, Chibel R, Grafit A",
       "published": "2026-09-08",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "pmid": "42636352",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636352/"
+      "journal": "Journal of forensic sciences",
+      "pmid": "42708381",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708381/"
+    },
+    {
+      "title": "Practice patterns and decision-making in pediatric adenoid and/or tonsil surgery in Türkiye: A cross-sectional survey of ENT physicians.",
+      "authors": "Senturk F, Tıgdas ZD",
+      "published": "2026-09-08",
+      "journal": "Auris, nasus, larynx",
+      "pmid": "42711223",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711223/"
     }
   ]
 }
