@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T20:33:08.363310+00:00",
+  "updated": "2026-09-09T02:25:32.256594+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -175,6 +175,16 @@
       "country": "India"
     },
     {
+      "title": "Artificial intelligence -based modeling and comparative evaluation of craniofacial soft tissue and subcutaneous fat thickness using ct imaging for forensic identification in a northwestern indian population",
+      "journal": "International Journal of Legal Medicine",
+      "published": "2026-09-09",
+      "authors": "Sushil Kumar Battan, Mohinder Sharma, Mandeep Garg, Paramjeet Singh, Priyanka verma, Navneet Singla",
+      "url": "https://doi.org/10.1007/s00414-026-04000-y",
+      "doi": "10.1007/s00414-026-04000-y",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Bridging theory and practice: A structured toxicology elective for undergraduate medical students in India",
       "journal": "IP International Journal of Forensic Medicine and Toxicological Sciences",
       "published": "2026-09-03",
@@ -291,16 +301,6 @@
       "authors": "R.N.Mangoli, Vinayak Nidasosi, Dadibai Asma Nazirahmed",
       "url": "https://doi.org/10.37506/2trwn497",
       "doi": "10.37506/2trwn497",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "The Influence of Individual Characteristics on Life Activity and workAbility during Injuries from A Forensic-Medical Aspect",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Mirjana Tanić Slavić, Danijela Bubanja-Petrović, Damir Gashi",
-      "url": "https://doi.org/10.37506/ytb7x269",
-      "doi": "10.37506/ytb7x269",
       "source": "Crossref",
       "country": "India"
     }
