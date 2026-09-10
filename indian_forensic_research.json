@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T20:15:31.786190+00:00",
+  "updated": "2026-09-10T02:25:00.440189+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -81,6 +81,16 @@
       "authors": "Yogeswari V, Arunjayan R., Nithya S",
       "url": "https://doi.org/10.1177/09710973261471709",
       "doi": "10.1177/09710973261471709",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Decoding paternal genetic architecture of Gujarati Brahmin population of India using 27 Y-STRs: Diversity, structure, and global comparison",
+      "journal": "International Journal of Legal Medicine",
+      "published": "2026-09-10",
+      "authors": "Vrunda Dave, Ankita Arunrao Fulkar, Kopal Kapoor, Vaishali Sharma, Malay Ashvinkumar Shukla",
+      "url": "https://doi.org/10.1007/s00414-026-03983-y",
+      "doi": "10.1007/s00414-026-03983-y",
       "source": "Crossref",
       "country": "India"
     },
@@ -291,16 +301,6 @@
       "authors": "Chandrashekhara, Arun Tapal, Rahul",
       "url": "https://doi.org/10.37506/41mfv139",
       "doi": "10.37506/41mfv139",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Analysis of Transferred Perfume Fragrance in Different Fabrics: A Forensic Study",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Mansi Gupta, Kapil Dev, Akash Kumar, Ankit Srivastava",
-      "url": "https://doi.org/10.37506/6ykydd02",
-      "doi": "10.37506/6ykydd02",
       "source": "Crossref",
       "country": "India"
     }
