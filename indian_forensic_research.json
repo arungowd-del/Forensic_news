@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:17:28.174470+00:00",
+  "updated": "2026-09-11T02:20:08.612126+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -265,42 +265,32 @@
       "country": "India"
     },
     {
-      "title": "Sexual Assault Nurse Examiners (SANE) in Forensic Investigations: A Narrative Review",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Arti Saini, Nitin James Peters, Mahendra Kumar",
-      "url": "https://doi.org/10.37506/078phs80",
-      "doi": "10.37506/078phs80",
+      "title": "Paraquat poisoning in pregnancy",
+      "journal": "Indian Journal of Pathology and Microbiology",
+      "published": "2026-09-03",
+      "authors": "Pradeep Vaideeswar, Rahul Rajbhar",
+      "url": "https://doi.org/10.4103/ijpm.ijpm_957_24",
+      "doi": "10.4103/ijpm.ijpm_957_24",
       "source": "Crossref",
       "country": "India"
     },
     {
-      "title": "Prognostic Utility of Serum Lactate in Acute Poisoning Cases:A Retrospective Observational Study",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Sonu Treesa Antony, Dileep C N, Ganesha B S, Narendra S S",
-      "url": "https://doi.org/10.37506/088py635",
-      "doi": "10.37506/088py635",
+      "title": "Pulmonary talcosis: An interesting autopsy revelation",
+      "journal": "Lung India",
+      "published": "2026-08-29",
+      "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
+      "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
+      "doi": "10.4103/lungindia.lungindia_200_26",
       "source": "Crossref",
       "country": "India"
     },
     {
-      "title": "The Frequency of Myocardial Infarction in different Age Groups: A Histopathological Study at The Medico-Legal Directorate, Baghdad, Iraq",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Duha Ali Abdullah Aliwi, Obaida Ali Al-Dulaimi",
-      "url": "https://doi.org/10.37506/7m58fh76",
-      "doi": "10.37506/7m58fh76",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Identification from Salivary Trace Evidence using STR Profiling: Forensic Case-Based Analysis",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-08-11",
-      "authors": "Chandrashekhara, Arun Tapal, Rahul",
-      "url": "https://doi.org/10.37506/41mfv139",
-      "doi": "10.37506/41mfv139",
+      "title": "Medicolegal News",
+      "journal": "Journal of Indian Medico Legal and Ethics Association",
+      "published": "2026-08-28",
+      "authors": "Sushma Pande, Sanket S Pande",
+      "url": "https://doi.org/10.5005/jimlea-11019-0022",
+      "doi": "10.5005/jimlea-11019-0022",
       "source": "Crossref",
       "country": "India"
     }
