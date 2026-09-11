@@ -1,15 +1,7 @@
 {
-  "updated": "2026-09-11T15:22:41.963134Z",
+  "updated": "2026-09-11T20:08:50.836278Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Advancing environmental toxicology through sustainable technologies, intelligent systems, and forensic innovations.",
-      "authors": "Awasthi KK, Sankhla MS, Kumar R",
-      "published": "2026-09-11",
-      "journal": "Environmental science and pollution research international",
-      "pmid": "42722793",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722793/"
-    },
     {
       "title": "Heart-brain interaction and research progress following traumatic brain injury.",
       "authors": "Shen D, Huang R, Wang L, Pang Q, Li M",
@@ -17,14 +9,6 @@
       "journal": "Neuroscience",
       "pmid": "42436003",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436003/"
-    },
-    {
-      "title": "Deep Learning in Postmortem Interval Estimation: A Systematic Review of Current Practices and Future Directions.",
-      "authors": "Rodríguez-Corbera P, Ortega-Sanchez M, Barrot-Feixat C, Casadesús-Tohà G",
-      "published": "2026-09-11",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42723079",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723079/"
     },
     {
       "title": "Cardiomyocyte-Specific Inhibition of p53 Signaling as a Therapeutic Strategy for Arrhythmogenic Right Ventricular Cardiomyopathy Type 5.",
@@ -35,76 +19,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42549501/"
     },
     {
-      "title": "Causes of Death Among Stillbirths and Children Aged <5 Years in Africa and South Asia - Child Health and Mortality Prevention Surveillance, Seven Countries, 2016-2024.",
-      "authors": "Madewell ZJ, Dangor Z, Mutevedzi PC, Johnstone SL, Lala SG",
-      "published": "2026-09-10",
-      "journal": "Morbidity and mortality weekly report. Surveillance summaries (Washington, D.C. : 2002)",
-      "pmid": "42709633",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709633/"
+      "title": "Deep Learning in Postmortem Interval Estimation: A Systematic Review of Current Practices and Future Directions.",
+      "authors": "Rodríguez-Corbera P, Ortega-Sanchez M, Barrot-Feixat C, Casadesús-Tohà G",
+      "published": "2026-09-11",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42723079",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723079/"
     },
     {
-      "title": "Targeting lipid metabolism-associated lncHMGCS1 suppressed cell proliferation and restored intracellular lipid homeostasis by regulating ACSL3 in gastric cancer.",
-      "authors": "Yang Q, He Y, Wang L, Yuan X, Zhang J",
-      "published": "2026-09-10",
-      "journal": "European journal of pharmacology",
-      "pmid": "42722057",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722057/"
-    },
-    {
-      "title": "An updated estimate of the proportion of neurocysticercosis among people with epileptic seizures: a systematic review and Bayesian meta-analysis.",
-      "authors": "Jalal MS, Figuet O, Di Bacco K, Hubert M, Adame S",
-      "published": "2026-09-10",
-      "journal": "Infectious diseases of poverty",
-      "pmid": "42717381",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717381/"
-    },
-    {
-      "title": "OLR1 drives gastric cancer progression through NF-κB activation and immunosuppressive macrophage polarization.",
-      "authors": "Chen Z, Wang Y, Xu X, Zhao M, Zhou X",
-      "published": "2026-09-10",
-      "journal": "Medical oncology (Northwood, London, England)",
-      "pmid": "42720856",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720856/"
-    },
-    {
-      "title": "p-Nitrophenoxy analogs as practical surrogates for Novichok-related biomarker verification in forensic toxicology.",
-      "authors": "Yamaguchi A, Otsuka M, Ohmori T, Kazui Y, Miyaguchi H",
-      "published": "2026-09-10",
-      "journal": "Forensic toxicology",
-      "pmid": "42720724",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720724/"
-    },
-    {
-      "title": "Efforts to sustain post-kala-azar elimination in India: surveillance, mortality monitoring, and housing support under the Pradhan Mantri Awas Yojana.",
-      "authors": "Selvaraju E",
-      "published": "2026-09-10",
-      "journal": "Journal of vector borne diseases",
-      "pmid": "42720446",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720446/"
-    },
-    {
-      "title": "Cryopreservation of Human Spermatozoa Using Penetrating Cryoprotectant-Free Vitrification Medium Exhibits an Altered Proteomic Profile Compared to the Conventional Rapid Freezing Method.",
-      "authors": "Padmar S, Agrawal S, Narayana VK, Rai AB, Poojary PS",
-      "published": "2026-09-10",
-      "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
-      "pmid": "42722975",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722975/"
-    },
-    {
-      "title": "Selective silencing of placental anti-angiogenic factors in invasive trophoblasts via membrane-fusion divalent siRNA delivery for preeclampsia therapy.",
-      "authors": "Qian W, Zhang Y, Yao Y, Zhu X, Sun D",
-      "published": "2026-09-10",
-      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
-      "pmid": "42385857",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385857/"
-    },
-    {
-      "title": "Pre-ejaculate - an overlooked body fluid with high amounts of DNA.",
-      "authors": "Lienesch M, Sibbing U, Schürenkamp M, Vennemann M, Bauer H",
-      "published": "2026-09-10",
-      "journal": "International journal of legal medicine",
-      "pmid": "42717103",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717103/"
+      "title": "Advancing environmental toxicology through sustainable technologies, intelligent systems, and forensic innovations.",
+      "authors": "Awasthi KK, Sankhla MS, Kumar R",
+      "published": "2026-09-11",
+      "journal": "Environmental science and pollution research international",
+      "pmid": "42722793",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722793/"
     },
     {
       "title": "Plasmodium falciparum sporozoite loads in Anopheles gambiae s.l. across agro-ecological zones of Benin: a cross-sectional field study.",
@@ -115,46 +43,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42723100/"
     },
     {
-      "title": "Characteristics of Sudden Unexpected Infant Deaths - United States, 2020-2024.",
-      "authors": "Lambert ABE, Parks SE, Cottengim C, Mohamoud YA, Ly KN",
-      "published": "2026-09-10",
-      "journal": "MMWR. Morbidity and mortality weekly report",
-      "pmid": "42721075",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721075/"
-    },
-    {
-      "title": "Forensic Pathology Involvement in Maternal Mortality Review Committees.",
-      "authors": "DeJoseph M, Pasquale M, Mahar TJ, Gorniak J, Hamel M",
-      "published": "2026-09-10",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42717292",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717292/"
-    },
-    {
-      "title": "Metal Homeostasis Imbalance as Potentially Contributing Mechanism in Onset of Cardiac Disorders in Individuals with Chronic Obstructive Pulmonary Disease and Chronic Kidney Disease.",
-      "authors": "Cirovic A, Jevtic J, Brankovic N, Cirovic A",
-      "published": "2026-09-10",
-      "journal": "Biological trace element research",
-      "pmid": "42722804",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722804/"
-    },
-    {
-      "title": "Fatal invasive fungal infection morphologically consistent with aspergillosis accompanied by vascular graft infection and marked eosinophilia after thoracic endovascular aneurysm repair.",
-      "authors": "Tsuruta K, Kanzawa Y, Sano N, Saeki T, Ono M",
-      "published": "2026-09-10",
-      "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
-      "pmid": "42722197",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722197/"
-    },
-    {
-      "title": "Clinical Factors Associated with Short-Term Decline in Estimated Glomerular Filtration Rate in People Living with HIV Receiving Antiretroviral Therapy: A Prospective Cohort Study.",
-      "authors": "Choc-Cano X, Pelayo-Madrigal M, Gutiérrez-Maya E, Zepeda-Quiroz I, Toledo-Ramírez S",
-      "published": "2026-09-10",
-      "journal": "AIDS research and human retroviruses",
-      "pmid": "42720159",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720159/"
-    },
-    {
       "title": "Decoding paternal genetic architecture of Gujarati Brahmin population of India using 27 Y-STRs: Diversity, structure, and global comparison.",
       "authors": "Dave V, Fulkar AA, Kapoor K, Sharma V, Shukla MA",
       "published": "2026-09-10",
@@ -163,52 +51,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42717102/"
     },
     {
-      "title": "Differentiating therapeutic use and potential impairment in the forensic interpretation of valsartan concentrations in road traffic offenders.",
-      "authors": "Dziadosz M, Marquenie L, Rosenberger W, Klintschar M, Teske J",
+      "title": "Causes of Death Among Stillbirths and Children Aged <5 Years in Africa and South Asia - Child Health and Mortality Prevention Surveillance, Seven Countries, 2016-2024.",
+      "authors": "Madewell ZJ, Dangor Z, Mutevedzi PC, Johnstone SL, Lala SG",
       "published": "2026-09-10",
-      "journal": "International journal of legal medicine",
-      "pmid": "42717101",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717101/"
+      "journal": "Morbidity and mortality weekly report. Surveillance summaries (Washington, D.C. : 2002)",
+      "pmid": "42709633",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709633/"
     },
     {
-      "title": "Spot the difference: Turbidity-driven plasticity and variation in spotted grunter (Pomadasys commersonnii) spot patterns.",
-      "authors": "Coetzee V, Parker D, Lamberth S, Kerwath S",
+      "title": "Selective silencing of placental anti-angiogenic factors in invasive trophoblasts via membrane-fusion divalent siRNA delivery for preeclampsia therapy.",
+      "authors": "Qian W, Zhang Y, Yao Y, Zhu X, Sun D",
       "published": "2026-09-10",
-      "journal": "Journal of fish biology",
-      "pmid": "42717671",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717671/"
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "pmid": "42385857",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385857/"
     },
     {
-      "title": "An Automated Scalable Chemoproteomics Workflow that Recovers Known Serine Hydrolase Target Profiles of Clinically Used Drugs.",
-      "authors": "Ter Brake FHG, Gagestein B, van der Stelt M, Janssen APA",
+      "title": "Ventricular fibrillation in a conscious patient with a left ventricular assist device: a case report.",
+      "authors": "Li B, Huang X, Zhu Y, Chen H, Verkhratsky A",
       "published": "2026-09-10",
-      "journal": "ACS chemical biology",
-      "pmid": "42717654",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717654/"
-    },
-    {
-      "title": "Medico-legal difficulties in a death due to delayed traumatic rupture of massive sarcoid spleen with rivaroxaban therapy.",
-      "authors": "Devi A, Arora R, Johnson F, Johnson CP",
-      "published": "2026-09-10",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42720839",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720839/"
-    },
-    {
-      "title": "Intra-amniotic infection: diagnosis, nomenclature, clinical significance, management, and microbiologic tools used for the diagnosis.",
-      "authors": "Pongchaikul P, Warintaksa P, Jenjaroenpun P, Opasawatchai A, Settacomkul R",
-      "published": "2026-09-10",
-      "journal": "Clinical microbiology reviews",
-      "pmid": "42535896",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42535896/"
-    },
-    {
-      "title": "Vancomycin rescues sensitivity to isoniazid in clinical isolates of drug-resistant Mycobacterium tuberculosis.",
-      "authors": "Pal S, Birua S, Suhas KS, Nandan R, Thakur C",
-      "published": "2026-09-10",
-      "journal": "Microbiology spectrum",
-      "pmid": "42720312",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720312/"
+      "journal": "Internal and emergency medicine",
+      "pmid": "42722811",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722811/"
     },
     {
       "title": "Respiratory Adverse Effects of IBD Treatments: Mechanisms, Manifestations, and Management Strategies.",
@@ -219,12 +83,132 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42721490/"
     },
     {
+      "title": "p-Nitrophenoxy analogs as practical surrogates for Novichok-related biomarker verification in forensic toxicology.",
+      "authors": "Yamaguchi A, Otsuka M, Ohmori T, Kazui Y, Miyaguchi H",
+      "published": "2026-09-10",
+      "journal": "Forensic toxicology",
+      "pmid": "42720724",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720724/"
+    },
+    {
+      "title": "Medico-legal difficulties in a death due to delayed traumatic rupture of massive sarcoid spleen with rivaroxaban therapy.",
+      "authors": "Devi A, Arora R, Johnson F, Johnson CP",
+      "published": "2026-09-10",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42720839",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720839/"
+    },
+    {
+      "title": "Metal Homeostasis Imbalance as Potentially Contributing Mechanism in Onset of Cardiac Disorders in Individuals with Chronic Obstructive Pulmonary Disease and Chronic Kidney Disease.",
+      "authors": "Cirovic A, Jevtic J, Brankovic N, Cirovic A",
+      "published": "2026-09-10",
+      "journal": "Biological trace element research",
+      "pmid": "42722804",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722804/"
+    },
+    {
+      "title": "Efforts to sustain post-kala-azar elimination in India: surveillance, mortality monitoring, and housing support under the Pradhan Mantri Awas Yojana.",
+      "authors": "Selvaraju E",
+      "published": "2026-09-10",
+      "journal": "Journal of vector borne diseases",
+      "pmid": "42720446",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720446/"
+    },
+    {
+      "title": "Bird feathers from a Late Cretaceous coprolite.",
+      "authors": "O'Connor JK, DeMar DG Jr, Carroll NR, Chin K, Smith EA",
+      "published": "2026-09-10",
+      "journal": "Current biology : CB",
+      "pmid": "42721972",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721972/"
+    },
+    {
+      "title": "Vancomycin rescues sensitivity to isoniazid in clinical isolates of drug-resistant Mycobacterium tuberculosis.",
+      "authors": "Pal S, Birua S, Suhas KS, Nandan R, Thakur C",
+      "published": "2026-09-10",
+      "journal": "Microbiology spectrum",
+      "pmid": "42720312",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720312/"
+    },
+    {
+      "title": "Pre-ejaculate - an overlooked body fluid with high amounts of DNA.",
+      "authors": "Lienesch M, Sibbing U, Schürenkamp M, Vennemann M, Bauer H",
+      "published": "2026-09-10",
+      "journal": "International journal of legal medicine",
+      "pmid": "42717103",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717103/"
+    },
+    {
+      "title": "An updated estimate of the proportion of neurocysticercosis among people with epileptic seizures: a systematic review and Bayesian meta-analysis.",
+      "authors": "Jalal MS, Figuet O, Di Bacco K, Hubert M, Adame S",
+      "published": "2026-09-10",
+      "journal": "Infectious diseases of poverty",
+      "pmid": "42717381",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717381/"
+    },
+    {
+      "title": "Differentiating therapeutic use and potential impairment in the forensic interpretation of valsartan concentrations in road traffic offenders.",
+      "authors": "Dziadosz M, Marquenie L, Rosenberger W, Klintschar M, Teske J",
+      "published": "2026-09-10",
+      "journal": "International journal of legal medicine",
+      "pmid": "42717101",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717101/"
+    },
+    {
+      "title": "Integration of VectorCam, an AI-Enabled Mosquito Surveillance Tool, Into Uganda's National Malaria Elimination Program: Protocol for a Mixed Methods Hybrid Type III Implementation Study.",
+      "authors": "Hey ML, Rincon Torroella M, Mohan D, Patel S, Kansiime W",
+      "published": "2026-09-10",
+      "journal": "JMIR public health and surveillance",
+      "pmid": "42721452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721452/"
+    },
+    {
+      "title": "Spot the difference: Turbidity-driven plasticity and variation in spotted grunter (Pomadasys commersonnii) spot patterns.",
+      "authors": "Coetzee V, Parker D, Lamberth S, Kerwath S",
+      "published": "2026-09-10",
+      "journal": "Journal of fish biology",
+      "pmid": "42717671",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717671/"
+    },
+    {
       "title": "Development and validation of HSP90AA1 as a risk gene in a HIF-1α pathway-related prognostic signature for hepatocellular carcinoma.",
       "authors": "Zhang Y, Huang H, Su Q, Zhou Y, Li X",
       "published": "2026-09-10",
       "journal": "Biochemical and biophysical research communications",
       "pmid": "42407433",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42407433/"
+    },
+    {
+      "title": "Forensic Pathology Involvement in Maternal Mortality Review Committees.",
+      "authors": "DeJoseph M, Pasquale M, Mahar TJ, Gorniak J, Hamel M",
+      "published": "2026-09-10",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42717292",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717292/"
+    },
+    {
+      "title": "Targeting lipid metabolism-associated lncHMGCS1 suppressed cell proliferation and restored intracellular lipid homeostasis by regulating ACSL3 in gastric cancer.",
+      "authors": "Yang Q, He Y, Wang L, Yuan X, Zhang J",
+      "published": "2026-09-10",
+      "journal": "European journal of pharmacology",
+      "pmid": "42722057",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722057/"
+    },
+    {
+      "title": "An Automated Scalable Chemoproteomics Workflow that Recovers Known Serine Hydrolase Target Profiles of Clinically Used Drugs.",
+      "authors": "Ter Brake FHG, Gagestein B, van der Stelt M, Janssen APA",
+      "published": "2026-09-10",
+      "journal": "ACS chemical biology",
+      "pmid": "42717654",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717654/"
+    },
+    {
+      "title": "Fatal invasive fungal infection morphologically consistent with aspergillosis accompanied by vascular graft infection and marked eosinophilia after thoracic endovascular aneurysm repair.",
+      "authors": "Tsuruta K, Kanzawa Y, Sano N, Saeki T, Ono M",
+      "published": "2026-09-10",
+      "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+      "pmid": "42722197",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722197/"
     },
     {
       "title": "Somatotype and body fat distribution among the slum residents in Guwahati, Assam: Implications for health risks.",
@@ -235,12 +219,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42028655/"
     },
     {
-      "title": "Ventricular fibrillation in a conscious patient with a left ventricular assist device: a case report.",
-      "authors": "Li B, Huang X, Zhu Y, Chen H, Verkhratsky A",
+      "title": "Cryopreservation of Human Spermatozoa Using Penetrating Cryoprotectant-Free Vitrification Medium Exhibits an Altered Proteomic Profile Compared to the Conventional Rapid Freezing Method.",
+      "authors": "Padmar S, Agrawal S, Narayana VK, Rai AB, Poojary PS",
       "published": "2026-09-10",
-      "journal": "Internal and emergency medicine",
-      "pmid": "42722811",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722811/"
+      "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+      "pmid": "42722975",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722975/"
+    },
+    {
+      "title": "Clinical Factors Associated with Short-Term Decline in Estimated Glomerular Filtration Rate in People Living with HIV Receiving Antiretroviral Therapy: A Prospective Cohort Study.",
+      "authors": "Choc-Cano X, Pelayo-Madrigal M, Gutiérrez-Maya E, Zepeda-Quiroz I, Toledo-Ramírez S",
+      "published": "2026-09-10",
+      "journal": "AIDS research and human retroviruses",
+      "pmid": "42720159",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720159/"
+    },
+    {
+      "title": "OLR1 drives gastric cancer progression through NF-κB activation and immunosuppressive macrophage polarization.",
+      "authors": "Chen Z, Wang Y, Xu X, Zhao M, Zhou X",
+      "published": "2026-09-10",
+      "journal": "Medical oncology (Northwood, London, England)",
+      "pmid": "42720856",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42720856/"
     }
   ]
 }
