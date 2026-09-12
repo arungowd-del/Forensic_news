@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T09:41:33.663173Z",
+  "updated": "2026-09-12T14:30:03.287970Z",
   "source": "PubMed",
   "items": [
     {
@@ -11,28 +11,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42580356/"
     },
     {
-      "title": "Clinically actionable genomic alterations in breast cancer brain metastases.",
-      "authors": "Griguolo G, Collesei A, Lazzarini E, Bottosso M, Dieci MV",
+      "title": "Exploring the Legal Landscape of Intradural Spine Procedures: A Retrospective Analysis of US Malpractice Claims.",
+      "authors": "Stich JL, Walker MX, Videlefsky Z, Golding R, Bases B",
       "published": "2026-09-11",
-      "journal": "ESMO open",
-      "pmid": "42727421",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727421/"
-    },
-    {
-      "title": "The psychiatric risk gene CACNA1C encodes distinct full-length isoforms in human brain, heart and aorta.",
-      "authors": "Hall NA, Mould AW, Nassiri I, Kudasheva S, Wright DJ",
-      "published": "2026-09-11",
-      "journal": "Molecular psychiatry",
-      "pmid": "42728318",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728318/"
-    },
-    {
-      "title": "Comprehensive Care of Patients Following Sexual Assault: A Cross-Sectional Survey of Services Provided by Forensic Nursing Programs.",
-      "authors": "Draughon Moret JE, Paterno M, Loginova M, Gebrezghi S, Anderson JC",
-      "published": "2026-09-11",
-      "journal": "Journal of forensic nursing",
-      "pmid": "42726508",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726508/"
+      "journal": "International journal of spine surgery",
+      "pmid": "42728023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728023/"
     },
     {
       "title": "Rates and causes of neonatal and under-five mortality: insights from a national household survey in Pakistan.",
@@ -43,12 +27,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726070/"
     },
     {
-      "title": "Detection of intracerebral hemorrhage in putrefied pig brains using computed tomography, magnetic resonance imaging and a urine test strip.",
-      "authors": "Enders M, Gascho D, Morsbach F, Thali MJ, Bolliger SA",
+      "title": "Oronasal blood, intrathoracic petechiae and pulmonary hemorrhages differentiate prone separate-bed from bed-sharing SIDS cases.",
+      "authors": "Osberg S, Opdal SH, Stray-Pedersen A",
       "published": "2026-09-11",
       "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42726387",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726387/"
+      "pmid": "42726388",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726388/"
     },
     {
       "title": "Heart-brain interaction and research progress following traumatic brain injury.",
@@ -59,20 +43,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436003/"
     },
     {
-      "title": "The path to treating multiple-etiology dementia: Combining vascular risk control and disease-modifying neurodegenerative therapies.",
-      "authors": "de Havenon A, Sheth KN, Fredericks CA, Brickman AM",
+      "title": "Beyond linear measurements: a comprehensive 3D CT analysis of patellar volume and density.",
+      "authors": "Atik I, Gul E, Yildiz B, Salk I, Atalar M",
       "published": "2026-09-11",
-      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
-      "pmid": "42727484",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727484/"
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "pmid": "42726139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726139/"
     },
     {
-      "title": "Cardiomyocyte-Specific Inhibition of p53 Signaling as a Therapeutic Strategy for Arrhythmogenic Right Ventricular Cardiomyopathy Type 5.",
-      "authors": "Lalaguna L, López-Olañeta M, Torroja C, Relaño-Rupérez C, Fernández-Sellers C",
+      "title": "The psychiatric risk gene CACNA1C encodes distinct full-length isoforms in human brain, heart and aorta.",
+      "authors": "Hall NA, Mould AW, Nassiri I, Kudasheva S, Wright DJ",
       "published": "2026-09-11",
-      "journal": "Circulation research",
-      "pmid": "42549501",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42549501/"
+      "journal": "Molecular psychiatry",
+      "pmid": "42728318",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728318/"
     },
     {
       "title": "A novel pipeline for the validation of manganese chelators for the treatment of manganese overload.",
@@ -83,54 +67,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42727654/"
     },
     {
-      "title": "From biochemical markers to machine learning: a review of postmortem interval estimation via vitreous humor analysis.",
-      "authors": "Rao M, Wang C, Tian Y, Tao H, Liu L",
-      "published": "2026-09-11",
-      "journal": "International journal of legal medicine",
-      "pmid": "42726216",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726216/"
-    },
-    {
-      "title": "Exploring mortality patterns in Pakistani children and adolescents aged 5-19: evidence from a national verbal and social autopsy study.",
-      "authors": "Soofi SB, Chauhadry IA, Nausheen S, Mariam E, Umer M",
-      "published": "2026-09-11",
-      "journal": "Journal of global health",
-      "pmid": "42726075",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726075/"
-    },
-    {
-      "title": "Sex estimation from the mandible in 3D computed tomography images.",
-      "authors": "Kastamoni Y, Dursun A, Şanlı OC, Ayyıldız VA, Öztürk K",
-      "published": "2026-09-11",
-      "journal": "International journal of legal medicine",
-      "pmid": "42726213",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726213/"
-    },
-    {
-      "title": "Exploring the Legal Landscape of Intradural Spine Procedures: A Retrospective Analysis of US Malpractice Claims.",
-      "authors": "Stich JL, Walker MX, Videlefsky Z, Golding R, Bases B",
-      "published": "2026-09-11",
-      "journal": "International journal of spine surgery",
-      "pmid": "42728023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728023/"
-    },
-    {
-      "title": "Concealed cardiomyopathy in sudden childhood death: translation from molecular autopsy to family assessment.",
-      "authors": "Greco A, Cruzalegui J, Martínez-Barrios E, Luján-Carrillo A, Ortega M",
-      "published": "2026-09-11",
-      "journal": "European journal of human genetics : EJHG",
-      "pmid": "42728322",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728322/"
-    },
-    {
-      "title": "Acute hepatic necrosis associated with Trema micranthum poisoning in cattle in Brazil.",
-      "authors": "Silva WDM, Sabino L, Gottardi LM, Rondon JAOP, Souza MA",
-      "published": "2026-09-11",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "pmid": "42725635",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725635/"
-    },
-    {
       "title": "A verbal and social autopsy study to improve estimates of mortality determinants in Pakistan: study design and methods.",
       "authors": "Chauhadry IA, Soofi SB, Habib MA, Rizvi A, Khan A",
       "published": "2026-09-11",
@@ -139,52 +75,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726072/"
     },
     {
-      "title": "The role of alveolar epithelial junctions in early lung injury and COVID-19-induced fibrosis.",
-      "authors": "Wiegner J, Kasper M, Schmidt MHH, Barth K",
+      "title": "Sodomy in Chile: The Medico-Legal Expertise in Two Cases (1918-1922).",
+      "authors": "Valenzuela-Cáceres M",
       "published": "2026-09-11",
-      "journal": "Histochemistry and cell biology",
-      "pmid": "42726294",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726294/"
-    },
-    {
-      "title": "Advancing environmental toxicology through sustainable technologies, intelligent systems, and forensic innovations.",
-      "authors": "Awasthi KK, Sankhla MS, Kumar R",
-      "published": "2026-09-11",
-      "journal": "Environmental science and pollution research international",
-      "pmid": "42722793",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722793/"
-    },
-    {
-      "title": "Understanding stillbirths and maternal deaths in Pakistan: evidence from a national household survey.",
-      "authors": "Nausheen S, Ariff S, Umer M, Qadir Z, Nooruddin S",
-      "published": "2026-09-11",
-      "journal": "Journal of global health",
-      "pmid": "42726071",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726071/"
-    },
-    {
-      "title": "Detection of myocardial infarction by postmortem CT combined with radiomics-based machine-learning analysis.",
-      "authors": "Barman NC, Rastogi A, Radbruch A, Luetkens JA, Wittschieber D",
-      "published": "2026-09-11",
-      "journal": "European radiology experimental",
-      "pmid": "42726426",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726426/"
-    },
-    {
-      "title": "Exploring the Pyrimidine Scaffold for the Development of SARS-CoV-2 Mpro Inhibitors.",
-      "authors": "Nieddu S, Ruggieri G, De Santis R, Malune P, Patacchini E",
-      "published": "2026-09-11",
-      "journal": "ACS infectious diseases",
-      "pmid": "42725964",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725964/"
-    },
-    {
-      "title": "Oronasal blood, intrathoracic petechiae and pulmonary hemorrhages differentiate prone separate-bed from bed-sharing SIDS cases.",
-      "authors": "Osberg S, Opdal SH, Stray-Pedersen A",
-      "published": "2026-09-11",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42726388",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726388/"
+      "journal": "Journal of homosexuality",
+      "pmid": "42725783",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725783/"
     },
     {
       "title": "Comparative study of STR, SNP, and mtDNA recovery in teeth after thermal exposure.",
@@ -203,28 +99,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726517/"
     },
     {
-      "title": "Sodomy in Chile: The Medico-Legal Expertise in Two Cases (1918-1922).",
-      "authors": "Valenzuela-Cáceres M",
+      "title": "Detection of intracerebral hemorrhage in putrefied pig brains using computed tomography, magnetic resonance imaging and a urine test strip.",
+      "authors": "Enders M, Gascho D, Morsbach F, Thali MJ, Bolliger SA",
       "published": "2026-09-11",
-      "journal": "Journal of homosexuality",
-      "pmid": "42725783",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725783/"
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42726387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726387/"
     },
     {
-      "title": "Deep Learning in Postmortem Interval Estimation: A Systematic Review of Current Practices and Future Directions.",
-      "authors": "Rodríguez-Corbera P, Ortega-Sanchez M, Barrot-Feixat C, Casadesús-Tohà G",
+      "title": "Exploring the Pyrimidine Scaffold for the Development of SARS-CoV-2 Mpro Inhibitors.",
+      "authors": "Nieddu S, Ruggieri G, De Santis R, Malune P, Patacchini E",
       "published": "2026-09-11",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42723079",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723079/"
-    },
-    {
-      "title": "Fentanyl in forensic autopsies: Trends, circumstances, and toxicological findings.",
-      "authors": "Arslan MN, Çoban İ, Atan Y, Aslıyüksek H",
-      "published": "2026-09-11",
-      "journal": "International journal of legal medicine",
-      "pmid": "42726212",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726212/"
+      "journal": "ACS infectious diseases",
+      "pmid": "42725964",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725964/"
     },
     {
       "title": "Ionic characteristics and osmolarity of cooling fluid in hepatic laser ablation: a 7T MRI-based comparison in ex vivo bovine liver.",
@@ -235,12 +123,124 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726303/"
     },
     {
-      "title": "Beyond linear measurements: a comprehensive 3D CT analysis of patellar volume and density.",
-      "authors": "Atik I, Gul E, Yildiz B, Salk I, Atalar M",
+      "title": "Clinically actionable genomic alterations in breast cancer brain metastases.",
+      "authors": "Griguolo G, Collesei A, Lazzarini E, Bottosso M, Dieci MV",
       "published": "2026-09-11",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "pmid": "42726139",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726139/"
+      "journal": "ESMO open",
+      "pmid": "42727421",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727421/"
+    },
+    {
+      "title": "The role of alveolar epithelial junctions in early lung injury and COVID-19-induced fibrosis.",
+      "authors": "Wiegner J, Kasper M, Schmidt MHH, Barth K",
+      "published": "2026-09-11",
+      "journal": "Histochemistry and cell biology",
+      "pmid": "42726294",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726294/"
+    },
+    {
+      "title": "Advancing environmental toxicology through sustainable technologies, intelligent systems, and forensic innovations.",
+      "authors": "Awasthi KK, Sankhla MS, Kumar R",
+      "published": "2026-09-11",
+      "journal": "Environmental science and pollution research international",
+      "pmid": "42722793",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722793/"
+    },
+    {
+      "title": "Comprehensive Care of Patients Following Sexual Assault: A Cross-Sectional Survey of Services Provided by Forensic Nursing Programs.",
+      "authors": "Draughon Moret JE, Paterno M, Loginova M, Gebrezghi S, Anderson JC",
+      "published": "2026-09-11",
+      "journal": "Journal of forensic nursing",
+      "pmid": "42726508",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726508/"
+    },
+    {
+      "title": "Deep Learning in Postmortem Interval Estimation: A Systematic Review of Current Practices and Future Directions.",
+      "authors": "Rodríguez-Corbera P, Ortega-Sanchez M, Barrot-Feixat C, Casadesús-Tohà G",
+      "published": "2026-09-11",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42723079",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723079/"
+    },
+    {
+      "title": "Concealed cardiomyopathy in sudden childhood death: translation from molecular autopsy to family assessment.",
+      "authors": "Greco A, Cruzalegui J, Martínez-Barrios E, Luján-Carrillo A, Ortega M",
+      "published": "2026-09-11",
+      "journal": "European journal of human genetics : EJHG",
+      "pmid": "42728322",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728322/"
+    },
+    {
+      "title": "Detection of myocardial infarction by postmortem CT combined with radiomics-based machine-learning analysis.",
+      "authors": "Barman NC, Rastogi A, Radbruch A, Luetkens JA, Wittschieber D",
+      "published": "2026-09-11",
+      "journal": "European radiology experimental",
+      "pmid": "42726426",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726426/"
+    },
+    {
+      "title": "Cardiomyocyte-Specific Inhibition of p53 Signaling as a Therapeutic Strategy for Arrhythmogenic Right Ventricular Cardiomyopathy Type 5.",
+      "authors": "Lalaguna L, López-Olañeta M, Torroja C, Relaño-Rupérez C, Fernández-Sellers C",
+      "published": "2026-09-11",
+      "journal": "Circulation research",
+      "pmid": "42549501",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549501/"
+    },
+    {
+      "title": "Exploring mortality patterns in Pakistani children and adolescents aged 5-19: evidence from a national verbal and social autopsy study.",
+      "authors": "Soofi SB, Chauhadry IA, Nausheen S, Mariam E, Umer M",
+      "published": "2026-09-11",
+      "journal": "Journal of global health",
+      "pmid": "42726075",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726075/"
+    },
+    {
+      "title": "Acute hepatic necrosis associated with Trema micranthum poisoning in cattle in Brazil.",
+      "authors": "Silva WDM, Sabino L, Gottardi LM, Rondon JAOP, Souza MA",
+      "published": "2026-09-11",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "pmid": "42725635",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725635/"
+    },
+    {
+      "title": "Sex estimation from the mandible in 3D computed tomography images.",
+      "authors": "Kastamoni Y, Dursun A, Şanlı OC, Ayyıldız VA, Öztürk K",
+      "published": "2026-09-11",
+      "journal": "International journal of legal medicine",
+      "pmid": "42726213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726213/"
+    },
+    {
+      "title": "From biochemical markers to machine learning: a review of postmortem interval estimation via vitreous humor analysis.",
+      "authors": "Rao M, Wang C, Tian Y, Tao H, Liu L",
+      "published": "2026-09-11",
+      "journal": "International journal of legal medicine",
+      "pmid": "42726216",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726216/"
+    },
+    {
+      "title": "Fentanyl in forensic autopsies: Trends, circumstances, and toxicological findings.",
+      "authors": "Arslan MN, Çoban İ, Atan Y, Aslıyüksek H",
+      "published": "2026-09-11",
+      "journal": "International journal of legal medicine",
+      "pmid": "42726212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726212/"
+    },
+    {
+      "title": "The path to treating multiple-etiology dementia: Combining vascular risk control and disease-modifying neurodegenerative therapies.",
+      "authors": "de Havenon A, Sheth KN, Fredericks CA, Brickman AM",
+      "published": "2026-09-11",
+      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+      "pmid": "42727484",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727484/"
+    },
+    {
+      "title": "Understanding stillbirths and maternal deaths in Pakistan: evidence from a national household survey.",
+      "authors": "Nausheen S, Ariff S, Umer M, Qadir Z, Nooruddin S",
+      "published": "2026-09-11",
+      "journal": "Journal of global health",
+      "pmid": "42726071",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726071/"
     }
   ]
 }
