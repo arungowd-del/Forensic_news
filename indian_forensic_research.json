@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T19:57:08.942106+00:00",
+  "updated": "2026-09-13T02:25:35.315390+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -211,6 +211,16 @@
       "authors": "Damini Siwan, Ankita Guleria, Rakesh Meena, Nandini Chitara, Akansha Rana, Ayushi Srivastava, Tej Kaur, Arun K. Garg, Vishal Sharma, Kewal Krishan",
       "url": "https://doi.org/10.1016/j.legalmed.2026.102903",
       "doi": "10.1016/j.legalmed.2026.102903",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
+      "journal": "Legal Medicine",
+      "published": "2026-09-01",
+      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
+      "doi": "10.1016/j.legalmed.2026.102996",
       "source": "Crossref",
       "country": "India"
     },
