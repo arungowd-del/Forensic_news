@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:23:26.057496+00:00",
+  "updated": "2026-09-14T17:21:20.135689+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -151,6 +151,16 @@
       "authors": "Uponita Mukherjee",
       "url": "https://doi.org/10.1086/742429",
       "doi": "10.1086/742429",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Insight of forensic medicine awareness, medico-legal risk perception and specialty orientation among final-year-dominant medical undergraduates in Northeast Tamil Nadu: an analytical cross-sectional study",
+      "journal": "BMC Medical Education",
+      "published": "2026-09-14",
+      "authors": "S. Mohan, Dr. K.S Arun Prakash",
+      "url": "https://doi.org/10.1186/s12909-026-10236-4",
+      "doi": "10.1186/s12909-026-10236-4",
       "source": "Crossref",
       "country": "India"
     },
