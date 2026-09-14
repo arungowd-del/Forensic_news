@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T19:56:43.766592Z",
+  "updated": "2026-09-14T01:59:34.609456Z",
   "source": "PubMed",
   "items": [
     {
@@ -11,68 +11,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42378915/"
     },
     {
-      "title": "Towards a joint classification of neurological and psychiatric disorders.",
-      "authors": "White P, Nicholson TR, Stone J, Barrett LF, Zeman A",
-      "published": "2026-09-12",
-      "journal": "Lancet (London, England)",
-      "pmid": "42580356",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580356/"
-    },
-    {
-      "title": "Cannabinoid type 1 receptor availability imaging in attention-deficit/hyperactivity disorder using [(18)F]MK-9470 positron emission tomography: study protocol of the CB1-ADHD study.",
-      "authors": "Miederer I, Schofer ML, Ruckes C, Retz W, Schreckenberger M",
-      "published": "2026-09-12",
-      "journal": "EJNMMI reports",
-      "pmid": "42728455",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728455/"
-    },
-    {
       "title": "HPV-associated breast cancer: Insights into molecular and epigenetic alterations.",
       "authors": "Santos VEP, de Moura IA, de Oliveira Isídio BE, Fontes PHB, da Silva MM",
       "published": "2026-09-12",
       "journal": "Cellular signalling",
       "pmid": "42731740",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731740/"
-    },
-    {
-      "title": "Quantifying HER-2 for Precision Oncology: The Role of Optical Biosensors.",
-      "authors": "Abuhassan Q, Al-Nabulsi JI, Patel PN, Jamuna KV, Tripathi V",
-      "published": "2026-09-12",
-      "journal": "Molecular biotechnology",
-      "pmid": "42730986",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730986/"
-    },
-    {
-      "title": "Radiopaque ring sign as a distinct finding at the entry site of gunshot wounds on postmortem CT.",
-      "authors": "Rajendran RS, Bolliger SA, Thali MJ, Gascho D",
-      "published": "2026-09-12",
-      "journal": "International journal of legal medicine",
-      "pmid": "42730757",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730757/"
-    },
-    {
-      "title": "Precision ID mtDNA Whole Genome Panel and sequencing of telogen hairs - perspectives for validation and implementation in casework.",
-      "authors": "Sharafi Farzad M, Claessens F, Petersen CB, Pereira V, Morling N",
-      "published": "2026-09-12",
-      "journal": "International journal of legal medicine",
-      "pmid": "42728440",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728440/"
-    },
-    {
-      "title": "Risk coupling analysis of ship-source marine pollution accidents based on the N-K model and dynamic Bayesian network.",
-      "authors": "Lai J, Zhou H, Zhang K, Zheng P, Liu G",
-      "published": "2026-09-12",
-      "journal": "Marine pollution bulletin",
-      "pmid": "42731565",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731565/"
-    },
-    {
-      "title": "Population-specific reference intervals for cystatin C, creatinine and urea, and their impact on diagnostic classification and eGFR stratification in Nigerian adults.",
-      "authors": "Iyabode I, Basil B, Mba IN, Mohammed JA, Nwegbu M",
-      "published": "2026-09-12",
-      "journal": "Clinical biochemistry",
-      "pmid": "42731779",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731779/"
     },
     {
       "title": "Assessing the potential of wastewater-based epidemiology to evaluate the impact of COVID-19 policy changes on stimulant use across 17 countries.",
@@ -91,30 +35,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42730758/"
     },
     {
-      "title": "Improving Clinical Trial Design in Low Back Pain: Insights from Studies of Gabapentinoids.",
-      "authors": "Baron R, Freynhagen R, Morlion B, Truini A, Walker C",
-      "published": "2026-09-12",
-      "journal": "Pain and therapy",
-      "pmid": "42730861",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730861/"
-    },
-    {
-      "title": "Inferred functional microbiome features are associated with clinical trajectories of low-grade cervical lesions.",
-      "authors": "Stosic M, Molina MA, Mukhedkar D, Hassan SS, Sahlin A",
-      "published": "2026-09-12",
-      "journal": "BMC microbiology",
-      "pmid": "42732072",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42732072/"
-    },
-    {
-      "title": "Material response under localised loading: proposed alternatives to ballistic gelatine for wound ballistics research.",
-      "authors": "Read J, Hazael R, Critchley R",
-      "published": "2026-09-12",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42730899",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730899/"
-    },
-    {
       "title": "A case series of necrotizing periodontal diseases in hospitalized patients: What hasn't been said yet?",
       "authors": "Leal OLC, Bortolotto F, Manoel MC, de Araújo GS, Motta ACF",
       "published": "2026-09-12",
@@ -131,28 +51,84 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731604/"
     },
     {
-      "title": "Exploring mortality patterns in Pakistani children and adolescents aged 5-19: evidence from a national verbal and social autopsy study.",
-      "authors": "Soofi SB, Chauhadry IA, Nausheen S, Mariam E, Umer M",
-      "published": "2026-09-11",
-      "journal": "Journal of global health",
-      "pmid": "42726075",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726075/"
-    },
-    {
-      "title": "From biochemical markers to machine learning: a review of postmortem interval estimation via vitreous humor analysis.",
-      "authors": "Rao M, Wang C, Tian Y, Tao H, Liu L",
-      "published": "2026-09-11",
+      "title": "Radiopaque ring sign as a distinct finding at the entry site of gunshot wounds on postmortem CT.",
+      "authors": "Rajendran RS, Bolliger SA, Thali MJ, Gascho D",
+      "published": "2026-09-12",
       "journal": "International journal of legal medicine",
-      "pmid": "42726216",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726216/"
+      "pmid": "42730757",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730757/"
     },
     {
-      "title": "Deep Learning in Postmortem Interval Estimation: A Systematic Review of Current Practices and Future Directions.",
-      "authors": "Rodríguez-Corbera P, Ortega-Sanchez M, Barrot-Feixat C, Casadesús-Tohà G",
-      "published": "2026-09-11",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42723079",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723079/"
+      "title": "Towards a joint classification of neurological and psychiatric disorders.",
+      "authors": "White P, Nicholson TR, Stone J, Barrett LF, Zeman A",
+      "published": "2026-09-12",
+      "journal": "Lancet (London, England)",
+      "pmid": "42580356",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580356/"
+    },
+    {
+      "title": "Material response under localised loading: proposed alternatives to ballistic gelatine for wound ballistics research.",
+      "authors": "Read J, Hazael R, Critchley R",
+      "published": "2026-09-12",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42730899",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730899/"
+    },
+    {
+      "title": "Inferred functional microbiome features are associated with clinical trajectories of low-grade cervical lesions.",
+      "authors": "Stosic M, Molina MA, Mukhedkar D, Hassan SS, Sahlin A",
+      "published": "2026-09-12",
+      "journal": "BMC microbiology",
+      "pmid": "42732072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732072/"
+    },
+    {
+      "title": "Risk coupling analysis of ship-source marine pollution accidents based on the N-K model and dynamic Bayesian network.",
+      "authors": "Lai J, Zhou H, Zhang K, Zheng P, Liu G",
+      "published": "2026-09-12",
+      "journal": "Marine pollution bulletin",
+      "pmid": "42731565",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731565/"
+    },
+    {
+      "title": "Cannabinoid type 1 receptor availability imaging in attention-deficit/hyperactivity disorder using [(18)F]MK-9470 positron emission tomography: study protocol of the CB1-ADHD study.",
+      "authors": "Miederer I, Schofer ML, Ruckes C, Retz W, Schreckenberger M",
+      "published": "2026-09-12",
+      "journal": "EJNMMI reports",
+      "pmid": "42728455",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728455/"
+    },
+    {
+      "title": "Precision ID mtDNA Whole Genome Panel and sequencing of telogen hairs - perspectives for validation and implementation in casework.",
+      "authors": "Sharafi Farzad M, Claessens F, Petersen CB, Pereira V, Morling N",
+      "published": "2026-09-12",
+      "journal": "International journal of legal medicine",
+      "pmid": "42728440",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728440/"
+    },
+    {
+      "title": "Improving Clinical Trial Design in Low Back Pain: Insights from Studies of Gabapentinoids.",
+      "authors": "Baron R, Freynhagen R, Morlion B, Truini A, Walker C",
+      "published": "2026-09-12",
+      "journal": "Pain and therapy",
+      "pmid": "42730861",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730861/"
+    },
+    {
+      "title": "Population-specific reference intervals for cystatin C, creatinine and urea, and their impact on diagnostic classification and eGFR stratification in Nigerian adults.",
+      "authors": "Iyabode I, Basil B, Mba IN, Mohammed JA, Nwegbu M",
+      "published": "2026-09-12",
+      "journal": "Clinical biochemistry",
+      "pmid": "42731779",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731779/"
+    },
+    {
+      "title": "Quantifying HER-2 for Precision Oncology: The Role of Optical Biosensors.",
+      "authors": "Abuhassan Q, Al-Nabulsi JI, Patel PN, Jamuna KV, Tripathi V",
+      "published": "2026-09-12",
+      "journal": "Molecular biotechnology",
+      "pmid": "42730986",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730986/"
     },
     {
       "title": "Beyond linear measurements: a comprehensive 3D CT analysis of patellar volume and density.",
@@ -163,44 +139,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726139/"
     },
     {
-      "title": "Comprehensive Care of Patients Following Sexual Assault: A Cross-Sectional Survey of Services Provided by Forensic Nursing Programs.",
-      "authors": "Draughon Moret JE, Paterno M, Loginova M, Gebrezghi S, Anderson JC",
+      "title": "The psychiatric risk gene CACNA1C encodes distinct full-length isoforms in human brain, heart and aorta.",
+      "authors": "Hall NA, Mould AW, Nassiri I, Kudasheva S, Wright DJ",
       "published": "2026-09-11",
-      "journal": "Journal of forensic nursing",
-      "pmid": "42726508",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726508/"
-    },
-    {
-      "title": "Ionic characteristics and osmolarity of cooling fluid in hepatic laser ablation: a 7T MRI-based comparison in ex vivo bovine liver.",
-      "authors": "Mankertz F, Berger J, Maalouf N, Stenzl B, Ashkar A",
-      "published": "2026-09-11",
-      "journal": "Lasers in medical science",
-      "pmid": "42726303",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726303/"
-    },
-    {
-      "title": "Post-translational modifications in Neuroimmune cells during neuroinflammation: integrated regulatory networks and therapeutic opportunities.",
-      "authors": "Li W, Liu Y, Zhang H, Zhang H, Shao W",
-      "published": "2026-09-11",
-      "journal": "Biology direct",
-      "pmid": "42728596",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728596/"
-    },
-    {
-      "title": "A novel pipeline for the validation of manganese chelators for the treatment of manganese overload.",
-      "authors": "Vogt HK, Pojani C, Devonport J, McGown A, Firth G",
-      "published": "2026-09-11",
-      "journal": "Biochemical pharmacology",
-      "pmid": "42727654",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727654/"
-    },
-    {
-      "title": "Concealed cardiomyopathy in sudden childhood death: translation from molecular autopsy to family assessment.",
-      "authors": "Greco A, Cruzalegui J, Martínez-Barrios E, Luján-Carrillo A, Ortega M",
-      "published": "2026-09-11",
-      "journal": "European journal of human genetics : EJHG",
-      "pmid": "42728322",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728322/"
+      "journal": "Molecular psychiatry",
+      "pmid": "42728318",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728318/"
     },
     {
       "title": "Detection of myocardial infarction by postmortem CT combined with radiomics-based machine-learning analysis.",
@@ -219,6 +163,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42728867/"
     },
     {
+      "title": "Sex estimation from the mandible in 3D computed tomography images.",
+      "authors": "Kastamoni Y, Dursun A, Şanlı OC, Ayyıldız VA, Öztürk K",
+      "published": "2026-09-11",
+      "journal": "International journal of legal medicine",
+      "pmid": "42726213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726213/"
+    },
+    {
       "title": "Clinically actionable genomic alterations in breast cancer brain metastases.",
       "authors": "Griguolo G, Collesei A, Lazzarini E, Bottosso M, Dieci MV",
       "published": "2026-09-11",
@@ -227,20 +179,68 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42727421/"
     },
     {
-      "title": "The path to treating multiple-etiology dementia: Combining vascular risk control and disease-modifying neurodegenerative therapies.",
-      "authors": "de Havenon A, Sheth KN, Fredericks CA, Brickman AM",
+      "title": "Post-translational modifications in Neuroimmune cells during neuroinflammation: integrated regulatory networks and therapeutic opportunities.",
+      "authors": "Li W, Liu Y, Zhang H, Zhang H, Shao W",
       "published": "2026-09-11",
-      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
-      "pmid": "42727484",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727484/"
+      "journal": "Biology direct",
+      "pmid": "42728596",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728596/"
     },
     {
-      "title": "Exploring the Legal Landscape of Intradural Spine Procedures: A Retrospective Analysis of US Malpractice Claims.",
-      "authors": "Stich JL, Walker MX, Videlefsky Z, Golding R, Bases B",
+      "title": "Comprehensive Care of Patients Following Sexual Assault: A Cross-Sectional Survey of Services Provided by Forensic Nursing Programs.",
+      "authors": "Draughon Moret JE, Paterno M, Loginova M, Gebrezghi S, Anderson JC",
       "published": "2026-09-11",
-      "journal": "International journal of spine surgery",
-      "pmid": "42728023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728023/"
+      "journal": "Journal of forensic nursing",
+      "pmid": "42726508",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726508/"
+    },
+    {
+      "title": "Gastroesophageal intussusception with gastric perforation in a Caracal (Caracal caracal): A case report.",
+      "authors": "Haines R, Kumar R, York P, Brookins M",
+      "published": "2026-09-11",
+      "journal": "Acta veterinaria Hungarica",
+      "pmid": "42726517",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726517/"
+    },
+    {
+      "title": "Concealed cardiomyopathy in sudden childhood death: translation from molecular autopsy to family assessment.",
+      "authors": "Greco A, Cruzalegui J, Martínez-Barrios E, Luján-Carrillo A, Ortega M",
+      "published": "2026-09-11",
+      "journal": "European journal of human genetics : EJHG",
+      "pmid": "42728322",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728322/"
+    },
+    {
+      "title": "Exploring mortality patterns in Pakistani children and adolescents aged 5-19: evidence from a national verbal and social autopsy study.",
+      "authors": "Soofi SB, Chauhadry IA, Nausheen S, Mariam E, Umer M",
+      "published": "2026-09-11",
+      "journal": "Journal of global health",
+      "pmid": "42726075",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726075/"
+    },
+    {
+      "title": "Ionic characteristics and osmolarity of cooling fluid in hepatic laser ablation: a 7T MRI-based comparison in ex vivo bovine liver.",
+      "authors": "Mankertz F, Berger J, Maalouf N, Stenzl B, Ashkar A",
+      "published": "2026-09-11",
+      "journal": "Lasers in medical science",
+      "pmid": "42726303",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726303/"
+    },
+    {
+      "title": "Exploring the Pyrimidine Scaffold for the Development of SARS-CoV-2 Mpro Inhibitors.",
+      "authors": "Nieddu S, Ruggieri G, De Santis R, Malune P, Patacchini E",
+      "published": "2026-09-11",
+      "journal": "ACS infectious diseases",
+      "pmid": "42725964",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725964/"
+    },
+    {
+      "title": "Detection of intracerebral hemorrhage in putrefied pig brains using computed tomography, magnetic resonance imaging and a urine test strip.",
+      "authors": "Enders M, Gascho D, Morsbach F, Thali MJ, Bolliger SA",
+      "published": "2026-09-11",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42726387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726387/"
     }
   ]
 }
