@@ -1,63 +1,7 @@
 {
-  "updated": "2026-09-15T02:07:57.005876Z",
+  "updated": "2026-09-15T10:34:56.066743Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "HDAC2-mediated H3K27ac Governs ZFP42 transcription and autophagy in granulosa cells of pigs.",
-      "authors": "Liao W, Li N, Jiang Y, Huang E, Mao K",
-      "published": "2026-09-15",
-      "journal": "Life sciences",
-      "pmid": "42264139",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42264139/"
-    },
-    {
-      "title": "Antibiotic-mediated gut microbiota depletion partially attenuates methamphetamine-induced reward and linoleic acid metabolic disturbance.",
-      "authors": "Liang M, Wang X, Li J, Li R, Peng J",
-      "published": "2026-09-15",
-      "journal": "Neuropharmacology",
-      "pmid": "42134644",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42134644/"
-    },
-    {
-      "title": "Structure-activity relationship of lycorine scaffolds reveals translation inhibition as a determinant of broad-spectrum antiviral activity.",
-      "authors": "Belem Martins LL, Merindol N, Lamichhane B, Ngoc HP, Paswan RR",
-      "published": "2026-09-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42259145",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42259145/"
-    },
-    {
-      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia.",
-      "authors": "Keller M, Guellil M, Slavin P, Saag L, Irdt K",
-      "published": "2026-09-15",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "pmid": "42721078",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721078/"
-    },
-    {
-      "title": "Urinary Exosomal ATF3 as a non-invasive biomarker for early detection of acute kidney injury.",
-      "authors": "Arya DK, Verma A, Mishra R, Mueller E, Verma N",
-      "published": "2026-09-15",
-      "journal": "Clinica chimica acta; international journal of clinical chemistry",
-      "pmid": "42250676",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42250676/"
-    },
-    {
-      "title": "Melatonin remodels gut microbiota and tryptophan metabolism to ameliorate methamphetamine-induced cognitive impairment.",
-      "authors": "Miao L, Xu L, Yang X, Zhao Y, Liu Q",
-      "published": "2026-09-15",
-      "journal": "Journal of hazardous materials",
-      "pmid": "42636588",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636588/"
-    },
-    {
-      "title": "Synergistic regulation of cadmium tolerance by a 2 C protein phosphatase and nano molybdenum by modulating cellular structure, metal transport, and redox homeostasis in polyploid rice.",
-      "authors": "Shahid MQ, Lin Z, Sun L, Li Z, Farooq M",
-      "published": "2026-09-15",
-      "journal": "Journal of hazardous materials",
-      "pmid": "42612530",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612530/"
-    },
     {
       "title": "CRISPR/Cas12a-powered tri-mode aptasensor for ultrasensitive and multiplexed detection of microcystin-LR.",
       "authors": "Zhang X, Zhang Z, Chen K, Zhang J, Wu Z",
@@ -67,44 +11,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42142405/"
     },
     {
-      "title": "Multi-modal sensor based on ANTS/MgFe-LDH nanocomposite combined with machine learning for the intelligent recognition of antioxidants and metal ions.",
-      "authors": "Wu Y, Sun Y, Tan X, Yang G, Kang K",
-      "published": "2026-09-15",
-      "journal": "Food chemistry",
-      "pmid": "42341660",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42341660/"
-    },
-    {
-      "title": "Rational design of hybrid benzilmonoxime-thiocarbohydrazide Schiff bases as emerging anti-tubercular chemotypes: integrated biological and computational evaluation.",
-      "authors": "Singh SK, Bagul A, Kumar M, Tufail A, Sharma S",
-      "published": "2026-09-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42424923",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42424923/"
-    },
-    {
-      "title": "Phenolic compound content in the seagrass Posidonia oceanica as a stress biomarker: Compartmentation and relationship with environmental and plant variables.",
-      "authors": "Malea P, Kevrekidou A, Kevrekidis DP, Mylona Z, Karyofyllidou G",
-      "published": "2026-09-15",
-      "journal": "Environmental research",
-      "pmid": "42349809",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349809/"
-    },
-    {
       "title": "Design, synthesis, and evaluation of febuxostat derivatives bearing 1,2,3-triazole: potent inhibitors of microglia-mediated neuroinflammation and oxidative stress via Nrf2-HO-1 activation.",
       "authors": "Wang L, Hou X, Liang X, Song M, Yan D",
       "published": "2026-09-15",
       "journal": "Bioorganic chemistry",
       "pmid": "42322911",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42322911/"
-    },
-    {
-      "title": "Evening chronotype is associated with affective temperaments, emotional dysregulation, and bipolar-spectrum features: An observational study in 1997 adults from a large community sample.",
-      "authors": "Caiolo S, Miola A, Pontoni G, Sarzetto A, Ercis M",
-      "published": "2026-09-15",
-      "journal": "Journal of affective disorders",
-      "pmid": "42092401",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42092401/"
     },
     {
       "title": "Bioassay-guided discovery of anti-inflammatory sesquiterpenoids from Lindera aggregata (Sims) Kosterm.",
@@ -123,12 +35,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276359/"
     },
     {
-      "title": "Multifunctional bupivacaine-loaded electrospun PVA-TCN-polydopamine membranes for enhanced wound healing and analgesia.",
-      "authors": "Zhang Y, Feng T, Luo J, Ouyang S, Yang J",
+      "title": "Intrathoracic Splenic Herniation Mimicking Clotted Hemothorax on Postmortem Computed Tomography.",
+      "authors": "Shinkawa N, Yamaguchi T, Shinkawa N, Azuma M, Sonoda A",
       "published": "2026-09-15",
-      "journal": "Carbohydrate polymers",
-      "pmid": "42493080",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42493080/"
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42736610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736610/"
+    },
+    {
+      "title": "Phenolic compound content in the seagrass Posidonia oceanica as a stress biomarker: Compartmentation and relationship with environmental and plant variables.",
+      "authors": "Malea P, Kevrekidou A, Kevrekidis DP, Mylona Z, Karyofyllidou G",
+      "published": "2026-09-15",
+      "journal": "Environmental research",
+      "pmid": "42349809",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42349809/"
     },
     {
       "title": "Extracellular vesicle-encapsulated miRNAs mediate monocyte-endothelial cell crosstalk to exacerbate renal injury in diabetic kidney disease.",
@@ -139,12 +59,132 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42275918/"
     },
     {
+      "title": "Multi-modal sensor based on ANTS/MgFe-LDH nanocomposite combined with machine learning for the intelligent recognition of antioxidants and metal ions.",
+      "authors": "Wu Y, Sun Y, Tan X, Yang G, Kang K",
+      "published": "2026-09-15",
+      "journal": "Food chemistry",
+      "pmid": "42341660",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341660/"
+    },
+    {
       "title": "PCR-free cascaded CRISPR-Cas13a colorimetric platform (CLAMP) for non-invasive miRNA-based allergen-specific subtyping of allergic rhinitis.",
       "authors": "Wan Y, Hu Q, Zhu J, Oung QW, Lee CH",
       "published": "2026-09-15",
       "journal": "Biosensors & bioelectronics",
       "pmid": "42114484",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42114484/"
+    },
+    {
+      "title": "Melatonin remodels gut microbiota and tryptophan metabolism to ameliorate methamphetamine-induced cognitive impairment.",
+      "authors": "Miao L, Xu L, Yang X, Zhao Y, Liu Q",
+      "published": "2026-09-15",
+      "journal": "Journal of hazardous materials",
+      "pmid": "42636588",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636588/"
+    },
+    {
+      "title": "Evening chronotype is associated with affective temperaments, emotional dysregulation, and bipolar-spectrum features: An observational study in 1997 adults from a large community sample.",
+      "authors": "Caiolo S, Miola A, Pontoni G, Sarzetto A, Ercis M",
+      "published": "2026-09-15",
+      "journal": "Journal of affective disorders",
+      "pmid": "42092401",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42092401/"
+    },
+    {
+      "title": "Rational design of hybrid benzilmonoxime-thiocarbohydrazide Schiff bases as emerging anti-tubercular chemotypes: integrated biological and computational evaluation.",
+      "authors": "Singh SK, Bagul A, Kumar M, Tufail A, Sharma S",
+      "published": "2026-09-15",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42424923",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424923/"
+    },
+    {
+      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia.",
+      "authors": "Keller M, Guellil M, Slavin P, Saag L, Irdt K",
+      "published": "2026-09-15",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42721078",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721078/"
+    },
+    {
+      "title": "Antibiotic-mediated gut microbiota depletion partially attenuates methamphetamine-induced reward and linoleic acid metabolic disturbance.",
+      "authors": "Liang M, Wang X, Li J, Li R, Peng J",
+      "published": "2026-09-15",
+      "journal": "Neuropharmacology",
+      "pmid": "42134644",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42134644/"
+    },
+    {
+      "title": "Multifunctional bupivacaine-loaded electrospun PVA-TCN-polydopamine membranes for enhanced wound healing and analgesia.",
+      "authors": "Zhang Y, Feng T, Luo J, Ouyang S, Yang J",
+      "published": "2026-09-15",
+      "journal": "Carbohydrate polymers",
+      "pmid": "42493080",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493080/"
+    },
+    {
+      "title": "HDAC2-mediated H3K27ac Governs ZFP42 transcription and autophagy in granulosa cells of pigs.",
+      "authors": "Liao W, Li N, Jiang Y, Huang E, Mao K",
+      "published": "2026-09-15",
+      "journal": "Life sciences",
+      "pmid": "42264139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42264139/"
+    },
+    {
+      "title": "Multi-omics analysis of ion channels expressed by chicken embryo vestibular type I and type II hair cells.",
+      "authors": "Cheli G, Giunta R, Stella F, Guidi E, Laforenza U",
+      "published": "2026-09-15",
+      "journal": "Experimental physiology",
+      "pmid": "42740711",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42740711/"
+    },
+    {
+      "title": "Synergistic regulation of cadmium tolerance by a 2 C protein phosphatase and nano molybdenum by modulating cellular structure, metal transport, and redox homeostasis in polyploid rice.",
+      "authors": "Shahid MQ, Lin Z, Sun L, Li Z, Farooq M",
+      "published": "2026-09-15",
+      "journal": "Journal of hazardous materials",
+      "pmid": "42612530",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612530/"
+    },
+    {
+      "title": "Urinary Exosomal ATF3 as a non-invasive biomarker for early detection of acute kidney injury.",
+      "authors": "Arya DK, Verma A, Mishra R, Mueller E, Verma N",
+      "published": "2026-09-15",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "pmid": "42250676",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42250676/"
+    },
+    {
+      "title": "Diagnostic Value and Forensic Applicability of Tissue-Based Findings in Suspected Fatal Electrocution: A Systematic Review.",
+      "authors": "Cianci V, Sapienza D, Gualniera P, Asmundo A, Mondello C",
+      "published": "2026-09-15",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42736603",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736603/"
+    },
+    {
+      "title": "Structure-activity relationship of lycorine scaffolds reveals translation inhibition as a determinant of broad-spectrum antiviral activity.",
+      "authors": "Belem Martins LL, Merindol N, Lamichhane B, Ngoc HP, Paswan RR",
+      "published": "2026-09-15",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42259145",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42259145/"
+    },
+    {
+      "title": "Individual identification and time since deposition estimation based on community structure and absolute abundance of the exposed vaginal microbiome.",
+      "authors": "Ye L, Cheng X, Xiao G, Huang L, Zhao M",
+      "published": "2026-09-15",
+      "journal": "International journal of legal medicine",
+      "pmid": "42736401",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736401/"
+    },
+    {
+      "title": "Variation in toxicology testing for violent deaths and suicides by geography and medicolegal death investigation system type - National Violent Death Reporting System, 2023.",
+      "authors": "Zwald M, Bowen DA, Holland K, Fowler K, Sumner S",
+      "published": "2026-09-14",
+      "journal": "American journal of preventive medicine",
+      "pmid": "42735865",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735865/"
     },
     {
       "title": "A Transparent Method for Medicolegal Decision-Making: The FAIR Framework for Individualized Attribution in Occupational Disease.",
@@ -155,20 +195,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42733156/"
     },
     {
-      "title": "Contamination of mussels with microorganisms, metals, and biotoxins: a historical analysis from Portugal.",
-      "authors": "Guastella R, Nuvoloni R, Teixeira A, Pérez-Mongiovi D, Freitas AR",
+      "title": "Targeting TRAF6/MYD88/TLR4, Nrf2, and VEGF signaling pathways by Tranexamic acid as a Novel Therapeutic Approach Protects Against Isotretinoin-Induced Liver Toxicity in Rats.",
+      "authors": "Alkhammash A, Hagar H, Abdelmottaleb HAA, Hashem H, Alotaibi G",
       "published": "2026-09-14",
-      "journal": "Environmental monitoring and assessment",
-      "pmid": "42734681",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42734681/"
+      "journal": "Immunopharmacology and immunotoxicology",
+      "pmid": "42740320",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42740320/"
     },
     {
-      "title": "A multi-task learning-based deep learning model for precise estimation of rib fracture age on chest CT.",
-      "authors": "Sun YN, Wan L, Yu XY, Wang MW, Zhu K",
+      "title": "Prevalent and characteristic alterations in blood-brain transcriptomic-functional imaging coupling in schizophrenia.",
+      "authors": "Ji YS, Liu YF, Mu ZQ, Fang-Fang L, Liu MY",
       "published": "2026-09-14",
-      "journal": "International journal of legal medicine",
-      "pmid": "42733047",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42733047/"
+      "journal": "Molecular psychiatry",
+      "pmid": "42736350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736350/"
+    },
+    {
+      "title": "Automated CT-derived visceral-to-subcutaneous fat ratio as a prognostic imaging biomarker for mortality in sepsis.",
+      "authors": "Fu L, Chen X, Liu S, Kong Y, Li H",
+      "published": "2026-09-14",
+      "journal": "European radiology",
+      "pmid": "42736406",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736406/"
+    },
+    {
+      "title": "Study on the toxicokinetics and in vivo distribution of benzylpiperazine (BZP) and 1-(3-(trifluoromethyl)phenyl)piperazine (TFMPP) after single and combined administration in Wistar rats.",
+      "authors": "Yang S, Liu J, Zhou L, Xie W, Shi Y",
+      "published": "2026-09-14",
+      "journal": "Drug and chemical toxicology",
+      "pmid": "42736540",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736540/"
+    },
+    {
+      "title": "Geographical Distribution of Tick Species and Tick-Borne Pathogens in Italy (2000-2022): A Systematic Review.",
+      "authors": "Maioli G, Toma L, Galletti G, Calò S, Bertola M",
+      "published": "2026-09-14",
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "pmid": "42740360",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42740360/"
     },
     {
       "title": "Emerging cannabinoids differ in behavioral safety margins in mice: a comparative hazard proximity analysis of locomotor suppression and catalepsy-like immobility.",
@@ -177,70 +241,6 @@
       "journal": "Forensic toxicology",
       "pmid": "42734683",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42734683/"
-    },
-    {
-      "title": "Visualizing the inner ear: Historical perspectives and future directions to elucidate labyrinth structure and function.",
-      "authors": "Smith CM, Ward BK, Laitman JT",
-      "published": "2026-09-14",
-      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-      "pmid": "42733327",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42733327/"
-    },
-    {
-      "title": "Leveraging a Deep Learning Model and Computational Screening for the Discovery of ABCG2 Inhibitors against Drug-Resistant Breast Cancer.",
-      "authors": "Li H, Wang Z, Wang J, Yang Y",
-      "published": "2026-09-14",
-      "journal": "Journal of chemical information and modeling",
-      "pmid": "42734561",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42734561/"
-    },
-    {
-      "title": "Cardiovascular diseases attributed to future heat and cold: A projection study of climate change impact under different scenarios in an arid region of Iran, Esfarayen.",
-      "authors": "Shoraka HR, Mahmudimanesh M, Aboubakri O",
-      "published": "2026-09-14",
-      "journal": "International journal of biometeorology",
-      "pmid": "42734669",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42734669/"
-    },
-    {
-      "title": "EPHX2 Loss Promotes CRC Migration via EET-Dependent Chemokine Elevation and Mitochondrial Defect.",
-      "authors": "Zhu J, Chang J, Li Z, Wu J, Yu P",
-      "published": "2026-09-13",
-      "journal": "Cancer science",
-      "pmid": "42732782",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42732782/"
-    },
-    {
-      "title": "Therapeutic Co-targeting of Oxidative Phosphorylation and Pyrimidine Synthesis Restores Gemcitabine Response in Pancreatic Ductal Adenocarcinoma.",
-      "authors": "Ouyang W, Wang J, Chen J, Fang Z, Wei T",
-      "published": "2026-09-13",
-      "journal": "Translational research : the journal of laboratory and clinical medicine",
-      "pmid": "42732873",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42732873/"
-    },
-    {
-      "title": "Approaches to using retention indices with coupled column pressure tuning in gas chromatography.",
-      "authors": "Sharif KM, Chin ST, Marriott PJ",
-      "published": "2026-09-13",
-      "journal": "Journal of chromatography. A",
-      "pmid": "42378915",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42378915/"
-    },
-    {
-      "title": "Material response under localised loading: proposed alternatives to ballistic gelatine for wound ballistics research.",
-      "authors": "Read J, Hazael R, Critchley R",
-      "published": "2026-09-12",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42730899",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730899/"
-    },
-    {
-      "title": "Risk coupling analysis of ship-source marine pollution accidents based on the N-K model and dynamic Bayesian network.",
-      "authors": "Lai J, Zhou H, Zhang K, Zheng P, Liu G",
-      "published": "2026-09-12",
-      "journal": "Marine pollution bulletin",
-      "pmid": "42731565",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731565/"
     }
   ]
 }
