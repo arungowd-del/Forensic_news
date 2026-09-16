@@ -1,78 +1,46 @@
 {
-  "updated": "2026-09-16T01:59:22.916426Z",
+  "updated": "2026-09-16T10:23:19.061359Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Multi-modal sensor based on ANTS/MgFe-LDH nanocomposite combined with machine learning for the intelligent recognition of antioxidants and metal ions.",
-      "authors": "Wu Y, Sun Y, Tan X, Yang G, Kang K",
-      "published": "2026-09-15",
-      "journal": "Food chemistry",
-      "pmid": "42341660",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42341660/"
+      "title": "Epigenetics and childhood obesity: DNA methylation coordinates environment and gene regulation.",
+      "authors": "Kaimala S, Leow MK, Ansari SA, Emerald BS",
+      "published": "2026-09-16",
+      "journal": "Endocrine reviews",
+      "pmid": "42116681",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42116681/"
     },
     {
-      "title": "Phenolic compound content in the seagrass Posidonia oceanica as a stress biomarker: Compartmentation and relationship with environmental and plant variables.",
-      "authors": "Malea P, Kevrekidou A, Kevrekidis DP, Mylona Z, Karyofyllidou G",
-      "published": "2026-09-15",
-      "journal": "Environmental research",
-      "pmid": "42349809",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349809/"
+      "title": "Phase I metabolism of the methadone analog methiodone (IC-26) in pooled human liver microsomes and its detection in seven authentic human cases.",
+      "authors": "Kutzler J, Postupka A, Auwärter V",
+      "published": "2026-09-16",
+      "journal": "Archives of toxicology",
+      "pmid": "42744880",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744880/"
     },
     {
-      "title": "Contested Moral Logics of Care with Infanticidal Mothers: A Critical Nursing Research.",
-      "authors": "Holmes D, Domingue JL, Einboden R, Kilty J, Chartrand J",
-      "published": "2026-09-15",
-      "journal": "Issues in mental health nursing",
-      "pmid": "42742354",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742354/"
-    },
-    {
-      "title": "Assessing Burnout and Secondary Traumatic Stress Among Sexual Assault Nurse Examiners in the Upstate of South Carolina.",
-      "authors": "Nguyen SN 4th, Stoner AM, Tjiattas-Saleski L, Fadel NM, Redden D",
-      "published": "2026-09-15",
-      "journal": "Journal of forensic nursing",
-      "pmid": "42743384",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42743384/"
-    },
-    {
-      "title": "Antibiotic-mediated gut microbiota depletion partially attenuates methamphetamine-induced reward and linoleic acid metabolic disturbance.",
-      "authors": "Liang M, Wang X, Li J, Li R, Peng J",
-      "published": "2026-09-15",
-      "journal": "Neuropharmacology",
-      "pmid": "42134644",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42134644/"
-    },
-    {
-      "title": "Synergistic regulation of cadmium tolerance by a 2 C protein phosphatase and nano molybdenum by modulating cellular structure, metal transport, and redox homeostasis in polyploid rice.",
-      "authors": "Shahid MQ, Lin Z, Sun L, Li Z, Farooq M",
-      "published": "2026-09-15",
-      "journal": "Journal of hazardous materials",
-      "pmid": "42612530",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612530/"
-    },
-    {
-      "title": "Spitz: a YOLO-based deep learning system for automated spermatozoa detection in forensic genetic analysis.",
-      "authors": "Humanes AC, Calil ALA, Wawruk HD, Carneiro LD, Silveira KB",
-      "published": "2026-09-15",
+      "title": "Understanding the mechanistic interaction between DNA and polystyrene microplastic and the effect of microplastic on forensic DNA analysis.",
+      "authors": "Yadav N, Tehsin S, Tanpure D, Sahoo S, Dash AA",
+      "published": "2026-09-16",
       "journal": "International journal of legal medicine",
-      "pmid": "42742721",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742721/"
+      "pmid": "42745064",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745064/"
     },
     {
-      "title": "A Flexible-Horizon Clinical Decision Support Model for Dementia Early Detection and Risk Prediction in Secondary Care: A Responsible AI Approach.",
-      "authors": "Ez-Zizi A, Seelam K, Leggett L, Malik BR",
-      "published": "2026-09-15",
-      "journal": "Journal of medical systems",
-      "pmid": "42742759",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742759/"
+      "title": "Artificial intelligence in otolaryngology: current applications, limitations, and future perspectives.",
+      "authors": "Litsou E, Tzotzis I, Malisovas T, Asimakopoulos A, Psychogios G",
+      "published": "2026-09-16",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pmid": "42745060",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745060/"
     },
     {
-      "title": "Structure-guided identification and experimental validation of NAT10-targeting small molecules in colorectal cancer cells.",
-      "authors": "Xu C, Zhao S, Xu B, Xu J, Wu Y",
-      "published": "2026-09-15",
-      "journal": "Journal of computer-aided molecular design",
-      "pmid": "42742862",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742862/"
+      "title": "Death by Triglycerides: A Multifaceted Case of Dyslipidemia, Obesity, and PMOS Resulting In Lethal Acute Pancreatitis.",
+      "authors": "Williams HL, Maloney KF",
+      "published": "2026-09-16",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42745222",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745222/"
     },
     {
       "title": "Histology-validated quantitative MRI characterization of collagen-rich Purkinje fiber-associated pathways in the ex vivo porcine heart.",
@@ -83,92 +51,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42742896/"
     },
     {
-      "title": "Evening chronotype is associated with affective temperaments, emotional dysregulation, and bipolar-spectrum features: An observational study in 1997 adults from a large community sample.",
-      "authors": "Caiolo S, Miola A, Pontoni G, Sarzetto A, Ercis M",
+      "title": "Diagnosis and management of lower limb cellulitis.",
+      "authors": "Yadav K, Gottlieb M, Narain S, Rosenberg H",
       "published": "2026-09-15",
-      "journal": "Journal of affective disorders",
-      "pmid": "42092401",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42092401/"
+      "journal": "BMJ (Clinical research ed.)",
+      "pmid": "42744339",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744339/"
     },
     {
-      "title": "Comparative study of sociodemographic, clinical, and criminological characteristics of maternal neonaticide, infanticide, and filicide cases.",
-      "authors": "Kavla Y, Boylu ME, Kavla B, Şahin HÇ, Ergin G",
+      "title": "Spitz: a YOLO-based deep learning system for automated spermatozoa detection in forensic genetic analysis.",
+      "authors": "Humanes AC, Calil ALA, Wawruk HD, Carneiro LD, Silveira KB",
       "published": "2026-09-15",
-      "journal": "Archives of women's mental health",
-      "pmid": "42742791",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742791/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42742721",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742721/"
     },
     {
-      "title": "Diagnostic Value and Forensic Applicability of Tissue-Based Findings in Suspected Fatal Electrocution: A Systematic Review.",
-      "authors": "Cianci V, Sapienza D, Gualniera P, Asmundo A, Mondello C",
+      "title": "Contested Moral Logics of Care with Infanticidal Mothers: A Critical Nursing Research.",
+      "authors": "Holmes D, Domingue JL, Einboden R, Kilty J, Chartrand J",
       "published": "2026-09-15",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42736603",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736603/"
-    },
-    {
-      "title": "Intrathoracic Splenic Herniation Mimicking Clotted Hemothorax on Postmortem Computed Tomography.",
-      "authors": "Shinkawa N, Yamaguchi T, Shinkawa N, Azuma M, Sonoda A",
-      "published": "2026-09-15",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42736610",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736610/"
-    },
-    {
-      "title": "Psychological Autopsy Protocols - A Selective Narrative Review.",
-      "authors": "Sanz-Gómez S, Alacreu-Crespo A, De la Vega-Sánchez D, Perea-González MI, Guija J",
-      "published": "2026-09-15",
-      "journal": "Current psychiatry reports",
-      "pmid": "42742794",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742794/"
-    },
-    {
-      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia.",
-      "authors": "Keller M, Guellil M, Slavin P, Saag L, Irdt K",
-      "published": "2026-09-15",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "pmid": "42721078",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721078/"
-    },
-    {
-      "title": "Toll-like receptor 5 protects against nonsteroidal anti-inflammatory drug-induced enteropathy in mice.",
-      "authors": "Haghighi A, Demeter ZO, Zsidai A, Lengyel L, Haghighi S",
-      "published": "2026-09-15",
-      "journal": "Life sciences",
-      "pmid": "42276359",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42276359/"
-    },
-    {
-      "title": "Design, synthesis, and evaluation of febuxostat derivatives bearing 1,2,3-triazole: potent inhibitors of microglia-mediated neuroinflammation and oxidative stress via Nrf2-HO-1 activation.",
-      "authors": "Wang L, Hou X, Liang X, Song M, Yan D",
-      "published": "2026-09-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42322911",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42322911/"
-    },
-    {
-      "title": "Urinary Exosomal ATF3 as a non-invasive biomarker for early detection of acute kidney injury.",
-      "authors": "Arya DK, Verma A, Mishra R, Mueller E, Verma N",
-      "published": "2026-09-15",
-      "journal": "Clinica chimica acta; international journal of clinical chemistry",
-      "pmid": "42250676",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42250676/"
-    },
-    {
-      "title": "Bioassay-guided discovery of anti-inflammatory sesquiterpenoids from Lindera aggregata (Sims) Kosterm.",
-      "authors": "Tang J, Zhan SJ, Yang S, Li J, Zhu WW",
-      "published": "2026-09-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42330853",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42330853/"
-    },
-    {
-      "title": "Structure-activity relationship of lycorine scaffolds reveals translation inhibition as a determinant of broad-spectrum antiviral activity.",
-      "authors": "Belem Martins LL, Merindol N, Lamichhane B, Ngoc HP, Paswan RR",
-      "published": "2026-09-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42259145",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42259145/"
+      "journal": "Issues in mental health nursing",
+      "pmid": "42742354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742354/"
     },
     {
       "title": "CRISPR/Cas12a-powered tri-mode aptasensor for ultrasensitive and multiplexed detection of microcystin-LR.",
@@ -179,12 +83,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42142405/"
     },
     {
-      "title": "PCR-free cascaded CRISPR-Cas13a colorimetric platform (CLAMP) for non-invasive miRNA-based allergen-specific subtyping of allergic rhinitis.",
-      "authors": "Wan Y, Hu Q, Zhu J, Oung QW, Lee CH",
+      "title": "Multi-modal sensor based on ANTS/MgFe-LDH nanocomposite combined with machine learning for the intelligent recognition of antioxidants and metal ions.",
+      "authors": "Wu Y, Sun Y, Tan X, Yang G, Kang K",
       "published": "2026-09-15",
-      "journal": "Biosensors & bioelectronics",
-      "pmid": "42114484",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42114484/"
+      "journal": "Food chemistry",
+      "pmid": "42341660",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341660/"
+    },
+    {
+      "title": "Structure-activity relationship of lycorine scaffolds reveals translation inhibition as a determinant of broad-spectrum antiviral activity.",
+      "authors": "Belem Martins LL, Merindol N, Lamichhane B, Ngoc HP, Paswan RR",
+      "published": "2026-09-15",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42259145",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42259145/"
+    },
+    {
+      "title": "Structure-guided identification and experimental validation of NAT10-targeting small molecules in colorectal cancer cells.",
+      "authors": "Xu C, Zhao S, Xu B, Xu J, Wu Y",
+      "published": "2026-09-15",
+      "journal": "Journal of computer-aided molecular design",
+      "pmid": "42742862",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742862/"
+    },
+    {
+      "title": "Toll-like receptor 5 protects against nonsteroidal anti-inflammatory drug-induced enteropathy in mice.",
+      "authors": "Haghighi A, Demeter ZO, Zsidai A, Lengyel L, Haghighi S",
+      "published": "2026-09-15",
+      "journal": "Life sciences",
+      "pmid": "42276359",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276359/"
+    },
+    {
+      "title": "Fifty Years of the Cosmetic Ingredient Review (CIR) and the Expert Panel for Cosmetic Ingredient Safety: An Independent, Transparent, and Science-Forward Program for Ingredient Safety Assessment.",
+      "authors": "Zhu J, Bergfeld WF, Fiume M, Heldreth B",
+      "published": "2026-09-15",
+      "journal": "International journal of toxicology",
+      "pmid": "42745366",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745366/"
     },
     {
       "title": "Rational design of hybrid benzilmonoxime-thiocarbohydrazide Schiff bases as emerging anti-tubercular chemotypes: integrated biological and computational evaluation.",
@@ -195,36 +131,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42424923/"
     },
     {
-      "title": "Multi-omics analysis of ion channels expressed by chicken embryo vestibular type I and type II hair cells.",
-      "authors": "Cheli G, Giunta R, Stella F, Guidi E, Laforenza U",
+      "title": "PCR-free cascaded CRISPR-Cas13a colorimetric platform (CLAMP) for non-invasive miRNA-based allergen-specific subtyping of allergic rhinitis.",
+      "authors": "Wan Y, Hu Q, Zhu J, Oung QW, Lee CH",
       "published": "2026-09-15",
-      "journal": "Experimental physiology",
-      "pmid": "42740711",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42740711/"
+      "journal": "Biosensors & bioelectronics",
+      "pmid": "42114484",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42114484/"
     },
     {
-      "title": "Screening and identification of B-cell epitopes on the gH protein of varicella-zoster virus.",
-      "authors": "Liang C, Ma Y, Liu H, Zhou J, Chen Y",
+      "title": "Leveraging Scalable Non-Mammalian Systems for Large-Scale Studies of Autism Risk Gene Function.",
+      "authors": "Davidson E, Khan S, Rhee C, Hoffman EJ",
       "published": "2026-09-15",
-      "journal": "Archives of microbiology",
-      "pmid": "42742725",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742725/"
+      "journal": "Biological psychiatry",
+      "pmid": "42744011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744011/"
     },
     {
-      "title": "CCND1 Mitigates Ischemia-Induced Pathological Cardiac Remodeling by Promoting Cardiac Monocyte-Derived Macrophage Transition to a Reparative Phenotype.",
-      "authors": "Wang C, Han H, Li K, Zhang L, Shu C",
+      "title": "Design, synthesis, and evaluation of febuxostat derivatives bearing 1,2,3-triazole: potent inhibitors of microglia-mediated neuroinflammation and oxidative stress via Nrf2-HO-1 activation.",
+      "authors": "Wang L, Hou X, Liang X, Song M, Yan D",
       "published": "2026-09-15",
-      "journal": "Circulation",
-      "pmid": "42741827",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42741827/"
+      "journal": "Bioorganic chemistry",
+      "pmid": "42322911",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42322911/"
     },
     {
-      "title": "Intimate Partner Violence During Pregnancy in Mansoura, Egypt: Medico-Legal and Psychological Points of View.",
-      "authors": "Elshamy M, Warda O, Ibrahim MA, Mohamed RA, Makroum AA",
+      "title": "Melatonin remodels gut microbiota and tryptophan metabolism to ameliorate methamphetamine-induced cognitive impairment.",
+      "authors": "Miao L, Xu L, Yang X, Zhao Y, Liu Q",
       "published": "2026-09-15",
-      "journal": "Violence against women",
-      "pmid": "42742527",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742527/"
+      "journal": "Journal of hazardous materials",
+      "pmid": "42636588",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636588/"
+    },
+    {
+      "title": "Urinary Exosomal ATF3 as a non-invasive biomarker for early detection of acute kidney injury.",
+      "authors": "Arya DK, Verma A, Mishra R, Mueller E, Verma N",
+      "published": "2026-09-15",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "pmid": "42250676",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42250676/"
     },
     {
       "title": "Circulating Tumor DNA Profiling Defines Risk Classification in Patients With Ewing Sarcoma: A Report From the Children's Oncology Group and the LEOPARD Study.",
@@ -235,12 +179,68 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42743455/"
     },
     {
+      "title": "CT-imaging of variants of the medial clavicular epiphysis in a central European population: prevalence and impact on forensic age estimation.",
+      "authors": "Engler P, Kruk K, Graf N, Stinn B, Wildermuth S",
+      "published": "2026-09-15",
+      "journal": "Radiography (London, England : 1995)",
+      "pmid": "42743662",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743662/"
+    },
+    {
+      "title": "Prenatal Δ9-tetrahydrocannabinol exposure rewires glucocorticoid-hippocampal crosstalk and impairs memory under stress in adolescent rat offspring.",
+      "authors": "Brancato A, Cicero M, Castelli V, Lavanco G, Tringali G",
+      "published": "2026-09-15",
+      "journal": "European journal of pharmacology",
+      "pmid": "42744259",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744259/"
+    },
+    {
+      "title": "Evolution of debate on the human adult hippocampal neurogenesis.",
+      "authors": "Yang B, Cui K, Ding J, Mao J, Wan Y",
+      "published": "2026-09-15",
+      "journal": "Protein & cell",
+      "pmid": "42745488",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745488/"
+    },
+    {
+      "title": "Intrathoracic Splenic Herniation Mimicking Clotted Hemothorax on Postmortem Computed Tomography.",
+      "authors": "Shinkawa N, Yamaguchi T, Shinkawa N, Azuma M, Sonoda A",
+      "published": "2026-09-15",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42736610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736610/"
+    },
+    {
+      "title": "Antibiotic-mediated gut microbiota depletion partially attenuates methamphetamine-induced reward and linoleic acid metabolic disturbance.",
+      "authors": "Liang M, Wang X, Li J, Li R, Peng J",
+      "published": "2026-09-15",
+      "journal": "Neuropharmacology",
+      "pmid": "42134644",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42134644/"
+    },
+    {
       "title": "Extracellular vesicle-encapsulated miRNAs mediate monocyte-endothelial cell crosstalk to exacerbate renal injury in diabetic kidney disease.",
       "authors": "Jing J, An J, Chen X, Cong B, Yu W",
       "published": "2026-09-15",
       "journal": "International immunopharmacology",
       "pmid": "42275918",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42275918/"
+    },
+    {
+      "title": "Assessing Burnout and Secondary Traumatic Stress Among Sexual Assault Nurse Examiners in the Upstate of South Carolina.",
+      "authors": "Nguyen SN 4th, Stoner AM, Tjiattas-Saleski L, Fadel NM, Redden D",
+      "published": "2026-09-15",
+      "journal": "Journal of forensic nursing",
+      "pmid": "42743384",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743384/"
+    },
+    {
+      "title": "Intimate Partner Violence During Pregnancy in Mansoura, Egypt: Medico-Legal and Psychological Points of View.",
+      "authors": "Elshamy M, Warda O, Ibrahim MA, Mohamed RA, Makroum AA",
+      "published": "2026-09-15",
+      "journal": "Violence against women",
+      "pmid": "42742527",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742527/"
     }
   ]
 }
