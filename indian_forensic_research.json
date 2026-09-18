@@ -1,9 +1,29 @@
 {
-  "updated": "2026-09-18T02:31:58.629740+00:00",
+  "updated": "2026-09-18T10:20:44.511981+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
   "items": [
+    {
+      "title": "Systematic Integration of Death Scene, Autopsy, and DNA Evidence in the Medico-legal Investigation of Sexual Homicide: A Case Report",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-09-17",
+      "authors": "Gebremariam Tewelemedhin Gebremariam, Charles Karangwa, Ntezimana Etienne, Theoneste Nzaramba, Rose Tumukunde, Ernestine Iradukunda",
+      "url": "https://doi.org/10.1177/09710973261486098",
+      "doi": "10.1177/09710973261486098",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Botanical Evidence in Accidental Death Investigations: A Case Report",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-09-17",
+      "authors": "Krithika Rajesh, Susikumar Sundharamoorthy",
+      "url": "https://doi.org/10.1177/09710973261486925",
+      "doi": "10.1177/09710973261486925",
+      "source": "Crossref",
+      "country": "India"
+    },
     {
       "title": "One Weapon, Three Manners: Case-based Discussion and Evaluation on Manner of Death",
       "journal": "Journal of Indian Academy of Forensic Medicine",
