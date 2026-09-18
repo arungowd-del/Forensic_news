@@ -1,15 +1,7 @@
 {
-  "updated": "2026-09-18T01:50:45.888407Z",
+  "updated": "2026-09-18T10:09:06.399610Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Trop-1/EpCAM Thr115 is a driver of hyperproliferative cell repair and of severe lung damage in COVID-19.",
-      "authors": "Baldassarri M, Trerotola M, Brunelli G, La Francesca N, Bergantini L",
-      "published": "2026-09-18",
-      "journal": "iScience",
-      "pmid": "42733865",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42733865/"
-    },
     {
       "title": "Molecular and serological evidence of systemic Treponema pallidum infection in wild western chimpanzees.",
       "authors": "Labarrere C, Hama HO, Orain N, Dotras L, Llana M",
@@ -19,36 +11,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42733849/"
     },
     {
-      "title": "The transcriptional regulator CueR positively regulates the expression of the cueRA operon to maintain copper homeostasis in Pseudomonas chlororaphis zm-1.",
-      "authors": "Wang Z, Li C, Lei Z, Duan S, Liu F",
-      "published": "2026-09-17",
-      "journal": "Microbiology spectrum",
-      "pmid": "42752238",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42752238/"
-    },
-    {
-      "title": "Neuropathological diagnoses and age-related differences in Finnish medico-legal autopsies of individuals aged 65 years and older.",
-      "authors": "Pellikka E, Vauhkonen PK, Oura P",
-      "published": "2026-09-17",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42753051",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42753051/"
-    },
-    {
-      "title": "Defining the Role of Postmortem Radiologic-Pathologic Correlation in Breast Arterial Calcification Research.",
-      "authors": "Sidiropoulou Z, Santos C",
-      "published": "2026-09-17",
-      "journal": "Journal of breast imaging",
-      "pmid": "42752605",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42752605/"
-    },
-    {
-      "title": "Postmortem amlodipine concentrations and postmortem redistribution: a retrospective study of 33 cases.",
-      "authors": "Matheux A, Amadieu C, Pasquet A, François-Purssell I, Loiseau M",
-      "published": "2026-09-17",
+      "title": "Population data of 27 Y-STR loci in indigenous populations from Sabah and Sarawak, Malaysia.",
+      "authors": "Chan XY, Kofi AE, Edinur HA, Abd Rashid NH",
+      "published": "2026-09-18",
       "journal": "International journal of legal medicine",
-      "pmid": "42749756",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749756/"
+      "pmid": "42754725",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754725/"
+    },
+    {
+      "title": "Nursing Students' Knowledge of Provider-Committed Murder of Patients: A Before and After Study.",
+      "authors": "Wolf ZR, Poly-Droulard L, Byrd K",
+      "published": "2026-09-18",
+      "journal": "Journal of forensic nursing",
+      "pmid": "42754964",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754964/"
+    },
+    {
+      "title": "Trop-1/EpCAM Thr115 is a driver of hyperproliferative cell repair and of severe lung damage in COVID-19.",
+      "authors": "Baldassarri M, Trerotola M, Brunelli G, La Francesca N, Bergantini L",
+      "published": "2026-09-18",
+      "journal": "iScience",
+      "pmid": "42733865",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733865/"
     },
     {
       "title": "Over-Penetration Risk of TASER 10 Conducted Electrical Weapon Darts in Humans.",
@@ -59,6 +43,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42567155/"
     },
     {
+      "title": "Impact of Losartan Nanoparticles on Carbon Tetrachloride-induced Cerebellar Injury in Rats: Association with Alterations in RIPK1/RIPK3/MLKL Necroptosis Markers.",
+      "authors": "Lashine NH, Elhessy HM, Hammad MO, Farrag EAE, Hamed S",
+      "published": "2026-09-17",
+      "journal": "Molecular neurobiology",
+      "pmid": "42749941",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749941/"
+    },
+    {
       "title": "Integrative Genomic and Functional Investigation of the Multi-Layered Genetic Architecture Between Anorexia Nervosa and Bone Loss.",
       "authors": "Han T, Wang Y, Dang Y, Xiang R, Zeng Y",
       "published": "2026-09-17",
@@ -67,12 +59,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42753153/"
     },
     {
-      "title": "Primary Care Doctors' Perspectives and Experiences With a Chest X-Ray AI Triage Program: Qualitative Study.",
-      "authors": "Kuang S, Fong QW, De Roza JG, Koh DHM, Tan CH",
+      "title": "Neuropathological diagnoses and age-related differences in Finnish medico-legal autopsies of individuals aged 65 years and older.",
+      "authors": "Pellikka E, Vauhkonen PK, Oura P",
       "published": "2026-09-17",
-      "journal": "Journal of medical Internet research",
-      "pmid": "42753240",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42753240/"
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42753051",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753051/"
+    },
+    {
+      "title": "Post-influenza syndromes: a hidden burden in clinical practice.",
+      "authors": "Tsiodras S",
+      "published": "2026-09-17",
+      "journal": "Expert review of respiratory medicine",
+      "pmid": "42755182",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755182/"
+    },
+    {
+      "title": "Defining the Role of Postmortem Radiologic-Pathologic Correlation in Breast Arterial Calcification Research.",
+      "authors": "Sidiropoulou Z, Santos C",
+      "published": "2026-09-17",
+      "journal": "Journal of breast imaging",
+      "pmid": "42752605",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42752605/"
+    },
+    {
+      "title": "Lipid deposition as a common feature of pneumonias of different etiologies.",
+      "authors": "Potashnikova DM, Tvorogova AV, Sotnikova TN, Komissarov AA, Zhuravlev KN",
+      "published": "2026-09-17",
+      "journal": "The American journal of medicine",
+      "pmid": "42754068",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754068/"
+    },
+    {
+      "title": "Postmortem amlodipine concentrations and postmortem redistribution: a retrospective study of 33 cases.",
+      "authors": "Matheux A, Amadieu C, Pasquet A, François-Purssell I, Loiseau M",
+      "published": "2026-09-17",
+      "journal": "International journal of legal medicine",
+      "pmid": "42749756",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749756/"
     },
     {
       "title": "STAT1: a central hub linking ferroptosis and inflammation in hepatic ischemia-reperfusion injury.",
@@ -83,84 +107,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42752934/"
     },
     {
-      "title": "Impact of Losartan Nanoparticles on Carbon Tetrachloride-induced Cerebellar Injury in Rats: Association with Alterations in RIPK1/RIPK3/MLKL Necroptosis Markers.",
-      "authors": "Lashine NH, Elhessy HM, Hammad MO, Farrag EAE, Hamed S",
+      "title": "Diagnostic and therapeutic challenges in Andersen-Tawil syndrome.",
+      "authors": "Jacobsen SB, van der Werf C, van der Kooi AJ, Wilde AAM, Tfelt-Hansen J",
       "published": "2026-09-17",
-      "journal": "Molecular neurobiology",
-      "pmid": "42749941",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749941/"
+      "journal": "Heart rhythm",
+      "pmid": "42754000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754000/"
     },
     {
-      "title": "Recording living and postmortem friction ridge patterns using image processing and a fiber-optic-inspired total internal reflection method.",
-      "authors": "Yu YC, Cho LL",
-      "published": "2026-09-16",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42748104",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42748104/"
+      "title": "Primary Care Doctors' Perspectives and Experiences With a Chest X-Ray AI Triage Program: Qualitative Study.",
+      "authors": "Kuang S, Fong QW, De Roza JG, Koh DHM, Tan CH",
+      "published": "2026-09-17",
+      "journal": "Journal of medical Internet research",
+      "pmid": "42753240",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753240/"
     },
     {
-      "title": "Genetic diversity of nine necrophagous Sarcophagidae (Diptera) species in Portugal.",
-      "authors": "Reis CIC, Pereira F, Rodrigues-Filho SJM, Carmo AO, Rebelo MT",
-      "published": "2026-09-16",
-      "journal": "Journal of forensic and legal medicine",
-      "pmid": "42748528",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42748528/"
+      "title": "The transcriptional regulator CueR positively regulates the expression of the cueRA operon to maintain copper homeostasis in Pseudomonas chlororaphis zm-1.",
+      "authors": "Wang Z, Li C, Lei Z, Duan S, Liu F",
+      "published": "2026-09-17",
+      "journal": "Microbiology spectrum",
+      "pmid": "42752238",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42752238/"
     },
     {
-      "title": "Economic and Quality of Life Burden of Dentine Hypersensitivity in Adults.",
-      "authors": "Ha D, Dai D, Do L, Schuch H, Torwane N",
+      "title": "Assessing Bioactivity and Biointegration of Engineered Salivary Tissue Constructs in a Preclinical Unilateral Fractionated Irradiated Rat Model.",
+      "authors": "Pernick KP, Amorim J, da Silva Barros CC, Vesela I, Lian MJ",
       "published": "2026-09-16",
-      "journal": "Journal of dentistry",
-      "pmid": "42749041",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749041/"
-    },
-    {
-      "title": "Clinical and Radiologic Predictors of Surgical Intervention in Adult Maxillofacial Trauma Patients Presenting to the Emergency Department.",
-      "authors": "Muratoglu M, Gencel D, Bulut B, Savran S, Kalemci D",
-      "published": "2026-09-16",
-      "journal": "The Journal of craniofacial surgery",
-      "pmid": "42747898",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747898/"
-    },
-    {
-      "title": "Genetic diversity of spotted fever group Rickettsia and Dabieshan tick virus detected in ticks collected from suburban forest areas of Gifu, Central Japan.",
-      "authors": "Shimada M, Fujii Y, Okajima M, Takahashi MR, Furuta M",
-      "published": "2026-09-16",
-      "journal": "Parasitology international",
-      "pmid": "42749012",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749012/"
-    },
-    {
-      "title": "The AWARE (AI Use, Why, Attachment, Reality and Risk, and Effect on Functioning) Framework for Assessing Patients' Use of AI in Mental Health Care.",
-      "authors": "Hudon A, Bhat V, Nunez JJ, Paquin V, Malouin-Lachance A",
-      "published": "2026-09-16",
-      "journal": "JMIR medical education",
-      "pmid": "42749279",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749279/"
-    },
-    {
-      "title": "Artificial intelligence in otolaryngology: current applications, limitations, and future perspectives.",
-      "authors": "Litsou E, Tzotzis I, Malisovas T, Asimakopoulos A, Psychogios G",
-      "published": "2026-09-16",
-      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
-      "pmid": "42745060",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745060/"
-    },
-    {
-      "title": "Pharmacokinetic interaction between ketamine and ethanol: evaluation and forensic implications.",
-      "authors": "Won JA, Seo JI, Kim Y, Lee S, Yoo HH",
-      "published": "2026-09-16",
-      "journal": "Forensic toxicology",
-      "pmid": "42747747",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747747/"
-    },
-    {
-      "title": "Death by Triglycerides: A Multifaceted Case of Dyslipidemia, Obesity, and PMOS Resulting In Lethal Acute Pancreatitis.",
-      "authors": "Williams HL, Maloney KF",
-      "published": "2026-09-16",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42745222",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745222/"
+      "journal": "Acta biomaterialia",
+      "pmid": "42749206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749206/"
     },
     {
       "title": "Evolution and heterogeneity of lethal metastatic bladder cancer subtypes.",
@@ -179,28 +155,52 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42748050/"
     },
     {
-      "title": "Impact of endovenous radiofrequency ablation on restless legs syndrome severity and sleep quality in patients with chronic venous insufficiency.",
-      "authors": "Okudan Atay ZV, Acır İ, Atay M, Yayla V",
+      "title": "Epigenetics and childhood obesity: DNA methylation coordinates environment and gene regulation.",
+      "authors": "Kaimala S, Leow MK, Ansari SA, Emerald BS",
       "published": "2026-09-16",
-      "journal": "Phlebology",
-      "pmid": "42749268",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749268/"
+      "journal": "Endocrine reviews",
+      "pmid": "42116681",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42116681/"
     },
     {
-      "title": "Assessing Bioactivity and Biointegration of Engineered Salivary Tissue Constructs in a Preclinical Unilateral Fractionated Irradiated Rat Model.",
-      "authors": "Pernick KP, Amorim J, da Silva Barros CC, Vesela I, Lian MJ",
+      "title": "Artificial intelligence in otolaryngology: current applications, limitations, and future perspectives.",
+      "authors": "Litsou E, Tzotzis I, Malisovas T, Asimakopoulos A, Psychogios G",
       "published": "2026-09-16",
-      "journal": "Acta biomaterialia",
-      "pmid": "42749206",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749206/"
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pmid": "42745060",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745060/"
     },
     {
-      "title": "Performance evaluation of a scent transfer unit for sampling of explosives and their residues to investigate nuisance alerts.",
-      "authors": "Upadhyaya H, Hecker A, Goodpaster J",
+      "title": "Economic and Quality of Life Burden of Dentine Hypersensitivity in Adults.",
+      "authors": "Ha D, Dai D, Do L, Schuch H, Torwane N",
+      "published": "2026-09-16",
+      "journal": "Journal of dentistry",
+      "pmid": "42749041",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749041/"
+    },
+    {
+      "title": "Integrating Community Practices, Vector Resistance, and Molecular Xenomonitoring of Wuchereria Bancrofti: A One Health Implementation Study in Lymphatic Filariasis-Endemic Communities.",
+      "authors": "Yalwa MA, Aliyu M, Musa AI, Malami I, Abubakar MB",
+      "published": "2026-09-16",
+      "journal": "Acta parasitologica",
+      "pmid": "42747590",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42747590/"
+    },
+    {
+      "title": "Recording living and postmortem friction ridge patterns using image processing and a fiber-optic-inspired total internal reflection method.",
+      "authors": "Yu YC, Cho LL",
       "published": "2026-09-16",
       "journal": "Journal of forensic sciences",
-      "pmid": "42748129",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42748129/"
+      "pmid": "42748104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748104/"
+    },
+    {
+      "title": "Trends and Advances in Analytical Methodologies for Favipiravir Determination Across Diverse Matrices.",
+      "authors": "Malaviya NJ, Varu HL, Ambasana MA",
+      "published": "2026-09-16",
+      "journal": "Critical reviews in analytical chemistry",
+      "pmid": "42746758",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746758/"
     },
     {
       "title": "Dura mater-preserving technique for fetal brain extraction after intrauterine death with prolonged retention.",
@@ -211,12 +211,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42748092/"
     },
     {
-      "title": "Punicic acid alleviates osteoarthritis progression through miR-29a-3p-dependent inhibition of the MAP2K6/p38 MAPK pathway.",
-      "authors": "Wang W, Zhang T, Yu C, Xu ZX, Luo L",
+      "title": "Correction: Decoding orthogonal geochemical fingerprints in complex soil matrices via multi-model consensus machine learning for high-fidelity forensic provenance.",
+      "authors": "Wang P, Jie Z, Guo H, Mei H, Hu C",
       "published": "2026-09-16",
-      "journal": "In vitro cellular & developmental biology. Animal",
-      "pmid": "42747754",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747754/"
+      "journal": "Analytical methods : advancing methods and applications",
+      "pmid": "42746871",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746871/"
     },
     {
       "title": "Algal bioactive compounds for next-generation biopesticides: a multi-target resource for sustainable pest management.",
@@ -227,20 +227,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42747690/"
     },
     {
+      "title": "Genetic diversity of spotted fever group Rickettsia and Dabieshan tick virus detected in ticks collected from suburban forest areas of Gifu, Central Japan.",
+      "authors": "Shimada M, Fujii Y, Okajima M, Takahashi MR, Furuta M",
+      "published": "2026-09-16",
+      "journal": "Parasitology international",
+      "pmid": "42749012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749012/"
+    },
+    {
       "title": "Defining overkill homicide through quantitative criteria: Evidence from a retrospective forensic study over a 34-year period in a Tunisian forensic center.",
       "authors": "Sakly T, Zaara MA, Belhaj M, Oualha D, El Mhamdi S",
       "published": "2026-09-16",
       "journal": "Journal of forensic sciences",
       "pmid": "42748125",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42748125/"
-    },
-    {
-      "title": "Integrating Community Practices, Vector Resistance, and Molecular Xenomonitoring of Wuchereria Bancrofti: A One Health Implementation Study in Lymphatic Filariasis-Endemic Communities.",
-      "authors": "Yalwa MA, Aliyu M, Musa AI, Malami I, Abubakar MB",
-      "published": "2026-09-16",
-      "journal": "Acta parasitologica",
-      "pmid": "42747590",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747590/"
     }
   ]
 }
