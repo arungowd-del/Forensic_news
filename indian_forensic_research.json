@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:03:51.220052+00:00",
+  "updated": "2026-09-19T15:08:20.803982+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -61,6 +61,16 @@
       "authors": "R Monisha, Sachin Kumar Meena, Karthika J",
       "url": "https://doi.org/10.1177/09710973261477488",
       "doi": "10.1177/09710973261477488",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Demographic characteristics of antemortem hanging deaths in central India: A medico-legal autopsy study assessing age, sex distribution and menstrual phase association",
+      "journal": "Indian Journal of Forensic and Community Medicine",
+      "published": "2026-09-19",
+      "authors": "Sharjeel Hafiz Khan, Shadma Hafizuddin Quazi, Arti Ajay Kasulkar, Bipinchandra Haribhau Tirpude, Shoaib Alimohammed Fazlani",
+      "url": "https://doi.org/10.18231/j.ijfcm.16363.1788159440",
+      "doi": "10.18231/j.ijfcm.16363.1788159440",
       "source": "Crossref",
       "country": "India"
     },
@@ -215,12 +225,12 @@
       "country": "India"
     },
     {
-      "title": "Paraquat poisoning in pregnancy",
-      "journal": "Indian Journal of Pathology and Microbiology",
-      "published": "2026-09-03",
-      "authors": "Pradeep Vaideeswar, Rahul Rajbhar",
-      "url": "https://doi.org/10.4103/ijpm.ijpm_957_24",
-      "doi": "10.4103/ijpm.ijpm_957_24",
+      "title": "Comparative evaluation of 3D surface scanning and conventional 2D photography for accurate morphometric and diagnostic analysis of forensic injuries during autopsy",
+      "journal": "Indian Journal of Forensic and Community Medicine",
+      "published": "2026-09-19",
+      "authors": "Rohit Kumar Singh, . Shiuli, . Garima, Raghuwar Singh, Rakhi Rajput, Veerendra Prasad, Sachin Kumar Tripathi, Anoop Kumar Verma",
+      "url": "https://doi.org/10.18231/j.ijfcm.16905.1786428847",
+      "doi": "10.18231/j.ijfcm.16905.1786428847",
       "source": "Crossref",
       "country": "India"
     },
