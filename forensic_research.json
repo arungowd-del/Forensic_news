@@ -1,102 +1,14 @@
 {
-  "updated": "2026-09-20T10:11:45.419145Z",
+  "updated": "2026-09-20T14:59:06.668079Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Allele frequencies and forensic efficiency of autosomal short tandem repeat loci in the Rwandan population.",
-      "authors": "Ndungutse A, Daba TM, Krebs O, Augustin C, Mutesa L",
+      "title": "Regulatory roles of G-quadruplexes and G-quadruplex-binding proteins across the enhancer and promoter of the HBV genome.",
+      "authors": "He L, Huang B, Ma H, Wang L, Wu Q",
       "published": "2026-09-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42762299",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762299/"
-    },
-    {
-      "title": "Machine learning-driven forensic sex prediction using CT-based nasal and maxillary sinus metrics.",
-      "authors": "Fakher HM, Samir M, Farag AA, Elela NAMA, Abdelshafy SZ",
-      "published": "2026-09-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42760424",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760424/"
-    },
-    {
-      "title": "Evolution of zinc biomarkers and impact on clinical nutrition and public health.",
-      "authors": "Bochud M, Berger MM",
-      "published": "2026-09-19",
-      "journal": "Current opinion in clinical nutrition and metabolic care",
-      "pmid": "42762104",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762104/"
-    },
-    {
-      "title": "X-ray diffraction analysis of bone crystallinity and its association with postmortem interval in human skeletal remains.",
-      "authors": "Ermida C, Cunha E, Gil F, Ferreira MT",
-      "published": "2026-09-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42762298",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762298/"
-    },
-    {
-      "title": "Judicial outcomes in non-accidental head injury cases evaluated by the forensic medicine department of Angers University Hospital.",
-      "authors": "Celo E, Adamsbaum C, Boileau-Savary C, Delorme B, Iwaz R",
-      "published": "2026-09-19",
-      "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
-      "pmid": "42762814",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762814/"
-    },
-    {
-      "title": "Parental distress - a predictor of treatment adherence in pediatric neuroblastoma: a cross-sectional study of chinese families.",
-      "authors": "Yang P, Li Z, Zhao J, Ma L, Richard SA",
-      "published": "2026-09-19",
-      "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
-      "pmid": "42762341",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762341/"
-    },
-    {
-      "title": "Contributions to the identification of Fannia lineata (Stein, 1895) (Diptera: Fanniidae) in forensic contexts: first record in a human cadaver.",
-      "authors": "Vanin S, Carta G, Scopetti M, Santurro A",
-      "published": "2026-09-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42762300",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762300/"
-    },
-    {
-      "title": "Viral exploitation of p300/CBP at the virus-cancer interface: Chromatin regulation, oncogenesis, immune evasion, and therapeutic targeting.",
-      "authors": "Atoom AM, Rizaev J, Polatova D, Patel PN, Jamuna KV",
-      "published": "2026-09-19",
-      "journal": "Cancer treatment and research communications",
-      "pmid": "42762610",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762610/"
-    },
-    {
-      "title": "Genetic origin and forensic analysis of han populations from four districts in Shanghai, China, based on Y-chromosome STR and SNP markers.",
-      "authors": "Sun H, Liu Y, Liu T, Tang Z, Lei L",
-      "published": "2026-09-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42760425",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760425/"
-    },
-    {
-      "title": "Oncolytic virotherapy at the tumor microenvironment-CAR Therapy interface: Mechanisms, clinical translation, and future directions.",
-      "authors": "Atoom AM, Rizaev J, Polatova D, Patel PN, Jamuna KV",
-      "published": "2026-09-19",
-      "journal": "Cancer treatment and research communications",
-      "pmid": "42762609",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762609/"
-    },
-    {
-      "title": "Severe antipsychotic-associated gastrointestinal hypomotility: AMSP pharmacovigilance data from 333,175 psychiatric inpatients.",
-      "authors": "Bleich L, Bleich S, Bleich K, Bleich J, Ortak P",
-      "published": "2026-09-19",
-      "journal": "European archives of psychiatry and clinical neuroscience",
-      "pmid": "42762236",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762236/"
-    },
-    {
-      "title": "Retraction notice to \"Combined diosmin and bisoprolol attenuate cobalt chloride-induced cardiotoxicity and endothelial dysfunction through modulating miR-143-3P/MAPK/MCP-1, ERK5/CXCR4, Orai-1/STIM-1 signaling pathways\" [Int. Immunopharmacol. 140 (2024) 112777].",
-      "authors": "El-Shoura EAM, Mohamed AAN, Atwa AM, Salem EA, Sharkawi SMZ",
-      "published": "2026-09-19",
-      "journal": "International immunopharmacology",
-      "pmid": "42760158",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760158/"
+      "journal": "Virology journal",
+      "pmid": "42763390",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763390/"
     },
     {
       "title": "Subclassification of Vieth stage 4 in MRI of the proximal tibial epiphysis: a pilot study for forensic age estimation.",
@@ -107,14 +19,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42762297/"
     },
     {
-      "title": "ABCC9/SUR2 has a Complex Expression Pattern in Human Brain Gliovascular Unit Cells, Including Astrocytes.",
-      "authors": "Katsumata Y, Morganti JM, Liao A, Zhou W, Zhong Y",
-      "published": "2026-09-19",
-      "journal": "Journal of molecular neuroscience : MN",
-      "pmid": "42762395",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762395/"
-    },
-    {
       "title": "Cystic fibrosis and its impact on the oral cavity and dental treatments - a scoping review.",
       "authors": "Lopes Cardoso I, Guimarães MI, Cozic EL, Leal F",
       "published": "2026-09-19",
@@ -123,28 +27,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760388/"
     },
     {
-      "title": "Regulatory roles of G-quadruplexes and G-quadruplex-binding proteins across the enhancer and promoter of the HBV genome.",
-      "authors": "He L, Huang B, Ma H, Wang L, Wu Q",
+      "title": "Oncolytic virotherapy at the tumor microenvironment-CAR Therapy interface: Mechanisms, clinical translation, and future directions.",
+      "authors": "Atoom AM, Rizaev J, Polatova D, Patel PN, Jamuna KV",
       "published": "2026-09-19",
-      "journal": "Virology journal",
-      "pmid": "42763390",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763390/"
-    },
-    {
-      "title": "Over-Penetration Risk of TASER 10 Conducted Electrical Weapon Darts in Humans.",
-      "authors": "Ho J, Dawes DM, Kunz SN, Ho KP, Miner JR",
-      "published": "2026-09-19",
-      "journal": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
-      "pmid": "42567155",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567155/"
-    },
-    {
-      "title": "Diagnostic value of external and internal neck findings in fatal strangulation: a scoping review of the forensic pathology literature.",
-      "authors": "Alraythi MS, Alfarayedhi MA",
-      "published": "2026-09-19",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42762388",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762388/"
+      "journal": "Cancer treatment and research communications",
+      "pmid": "42762609",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762609/"
     },
     {
       "title": "Deep learning-based 3D forensic facial reconstruction: a volumetric morphological inference approach using a skull-conditioned U-Net.",
@@ -155,12 +43,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760423/"
     },
     {
-      "title": "Are we back to normal? Evaluating the impact of the COVID-19 pandemic on referrals to a child protection service in a tertiary care centre in Vienna, Austria.",
-      "authors": "Grylli C, Klomfar S, Brandlechner J, Schaller L, Weimann K",
+      "title": "Genetic origin and forensic analysis of han populations from four districts in Shanghai, China, based on Y-chromosome STR and SNP markers.",
+      "authors": "Sun H, Liu Y, Liu T, Tang Z, Lei L",
       "published": "2026-09-19",
-      "journal": "BMJ paediatrics open",
-      "pmid": "42763109",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763109/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42760425",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760425/"
+    },
+    {
+      "title": "Machine learning-driven forensic sex prediction using CT-based nasal and maxillary sinus metrics.",
+      "authors": "Fakher HM, Samir M, Farag AA, Elela NAMA, Abdelshafy SZ",
+      "published": "2026-09-19",
+      "journal": "International journal of legal medicine",
+      "pmid": "42760424",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760424/"
+    },
+    {
+      "title": "Over-Penetration Risk of TASER 10 Conducted Electrical Weapon Darts in Humans.",
+      "authors": "Ho J, Dawes DM, Kunz SN, Ho KP, Miner JR",
+      "published": "2026-09-19",
+      "journal": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
+      "pmid": "42567155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42567155/"
+    },
+    {
+      "title": "ABCC9/SUR2 has a Complex Expression Pattern in Human Brain Gliovascular Unit Cells, Including Astrocytes.",
+      "authors": "Katsumata Y, Morganti JM, Liao A, Zhou W, Zhong Y",
+      "published": "2026-09-19",
+      "journal": "Journal of molecular neuroscience : MN",
+      "pmid": "42762395",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762395/"
     },
     {
       "title": "CRISPR and Gene Editing Approaches in Prostate Cancer: Clinical Applications and Therapeutic Potential.",
@@ -171,12 +83,148 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42763006/"
     },
     {
-      "title": "Two decades of microbiome forensics: Bibliometric insights into publication trends, applications and methodological advancements.",
-      "authors": "Halmi MFA, Edinur HA",
+      "title": "Are we back to normal? Evaluating the impact of the COVID-19 pandemic on referrals to a child protection service in a tertiary care centre in Vienna, Austria.",
+      "authors": "Grylli C, Klomfar S, Brandlechner J, Schaller L, Weimann K",
+      "published": "2026-09-19",
+      "journal": "BMJ paediatrics open",
+      "pmid": "42763109",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763109/"
+    },
+    {
+      "title": "Allele frequencies and forensic efficiency of autosomal short tandem repeat loci in the Rwandan population.",
+      "authors": "Ndungutse A, Daba TM, Krebs O, Augustin C, Mutesa L",
+      "published": "2026-09-19",
+      "journal": "International journal of legal medicine",
+      "pmid": "42762299",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762299/"
+    },
+    {
+      "title": "Contributions to the identification of Fannia lineata (Stein, 1895) (Diptera: Fanniidae) in forensic contexts: first record in a human cadaver.",
+      "authors": "Vanin S, Carta G, Scopetti M, Santurro A",
+      "published": "2026-09-19",
+      "journal": "International journal of legal medicine",
+      "pmid": "42762300",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762300/"
+    },
+    {
+      "title": "Parental distress - a predictor of treatment adherence in pediatric neuroblastoma: a cross-sectional study of chinese families.",
+      "authors": "Yang P, Li Z, Zhao J, Ma L, Richard SA",
+      "published": "2026-09-19",
+      "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+      "pmid": "42762341",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762341/"
+    },
+    {
+      "title": "Evolution of zinc biomarkers and impact on clinical nutrition and public health.",
+      "authors": "Bochud M, Berger MM",
+      "published": "2026-09-19",
+      "journal": "Current opinion in clinical nutrition and metabolic care",
+      "pmid": "42762104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762104/"
+    },
+    {
+      "title": "Severe antipsychotic-associated gastrointestinal hypomotility: AMSP pharmacovigilance data from 333,175 psychiatric inpatients.",
+      "authors": "Bleich L, Bleich S, Bleich K, Bleich J, Ortak P",
+      "published": "2026-09-19",
+      "journal": "European archives of psychiatry and clinical neuroscience",
+      "pmid": "42762236",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762236/"
+    },
+    {
+      "title": "Judicial outcomes in non-accidental head injury cases evaluated by the forensic medicine department of Angers University Hospital.",
+      "authors": "Celo E, Adamsbaum C, Boileau-Savary C, Delorme B, Iwaz R",
+      "published": "2026-09-19",
+      "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+      "pmid": "42762814",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762814/"
+    },
+    {
+      "title": "Diagnostic value of external and internal neck findings in fatal strangulation: a scoping review of the forensic pathology literature.",
+      "authors": "Alraythi MS, Alfarayedhi MA",
+      "published": "2026-09-19",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42762388",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762388/"
+    },
+    {
+      "title": "X-ray diffraction analysis of bone crystallinity and its association with postmortem interval in human skeletal remains.",
+      "authors": "Ermida C, Cunha E, Gil F, Ferreira MT",
+      "published": "2026-09-19",
+      "journal": "International journal of legal medicine",
+      "pmid": "42762298",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762298/"
+    },
+    {
+      "title": "Retraction notice to \"Combined diosmin and bisoprolol attenuate cobalt chloride-induced cardiotoxicity and endothelial dysfunction through modulating miR-143-3P/MAPK/MCP-1, ERK5/CXCR4, Orai-1/STIM-1 signaling pathways\" [Int. Immunopharmacol. 140 (2024) 112777].",
+      "authors": "El-Shoura EAM, Mohamed AAN, Atwa AM, Salem EA, Sharkawi SMZ",
+      "published": "2026-09-19",
+      "journal": "International immunopharmacology",
+      "pmid": "42760158",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760158/"
+    },
+    {
+      "title": "Viral exploitation of p300/CBP at the virus-cancer interface: Chromatin regulation, oncogenesis, immune evasion, and therapeutic targeting.",
+      "authors": "Atoom AM, Rizaev J, Polatova D, Patel PN, Jamuna KV",
+      "published": "2026-09-19",
+      "journal": "Cancer treatment and research communications",
+      "pmid": "42762610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762610/"
+    },
+    {
+      "title": "Water-induced supramolecular self-assembly of porphyrin integrated with multivalent metal-organic framework for enhanced electrochemiluminescence and ultrasensitive aptasensing of 4-fluoromethamphetamine.",
+      "authors": "Fan B, Jiang D, Ni Y, Meng T, Sun Z",
       "published": "2026-09-18",
-      "journal": "Journal of microbiological methods",
-      "pmid": "42759892",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42759892/"
+      "journal": "Mikrochimica acta",
+      "pmid": "42758206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42758206/"
+    },
+    {
+      "title": "Clinicopathological factors potentially relevant to pulmonary intravascular fibrin organisation in patients with COVID-19: an autopsy-based study.",
+      "authors": "Meneses-Flores M, Zúñiga-Ascencio BS, Lopez-Gonzalez JS, Santos-Torres S, Bolaños-Morales F",
+      "published": "2026-09-18",
+      "journal": "Virchows Archiv : an international journal of pathology",
+      "pmid": "42758331",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42758331/"
+    },
+    {
+      "title": "Molecular and serological evidence of systemic Treponema pallidum infection in wild western chimpanzees.",
+      "authors": "Labarrere C, Hama HO, Orain N, Dotras L, Llana M",
+      "published": "2026-09-18",
+      "journal": "iScience",
+      "pmid": "42733849",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733849/"
+    },
+    {
+      "title": "Adding Treatment-Continuity Metrics to Opioid Toxicity Investigation: A Triangulation Hypothesis for Applied Toxicology.",
+      "authors": "Huang YW, Wei LC",
+      "published": "2026-09-18",
+      "journal": "Journal of applied toxicology : JAT",
+      "pmid": "42760834",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760834/"
+    },
+    {
+      "title": "A preliminary multimodal forensic assessment of footpad skin in a rat model of fatal heatstroke.",
+      "authors": "Liu H, Pan M, Ma C, Sun C, Zhu W",
+      "published": "2026-09-18",
+      "journal": "Legal medicine (Tokyo, Japan)",
+      "pmid": "42759439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759439/"
+    },
+    {
+      "title": "In vivo evaluation comparison of noncalibrated implant scan body systems positioned following the arch shape or toward the center of the arch.",
+      "authors": "Revilla-León M, Cascos R, Drone M, Barmak AB, Gómez-Polo M",
+      "published": "2026-09-18",
+      "journal": "The Journal of prosthetic dentistry",
+      "pmid": "42760141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760141/"
+    },
+    {
+      "title": "Impact of buccal cell content and swab retention on tetrahydrocannabinol and cocaine concentrations in oral fluid.",
+      "authors": "Saint-Marcoux F, Campos Lapa N, Dulaurent S, Griffeuille P, El Balkhi S",
+      "published": "2026-09-18",
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42760260",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760260/"
     },
     {
       "title": "An Epistemology for Forensic Psychiatry.",
@@ -187,60 +235,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624641/"
     },
     {
-      "title": "Trop-1/EpCAM Thr115 is a driver of hyperproliferative cell repair and of severe lung damage in COVID-19.",
-      "authors": "Baldassarri M, Trerotola M, Brunelli G, La Francesca N, Bergantini L",
+      "title": "Asian Computed Tomography Criteria for Cerebral Amyloid Angiopathy-Related Intracerebral Hemorrhage: Magnetic Resonance Imaging and Pathology Validations.",
+      "authors": "Shih YC, Wang YJ, Lee BC, Chang K, Jeng JS",
       "published": "2026-09-18",
-      "journal": "iScience",
-      "pmid": "42733865",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42733865/"
-    },
-    {
-      "title": "Modulation of Nrf2/TNF-α and TLR4/TGF-β1 Signaling Pathways by Nigella Sativa Oil and Echinacea Purpurea Extract Attenuates Cyclosporine A-Induced Nephrotoxicity and Immunotoxicity.",
-      "authors": "Abdel-Maksoud EM, Lebda MA, Tharwat H, El-Sayed Y, Hashem AE",
-      "published": "2026-09-18",
-      "journal": "Cell biochemistry and biophysics",
-      "pmid": "42758440",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42758440/"
-    },
-    {
-      "title": "Laws Governing the Care of People with Serious Mental Illness in Solitary Confinement.",
-      "authors": "Wu SY",
-      "published": "2026-09-18",
-      "journal": "The journal of the American Academy of Psychiatry and the Law",
-      "pmid": "42575706",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575706/"
-    },
-    {
-      "title": "Identification of multi-target lead compounds from iron-stressed Aspergillus species using LC-MS, in silico analysis, and pharmacokinetics profiling.",
-      "authors": "Mistry D, Gamit D",
-      "published": "2026-09-18",
-      "journal": "Natural product research",
-      "pmid": "42758905",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42758905/"
-    },
-    {
-      "title": "Population data of 27 Y-STR loci in indigenous populations from Sabah and Sarawak, Malaysia.",
-      "authors": "Chan XY, Kofi AE, Edinur HA, Abd Rashid NH",
-      "published": "2026-09-18",
-      "journal": "International journal of legal medicine",
-      "pmid": "42754725",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754725/"
-    },
-    {
-      "title": "Deep learning-based sex estimation from multi-planar cranial CT images in a Thai population.",
-      "authors": "Du Z, Navic P, Sinthubua A, Palee P, Mahakkanukrauh P",
-      "published": "2026-09-18",
-      "journal": "Anatomical science international",
-      "pmid": "42758245",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42758245/"
-    },
-    {
-      "title": "Future Directions in the Evaluation of Forensic Cases Involving Artificial Intelligence \"Chatbots\".",
-      "authors": "Simpson JR, Pierre JM",
-      "published": "2026-09-18",
-      "journal": "The journal of the American Academy of Psychiatry and the Law",
-      "pmid": "42759958",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42759958/"
+      "journal": "Journal of the American Heart Association",
+      "pmid": "42757959",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757959/"
     }
   ]
 }
