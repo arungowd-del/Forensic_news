@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:04:49.425709+00:00",
+  "updated": "2026-09-21T02:39:34.267846+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,6 +91,56 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Do AI chatbots used for Alzheimer’s disease patients risk worsening psychosis?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-09",
+      "authors": "Bor Luen Tang",
+      "url": "https://doi.org/10.20529/ijme.2026.055",
+      "doi": "10.20529/ijme.2026.055",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "(Cross)roads: a crossword on health research and practice ethics",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-07",
+      "authors": "Josyula K Lakshmi",
+      "url": "https://doi.org/10.20529/ijme.2026.054",
+      "doi": "10.20529/ijme.2026.054",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Care, control, and justice: A feminist review of Eko",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-02",
+      "authors": "Malu Mohan, Sunu C Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.053",
+      "doi": "10.20529/ijme.2026.053",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Workforce capacity and the ethics of ‘batting’",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-29",
+      "authors": "Kinshuk Gupta",
+      "url": "https://doi.org/10.20529/ijme.2026.052",
+      "doi": "10.20529/ijme.2026.052",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Working at the frontlines, trailing behind in fair remuneration: ethics of the ASHA workers’ socio-economic position",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-08-27",
+      "authors": "Sumitha K, Lekshmi Anand, Ashtamoorthy Erayoor",
+      "url": "https://doi.org/10.20529/ijme.2026.051",
+      "doi": "10.20529/ijme.2026.051",
       "source": "Crossref",
       "country": "India"
     },
