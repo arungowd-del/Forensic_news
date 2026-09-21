@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:36:58.515849+00:00",
+  "updated": "2026-09-21T17:34:24.329207+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -111,6 +111,26 @@
       "authors": "K J Subhashini, E Vimal Kumar, M Senthil Kumar, T A Devaparthasarathy, T S Selvavinayagam, A Somasundaram",
       "url": "https://doi.org/10.1093/trstmh/trag092",
       "doi": "10.1093/trstmh/trag092",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "An exploration of the hidden curriculum in undergraduate medical training: students’ perspectives (2016-2017)",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-21",
+      "authors": "Savitha D, Olinda Timms, Manjulika Vaz",
+      "url": "https://doi.org/10.20529/ijme.2026.057",
+      "doi": "10.20529/ijme.2026.057",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Silent storm",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-16",
+      "authors": "Gourisankar Nandakumar",
+      "url": "https://doi.org/10.20529/ijme.2026.056",
+      "doi": "10.20529/ijme.2026.056",
       "source": "Crossref",
       "country": "India"
     },
