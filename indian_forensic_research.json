@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:42:46.307618+00:00",
+  "updated": "2026-09-22T16:02:36.530329+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -61,6 +61,16 @@
       "authors": "Dhivagar K, Perumal P, Vidya M, Manoranjan B, Vinay Bannur",
       "url": "https://doi.org/10.1177/09710973261477208",
       "doi": "10.1177/09710973261477208",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Determination of Gender and ABO Blood Group from Dried Saliva",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-09-22",
+      "authors": "Periasamy Asokan Jayasri, Immudi Paranjothi Shenpaga Priya, Muthusamy Rajmohan, Harikrishnan Prasad, Kenniyan Kumar Sri Chinthu, Viswanath Prema",
+      "url": "https://doi.org/10.1177/09710973261487360",
+      "doi": "10.1177/09710973261487360",
       "source": "Crossref",
       "country": "India"
     },
@@ -181,6 +191,16 @@
       "authors": "Uponita Mukherjee",
       "url": "https://doi.org/10.1086/742429",
       "doi": "10.1086/742429",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Maternal lineage tracing using mtDNA from unbuffered formalin-fixed autopsy tissues in India",
+      "journal": "Annals of Human Biology",
+      "published": "2026-09-22",
+      "authors": "Kangana Aggarwal, Nidhi Sharma, Braja Kishore Mohapatra, Kamal Chauhan, Harpreet Singh, Prachi Shukla, Chittaranjan Behera",
+      "url": "https://doi.org/10.1080/03014460.2026.2720076",
+      "doi": "10.1080/03014460.2026.2720076",
       "source": "Crossref",
       "country": "India"
     },
