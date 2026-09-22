@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-22T10:27:12.308907Z",
+  "updated": "2026-09-22T15:50:32.431745Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Multimodal prediction of MCI-to-dementia conversion over a two-year window.",
-      "authors": "Simkhada B, Liang TY, Cui X, Adeyosoye M, Simkhada B",
+      "title": "A novel 16-plex DIP-SNP panel for forensic analysis of imbalanced DNA mixtures in a Han Chinese population.",
+      "authors": "Wang L, Du A, Chen M, Lin Y, Yi S",
       "published": "2026-09-22",
-      "journal": "GeroScience",
-      "pmid": "42768165",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768165/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42768212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768212/"
     },
     {
       "title": "Identification and structural characterization of stereochemical promiscuity in a taste receptor.",
@@ -27,20 +27,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42768396/"
     },
     {
-      "title": "A novel 16-plex DIP-SNP panel for forensic analysis of imbalanced DNA mixtures in a Han Chinese population.",
-      "authors": "Wang L, Du A, Chen M, Lin Y, Yi S",
-      "published": "2026-09-22",
-      "journal": "International journal of legal medicine",
-      "pmid": "42768212",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768212/"
-    },
-    {
       "title": "Radiography Interns' and Recent Graduates' Self-Perceived Professional Competency Development at Two Saudi Universities: A Cross-Sectional Study.",
       "authors": "Subahi A, Mahboob K, Dammas R, Aljehani W, Al Thaqafy M",
       "published": "2026-09-22",
       "journal": "Journal of medical radiation sciences",
       "pmid": "42768980",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42768980/"
+    },
+    {
+      "title": "Multimodal prediction of MCI-to-dementia conversion over a two-year window.",
+      "authors": "Simkhada B, Liang TY, Cui X, Adeyosoye M, Simkhada B",
+      "published": "2026-09-22",
+      "journal": "GeroScience",
+      "pmid": "42768165",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768165/"
     },
     {
       "title": "Craniometric evaluation of population affinity among South African subadults.",
@@ -51,6 +51,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42768213/"
     },
     {
+      "title": "Sustainable quality improvement interventions to ensure adequate documentation of chaperone presence in breast clinic: A multi-cycle clinical audit.",
+      "authors": "Hehir CM, Calpin GG, Walsh N, Daly GR, Dowling GP",
+      "published": "2026-09-21",
+      "journal": "International journal for quality in health care : journal of the International Society for Quality in Health Care",
+      "pmid": "42765530",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765530/"
+    },
+    {
       "title": "Integrated single-cell and epigenomic analysis reveals cellular specificity of CYP2E1 in human alcohol-related liver disease.",
       "authors": "Neckermann L, Karavasili E, Dropmann A, Hammad S",
       "published": "2026-09-21",
@@ -59,20 +67,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42765520/"
     },
     {
-      "title": "Meta-transcriptomic profiling of Ixodes ricinus and Ixodes persulcatus ticks from Finland reveals diverse RNA viromes, community structuring, and emerging viral lineages.",
-      "authors": "Alale TY, Mänttäri J, Viitaniemi HM, Ozerov M, Baltazar-Soares M",
+      "title": "Electroencephalography Monitoring for Seizure Risk Stratification in the Critically III.",
+      "authors": "Harris M, Almubaslat F, Rubinos C",
       "published": "2026-09-21",
-      "journal": "Archives of virology",
-      "pmid": "42768122",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768122/"
+      "journal": "Current neurology and neuroscience reports",
+      "pmid": "42766076",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766076/"
     },
     {
-      "title": "Radiomics and machine learning for differentiating pediatric intramedullary spinal tumors: a pilot study.",
-      "authors": "Iacoban CG, Alvansazyazdi S, Parodi C, Kenari BS, Ramaglia A",
+      "title": "Beyond the limits of space and time: Can 4D imaging enhance postmortem investigation?",
+      "authors": "Gascho D, Palmesino M, Thali MJ, Guareschi EE",
       "published": "2026-09-21",
       "journal": "European radiology experimental",
-      "pmid": "42766077",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42766077/"
+      "pmid": "42766191",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766191/"
+    },
+    {
+      "title": "Genome-wide analysis of social behaviour across social domains, reporters and developmental stages: a meta-regression approach.",
+      "authors": "de Hoyos L, Schlag F, Jahagirdar S, Corfield EC, Allegrini AG",
+      "published": "2026-09-21",
+      "journal": "Nature human behaviour",
+      "pmid": "42768150",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768150/"
+    },
+    {
+      "title": "Decoupling skeletal and soft-tissue genetic effects in human craniofacial morphology.",
+      "authors": "Li Y, Qian W, Zhang M, Wu Y, Jiao X",
+      "published": "2026-09-21",
+      "journal": "Journal of genetics and genomics = Yi chuan xue bao",
+      "pmid": "42767487",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767487/"
+    },
+    {
+      "title": "Burden of non-communicable diseases and their attributable risk factors in Africa from 1990 to 2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+      "authors": "GBD 2023 Africa NCD Collaborators",
+      "published": "2026-09-21",
+      "journal": "The Lancet. Global health",
+      "pmid": "42767254",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767254/"
+    },
+    {
+      "title": "Methylenedioxymethamphetamine (MDMA)-related fatal poisoning in Australia, 2016 to 2025: Trends, characteristics and toxicology.",
+      "authors": "Darke S, Duflou J, Chrzanowska A, Farrell M, Lappin J",
+      "published": "2026-09-21",
+      "journal": "Addiction (Abingdon, England)",
+      "pmid": "42767268",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767268/"
+    },
+    {
+      "title": "PI3K/AKT signaling contributes to prenatal nicotine exposure-induced developmental impairment of the pontomedullary respiratory network in neonatal rats.",
+      "authors": "Du Y, Liang S, Bian M, Wang Y, Xu Z",
+      "published": "2026-09-21",
+      "journal": "Brain research bulletin",
+      "pmid": "42767381",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767381/"
     },
     {
       "title": "The uneven landscape of cognitive domains in 22q11.2 deletion syndrome: A large consortium study.",
@@ -91,60 +139,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42766104/"
     },
     {
-      "title": "Burden of non-communicable diseases and their attributable risk factors in Africa from 1990 to 2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-      "authors": "GBD 2023 Africa NCD Collaborators",
+      "title": "Over-Penetration Risk of TASER 10 Conducted Electrical Weapon Darts in Humans.",
+      "authors": "Ho J, Dawes DM, Kunz SN, Ho KP, Miner JR",
       "published": "2026-09-21",
-      "journal": "The Lancet. Global health",
-      "pmid": "42767254",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767254/"
+      "journal": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
+      "pmid": "42567155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42567155/"
     },
     {
-      "title": "Toxicokinetics and analytical toxicology of four N, N-dimethyltryptamine derivatives studied in human in vitro systems and in vivo by means of zebrafish embryos.",
-      "authors": "Daziani G, Wagmann L, Kroesen MD, Wellenberg KS, Grill M",
+      "title": "Meta-transcriptomic profiling of Ixodes ricinus and Ixodes persulcatus ticks from Finland reveals diverse RNA viromes, community structuring, and emerging viral lineages.",
+      "authors": "Alale TY, Mänttäri J, Viitaniemi HM, Ozerov M, Baltazar-Soares M",
       "published": "2026-09-21",
-      "journal": "Archives of toxicology",
-      "pmid": "42768110",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768110/"
-    },
-    {
-      "title": "Decoupling skeletal and soft-tissue genetic effects in human craniofacial morphology.",
-      "authors": "Li Y, Qian W, Zhang M, Wu Y, Jiao X",
-      "published": "2026-09-21",
-      "journal": "Journal of genetics and genomics = Yi chuan xue bao",
-      "pmid": "42767487",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767487/"
-    },
-    {
-      "title": "Therapeutics Beyond Delivery: Repurposed Drugs and Biologic Pathways.",
-      "authors": "Wilkinson M, Myers J",
-      "published": "2026-09-21",
-      "journal": "Current hypertension reports",
-      "pmid": "42766183",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42766183/"
-    },
-    {
-      "title": "Burden and temporal trends of major depressive disorder in older adults: a 10-year population-based longitudinal study on interlinked region-wide health registries, 2013-2023.",
-      "authors": "Bertuccio P, Blandi L, Celebrin M, Amerio A, Odone A",
-      "published": "2026-09-21",
-      "journal": "Epidemiology and psychiatric sciences",
-      "pmid": "42765137",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765137/"
-    },
-    {
-      "title": "How behavioral differences between autistic and nonautistic suspects in forensic interviews affect observers' evaluations: Evidence for expectancy violations theory but not the double empathy hypothesis.",
-      "authors": "Brewer N, Lucas CA, Logos K, Young RL, Lim A",
-      "published": "2026-09-21",
-      "journal": "Law and human behavior",
-      "pmid": "42765972",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765972/"
-    },
-    {
-      "title": "Digital OPG forensic tool for biological sex determination and age estimation in Malaysians - a retrospective study.",
-      "authors": "Jaiseelal SR, Hong WH, Gunalan VA, Por-Ly W, San YP",
-      "published": "2026-09-21",
-      "journal": "The Saudi dental journal",
-      "pmid": "42766083",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42766083/"
+      "journal": "Archives of virology",
+      "pmid": "42768122",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768122/"
     },
     {
       "title": "Integrating psychiatry into performance golf: a new care standard.",
@@ -155,60 +163,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42767812/"
     },
     {
-      "title": "What's a White Matter 'Fiber'?",
-      "authors": "Dannhoff G, Andersson F, Destrieux C, Maldonado IL",
+      "title": "Burden and temporal trends of major depressive disorder in older adults: a 10-year population-based longitudinal study on interlinked region-wide health registries, 2013-2023.",
+      "authors": "Bertuccio P, Blandi L, Celebrin M, Amerio A, Odone A",
       "published": "2026-09-21",
-      "journal": "Clinical anatomy (New York, N.Y.)",
-      "pmid": "42768810",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768810/"
-    },
-    {
-      "title": "Genome-wide analysis of social behaviour across social domains, reporters and developmental stages: a meta-regression approach.",
-      "authors": "de Hoyos L, Schlag F, Jahagirdar S, Corfield EC, Allegrini AG",
-      "published": "2026-09-21",
-      "journal": "Nature human behaviour",
-      "pmid": "42768150",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768150/"
-    },
-    {
-      "title": "PI3K/AKT signaling contributes to prenatal nicotine exposure-induced developmental impairment of the pontomedullary respiratory network in neonatal rats.",
-      "authors": "Du Y, Liang S, Bian M, Wang Y, Xu Z",
-      "published": "2026-09-21",
-      "journal": "Brain research bulletin",
-      "pmid": "42767381",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767381/"
-    },
-    {
-      "title": "Chest radiography: an underappreciated source of litigation exposure in emergency radiology.",
-      "authors": "Mezrich TC, Davis MA, Cavallo JJ, Mezrich JL",
-      "published": "2026-09-21",
-      "journal": "Emergency radiology",
-      "pmid": "42764325",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42764325/"
-    },
-    {
-      "title": "Methylenedioxymethamphetamine (MDMA)-related fatal poisoning in Australia, 2016 to 2025: Trends, characteristics and toxicology.",
-      "authors": "Darke S, Duflou J, Chrzanowska A, Farrell M, Lappin J",
-      "published": "2026-09-21",
-      "journal": "Addiction (Abingdon, England)",
-      "pmid": "42767268",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767268/"
-    },
-    {
-      "title": "Over-Penetration Risk of TASER 10 Conducted Electrical Weapon Darts in Humans.",
-      "authors": "Ho J, Dawes DM, Kunz SN, Ho KP, Miner JR",
-      "published": "2026-09-21",
-      "journal": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
-      "pmid": "42567155",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567155/"
-    },
-    {
-      "title": "Electroencephalography Monitoring for Seizure Risk Stratification in the Critically III.",
-      "authors": "Harris M, Almubaslat F, Rubinos C",
-      "published": "2026-09-21",
-      "journal": "Current neurology and neuroscience reports",
-      "pmid": "42766076",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42766076/"
+      "journal": "Epidemiology and psychiatric sciences",
+      "pmid": "42765137",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765137/"
     },
     {
       "title": "Practical Considerations for Adopting AI Clinical Decision Support Tools and Large Language Models in Dermatology.",
@@ -219,20 +179,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42767470/"
     },
     {
-      "title": "Feasibility, acceptability, and impacts of a drug checking service within a supervised consumption site in Sydney, Australia.",
-      "authors": "Page R, Kevin RC, Kowalski M, Nielsen S, Ritter A",
+      "title": "Therapeutics Beyond Delivery: Repurposed Drugs and Biologic Pathways.",
+      "authors": "Wilkinson M, Myers J",
       "published": "2026-09-21",
-      "journal": "The International journal on drug policy",
-      "pmid": "42767087",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767087/"
-    },
-    {
-      "title": "Sustainable quality improvement interventions to ensure adequate documentation of chaperone presence in breast clinic: A multi-cycle clinical audit.",
-      "authors": "Hehir CM, Calpin GG, Walsh N, Daly GR, Dowling GP",
-      "published": "2026-09-21",
-      "journal": "International journal for quality in health care : journal of the International Society for Quality in Health Care",
-      "pmid": "42765530",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765530/"
+      "journal": "Current hypertension reports",
+      "pmid": "42766183",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766183/"
     },
     {
       "title": "Circadian biology and sexual offending: A hypothesis integrating chronobiological rhythms with Routine Activity Theory.",
@@ -241,6 +193,54 @@
       "journal": "Chronobiology international",
       "pmid": "42766119",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42766119/"
+    },
+    {
+      "title": "Comprehensive detection of ricin following oral exposure: feces as the key diagnostic matrix.",
+      "authors": "Dixit S, Dhaked RK, Yadav A, Parashar J, Saxena N",
+      "published": "2026-09-21",
+      "journal": "Archives of toxicology",
+      "pmid": "42768109",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768109/"
+    },
+    {
+      "title": "Balancing therapeutic boundaries in forensic mental health: over-involvement and under-involvement both harm patient outcomes.",
+      "authors": "El-Monshed AH, Fayed SM",
+      "published": "2026-09-21",
+      "journal": "Evidence-based nursing",
+      "pmid": "42767810",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767810/"
+    },
+    {
+      "title": "Feasibility, acceptability, and impacts of a drug checking service within a supervised consumption site in Sydney, Australia.",
+      "authors": "Page R, Kevin RC, Kowalski M, Nielsen S, Ritter A",
+      "published": "2026-09-21",
+      "journal": "The International journal on drug policy",
+      "pmid": "42767087",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767087/"
+    },
+    {
+      "title": "Toxicokinetics and analytical toxicology of four N, N-dimethyltryptamine derivatives studied in human in vitro systems and in vivo by means of zebrafish embryos.",
+      "authors": "Daziani G, Wagmann L, Kroesen MD, Wellenberg KS, Grill M",
+      "published": "2026-09-21",
+      "journal": "Archives of toxicology",
+      "pmid": "42768110",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768110/"
+    },
+    {
+      "title": "Chest radiography: an underappreciated source of litigation exposure in emergency radiology.",
+      "authors": "Mezrich TC, Davis MA, Cavallo JJ, Mezrich JL",
+      "published": "2026-09-21",
+      "journal": "Emergency radiology",
+      "pmid": "42764325",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764325/"
+    },
+    {
+      "title": "Radiomics and machine learning for differentiating pediatric intramedullary spinal tumors: a pilot study.",
+      "authors": "Iacoban CG, Alvansazyazdi S, Parodi C, Kenari BS, Ramaglia A",
+      "published": "2026-09-21",
+      "journal": "European radiology experimental",
+      "pmid": "42766077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766077/"
     }
   ]
 }
