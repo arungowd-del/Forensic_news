@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:30:42.015151+00:00",
+  "updated": "2026-09-24T10:51:45.943189+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -61,6 +61,16 @@
       "authors": "Dhivagar K, Perumal P, Vidya M, Manoranjan B, Vinay Bannur",
       "url": "https://doi.org/10.1177/09710973261477208",
       "doi": "10.1177/09710973261477208",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Morphometric Analysis of Gonial Angle Using ImageJ and Artificial Intelligence: A Cross-sectional Study",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-09-23",
+      "authors": "Amitha Mohan, Dinesh Yasothkumar",
+      "url": "https://doi.org/10.1177/09710973261487368",
+      "doi": "10.1177/09710973261487368",
       "source": "Crossref",
       "country": "India"
     },
@@ -191,16 +201,6 @@
       "authors": "Kangana Aggarwal, Nidhi Sharma, Braja Kishore Mohapatra, Kamal Chauhan, Harpreet Singh, Prachi Shukla, Chittaranjan Behera",
       "url": "https://doi.org/10.1080/03014460.2026.2720076",
       "doi": "10.1080/03014460.2026.2720076",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Insight of forensic medicine awareness, medico-legal risk perception and specialty orientation among final-year-dominant medical undergraduates in Northeast Tamil Nadu: an analytical cross-sectional study",
-      "journal": "BMC Medical Education",
-      "published": "2026-09-14",
-      "authors": "S. Mohan, Dr. K.S Arun Prakash",
-      "url": "https://doi.org/10.1186/s12909-026-10236-4",
-      "doi": "10.1186/s12909-026-10236-4",
       "source": "Crossref",
       "country": "India"
     },
