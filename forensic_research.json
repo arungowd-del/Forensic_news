@@ -1,5 +1,246 @@
 {
-  "updated": "2026-09-27T02:09:20.172649Z",
+  "updated": "2026-09-27T10:56:04.285476Z",
   "source": "PubMed",
-  "items": []
+  "items": [
+    {
+      "title": "Rational selection of SpCas9 and variant-derived adenine base editors for human genome editing.",
+      "authors": "Wang J, He L, Li L, Zhang Y, Wang Y",
+      "published": "2026-09-27",
+      "journal": "Gene therapy",
+      "pmid": "42800825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800825/"
+    },
+    {
+      "title": "Automated discovery of conjugates drives a reverse-metabolomics strategy: From LC-HRMS-based phase II prediction to GC-HRMS validation of phase I metabolites of 6β-chlorotestosterone.",
+      "authors": "He G, Zhu S, Liu Y, Liu X, Wang Z",
+      "published": "2026-09-27",
+      "journal": "Journal of chromatography. A",
+      "pmid": "42526212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526212/"
+    },
+    {
+      "title": "Sulfonated polyvinyl chloride microparticles onto stainless-steel sheets: A cationic-exchanger planar phase for extraction of basic drugs in saliva samples.",
+      "authors": "Chromiec A, Pedraza-Soto AM, Calero-Cañuelo C, Wietecha-Posłuszny R, Lucena R",
+      "published": "2026-09-27",
+      "journal": "Journal of chromatography. A",
+      "pmid": "42456480",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456480/"
+    },
+    {
+      "title": "Protodesnitazene: The identification and tissue distribution of a new nitazene.",
+      "authors": "Griffiths A, Milne N, Johnston M, Blakey K, Scott R",
+      "published": "2026-09-26",
+      "journal": "Journal of forensic sciences",
+      "pmid": "42798250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798250/"
+    },
+    {
+      "title": "A chlorella-derived carbon dots-based integrated sensing-removal platform for silver ion monitoring and removal via dual-mode optical detection and smartphone-assisted deep learning.",
+      "authors": "Li F, Liu X, Huang B, Zhuang G, Chen J",
+      "published": "2026-09-26",
+      "journal": "Mikrochimica acta",
+      "pmid": "42799907",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799907/"
+    },
+    {
+      "title": "Detection and quantification of carbon monoxide in postmortem liver tissues via headspace GC-MS as an alternative to blood.",
+      "authors": "Velez AA, Phipps RA",
+      "published": "2026-09-26",
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42696422",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696422/"
+    },
+    {
+      "title": "Can vision-language models estimate patient age? evidence from panoramic radiographs.",
+      "authors": "Silva TP, Fagundes FB, Andrade-Bortoletto MF, Oliveira-Santos C, Freitas DQ",
+      "published": "2026-09-26",
+      "journal": "Clinical oral investigations",
+      "pmid": "42799800",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799800/"
+    },
+    {
+      "title": "Life-stage-resolved toxicological assessment and environmental relevance of triclosan in the freshwater gastropod Biomphalaria glabrata.",
+      "authors": "Liu M, Wang J, Weng R, Fei X, Shao Y",
+      "published": "2026-09-26",
+      "journal": "Ecotoxicology and environmental safety",
+      "pmid": "42800337",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800337/"
+    },
+    {
+      "title": "A case-control study on IL-8 gene polymorphisms and serum IL-8 levels in patients with age-related macular degeneration in India.",
+      "authors": "Yadav A, Phogat J, Yadav M, Bhardwaj A, Panghal V",
+      "published": "2026-09-26",
+      "journal": "Human genetics",
+      "pmid": "42799897",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799897/"
+    },
+    {
+      "title": "Moderate-density SNPs combined with machine learning method driven kinship identification and East Asian subpopulations discrimination analysis.",
+      "authors": "Wu X, Liu Q, Luo L, Lan Q, Zhu B",
+      "published": "2026-09-26",
+      "journal": "International journal of legal medicine",
+      "pmid": "42791391",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791391/"
+    },
+    {
+      "title": "Calf Injuries: An Anatomy-Based Approach to Diagnosis, Management and Return to Sport.",
+      "authors": "Pedret C, Palermi S, Mechó S, Frutos EJ, Rovira J",
+      "published": "2026-09-26",
+      "journal": "Current reviews in musculoskeletal medicine",
+      "pmid": "42799963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799963/"
+    },
+    {
+      "title": "A machine learning-based ecological momentary intervention for mental health promotion in youth: a micro-randomized trial.",
+      "authors": "Rauschenberg C, Schirmbeck F, Fechtelpeter J, Wierzba E, Hiller S",
+      "published": "2026-09-26",
+      "journal": "Translational psychiatry",
+      "pmid": "42800797",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800797/"
+    },
+    {
+      "title": "Glycosylation in Neurological Disorders: Mechanisms, Crosstalk, and Therapeutic Implications.",
+      "authors": "Wu W, Wang W, Xu L, Yao Y, Zhao X",
+      "published": "2026-09-26",
+      "journal": "Brain research bulletin",
+      "pmid": "42800645",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800645/"
+    },
+    {
+      "title": "Author Correction: Fumarylacetoacetate hydrolase targeted by a Fusarium graminearum effector positively regulates wheat FHB resistance.",
+      "authors": "Shang S, He Y, Zhao R, Li H, Fang Y",
+      "published": "2026-09-25",
+      "journal": "Nature communications",
+      "pmid": "42791241",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791241/"
+    },
+    {
+      "title": "Accelerated DNA profiling through workflow reconfiguration: Practical experience from 2-year postmortem skeletal remains in hostage repatriation.",
+      "authors": "Shenfeld MN, Spivak-Kroizman T, Bader G, Maydan SA, Sharon NA",
+      "published": "2026-09-25",
+      "journal": "Journal of forensic sciences",
+      "pmid": "42798225",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798225/"
+    },
+    {
+      "title": "10 years of paediatric and perinatal postmortem imaging: where are we now?",
+      "authors": "Arthurs OJ, van Rijn RR",
+      "published": "2026-09-25",
+      "journal": "Pediatric radiology",
+      "pmid": "42789053",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789053/"
+    },
+    {
+      "title": "Integrative synaptosome multi-omics reveals disrupted synapse organization and localized cryptic transcripts in C9ORF72-frontotemporal dementia.",
+      "authors": "Spillman AM, Alsop EB, Gittings LM, Garcia-Mansfield K, Piras I",
+      "published": "2026-09-25",
+      "journal": "Acta neuropathologica",
+      "pmid": "42789089",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789089/"
+    },
+    {
+      "title": "Starson's paradox: Treatment capacity in the presence of delusional thinking.",
+      "authors": "Curry D, O'Reilly R",
+      "published": "2026-09-25",
+      "journal": "International journal of law and psychiatry",
+      "pmid": "42790401",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790401/"
+    },
+    {
+      "title": "SLC30A8 (ZnT8) at the crossroads of epigenetics and microRNA regulation in type 2 diabetes and nephropathy.",
+      "authors": "Sharma VK, Beg MMA, Singh S, Singh SK, Shrivastav D",
+      "published": "2026-09-25",
+      "journal": "World journal of nephrology",
+      "pmid": "42626274",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42626274/"
+    },
+    {
+      "title": "Fatal spontaneous bilateral extradural hematoma with swirl sign in a child with sickle cell disease: lessons from delayed surgical access at a tertiary center.",
+      "authors": "Djonde GEA, Drogba L, Meuga W, Ngarnayal R, Assouan IS",
+      "published": "2026-09-25",
+      "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+      "pmid": "42791386",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791386/"
+    },
+    {
+      "title": "MStargetR: a reproducible, containerised workflow for end-to-end targeted (MRM/SRM) mass spectrometry data processing in R.",
+      "authors": "Szemray H, Nambiar V, Hicks D, Lodge S, Wist J",
+      "published": "2026-09-25",
+      "journal": "Metabolomics : Official journal of the Metabolomic Society",
+      "pmid": "42791429",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791429/"
+    },
+    {
+      "title": "Scorpion sting during pregnancy: a systematic review.",
+      "authors": "Balachandran DM, Nair JJ, Rajendran G",
+      "published": "2026-09-25",
+      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+      "pmid": "42800373",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800373/"
+    },
+    {
+      "title": "Exploring Associations Between the MMPI-3 and Measures of Borderline Personality Disorder, Posttraumatic Stress Disorder, and Dissociation in a Sample of Incarcerated Women.",
+      "authors": "Phillips TR, Whitman MR, Holmes KF, Brown JR, Ben-Porath YS",
+      "published": "2026-09-25",
+      "journal": "Journal of personality assessment",
+      "pmid": "42789787",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789787/"
+    },
+    {
+      "title": "A complex military repatriation cold case assisted by craniofacial superimposition.",
+      "authors": "Stephan CN, Healy SS, Byrd JE, Keyes VA",
+      "published": "2026-09-25",
+      "journal": "Forensic science international",
+      "pmid": "42800231",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800231/"
+    },
+    {
+      "title": "Occurrence of self-harm behaviour and ideation in a prison mental health unit over a 3-year period.",
+      "authors": "Marr C, Browne C, Romanovich M, Smith K, Ma T",
+      "published": "2026-09-25",
+      "journal": "Australasian psychiatry : bulletin of Royal Australian and New Zealand College of Psychiatrists",
+      "pmid": "42788877",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788877/"
+    },
+    {
+      "title": "A juvenile homicide associated with a left-sided cerebral arteriovenous malformation.",
+      "authors": "Khurana A, Myers N, Myers W",
+      "published": "2026-09-25",
+      "journal": "Journal of forensic sciences",
+      "pmid": "42798217",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798217/"
+    },
+    {
+      "title": "Application advances of habitat imaging based on CT or PET/CT: a systematic review.",
+      "authors": "Chen Q, Ren T, Peng Y, Ma L, Xu M",
+      "published": "2026-09-25",
+      "journal": "La Radiologia medica",
+      "pmid": "42789168",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789168/"
+    },
+    {
+      "title": "Vascular Access In Tactical Combat Casualty Care: 18 June 2026.",
+      "authors": "Butler FK Jr, Auten JD",
+      "published": "2026-09-25",
+      "journal": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
+      "pmid": "42789409",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789409/"
+    },
+    {
+      "title": "Research trends on triclosan: a bibliometric analysis and comprehensive review.",
+      "authors": "Long Z, Zhuang J, Chen Y, Yang X, Qiao D",
+      "published": "2026-09-25",
+      "journal": "Reviews on environmental health",
+      "pmid": "42321139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42321139/"
+    },
+    {
+      "title": "Geographic variation in the diagnosis of cardiomyopathies in a universal healthcare system: a nationwide study of hypertrophic and arrhythmogenic right ventricular cardiomyopathy in Denmark.",
+      "authors": "Bhardwaj P, Winkel BG, Dinesen RB, Torp-Pedersen C, Jacobsen SB",
+      "published": "2026-09-25",
+      "journal": "Open heart",
+      "pmid": "42791014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791014/"
+    }
+  ]
 }
