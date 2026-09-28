@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:31:42.434421+00:00",
+  "updated": "2026-09-28T22:50:11.438375+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,6 +91,16 @@
       "authors": "Vrunda Dave, Ankita Arunrao Fulkar, Kopal Kapoor, Vaishali Sharma, Malay Ashvinkumar Shukla",
       "url": "https://doi.org/10.1007/s00414-026-03983-y",
       "doi": "10.1007/s00414-026-03983-y",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Oxidative Stress Biomarkers as Predictors of Methotrexate-Induced Acute Hepatotoxicity in Children with Acute Lymphoblastic Leukaemia",
+      "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
+      "published": "2026-09-22",
+      "authors": "Alshaimma Mahmoud Elmansy, Lamia M. Morad, Rehab M. El-Gohary, Fatma G. Sobeeh, Aisha ElMihy",
+      "url": "https://doi.org/10.21608/zjfm.2026.522451.1245",
+      "doi": "10.21608/zjfm.2026.522451.1245",
       "source": "Crossref",
       "country": "India"
     },
