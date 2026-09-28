@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-28T12:10:32.435202Z",
+  "updated": "2026-09-28T22:41:21.336905Z",
   "source": "PubMed",
   "items": [
+    {
+      "title": "The Role of Diptera and Coleoptera (Arthropoda: Insecta) in Identifying Injuries and Estimating Postmortem Interval: A Case Report.",
+      "authors": "Souza CM, da Costa-Silva V, Savino AG, Prado AM, Thyssen PJ",
+      "published": "2026-09-28",
+      "journal": "Neotropical entomology",
+      "pmid": "42804104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804104/"
+    },
+    {
+      "title": "Artificial Intelligence in Organic Synthesis.",
+      "authors": "Festa AA, Voskressensky LG, Shurikov MK, Postnikov PS, Ananikov VP",
+      "published": "2026-09-28",
+      "journal": "Chemical record (New York, N.Y.)",
+      "pmid": "42803722",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803722/"
+    },
+    {
+      "title": "Examining M-FAST item-level specificity and alternative scoring procedures in a forensic psychiatric sample.",
+      "authors": "Aparcero M, Lee H, Truong TN, Glassmire DM",
+      "published": "2026-09-28",
+      "journal": "Psychological assessment",
+      "pmid": "42804255",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804255/"
+    },
+    {
+      "title": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in amyotrophic lateral sclerosis.",
+      "authors": "Shirakawa T, Mikuriya S, Inoue Y, Murasaki K, Salinas F",
+      "published": "2026-09-28",
+      "journal": "Brain : a journal of neurology",
+      "pmid": "42803299",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803299/"
+    },
+    {
+      "title": "The Moral Subjectivities of Infanticidal Mothers from the Perspective of Forensic Psychiatric Nurses: A Critical Discourse Analysis.",
+      "authors": "Domingue JL, Holmes D, Einboden R, Kilty J, Chartrand J",
+      "published": "2026-09-28",
+      "journal": "Journal of forensic nursing",
+      "pmid": "42804662",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804662/"
+    },
+    {
+      "title": "Effect of pharmacological treatment of attention-deficit hyperactivity disorder on academic performance: registry-based population study.",
+      "authors": "Lyhmann I, Widding-Havneraas T, Markussen S, Zachrisson HD, Elwert F",
+      "published": "2026-09-28",
+      "journal": "The British journal of psychiatry : the journal of mental science",
+      "pmid": "42803341",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803341/"
+    },
+    {
+      "title": "CTCF-FXN regulatory axis plays critical roles in clinical assessments and disease progression of primary open-angle glaucoma.",
+      "authors": "Cai D, Yu Y, Ma J, Li T, Liu Z",
+      "published": "2026-09-28",
+      "journal": "Journal of molecular medicine (Berlin, Germany)",
+      "pmid": "42803824",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803824/"
+    },
+    {
+      "title": "Aflatoxin-associated hepatocarcinogenesis in a changing climate: the gut microbiome as a missing link in the One Health framework.",
+      "authors": "Oyedokun PA, Owolabi VP, Oyedokun MD, Ndako JA, Adegbola PI",
+      "published": "2026-09-28",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "pmid": "42803968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803968/"
+    },
     {
       "title": "Cannabis Hyperemesis Syndrome in the Differential Diagnosis of Bathtub Deaths: Two Forensic Cases.",
       "authors": "Nay G, Selan J, Levi G, Nordenholz K, Kelly L",
@@ -11,12 +75,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42802376/"
     },
     {
-      "title": "Fatal Cannabis-Associated Cardiovascular Toxicity Following High-Potency Cannabis Use: An Integrated Clinicopathologic Investigation.",
-      "authors": "von Both I, Chatterton CN, Balachandra T",
+      "title": "Cardiovascular risk factors and regional neuropathology in autopsy-confirmed Alzheimer disease.",
+      "authors": "Garcia D, Wang HP, Saito N, Beckett L, Honig LS",
       "published": "2026-09-28",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42802386",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802386/"
+      "journal": "Journal of neuropathology and experimental neurology",
+      "pmid": "42804353",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804353/"
     },
     {
       "title": "Identification of Highly Cytotoxic Antisense Oligonucleotides Targeting Essential Genes in Human Ovarian and Lung Cancer Cells.",
@@ -27,20 +91,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42801750/"
     },
     {
-      "title": "Rational selection of SpCas9 and variant-derived adenine base editors for human genome editing.",
-      "authors": "Wang J, He L, Li L, Zhang Y, Wang Y",
-      "published": "2026-09-27",
-      "journal": "Gene therapy",
-      "pmid": "42800825",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800825/"
+      "title": "Bruise Ascertainment and Documentation in People With Darker Skin Tones Exposed to Violence: A Scoping Review.",
+      "authors": "Nicholls C, Sydor AM, Evans S, Pickles J, Snooks H",
+      "published": "2026-09-28",
+      "journal": "Trauma, violence & abuse",
+      "pmid": "42803328",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803328/"
     },
     {
-      "title": "Automated discovery of conjugates drives a reverse-metabolomics strategy: From LC-HRMS-based phase II prediction to GC-HRMS validation of phase I metabolites of 6β-chlorotestosterone.",
-      "authors": "He G, Zhu S, Liu Y, Liu X, Wang Z",
-      "published": "2026-09-27",
-      "journal": "Journal of chromatography. A",
-      "pmid": "42526212",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42526212/"
+      "title": "Neutrophil recovery characteristics in patients with severe antithyroid drug-induced agranulocytosis: A 12-year retrospective study.",
+      "authors": "Luo Y, Fan X, Yang Q, Liu H, Liu Y",
+      "published": "2026-09-28",
+      "journal": "Endocrine",
+      "pmid": "42803895",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803895/"
+    },
+    {
+      "title": "Fatal Cannabis-Associated Cardiovascular Toxicity Following High-Potency Cannabis Use: An Integrated Clinicopathologic Investigation.",
+      "authors": "von Both I, Chatterton CN, Balachandra T",
+      "published": "2026-09-28",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42802386",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802386/"
+    },
+    {
+      "title": "An autopsy case series on adventitial hemorrhages at the junction of aorta and posterior intercostal arteries - a potential mechanism of appearance.",
+      "authors": "Leković A, Nikolić S",
+      "published": "2026-09-28",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42804155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804155/"
     },
     {
       "title": "An Extracellular Pore‑Targeting Peptide Defines a Designable Allosteric Site in TRPV2.",
@@ -51,44 +131,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42801670/"
     },
     {
-      "title": "Comparative antiplasmodial, mito-protective and anti-inflammatory potentials of Phyllanthin and Stigmasterol-methyl siaresinolate mixture from Phyllanthus amarus in Plasmodium berghei-infected mice.",
-      "authors": "Babarinde CO, Olanlokun JO, Bodede O, Idowu TO, Steenkamp PA",
-      "published": "2026-09-27",
-      "journal": "Fitoterapia",
-      "pmid": "42801964",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42801964/"
-    },
-    {
       "title": "Lewy Body Disease Across Aging: Clinical and Neuropathological Correlates in a Population Brain Bank.",
       "authors": "Paes VR, Pereira FL, Silva CM, de Moraes FOC, Padrão IL",
       "published": "2026-09-27",
       "journal": "Movement disorders : official journal of the Movement Disorder Society",
       "pmid": "42802672",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42802672/"
-    },
-    {
-      "title": "Reconceptualizing brain death as a boundary decision.",
-      "authors": "Chyall L",
-      "published": "2026-09-27",
-      "journal": "Nursing ethics",
-      "pmid": "42802507",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802507/"
-    },
-    {
-      "title": "Regional variability in skull sexual dimorphism: Olive baboons, blue monkeys, and vervets confirm the posterior region of the skull and the snout as opposite extremes of sex differences in Old World monkeys.",
-      "authors": "Cardini A",
-      "published": "2026-09-27",
-      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
-      "pmid": "42802665",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802665/"
-    },
-    {
-      "title": "Sulfonated polyvinyl chloride microparticles onto stainless-steel sheets: A cationic-exchanger planar phase for extraction of basic drugs in saliva samples.",
-      "authors": "Chromiec A, Pedraza-Soto AM, Calero-Cañuelo C, Wietecha-Posłuszny R, Lucena R",
-      "published": "2026-09-27",
-      "journal": "Journal of chromatography. A",
-      "pmid": "42456480",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456480/"
     },
     {
       "title": "Identification of Fscn2 as a candidate gene regulating endothelial cytoskeletal organization and angiogenic competence through a genome-wide association study (GWAS) in mice.",
@@ -99,60 +147,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42801946/"
     },
     {
-      "title": "Protodesnitazene: The identification and tissue distribution of a new nitazene.",
-      "authors": "Griffiths A, Milne N, Johnston M, Blakey K, Scott R",
-      "published": "2026-09-26",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42798250",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798250/"
+      "title": "Comparative antiplasmodial, mito-protective and anti-inflammatory potentials of Phyllanthin and Stigmasterol-methyl siaresinolate mixture from Phyllanthus amarus in Plasmodium berghei-infected mice.",
+      "authors": "Babarinde CO, Olanlokun JO, Bodede O, Idowu TO, Steenkamp PA",
+      "published": "2026-09-27",
+      "journal": "Fitoterapia",
+      "pmid": "42801964",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42801964/"
     },
     {
-      "title": "Detection and quantification of carbon monoxide in postmortem liver tissues via headspace GC-MS as an alternative to blood.",
-      "authors": "Velez AA, Phipps RA",
+      "title": "Rational selection of SpCas9 and variant-derived adenine base editors for human genome editing.",
+      "authors": "Wang J, He L, Li L, Zhang Y, Wang Y",
+      "published": "2026-09-27",
+      "journal": "Gene therapy",
+      "pmid": "42800825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800825/"
+    },
+    {
+      "title": "Regional variability in skull sexual dimorphism: Olive baboons, blue monkeys, and vervets confirm the posterior region of the skull and the snout as opposite extremes of sex differences in Old World monkeys.",
+      "authors": "Cardini A",
+      "published": "2026-09-27",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "pmid": "42802665",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802665/"
+    },
+    {
+      "title": "Automated discovery of conjugates drives a reverse-metabolomics strategy: From LC-HRMS-based phase II prediction to GC-HRMS validation of phase I metabolites of 6β-chlorotestosterone.",
+      "authors": "He G, Zhu S, Liu Y, Liu X, Wang Z",
+      "published": "2026-09-27",
+      "journal": "Journal of chromatography. A",
+      "pmid": "42526212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526212/"
+    },
+    {
+      "title": "Sulfonated polyvinyl chloride microparticles onto stainless-steel sheets: A cationic-exchanger planar phase for extraction of basic drugs in saliva samples.",
+      "authors": "Chromiec A, Pedraza-Soto AM, Calero-Cañuelo C, Wietecha-Posłuszny R, Lucena R",
+      "published": "2026-09-27",
+      "journal": "Journal of chromatography. A",
+      "pmid": "42456480",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456480/"
+    },
+    {
+      "title": "Reconceptualizing brain death as a boundary decision.",
+      "authors": "Chyall L",
+      "published": "2026-09-27",
+      "journal": "Nursing ethics",
+      "pmid": "42802507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802507/"
+    },
+    {
+      "title": "Impact of buccal cell content and swab retention on tetrahydrocannabinol and cocaine concentrations in oral fluid.",
+      "authors": "Saint-Marcoux F, Campos Lapa N, Dulaurent S, Griffeuille P, El Balkhi S",
       "published": "2026-09-26",
       "journal": "Journal of analytical toxicology",
-      "pmid": "42696422",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696422/"
-    },
-    {
-      "title": "Calf Injuries: An Anatomy-Based Approach to Diagnosis, Management and Return to Sport.",
-      "authors": "Pedret C, Palermi S, Mechó S, Frutos EJ, Rovira J",
-      "published": "2026-09-26",
-      "journal": "Current reviews in musculoskeletal medicine",
-      "pmid": "42799963",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799963/"
-    },
-    {
-      "title": "Life-stage-resolved toxicological assessment and environmental relevance of triclosan in the freshwater gastropod Biomphalaria glabrata.",
-      "authors": "Liu M, Wang J, Weng R, Fei X, Shao Y",
-      "published": "2026-09-26",
-      "journal": "Ecotoxicology and environmental safety",
-      "pmid": "42800337",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800337/"
-    },
-    {
-      "title": "Can vision-language models estimate patient age? evidence from panoramic radiographs.",
-      "authors": "Silva TP, Fagundes FB, Andrade-Bortoletto MF, Oliveira-Santos C, Freitas DQ",
-      "published": "2026-09-26",
-      "journal": "Clinical oral investigations",
-      "pmid": "42799800",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799800/"
-    },
-    {
-      "title": "A case-control study on IL-8 gene polymorphisms and serum IL-8 levels in patients with age-related macular degeneration in India.",
-      "authors": "Yadav A, Phogat J, Yadav M, Bhardwaj A, Panghal V",
-      "published": "2026-09-26",
-      "journal": "Human genetics",
-      "pmid": "42799897",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799897/"
-    },
-    {
-      "title": "A chlorella-derived carbon dots-based integrated sensing-removal platform for silver ion monitoring and removal via dual-mode optical detection and smartphone-assisted deep learning.",
-      "authors": "Li F, Liu X, Huang B, Zhuang G, Chen J",
-      "published": "2026-09-26",
-      "journal": "Mikrochimica acta",
-      "pmid": "42799907",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42799907/"
+      "pmid": "42760260",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760260/"
     },
     {
       "title": "Glycosylation in Neurological Disorders: Mechanisms, Crosstalk, and Therapeutic Implications.",
@@ -163,84 +211,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42800645/"
     },
     {
-      "title": "A machine learning-based ecological momentary intervention for mental health promotion in youth: a micro-randomized trial.",
-      "authors": "Rauschenberg C, Schirmbeck F, Fechtelpeter J, Wierzba E, Hiller S",
+      "title": "A chlorella-derived carbon dots-based integrated sensing-removal platform for silver ion monitoring and removal via dual-mode optical detection and smartphone-assisted deep learning.",
+      "authors": "Li F, Liu X, Huang B, Zhuang G, Chen J",
       "published": "2026-09-26",
-      "journal": "Translational psychiatry",
-      "pmid": "42800797",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800797/"
+      "journal": "Mikrochimica acta",
+      "pmid": "42799907",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799907/"
     },
     {
-      "title": "Moderate-density SNPs combined with machine learning method driven kinship identification and East Asian subpopulations discrimination analysis.",
-      "authors": "Wu X, Liu Q, Luo L, Lan Q, Zhu B",
+      "title": "Protodesnitazene: The identification and tissue distribution of a new nitazene.",
+      "authors": "Griffiths A, Milne N, Johnston M, Blakey K, Scott R",
       "published": "2026-09-26",
-      "journal": "International journal of legal medicine",
-      "pmid": "42791391",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791391/"
-    },
-    {
-      "title": "Exploring Associations Between the MMPI-3 and Measures of Borderline Personality Disorder, Posttraumatic Stress Disorder, and Dissociation in a Sample of Incarcerated Women.",
-      "authors": "Phillips TR, Whitman MR, Holmes KF, Brown JR, Ben-Porath YS",
-      "published": "2026-09-25",
-      "journal": "Journal of personality assessment",
-      "pmid": "42789787",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42789787/"
-    },
-    {
-      "title": "Firing cycle dynamics and forensic interpretation of 3D-printed Ruger 10/22-pattern .22 LR rifle receivers during live fire.",
-      "authors": "Zhang X",
-      "published": "2026-09-25",
       "journal": "Journal of forensic sciences",
-      "pmid": "42798193",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798193/"
+      "pmid": "42798250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798250/"
     },
     {
-      "title": "Vascular Access In Tactical Combat Casualty Care: 18 June 2026.",
-      "authors": "Butler FK Jr, Auten JD",
-      "published": "2026-09-25",
-      "journal": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
-      "pmid": "42789409",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42789409/"
+      "title": "Calf Injuries: An Anatomy-Based Approach to Diagnosis, Management and Return to Sport.",
+      "authors": "Pedret C, Palermi S, Mechó S, Frutos EJ, Rovira J",
+      "published": "2026-09-26",
+      "journal": "Current reviews in musculoskeletal medicine",
+      "pmid": "42799963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799963/"
     },
     {
-      "title": "A juvenile homicide associated with a left-sided cerebral arteriovenous malformation.",
-      "authors": "Khurana A, Myers N, Myers W",
-      "published": "2026-09-25",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42798217",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798217/"
-    },
-    {
-      "title": "Patterns of recorded sexual violence in Lithuania before and during the COVID-19 pandemic: A national registry-based repeated cross-sectional study.",
-      "authors": "Vasiljevaite D, Stasiuniene J, Chmieliauskas S, Laima S",
-      "published": "2026-09-25",
-      "journal": "Medicine",
-      "pmid": "42798097",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798097/"
-    },
-    {
-      "title": "Endophytic Myco- Bio- Control Agents (BCA) against Phytopathogens of Solanum lycopersicum L.",
-      "authors": "Mani VM, Vasuki M, Radhakrishnan S, S SR",
-      "published": "2026-09-25",
-      "journal": "Microbial pathogenesis",
-      "pmid": "42790656",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42790656/"
-    },
-    {
-      "title": "Defining a superficial neurovascular corridor in the upper trapezius using proportional surface mapping and cadaveric correlation.",
-      "authors": "Hasan T",
-      "published": "2026-09-25",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "pmid": "42791379",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791379/"
-    },
-    {
-      "title": "Accelerated DNA profiling through workflow reconfiguration: Practical experience from 2-year postmortem skeletal remains in hostage repatriation.",
-      "authors": "Shenfeld MN, Spivak-Kroizman T, Bader G, Maydan SA, Sharon NA",
-      "published": "2026-09-25",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42798225",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798225/"
+      "title": "A case-control study on IL-8 gene polymorphisms and serum IL-8 levels in patients with age-related macular degeneration in India.",
+      "authors": "Yadav A, Phogat J, Yadav M, Bhardwaj A, Panghal V",
+      "published": "2026-09-26",
+      "journal": "Human genetics",
+      "pmid": "42799897",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42799897/"
     }
   ]
 }
