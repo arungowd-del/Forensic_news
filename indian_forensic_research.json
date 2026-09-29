@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T22:50:11.438375+00:00",
+  "updated": "2026-09-29T03:33:32.856533+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -155,16 +155,6 @@
       "country": "India"
     },
     {
-      "title": "Workforce capacity and the ethics of ‘batting’",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-08-29",
-      "authors": "Kinshuk Gupta",
-      "url": "https://doi.org/10.20529/ijme.2026.052",
-      "doi": "10.20529/ijme.2026.052",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Death, Decomposition, and the Domes: Making Specimens for Forensic Toxicology in British India",
       "journal": "Isis",
       "published": "2026-09-01",
@@ -251,16 +241,6 @@
       "authors": "Rohit Kumar Singh, . Shiuli, . Garima, Raghuwar Singh, Rakhi Rajput, Veerendra Prasad, Sachin Kumar Tripathi, Anoop Kumar Verma",
       "url": "https://doi.org/10.18231/j.ijfcm.16905.1786428847",
       "doi": "10.18231/j.ijfcm.16905.1786428847",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Pulmonary talcosis: An interesting autopsy revelation",
-      "journal": "Lung India",
-      "published": "2026-08-29",
-      "authors": "Priya Suneja, BR Ashwini, Jyoti Srinivasaiah",
-      "url": "https://doi.org/10.4103/lungindia.lungindia_200_26",
-      "doi": "10.4103/lungindia.lungindia_200_26",
       "source": "Crossref",
       "country": "India"
     }
