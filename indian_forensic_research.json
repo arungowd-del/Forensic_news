@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:10:32.625493+00:00",
+  "updated": "2026-10-01T22:11:45.060481+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -215,26 +215,6 @@
       "country": "India"
     },
     {
-      "title": "Demographic characteristics of antemortem hanging deaths in central India: A medico-legal autopsy study assessing age, sex distribution and menstrual phase association",
-      "journal": "Indian Journal of Forensic and Community Medicine",
-      "published": "2026-09-19",
-      "authors": "Sharjeel Hafiz Khan, Shadma Hafizuddin Quazi, Arti Ajay Kasulkar, Bipinchandra Haribhau Tirpude, Shoaib Alimohammed Fazlani",
-      "url": "https://doi.org/10.18231/j.ijfcm.16363.1788159440",
-      "doi": "10.18231/j.ijfcm.16363.1788159440",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Decoding paternal genetic architecture of Gujarati Brahmin population of India using 27 Y-STRs: Diversity, structure, and global comparison",
-      "journal": "International Journal of Legal Medicine",
-      "published": "2026-09-10",
-      "authors": "Vrunda Dave, Ankita Arunrao Fulkar, Kopal Kapoor, Vaishali Sharma, Malay Ashvinkumar Shukla",
-      "url": "https://doi.org/10.1007/s00414-026-03983-y",
-      "doi": "10.1007/s00414-026-03983-y",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Oxidative Stress Biomarkers as Predictors of Methotrexate-Induced Acute Hepatotoxicity in Children with Acute Lymphoblastic Leukaemia",
       "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
       "published": "2026-09-22",
@@ -301,6 +281,26 @@
       "authors": "Uponita Mukherjee",
       "url": "https://doi.org/10.1086/742429",
       "doi": "10.1086/742429",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Bridging theory and practice: A structured toxicology elective for undergraduate medical students in India",
+      "journal": "IP International Journal of Forensic Medicine and Toxicological Sciences",
+      "published": "2026-09-03",
+      "authors": "Satish Kumar Kollapu, Phani Kiran Peethala, Raja Sekhar Reddy Zakkam, Prasanth Pidaparthy",
+      "url": "https://doi.org/10.18231/j.ijfmts.91882.1788424653",
+      "doi": "10.18231/j.ijfmts.91882.1788424653",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "FORENSIC PHARMACOLOGY IN INDIA: AN EMERGING DISCIPLINE AND ITS FUTURE PERSPECTIVES",
+      "journal": "Global Journal of Forensic Pathology and Medicine",
+      "published": "2026-09-23",
+      "authors": "Mamta Kumari, Rajesh Mishra,, Lalita Singh, Soumya Chaudhary, Vinay Tiwari,, Shubhyanka Singh, Anubhav Dubey",
+      "url": "https://doi.org/10.66838/4ez7q821",
+      "doi": "10.66838/4ez7q821",
       "source": "Crossref",
       "country": "India"
     }
