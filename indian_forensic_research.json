@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T21:44:01.203082+00:00",
+  "updated": "2026-10-01T03:25:15.985859+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -135,22 +135,22 @@
       "country": "India"
     },
     {
-      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
-      "journal": "Indian Journal of Forensic Medicine and Pathology",
-      "published": "2026-09-30",
-      "authors": "Pooja Gajmer, Ruchi Kumari",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
-      "doi": "10.21088/ijfmp.0974.3383.19326.11",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Understanding assault Patterns: A Cross-sectional study of Cases at Chri, Kelambakkam, Chennai",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
       "authors": "Sherley Alwin A, R Monisha",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.13",
       "doi": "10.21088/ijfmp.0974.3383.19326.13",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
+      "journal": "Indian Journal of Forensic Medicine and Pathology",
+      "published": "2026-09-30",
+      "authors": "Pooja Gajmer, Ruchi Kumari",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
+      "doi": "10.21088/ijfmp.0974.3383.19326.11",
       "source": "Crossref",
       "country": "India"
     },
