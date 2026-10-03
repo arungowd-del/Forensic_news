@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T10:54:07.091486+00:00",
+  "updated": "2026-10-03T15:30:29.389413+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -89,8 +89,8 @@
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
       "authors": "Vinod Dhingra, Anu Singla, Neha Ahirwar, Amit Kumar Choudhary, Annwesha Mazumdar, Shashi Shekhar",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.14",
-      "doi": "10.21088/ijfmp.0974.3383.19326.14",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.15",
+      "doi": "10.21088/ijfmp.0974.3383.19326.15",
       "source": "Crossref",
       "country": "India"
     },
@@ -135,22 +135,22 @@
       "country": "India"
     },
     {
-      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
-      "journal": "Indian Journal of Forensic Medicine and Pathology",
-      "published": "2026-09-30",
-      "authors": "Pooja Gajmer, Ruchi Kumari",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
-      "doi": "10.21088/ijfmp.0974.3383.19326.11",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Understanding assault Patterns: A Cross-sectional study of Cases at Chri, Kelambakkam, Chennai",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
       "authors": "Sherley Alwin A, R Monisha",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.13",
       "doi": "10.21088/ijfmp.0974.3383.19326.13",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
+      "journal": "Indian Journal of Forensic Medicine and Pathology",
+      "published": "2026-09-30",
+      "authors": "Pooja Gajmer, Ruchi Kumari",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
+      "doi": "10.21088/ijfmp.0974.3383.19326.11",
       "source": "Crossref",
       "country": "India"
     },
@@ -265,16 +265,6 @@
       "country": "India"
     },
     {
-      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
-      "journal": "Legal Medicine",
-      "published": "2026-10-01",
-      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
-      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
-      "doi": "10.1016/j.legalmed.2026.102996",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "FORENSIC PHARMACOLOGY IN INDIA: AN EMERGING DISCIPLINE AND ITS FUTURE PERSPECTIVES",
       "journal": "Global Journal of Forensic Pathology and Medicine",
       "published": "2026-09-23",
@@ -291,6 +281,16 @@
       "authors": "Tejas Kumar M, Ramesh Babu, Vinay H N, Kiran M S",
       "url": "https://doi.org/10.18231/j.ijfmts.10518.1788424913",
       "doi": "10.18231/j.ijfmts.10518.1788424913",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Histopathological Analysis of the Spectrum of Forensic Pathology Lesions Over Two Years From a Tertiary Care Centre in Kerala: A Descriptive Study",
+      "journal": "Cureus",
+      "published": "2026-09-29",
+      "authors": "Bhavya P Mohan, Surekha Vijayan, Jilsa Sucheendran, Sheeju P A",
+      "url": "https://doi.org/10.7759/cureus.117165",
+      "doi": "10.7759/cureus.117165",
       "source": "Crossref",
       "country": "India"
     },
