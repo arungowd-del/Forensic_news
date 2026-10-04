@@ -1,39 +1,7 @@
 {
-  "updated": "2026-10-04T16:03:36.010443Z",
+  "updated": "2026-10-04T20:33:44.664545Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Multi-reflecting time-of-flight mass spectrometry enables high-accuracy metabolite identification in a demonstration study using serum samples from COVID-19 patients.",
-      "authors": "King A, Matthews E, Maker G, Trengove R, Shareef S",
-      "published": "2026-10-03",
-      "journal": "Metabolomics : Official journal of the Metabolomic Society",
-      "pmid": "42829394",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42829394/"
-    },
-    {
-      "title": "Knowledge, attitudes and educational exposure regarding neglected tropical diseases among medical students and residents in Italy: a nationwide multicenter survey from the Italian Society for Tropical Medicine and Global Health (SIMET ETS).",
-      "authors": "Guido G, Buonamassa R, Rossi B, Barbiero A, Mangiapelo C",
-      "published": "2026-10-03",
-      "journal": "Infection",
-      "pmid": "42828632",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42828632/"
-    },
-    {
-      "title": "MuSC cultivation for cultured meat production: recent advances, current limitations, and future directions.",
-      "authors": "Lee EJ, Ahmad K, Shaikh S, Lim JH, Ahmad SS",
-      "published": "2026-10-03",
-      "journal": "Food science of animal resources",
-      "pmid": "42828647",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42828647/"
-    },
-    {
-      "title": "The Therapeutic Potential of MicroRNAs Delivered By Mesenchymal Stem Cells in Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review of Preclinical Studies.",
-      "authors": "Przywara D, Petniak A, Gil-Kulik P",
-      "published": "2026-10-03",
-      "journal": "Molecular neurobiology",
-      "pmid": "42828605",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42828605/"
-    },
     {
       "title": "Increased CCR2-immunopositive myeloid cells in the putamen and cerebellar white matter with blood-brain barrier disruption in multiple system atrophy.",
       "authors": "Okada N, Togawa N, Ishimoto T, Ayaki T, Maki T",
@@ -43,12 +11,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829174/"
     },
     {
-      "title": "Rule-Based Versus Generative Extraction of Psychological Symptoms From Forensic Medical Certificates: A Feasibility Study in the French ORFeAD Network.",
-      "authors": "Laure G, Sophie OG, Arthur C, Vincent L, Thomas L",
+      "title": "The Therapeutic Potential of MicroRNAs Delivered By Mesenchymal Stem Cells in Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review of Preclinical Studies.",
+      "authors": "Przywara D, Petniak A, Gil-Kulik P",
       "published": "2026-10-03",
-      "journal": "Behavioral sciences & the law",
-      "pmid": "42829452",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42829452/"
+      "journal": "Molecular neurobiology",
+      "pmid": "42828605",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828605/"
     },
     {
       "title": "Integrated analysis of HIV-1 drug resistance across reverse transcriptase, protease and integrase in india: gene-region-corrected prevalence and threshold-specific scoring from public sequence data.",
@@ -67,36 +35,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42828656/"
     },
     {
-      "title": "Serotonergic Toxicity and Hyponatremia Associated with Antidepressant Therapy: The Pivotal Role of SIADH.",
-      "authors": "Morena D, Lippi M, Biso L, Lucci F, Turillazzi E",
-      "published": "2026-10-03",
-      "journal": "Clinical drug investigation",
-      "pmid": "42829418",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42829418/"
-    },
-    {
-      "title": "Inhibitory control and error processing in Obsessive-Compulsive Disorder: A mega-analysis of task-based fMRI data by the ENIGMA-OCD consortium.",
-      "authors": "Džinalija N, van den Heuvel OA, Simpson HB, Ivanov I, Araújo A",
-      "published": "2026-10-03",
-      "journal": "Biological psychiatry",
-      "pmid": "42829058",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42829058/"
-    },
-    {
-      "title": "Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.",
-      "authors": "Bui TD, Phung MT, Chou TY, Le NQK",
-      "published": "2026-10-03",
-      "journal": "Epigenomics",
-      "pmid": "42829334",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42829334/"
-    },
-    {
       "title": "Eavesdropping Kairomone Markers of Interspecific Communication in Predatory and Parasitic Arthropods: A Review.",
       "authors": "Aigbedion-Atalor PO, Faaulu A, Goodman V, Malenge B, Moennich N",
       "published": "2026-10-03",
       "journal": "Journal of chemical ecology",
       "pmid": "42828653",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42828653/"
+    },
+    {
+      "title": "Knowledge, attitudes and educational exposure regarding neglected tropical diseases among medical students and residents in Italy: a nationwide multicenter survey from the Italian Society for Tropical Medicine and Global Health (SIMET ETS).",
+      "authors": "Guido G, Buonamassa R, Rossi B, Barbiero A, Mangiapelo C",
+      "published": "2026-10-03",
+      "journal": "Infection",
+      "pmid": "42828632",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828632/"
+    },
+    {
+      "title": "Serotonergic Toxicity and Hyponatremia Associated with Antidepressant Therapy: The Pivotal Role of SIADH.",
+      "authors": "Morena D, Lippi M, Biso L, Lucci F, Turillazzi E",
+      "published": "2026-10-03",
+      "journal": "Clinical drug investigation",
+      "pmid": "42829418",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829418/"
     },
     {
       "title": "Engineering smart polymeric lipid nanoparticles for breast cancer: The convergence of AI and medical personalization to enhance efficacy and safety.",
@@ -107,52 +67,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829010/"
     },
     {
-      "title": "\"Defensive\" corpse dismemberment without prior criminal offence.",
-      "authors": "Preuß-Wössner J, Gerling I, Klückmann S, Buschmann C",
-      "published": "2026-10-02",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42825887",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42825887/"
+      "title": "Inhibitory control and error processing in Obsessive-Compulsive Disorder: A mega-analysis of task-based fMRI data by the ENIGMA-OCD consortium.",
+      "authors": "Džinalija N, van den Heuvel OA, Simpson HB, Ivanov I, Araújo A",
+      "published": "2026-10-03",
+      "journal": "Biological psychiatry",
+      "pmid": "42829058",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829058/"
     },
     {
-      "title": "Pancreatic Cancer Cachexia: Integrating Mechanistic Insights With Clinical Management.",
-      "authors": "Huang L, Impedovo V, Tiziani S, Mukherjee S, Cristian A",
-      "published": "2026-10-02",
-      "journal": "JCO oncology practice",
-      "pmid": "42826357",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826357/"
+      "title": "Rule-Based Versus Generative Extraction of Psychological Symptoms From Forensic Medical Certificates: A Feasibility Study in the French ORFeAD Network.",
+      "authors": "Laure G, Sophie OG, Arthur C, Vincent L, Thomas L",
+      "published": "2026-10-03",
+      "journal": "Behavioral sciences & the law",
+      "pmid": "42829452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829452/"
     },
     {
-      "title": "Pedigree-Based comparison of short-read and long-read sequencing for forensic mitochondrial genome analysis.",
-      "authors": "Chen A, Yang Q, Cao Y, Liu Y, Yang F",
-      "published": "2026-10-02",
-      "journal": "International journal of legal medicine",
-      "pmid": "42825929",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42825929/"
+      "title": "Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.",
+      "authors": "Bui TD, Phung MT, Chou TY, Le NQK",
+      "published": "2026-10-03",
+      "journal": "Epigenomics",
+      "pmid": "42829334",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829334/"
     },
     {
-      "title": "Matricaria chamomilla L. Essential Oil: The Preparation and Characterization of the Self-microemulsion Drug Delivery System, and Repair Effect in Ulcerative Colitis.",
-      "authors": "Rong W, Adu-Frimpong M, Chen H, Zhu S, Wang Z",
-      "published": "2026-10-02",
-      "journal": "Pharmaceutical research",
-      "pmid": "42827196",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42827196/"
+      "title": "Multi-reflecting time-of-flight mass spectrometry enables high-accuracy metabolite identification in a demonstration study using serum samples from COVID-19 patients.",
+      "authors": "King A, Matthews E, Maker G, Trengove R, Shareef S",
+      "published": "2026-10-03",
+      "journal": "Metabolomics : Official journal of the Metabolomic Society",
+      "pmid": "42829394",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829394/"
     },
     {
-      "title": "The e-Consultation Paradox in Cardiology: The Conflict Between the Clinical Agility of Instant Messaging and Medicolegal Concerns Created by Current Legislation.",
-      "authors": "Doğan NB",
-      "published": "2026-10-02",
-      "journal": "Turk Kardiyoloji Dernegi arsivi : Turk Kardiyoloji Derneginin yayin organidir",
-      "pmid": "42752534",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42752534/"
-    },
-    {
-      "title": "Sudden Unexpected Perinatal Death Due to Undiagnosed Diffuse Placental Chorioangiomatosis.",
-      "authors": "Botta G, Abbona G, Bonsignore A, Duzioni S, Buffelli F",
-      "published": "2026-10-02",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42823631",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823631/"
+      "title": "MuSC cultivation for cultured meat production: recent advances, current limitations, and future directions.",
+      "authors": "Lee EJ, Ahmad K, Shaikh S, Lim JH, Ahmad SS",
+      "published": "2026-10-03",
+      "journal": "Food science of animal resources",
+      "pmid": "42828647",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828647/"
     },
     {
       "title": "Diet and nutrition in obesity treated with incretin-based therapies: A scientific statement of the Polish Society of Dietetics.",
@@ -163,12 +115,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823936/"
     },
     {
-      "title": "Rivastigmine Attenuates Doxorubicin-Induced Ovarian Injury in Rats Associated with Modulation of α7nAChR/NF-κB/TNF-α/Caspase-3 Signaling.",
-      "authors": "Abdelzaher WY, Hassan M, Attya ME, Mohamed HMM, Soliman NMS",
+      "title": "The e-Consultation Paradox in Cardiology: The Conflict Between the Clinical Agility of Instant Messaging and Medicolegal Concerns Created by Current Legislation.",
+      "authors": "Doğan NB",
       "published": "2026-10-02",
-      "journal": "Reproductive toxicology (Elmsford, N.Y.)",
-      "pmid": "42826844",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826844/"
+      "journal": "Turk Kardiyoloji Dernegi arsivi : Turk Kardiyoloji Derneginin yayin organidir",
+      "pmid": "42752534",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42752534/"
     },
     {
       "title": "Trans-Eurasian steppe herder and barley farmer migrations shaped paternal genomic dynamics in Northwest China and Hui evolution.",
@@ -179,12 +131,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826189/"
     },
     {
-      "title": "An autopsy case of diphenhydramine overdose with drug concentration data from multiple samples sites.",
-      "authors": "Takei S, Jamal M, Yamashita T, Tanaka E, Kawahara S",
+      "title": "Pancreatic Cancer Cachexia: Integrating Mechanistic Insights With Clinical Management.",
+      "authors": "Huang L, Impedovo V, Tiziani S, Mukherjee S, Cristian A",
       "published": "2026-10-02",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42827210",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42827210/"
+      "journal": "JCO oncology practice",
+      "pmid": "42826357",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826357/"
     },
     {
       "title": "A Novel AI-Assisted 3D Hybrid Soft and Hard Tissue Model for Peri-implant Diagnosis and Treatment Planning: A Proof-of-Concept Study of Immediate Implant Planning in the Anterior Maxilla.",
@@ -195,36 +147,52 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826919/"
     },
     {
-      "title": "Letter to the Editor commenting on \"Incorrect formula for calculation of likelihood ratios used in forensic anthropology: Comments on Scott & Rogers (2026)'', by Morrison.",
-      "authors": "Scott S, Rogers TL, Steadman DW, Adams BJ, Konigsberg LW",
-      "published": "2026-10-01",
-      "journal": "Forensic science international",
-      "pmid": "42330733",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42330733/"
+      "title": "Pedigree-Based comparison of short-read and long-read sequencing for forensic mitochondrial genome analysis.",
+      "authors": "Chen A, Yang Q, Cao Y, Liu Y, Yang F",
+      "published": "2026-10-02",
+      "journal": "International journal of legal medicine",
+      "pmid": "42825929",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825929/"
     },
     {
-      "title": "Dental traits: From anthropological foundations to clinical implications.",
-      "authors": "Yang Y, Yang X, Zhang X, Hou J",
-      "published": "2026-10-01",
-      "journal": "Archives of oral biology",
-      "pmid": "42391787",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391787/"
+      "title": "An autopsy case of diphenhydramine overdose with drug concentration data from multiple samples sites.",
+      "authors": "Takei S, Jamal M, Yamashita T, Tanaka E, Kawahara S",
+      "published": "2026-10-02",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42827210",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827210/"
     },
     {
-      "title": "The Potential Immunotoxicity Induced by Long-Term Exposure to Polystyrene Nanoplastics in Rats.",
-      "authors": "Elsharkawy E, El-Nasser MA, El Hendy A, Rady E",
-      "published": "2026-10-01",
-      "journal": "Basic & clinical pharmacology & toxicology",
-      "pmid": "42770685",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42770685/"
+      "title": "Sudden Unexpected Perinatal Death Due to Undiagnosed Diffuse Placental Chorioangiomatosis.",
+      "authors": "Botta G, Abbona G, Bonsignore A, Duzioni S, Buffelli F",
+      "published": "2026-10-02",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42823631",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823631/"
     },
     {
-      "title": "Beyond the Index Case: A Practical Framework for Cascade Family Screening in Hereditary Angioedema.",
-      "authors": "Leung GK, Kan AK, Li PH",
-      "published": "2026-10-01",
-      "journal": "Clinical reviews in allergy & immunology",
-      "pmid": "42821175",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42821175/"
+      "title": "Matricaria chamomilla L. Essential Oil: The Preparation and Characterization of the Self-microemulsion Drug Delivery System, and Repair Effect in Ulcerative Colitis.",
+      "authors": "Rong W, Adu-Frimpong M, Chen H, Zhu S, Wang Z",
+      "published": "2026-10-02",
+      "journal": "Pharmaceutical research",
+      "pmid": "42827196",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827196/"
+    },
+    {
+      "title": "Rivastigmine Attenuates Doxorubicin-Induced Ovarian Injury in Rats Associated with Modulation of α7nAChR/NF-κB/TNF-α/Caspase-3 Signaling.",
+      "authors": "Abdelzaher WY, Hassan M, Attya ME, Mohamed HMM, Soliman NMS",
+      "published": "2026-10-02",
+      "journal": "Reproductive toxicology (Elmsford, N.Y.)",
+      "pmid": "42826844",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826844/"
+    },
+    {
+      "title": "\"Defensive\" corpse dismemberment without prior criminal offence.",
+      "authors": "Preuß-Wössner J, Gerling I, Klückmann S, Buschmann C",
+      "published": "2026-10-02",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42825887",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825887/"
     },
     {
       "title": "Determination of the new psychoactive substances MDMB-4en-PINACA, ADB-BUTINACA and some of their metabolites in blood and urine using DLLE-LC-MS/MS: application to real forensic case samples.",
@@ -235,12 +203,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42364407/"
     },
     {
-      "title": "Trending to baseline: A long-term look at the COVID-19 pandemic effects on non-natural deaths in Ontario.",
-      "authors": "Cullip M, Rosenthal JS, Dmetrichuk JM",
+      "title": "Postmortem nasal swab screening for cocaine: Preliminary evidence for early toxicological orientation in forensic autopsy practice.",
+      "authors": "Zuccarello P, Carnazza G, Sessa F, Barbera N",
+      "published": "2026-10-01",
+      "journal": "Legal medicine (Tokyo, Japan)",
+      "pmid": "42826586",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826586/"
+    },
+    {
+      "title": "Facial petechial hemorrhages after cardiopulmonary resuscitation in adults: A pilot study.",
+      "authors": "Janssens L, van den Hombergh FGM, Postma S, Dormans T, Latten BGH",
       "published": "2026-10-01",
       "journal": "Forensic science international",
-      "pmid": "42241941",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42241941/"
+      "pmid": "42259038",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42259038/"
+    },
+    {
+      "title": "Synthetic cannabinoid receptor agonists inhibit the cardiac voltage-gated potassium channel hERG.",
+      "authors": "Ottosson NE, Frampton DJA, Pipatpolkai T, Norman C, Karlsson U",
+      "published": "2026-10-01",
+      "journal": "Acta pharmacologica Sinica",
+      "pmid": "42477142",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477142/"
+    },
+    {
+      "title": "Amplicon-based DNA and RNA unified NGS for enhanced fusion variant detection in suboptimal real-world NSCLC FFPE specimens.",
+      "authors": "Feng Q, Wang Y, Huang M, Yang X, Lian S",
+      "published": "2026-10-01",
+      "journal": "Translational oncology",
+      "pmid": "42546665",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42546665/"
+    },
+    {
+      "title": "Beyond correlation and causation: epistemic caution, anomalous findings, and COVID-19 vaccine safety.",
+      "authors": "Siebner AS, Rubio-Casillas A, Raszek M, Cowley D, Fabrowski M",
+      "published": "2026-10-01",
+      "journal": "Philosophy, ethics, and humanities in medicine : PEHM",
+      "pmid": "42823741",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823741/"
     }
   ]
 }
