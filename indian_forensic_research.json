@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T16:14:36.405566+00:00",
+  "updated": "2026-10-04T20:43:56.991106+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -135,22 +135,22 @@
       "country": "India"
     },
     {
-      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
-      "journal": "Indian Journal of Forensic Medicine and Pathology",
-      "published": "2026-09-30",
-      "authors": "Pooja Gajmer, Ruchi Kumari",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
-      "doi": "10.21088/ijfmp.0974.3383.19326.11",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Understanding assault Patterns: A Cross-sectional study of Cases at Chri, Kelambakkam, Chennai",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
       "authors": "Sherley Alwin A, R Monisha",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.13",
       "doi": "10.21088/ijfmp.0974.3383.19326.13",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
+      "journal": "Indian Journal of Forensic Medicine and Pathology",
+      "published": "2026-09-30",
+      "authors": "Pooja Gajmer, Ruchi Kumari",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
+      "doi": "10.21088/ijfmp.0974.3383.19326.11",
       "source": "Crossref",
       "country": "India"
     },
@@ -211,6 +211,16 @@
       "authors": "Sharjeel Hafiz Khan, Shadma Hafizuddin Quazi, Arti Ajay Kasulkar, Bipinchandra Haribhau Tirpude, Shoaib Alimohammed Fazlani",
       "url": "https://doi.org/10.18231/j.ijfcm.16363.1788159440",
       "doi": "10.18231/j.ijfcm.16363.1788159440",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Decoding paternal genetic architecture of Gujarati Brahmin population of India using 27 Y-STRs: Diversity, structure, and global comparison",
+      "journal": "International Journal of Legal Medicine",
+      "published": "2026-09-10",
+      "authors": "Vrunda Dave, Ankita Arunrao Fulkar, Kopal Kapoor, Vaishali Sharma, Malay Ashvinkumar Shukla",
+      "url": "https://doi.org/10.1007/s00414-026-03983-y",
+      "doi": "10.1007/s00414-026-03983-y",
       "source": "Crossref",
       "country": "India"
     },
@@ -285,22 +295,12 @@
       "country": "India"
     },
     {
-      "title": "FORENSIC PHARMACOLOGY IN INDIA: AN EMERGING DISCIPLINE AND ITS FUTURE PERSPECTIVES",
-      "journal": "Global Journal of Forensic Pathology and Medicine",
-      "published": "2026-09-23",
-      "authors": "Mamta Kumari, Rajesh Mishra,, Lalita Singh, Soumya Chaudhary, Vinay Tiwari,, Shubhyanka Singh, Anubhav Dubey",
-      "url": "https://doi.org/10.66838/4ez7q821",
-      "doi": "10.66838/4ez7q821",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Histopathological Analysis of the Spectrum of Forensic Pathology Lesions Over Two Years From a Tertiary Care Centre in Kerala: A Descriptive Study",
-      "journal": "Cureus",
-      "published": "2026-09-29",
-      "authors": "Bhavya P Mohan, Surekha Vijayan, Jilsa Sucheendran, Sheeju P A",
-      "url": "https://doi.org/10.7759/cureus.117165",
-      "doi": "10.7759/cureus.117165",
+      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
+      "journal": "Legal Medicine",
+      "published": "2026-10-01",
+      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
+      "doi": "10.1016/j.legalmed.2026.102996",
       "source": "Crossref",
       "country": "India"
     }
