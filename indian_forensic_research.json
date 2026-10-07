@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:24:43.922581+00:00",
+  "updated": "2026-10-07T22:29:38.897781+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -225,16 +225,6 @@
       "country": "India"
     },
     {
-      "title": "Decoding paternal genetic architecture of Gujarati Brahmin population of India using 27 Y-STRs: Diversity, structure, and global comparison",
-      "journal": "International Journal of Legal Medicine",
-      "published": "2026-09-10",
-      "authors": "Vrunda Dave, Ankita Arunrao Fulkar, Kopal Kapoor, Vaishali Sharma, Malay Ashvinkumar Shukla",
-      "url": "https://doi.org/10.1007/s00414-026-03983-y",
-      "doi": "10.1007/s00414-026-03983-y",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Oxidative Stress Biomarkers as Predictors of Methotrexate-Induced Acute Hepatotoxicity in Children with Acute Lymphoblastic Leukaemia",
       "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
       "published": "2026-09-22",
@@ -295,12 +285,22 @@
       "country": "India"
     },
     {
-      "title": "Maternal lineage tracing using mtDNA from unbuffered formalin-fixed autopsy tissues in India",
-      "journal": "Annals of Human Biology",
-      "published": "2026-09-22",
-      "authors": "Kangana Aggarwal, Nidhi Sharma, Braja Kishore Mohapatra, Kamal Chauhan, Harpreet Singh, Prachi Shukla, Chittaranjan Behera",
-      "url": "https://doi.org/10.1080/03014460.2026.2720076",
-      "doi": "10.1080/03014460.2026.2720076",
+      "title": "Artificial intelligence -based modeling and comparative evaluation of craniofacial soft tissue and subcutaneous fat thickness using ct imaging for forensic identification in a northwestern indian population",
+      "journal": "International Journal of Legal Medicine",
+      "published": "2026-09-09",
+      "authors": "Sushil Kumar Battan, Mohinder Sharma, Mandeep Garg, Paramjeet Singh, Priyanka verma, Navneet Singla",
+      "url": "https://doi.org/10.1007/s00414-026-04000-y",
+      "doi": "10.1007/s00414-026-04000-y",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Postmortem characteristics of hanging deaths at a tertiary care hospital in Indore, Madhya Pradesh: A cross-sectional descriptive study",
+      "journal": "Journal of Integrative Medicine and Research",
+      "published": "2026-10-01",
+      "authors": "Ashish Kumar Vishwakarma, Brijeshkumar Umeshbhai Suthar, Deep Pankaj Shah, Sanjeev Kumar Choudhary",
+      "url": "https://doi.org/10.4103/jimr.jimr_95_26",
+      "doi": "10.4103/jimr.jimr_95_26",
       "source": "Crossref",
       "country": "India"
     }
