@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T03:50:13.725413+00:00",
+  "updated": "2026-10-08T12:34:16.579208+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -225,6 +225,16 @@
       "country": "India"
     },
     {
+      "title": "Psychological Autopsy of Suicidal Deaths Brought for Medicolegal Autopsy: A Cross-Sectional Study from a Tertiary Care Centre in Western India.",
+      "journal": "American Journal of Forensic Psychology",
+      "published": "2026-10-03",
+      "authors": "",
+      "url": "https://doi.org/10.61336/ajfp/2026-01-64",
+      "doi": "10.61336/ajfp/2026-01-64",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Oxidative Stress Biomarkers as Predictors of Methotrexate-Induced Acute Hepatotoxicity in Children with Acute Lymphoblastic Leukaemia",
       "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
       "published": "2026-09-22",
@@ -265,22 +275,22 @@
       "country": "India"
     },
     {
+      "title": "Postmortem characteristics of hanging deaths at a tertiary care hospital in Indore, Madhya Pradesh: A cross-sectional descriptive study",
+      "journal": "Journal of Integrative Medicine and Research",
+      "published": "2026-10-01",
+      "authors": "Ashish Kumar Vishwakarma, Brijeshkumar Umeshbhai Suthar, Deep Pankaj Shah, Sanjeev Kumar Choudhary",
+      "url": "https://doi.org/10.4103/jimr.jimr_95_26",
+      "doi": "10.4103/jimr.jimr_95_26",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "FORENSIC PHARMACOLOGY IN INDIA: AN EMERGING DISCIPLINE AND ITS FUTURE PERSPECTIVES",
       "journal": "Global Journal of Forensic Pathology and Medicine",
       "published": "2026-09-23",
       "authors": "Mamta Kumari, Rajesh Mishra,, Lalita Singh, Soumya Chaudhary, Vinay Tiwari,, Shubhyanka Singh, Anubhav Dubey",
       "url": "https://doi.org/10.66838/4ez7q821",
       "doi": "10.66838/4ez7q821",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Histopathological Analysis of the Spectrum of Forensic Pathology Lesions Over Two Years From a Tertiary Care Centre in Kerala: A Descriptive Study",
-      "journal": "Cureus",
-      "published": "2026-09-29",
-      "authors": "Bhavya P Mohan, Surekha Vijayan, Jilsa Sucheendran, Sheeju P A",
-      "url": "https://doi.org/10.7759/cureus.117165",
-      "doi": "10.7759/cureus.117165",
       "source": "Crossref",
       "country": "India"
     },
