@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:40:53.901143+00:00",
+  "updated": "2026-10-10T16:42:32.883450+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -91,16 +91,6 @@
       "authors": "Vinod Dhingra, Anu Singla, Neha Ahirwar, Amit Kumar Choudhary, Annwesha Mazumdar, Shashi Shekhar",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.15",
       "doi": "10.21088/ijfmp.0974.3383.19326.15",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Ghost surgery in Indian private hospitals: A silent ethical crisis",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-09-26",
-      "authors": "Dhiraj Lakshakar",
-      "url": "https://doi.org/10.20529/ijme.2026.058",
-      "doi": "10.20529/ijme.2026.058",
       "source": "Crossref",
       "country": "India"
     },
@@ -245,6 +235,16 @@
       "country": "India"
     },
     {
+      "title": "Abdominal Organ Involvement in Blunt Trauma: An Autopsy-based Study from a Tertiary Forensic Medicine Center in South India",
+      "journal": "Journal of Association of Forensic Medicine Experts",
+      "published": "2026-09-29",
+      "authors": "Majubin MB, Renju Raveendran, Nikita Prabhakaran G, Sharija S",
+      "url": "https://doi.org/10.5005/jafme-11075-0001",
+      "doi": "10.5005/jafme-11075-0001",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Oxidative Stress Biomarkers as Predictors of Methotrexate-Induced Acute Hepatotoxicity in Children with Acute Lymphoblastic Leukaemia",
       "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
       "published": "2026-09-22",
@@ -255,32 +255,12 @@
       "country": "India"
     },
     {
-      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-02",
-      "authors": "Nisha VG",
-      "url": "https://doi.org/10.20529/ijme.2026.059",
-      "doi": "10.20529/ijme.2026.059",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "An exploration of the hidden curriculum in undergraduate medical training: students’ perspectives (2016-2017)",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-09-21",
-      "authors": "Savitha D, Olinda Timms, Manjulika Vaz",
-      "url": "https://doi.org/10.20529/ijme.2026.057",
-      "doi": "10.20529/ijme.2026.057",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Silent storm",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-09-16",
-      "authors": "Gourisankar Nandakumar",
-      "url": "https://doi.org/10.20529/ijme.2026.056",
-      "doi": "10.20529/ijme.2026.056",
+      "title": "Childhood Deaths under Autopsy in South Kerala, 2005–2014: A 10-year Study of Cause and Manner of Death at a Tertiary Care Center",
+      "journal": "Journal of Association of Forensic Medicine Experts",
+      "published": "2026-09-29",
+      "authors": "Jintu Mathews, Sivasuthan S, Jenyz M Mundodan",
+      "url": "https://doi.org/10.5005/jafme-11075-0008",
+      "doi": "10.5005/jafme-11075-0008",
       "source": "Crossref",
       "country": "India"
     },
@@ -301,6 +281,26 @@
       "authors": "S. Mohan, Dr. K.S Arun Prakash",
       "url": "https://doi.org/10.1186/s12909-026-10236-4",
       "doi": "10.1186/s12909-026-10236-4",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The Need for Standardization of Psychological Autopsy Protocols in India: A Forensic Psychiatry Perspective",
+      "journal": "Medical Journal of Dr. D.Y. Patil Vidyapeeth",
+      "published": "2026-10-09",
+      "authors": "Madhusudan Ramchandra Petkar, Rahul Mohanrao Band, Ajay Laxmanrao Ghangale",
+      "url": "https://doi.org/10.4103/mjdrdypu.mjdrdypu_555_25",
+      "doi": "10.4103/mjdrdypu.mjdrdypu_555_25",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
+      "journal": "Legal Medicine",
+      "published": "2026-10-01",
+      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
+      "doi": "10.1016/j.legalmed.2026.102996",
       "source": "Crossref",
       "country": "India"
     }
