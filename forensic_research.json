@@ -1,78 +1,14 @@
 {
-  "updated": "2026-10-11T11:42:18.913797Z",
+  "updated": "2026-10-11T16:53:08.707269Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Comment on Chang et al.: defining the added interpretive value of brain fentanyl testing at low blood concentrations.",
-      "authors": "Yilmaz E, Yilmaz ZY",
-      "published": "2026-10-10",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "42858158",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858158/"
-    },
-    {
-      "title": "Surface-extraction MRI of the fetal brain: an improved approach for diagnosing anomalies associated with antenatal absence of the septum pellucidum.",
-      "authors": "Gomez Y, Sichitiu J, Lebon S, Cuadra MB, Koob M",
-      "published": "2026-10-10",
-      "journal": "Fetal diagnosis and therapy",
-      "pmid": "42858273",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858273/"
-    },
-    {
-      "title": "LTPat-based SOXFE: A self-organized explainable feature engineering model for automated fibromyalgia detection.",
-      "authors": "Kirik Y, Kirik S, Goktas OF, Tasci B, Dogan S",
-      "published": "2026-10-10",
-      "journal": "Technology and health care : official journal of the European Society for Engineering and Medicine",
-      "pmid": "42856024",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42856024/"
-    },
-    {
-      "title": "Assessment of Thoracic Ultrasound as a Diagnostic Tool for Lower Respiratory Tract Disorders in Sheep.",
-      "authors": "Quílez P, de Arcaute MR, Ortín A, Villanueva-Saz S, González JM",
-      "published": "2026-10-10",
-      "journal": "Veterinary journal (London, England : 1997)",
-      "pmid": "42858829",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858829/"
-    },
-    {
-      "title": "Blood footwear impression depletion: comparative morphological and biochemical analysis of continuous and interrupted partial-drying transfer sequences.",
-      "authors": "Aquila I, Gualtieri S, Grimaldi G, Sacco MA",
-      "published": "2026-10-10",
-      "journal": "International journal of legal medicine",
-      "pmid": "42858204",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858204/"
-    },
-    {
-      "title": "Pellagra encephalopathy in Huntington disease: An autopsy case.",
-      "authors": "Moriyoshi H, Hayakawa Y, Akagi A, Riku Y, Sone J",
-      "published": "2026-10-10",
-      "journal": "Journal of neuropathology and experimental neurology",
-      "pmid": "42858081",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858081/"
-    },
-    {
-      "title": "Fetal Postmortem Examination: Confrontation Between the Required, the Needed, and the Accepted.",
-      "authors": "Ibarra Vilar P, Kang X, Cannie MM, Jani JC",
-      "published": "2026-10-10",
-      "journal": "Prenatal diagnosis",
-      "pmid": "42858470",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858470/"
-    },
-    {
-      "title": "Substantial antibiotic resistance invasion of pristine river biofilms without specific alteration of the dominant community structure.",
-      "authors": "Hamiaux N, Changey F, Tran ML, Delannoy S, Maul A",
-      "published": "2026-10-10",
-      "journal": "Environmental pollution (Barking, Essex : 1987)",
-      "pmid": "42858761",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858761/"
-    },
-    {
-      "title": "Hidden in Plain Sight: Visibility, Institutional Systems, and the Study of Repeat Sexual Offending.",
-      "authors": "Campbell R",
-      "published": "2026-10-10",
-      "journal": "Journal of interpersonal violence",
-      "pmid": "42857923",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42857923/"
+      "title": "Social Media and HPV Vaccine Hesitancy: How Misinformation Affects Latino Parents.",
+      "authors": "Aragones A, Bruno D, Fridman I, Sarria I, Loia R",
+      "published": "2026-10-11",
+      "journal": "Journal of community health",
+      "pmid": "42859955",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42859955/"
     },
     {
       "title": "Natural salt mummification in a forensic context: a case report and environmental considerations.",
@@ -91,6 +27,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42858254/"
     },
     {
+      "title": "Substantial antibiotic resistance invasion of pristine river biofilms without specific alteration of the dominant community structure.",
+      "authors": "Hamiaux N, Changey F, Tran ML, Delannoy S, Maul A",
+      "published": "2026-10-10",
+      "journal": "Environmental pollution (Barking, Essex : 1987)",
+      "pmid": "42858761",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858761/"
+    },
+    {
+      "title": "Fetal Postmortem Examination: Confrontation Between the Required, the Needed, and the Accepted.",
+      "authors": "Ibarra Vilar P, Kang X, Cannie MM, Jani JC",
+      "published": "2026-10-10",
+      "journal": "Prenatal diagnosis",
+      "pmid": "42858470",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858470/"
+    },
+    {
       "title": "Antibiotic-producing microorganisms: taxonomic diversity, screening strategies, and emerging and underexploited antibacterial targets.",
       "authors": "Jiang Y, Mo S, Zhao Y, Guo X, Li Y",
       "published": "2026-10-10",
@@ -99,124 +51,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42859226/"
     },
     {
-      "title": "Scavenger receptors associate with Alzheimer's pathology, cholesterol metabolism and synaptic dysfunction.",
-      "authors": "Aumont-Rodrigue G, Picard C, Sarty I, Savard M, Poirier J",
-      "published": "2026-10-09",
-      "journal": "Neurobiology of disease",
-      "pmid": "42854795",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854795/"
+      "title": "Blood footwear impression depletion: comparative morphological and biochemical analysis of continuous and interrupted partial-drying transfer sequences.",
+      "authors": "Aquila I, Gualtieri S, Grimaldi G, Sacco MA",
+      "published": "2026-10-10",
+      "journal": "International journal of legal medicine",
+      "pmid": "42858204",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858204/"
     },
     {
-      "title": "Artificial Intelligence-Driven Clinical Decision Support for Postoperative Delirium Prevention: A Pragmatic Randomized Controlled Trial.",
-      "authors": "Scharp D, Meyers K, Nadkarni G, Federman A, Sarkisian C",
-      "published": "2026-10-09",
-      "journal": "Anesthesia and analgesia",
-      "pmid": "42854247",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854247/"
+      "title": "Pellagra encephalopathy in Huntington disease: An autopsy case.",
+      "authors": "Moriyoshi H, Hayakawa Y, Akagi A, Riku Y, Sone J",
+      "published": "2026-10-10",
+      "journal": "Journal of neuropathology and experimental neurology",
+      "pmid": "42858081",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858081/"
     },
     {
-      "title": "Training Forensic Pathologists by Building on Residency Autopsy Education: A Survey Showing Where to Improve.",
-      "authors": "Kostelecky N, McNeill C, Ahrendsen JT, Jackson NR, Scherpelz KP",
-      "published": "2026-10-09",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "42850719",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42850719/"
+      "title": "LTPat-based SOXFE: A self-organized explainable feature engineering model for automated fibromyalgia detection.",
+      "authors": "Kirik Y, Kirik S, Goktas OF, Tasci B, Dogan S",
+      "published": "2026-10-10",
+      "journal": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+      "pmid": "42856024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856024/"
     },
     {
-      "title": "Commentary from the Education Committee of the society for clinical Neuropsychology on: facilitating best practices in practicum training in clinical Neuropsychology: introducing the North American Association of practicum sites in Neuropsychology (NAPSN) organizational training guidelines.",
-      "authors": "Shapiro DN, Adler MC, Duvall S, Eppig J, Hirst RB",
-      "published": "2026-10-09",
-      "journal": "Journal of clinical and experimental neuropsychology",
-      "pmid": "42852472",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852472/"
+      "title": "Assessment of Thoracic Ultrasound as a Diagnostic Tool for Lower Respiratory Tract Disorders in Sheep.",
+      "authors": "Quílez P, de Arcaute MR, Ortín A, Villanueva-Saz S, González JM",
+      "published": "2026-10-10",
+      "journal": "Veterinary journal (London, England : 1997)",
+      "pmid": "42858829",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858829/"
     },
     {
-      "title": "Attacks on sexual, reproductive, maternal and newborn healthcare in armed conflict: Accountability for the gendered reverberating effects.",
-      "authors": "Gilmore S, Moffett L",
-      "published": "2026-10-09",
-      "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
-      "pmid": "42855924",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855924/"
+      "title": "Comment on Chang et al.: defining the added interpretive value of brain fentanyl testing at low blood concentrations.",
+      "authors": "Yilmaz E, Yilmaz ZY",
+      "published": "2026-10-10",
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42858158",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858158/"
     },
     {
-      "title": "Burnout among dental students: Validation of the Copenhagen Burnout Inventory.",
-      "authors": "Bashir R, Alam BF, Wahab Khan A, Bashir S, Al-Jandan B",
-      "published": "2026-10-09",
-      "journal": "Work (Reading, Mass.)",
-      "pmid": "42851046",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42851046/"
+      "title": "Hidden in Plain Sight: Visibility, Institutional Systems, and the Study of Repeat Sexual Offending.",
+      "authors": "Campbell R",
+      "published": "2026-10-10",
+      "journal": "Journal of interpersonal violence",
+      "pmid": "42857923",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857923/"
     },
     {
-      "title": "The next frontier in healthcare simulation is human-AI teaming.",
-      "authors": "Shaikh SJ, Eppich W",
-      "published": "2026-10-09",
-      "journal": "Advances in simulation (London, England)",
-      "pmid": "42855718",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855718/"
-    },
-    {
-      "title": "Mismatch Repair Pathway, MLH1, MSH2 and Mutations in Prostate Cancer.",
-      "authors": "Himanshu, Osama MA, Singh L, Mir RA, Batra A",
-      "published": "2026-10-09",
-      "journal": "International journal of surgical pathology",
-      "pmid": "42852818",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852818/"
-    },
-    {
-      "title": "The effects of cognitive-behavioural therapy (CBT) on heart rate variability (HRV) in people with depression and/or anxiety disorders: A systematic review and meta-analysis.",
-      "authors": "Alkout A, Husaini AHBE, Kadan A, Parlatini V, Cortese S",
-      "published": "2026-10-09",
-      "journal": "International journal of psychophysiology : official journal of the International Organization of Psychophysiology",
-      "pmid": "42854872",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854872/"
-    },
-    {
-      "title": "Beyond MYD88-only testing: MYD88/CD79B profiling improves molecular detection and MCD genotyping in VRL and CNS lymphomas.",
-      "authors": "Wang MM, Li Y, How GF, Ho CEH, Somasundaram ND",
-      "published": "2026-10-09",
-      "journal": "Experimental hematology & oncology",
-      "pmid": "42855719",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855719/"
-    },
-    {
-      "title": "Microplastic-associated toxicants in the Nile River: a scoping review of bioaccumulation and health risks.",
-      "authors": "Moawad AM, Haytham O, Mahmoud Mahmoud AS",
-      "published": "2026-10-09",
-      "journal": "Ecotoxicology (London, England)",
-      "pmid": "42853337",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853337/"
-    },
-    {
-      "title": "Neanderthal woodworking at Abric Romaní: Insights into the role of wood in a Middle Palaeolithic domestic context.",
-      "authors": "Saladié P, Chacón MG, Solé A, Allué E, Marín-Hernando J",
-      "published": "2026-10-09",
-      "journal": "Science advances",
-      "pmid": "42842646",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842646/"
-    },
-    {
-      "title": "TINA: a geometry-aware post-hoc scoring framework for protein-protein interaction.",
-      "authors": "Jiang LL, Li YR, Su Q, Cheng ST, Shen LJ",
-      "published": "2026-10-09",
-      "journal": "Acta pharmacologica Sinica",
-      "pmid": "42855451",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855451/"
-    },
-    {
-      "title": "The NFIL3-MYC signaling axis: a novel therapeutic target and prognostic marker in high-risk multiple myeloma.",
-      "authors": "Maichl DS, Cheng WH, Kumari P, Kirner JA, Schmidt S",
-      "published": "2026-10-09",
-      "journal": "Biomarker research",
-      "pmid": "42855726",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855726/"
-    },
-    {
-      "title": "Secondary pulmonary alveolar proteinosis mimicking progression of interstitial lung disease during treatment for adult-onset still's disease: An autopsy case report.",
-      "authors": "Yamane T, Fujita T, Onoe A, Ichikawa C",
-      "published": "2026-10-09",
-      "journal": "Medicine",
-      "pmid": "42854068",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854068/"
+      "title": "Surface-extraction MRI of the fetal brain: an improved approach for diagnosing anomalies associated with antenatal absence of the septum pellucidum.",
+      "authors": "Gomez Y, Sichitiu J, Lebon S, Cuadra MB, Koob M",
+      "published": "2026-10-10",
+      "journal": "Fetal diagnosis and therapy",
+      "pmid": "42858273",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858273/"
     },
     {
       "title": "Nociceptive responses and resting-state functional connectivity of the human midbrain tegmentum.",
@@ -227,12 +115,52 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42853412/"
     },
     {
-      "title": "The Alzheimer's Association 2024 diagnostic criteria: Generalizability of supporting autopsy evidence.",
-      "authors": "Devi G",
+      "title": "Evaluating Post-Analytical Stability of Blood Ethanol Samples Using Headspace-GC-FID.",
+      "authors": "Cook D, Wagner J",
       "published": "2026-10-09",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "pmid": "42852844",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852844/"
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42853075",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853075/"
+    },
+    {
+      "title": "Greater temporo-occipital gray matter volume and frontoparietal cortical thickness in post-menopausal women: a UK Biobank study.",
+      "authors": "Tyrovolas S, Portella MJ, Usall J, Cambra-Martí MR, Callén A",
+      "published": "2026-10-09",
+      "journal": "Brain structure & function",
+      "pmid": "42853281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853281/"
+    },
+    {
+      "title": "TINA: a geometry-aware post-hoc scoring framework for protein-protein interaction.",
+      "authors": "Jiang LL, Li YR, Su Q, Cheng ST, Shen LJ",
+      "published": "2026-10-09",
+      "journal": "Acta pharmacologica Sinica",
+      "pmid": "42855451",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855451/"
+    },
+    {
+      "title": "Recent Advances in Sorbent- and Solvent-Based Sample Preparation Techniques for Antidepressant Analysis: Trends, Comparison, and Perspectives.",
+      "authors": "Özyiğit T, Yıldırım S",
+      "published": "2026-10-09",
+      "journal": "Critical reviews in analytical chemistry",
+      "pmid": "42855899",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855899/"
+    },
+    {
+      "title": "Neanderthal woodworking at Abric Romaní: Insights into the role of wood in a Middle Palaeolithic domestic context.",
+      "authors": "Saladié P, Chacón MG, Solé A, Allué E, Marín-Hernando J",
+      "published": "2026-10-09",
+      "journal": "Science advances",
+      "pmid": "42842646",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842646/"
+    },
+    {
+      "title": "Commentary from the Education Committee of the society for clinical Neuropsychology on: facilitating best practices in practicum training in clinical Neuropsychology: introducing the North American Association of practicum sites in Neuropsychology (NAPSN) organizational training guidelines.",
+      "authors": "Shapiro DN, Adler MC, Duvall S, Eppig J, Hirst RB",
+      "published": "2026-10-09",
+      "journal": "Journal of clinical and experimental neuropsychology",
+      "pmid": "42852472",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852472/"
     },
     {
       "title": "Two divers submerged in the Mediterranean Sea for 30 years: persistence of adipocere and implications for postmortem submersion interval estimation.",
@@ -241,6 +169,78 @@
       "journal": "International journal of legal medicine",
       "pmid": "42850467",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42850467/"
+    },
+    {
+      "title": "The Alzheimer's Association 2024 diagnostic criteria: Generalizability of supporting autopsy evidence.",
+      "authors": "Devi G",
+      "published": "2026-10-09",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "pmid": "42852844",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852844/"
+    },
+    {
+      "title": "Scavenger receptors associate with Alzheimer's pathology, cholesterol metabolism and synaptic dysfunction.",
+      "authors": "Aumont-Rodrigue G, Picard C, Sarty I, Savard M, Poirier J",
+      "published": "2026-10-09",
+      "journal": "Neurobiology of disease",
+      "pmid": "42854795",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854795/"
+    },
+    {
+      "title": "The NFIL3-MYC signaling axis: a novel therapeutic target and prognostic marker in high-risk multiple myeloma.",
+      "authors": "Maichl DS, Cheng WH, Kumari P, Kirner JA, Schmidt S",
+      "published": "2026-10-09",
+      "journal": "Biomarker research",
+      "pmid": "42855726",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855726/"
+    },
+    {
+      "title": "An update on miRNAs as non-invasive diagnostic markers for endometriosis: Why have we not reached consensus?",
+      "authors": "Nothnick WB, Olig E, Findley A",
+      "published": "2026-10-09",
+      "journal": "Journal of minimally invasive gynecology",
+      "pmid": "42854833",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854833/"
+    },
+    {
+      "title": "The effects of cognitive-behavioural therapy (CBT) on heart rate variability (HRV) in people with depression and/or anxiety disorders: A systematic review and meta-analysis.",
+      "authors": "Alkout A, Husaini AHBE, Kadan A, Parlatini V, Cortese S",
+      "published": "2026-10-09",
+      "journal": "International journal of psychophysiology : official journal of the International Organization of Psychophysiology",
+      "pmid": "42854872",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854872/"
+    },
+    {
+      "title": "Microplastic-associated toxicants in the Nile River: a scoping review of bioaccumulation and health risks.",
+      "authors": "Moawad AM, Haytham O, Mahmoud Mahmoud AS",
+      "published": "2026-10-09",
+      "journal": "Ecotoxicology (London, England)",
+      "pmid": "42853337",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853337/"
+    },
+    {
+      "title": "Cell Line Authentication Reveals HeLa-Derived Contamination of SACC-83 and SACC-LM in Adenoid Cystic Carcinoma Research.",
+      "authors": "Chen C, Zhao X, Chen X, Gao Y",
+      "published": "2026-10-09",
+      "journal": "International journal of cancer",
+      "pmid": "42853703",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853703/"
+    },
+    {
+      "title": "Assessment of normal fetal cranial nerve development from 14 to 28 weeks of gestation on post-mortem 3 Tesla MRI.",
+      "authors": "Raja D, Rangasami R, Verma R, Cruze LD, Seshadri S",
+      "published": "2026-10-09",
+      "journal": "Fetal diagnosis and therapy",
+      "pmid": "42853728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853728/"
+    },
+    {
+      "title": "Training Forensic Pathologists by Building on Residency Autopsy Education: A Survey Showing Where to Improve.",
+      "authors": "Kostelecky N, McNeill C, Ahrendsen JT, Jackson NR, Scherpelz KP",
+      "published": "2026-10-09",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42850719",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850719/"
     }
   ]
 }
