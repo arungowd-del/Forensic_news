@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-14T16:03:57.307750Z",
+  "updated": "2026-10-14T21:02:40.087859Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Chemical Biology-Based Drug Discovery Workflow Highlights Target Identification as a Key Step in Developing a Novel, Potent, and Selective GLUT1 Inhibitor.",
-      "authors": "Kamiyama H, Onizawa Y, Kubara K, Matsumoto Y, Sagane K",
-      "published": "2026-10-14",
-      "journal": "Chembiochem : a European journal of chemical biology",
-      "pmid": "42837431",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42837431/"
-    },
     {
       "title": "Photobiomodulation: multifaceted therapeutic effects on disorders in the central nervous system.",
       "authors": "Xiong W, Su Y, Chen H, Verkhratsky A, Yi C",
@@ -19,92 +11,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42813226/"
     },
     {
-      "title": "[From functional assessment to estimating the reduction in earning capacity : A three-step guide to medicolegal assessment in orthopedics and trauma surgery within German statutory accident insurance].",
-      "authors": "Husen M, Büscher K, Schiltenwolf M",
-      "published": "2026-10-13",
-      "journal": "Unfallchirurgie (Heidelberg, Germany)",
-      "pmid": "42870025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42870025/"
-    },
-    {
-      "title": "Supporting incarcerated autistic individuals: evaluation of an autism awareness training for prison staff.",
-      "authors": "Maljaars J, De Roo L, Van der Paelt S, Roeyers H, Noens I",
-      "published": "2026-10-13",
-      "journal": "International journal of prison health",
-      "pmid": "42157460",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42157460/"
-    },
-    {
-      "title": "Fibroblast growth factor receptor-signaling confers stroma-mediated drug resistance in malignant B cells.",
-      "authors": "Timmins MA, Chen J, Moore A, Kogut S, Paculova H",
-      "published": "2026-10-13",
-      "journal": "Leukemia",
-      "pmid": "42869960",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869960/"
-    },
-    {
-      "title": "Incident versus prevalent progressive supranuclear palsy: analyses of U.S. Alzheimer's Disease Research Centers data indicate clinical and neuropathological features of a relatively common and underrecognized tauopathy in the aging brain.",
-      "authors": "Cushing BJ, Shahidehpour RK, Abner EL, Jicha GA, Neltner JM",
-      "published": "2026-10-13",
-      "journal": "Acta neuropathologica",
-      "pmid": "42867534",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42867534/"
-    },
-    {
-      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-      "authors": "Liu Y, Tan Y, Hashimoto K",
-      "published": "2026-10-13",
-      "journal": "European journal of pharmacology",
-      "pmid": "42869167",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/"
-    },
-    {
-      "title": "Antecedents to episodes involving aggression and coercion in in-patient mental health settings: scoping review.",
-      "authors": "Sterri NHE, Lockertsen Ø, Husum TL, Lockertsen V, Siqveland J",
-      "published": "2026-10-13",
-      "journal": "BJPsych open",
-      "pmid": "42864754",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864754/"
-    },
-    {
-      "title": "Infection of macrophages by mpox virus activates inflammasome and cell death, informing multitarget therapeutic strategies.",
-      "authors": "Wang Y, Wang X, Tsikari T, Qin F, Chang F",
-      "published": "2026-10-13",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "pmid": "42842399",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842399/"
-    },
-    {
-      "title": "A rare case of ultrastructurally proven toxoplasmic myositis masquerading as necrotizing myopathy with emphasis on pathobiology.",
-      "authors": "Rajeswarie RT, Mittal S, Periyasamy G, Saraf U, Unnikrishnan G",
-      "published": "2026-10-13",
-      "journal": "Clinical neuropathology",
-      "pmid": "42867187",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42867187/"
-    },
-    {
-      "title": "Mapping the knowledge landscape and identifying frontiers of mitochondrial dysfunction in sepsis-associated acute kidney injury: a four-decade bibliometric and visualized analysis.",
-      "authors": "Sun CX, Liu YS, Kou ZW, Tang H",
-      "published": "2026-10-13",
-      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-      "pmid": "42864500",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864500/"
-    },
-    {
-      "title": "Isolation, identification, and pathogenicity comparison of three NADC30-like PRRSV variants with distinct mutational patterns.",
-      "authors": "Zhao L, Guan Y, Dai Y-M, Yan Y-X, He S-Y",
-      "published": "2026-10-13",
-      "journal": "Microbiology spectrum",
-      "pmid": "42867284",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42867284/"
-    },
-    {
-      "title": "Proteomic identification of resistin as a NET-associated neutrophil activity marker in sepsis.",
-      "authors": "Hashiguchi E, Shinkai A, Katsuno M, Hayakawa M, Totoki T",
-      "published": "2026-10-13",
-      "journal": "Journal of intensive care",
-      "pmid": "42870302",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42870302/"
+      "title": "Chemical Biology-Based Drug Discovery Workflow Highlights Target Identification as a Key Step in Developing a Novel, Potent, and Selective GLUT1 Inhibitor.",
+      "authors": "Kamiyama H, Onizawa Y, Kubara K, Matsumoto Y, Sagane K",
+      "published": "2026-10-14",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "pmid": "42837431",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837431/"
     },
     {
       "title": "hnRNPU regulates the sorting of exo-miR-125a-5p in colon epithelial cells and its role in realgar-induced central nervous system toxicity.",
@@ -123,38 +35,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42862908/"
     },
     {
-      "title": "Application of Hi-C sequencing to detect oncogene rearrangements for diagnosis and treatment of large B-cell lymphoma.",
-      "authors": "Xu-Monette ZY, Wang C, Wu D, Tzankov A, Møller MB",
-      "published": "2026-10-13",
-      "journal": "Blood advances",
-      "pmid": "42308239",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42308239/"
-    },
-    {
-      "title": "Improved assessment of the cochlear implant and temporal bone structures with ultra-high resolution photon-counting detector CT compared to conventional CT systems.",
-      "authors": "van der Bie J, van der Eerden AW, van den Berg AS, Dijkshoorn ML, van Straten M",
-      "published": "2026-10-13",
-      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
-      "pmid": "42867657",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42867657/"
-    },
-    {
-      "title": "Limb Body Wall Complex: Report of a Discordant Case in a Monozygotic Twin Pregnancy.",
-      "authors": "Formet J, Andrianarison L, Sartelet H, Nemos C",
-      "published": "2026-10-13",
-      "journal": "Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society",
-      "pmid": "42867184",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42867184/"
-    },
-    {
-      "title": "Forensic insights into mortality and challenges in post-mortem investigations of homeless individuals: a 10-year study (2014-2024) in Milan, Italy.",
-      "authors": "Tambuzzi S, Valleriani D, Carsana C, Arzenati P, Mazzarelli D",
-      "published": "2026-10-13",
-      "journal": "International journal of legal medicine",
-      "pmid": "42864434",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864434/"
-    },
-    {
       "title": "Chromosome 6q mediated loss of LATS1 tumour suppression as a targetable mechanism of ultra-high-risk posterior fossa A ependymoma.",
       "authors": "Donson AM, Griesinger AM, Chapman RJ, Grundy RG, Kilday JP",
       "published": "2026-10-13",
@@ -171,12 +51,84 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42867186/"
     },
     {
+      "title": "Limb Body Wall Complex: Report of a Discordant Case in a Monozygotic Twin Pregnancy.",
+      "authors": "Formet J, Andrianarison L, Sartelet H, Nemos C",
+      "published": "2026-10-13",
+      "journal": "Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society",
+      "pmid": "42867184",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867184/"
+    },
+    {
+      "title": "A rare case of ultrastructurally proven toxoplasmic myositis masquerading as necrotizing myopathy with emphasis on pathobiology.",
+      "authors": "Rajeswarie RT, Mittal S, Periyasamy G, Saraf U, Unnikrishnan G",
+      "published": "2026-10-13",
+      "journal": "Clinical neuropathology",
+      "pmid": "42867187",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867187/"
+    },
+    {
+      "title": "[From functional assessment to estimating the reduction in earning capacity : A three-step guide to medicolegal assessment in orthopedics and trauma surgery within German statutory accident insurance].",
+      "authors": "Husen M, Büscher K, Schiltenwolf M",
+      "published": "2026-10-13",
+      "journal": "Unfallchirurgie (Heidelberg, Germany)",
+      "pmid": "42870025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870025/"
+    },
+    {
       "title": "Diagnostic Value of Skin Biopsy in Fatal Histoplasmosis-Associated Hemophagocytic Lymphohistiocytosis: A Case Report.",
       "authors": "Roland-McGowan J, Seervai RNH, Lee C, Koon SM, Keller JJ",
       "published": "2026-10-13",
       "journal": "Dermatology and therapy",
       "pmid": "42870208",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42870208/"
+    },
+    {
+      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+      "authors": "Liu Y, Tan Y, Hashimoto K",
+      "published": "2026-10-13",
+      "journal": "European journal of pharmacology",
+      "pmid": "42869167",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/"
+    },
+    {
+      "title": "Application of Hi-C sequencing to detect oncogene rearrangements for diagnosis and treatment of large B-cell lymphoma.",
+      "authors": "Xu-Monette ZY, Wang C, Wu D, Tzankov A, Møller MB",
+      "published": "2026-10-13",
+      "journal": "Blood advances",
+      "pmid": "42308239",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308239/"
+    },
+    {
+      "title": "Fibroblast growth factor receptor-signaling confers stroma-mediated drug resistance in malignant B cells.",
+      "authors": "Timmins MA, Chen J, Moore A, Kogut S, Paculova H",
+      "published": "2026-10-13",
+      "journal": "Leukemia",
+      "pmid": "42869960",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869960/"
+    },
+    {
+      "title": "Incident versus prevalent progressive supranuclear palsy: analyses of U.S. Alzheimer's Disease Research Centers data indicate clinical and neuropathological features of a relatively common and underrecognized tauopathy in the aging brain.",
+      "authors": "Cushing BJ, Shahidehpour RK, Abner EL, Jicha GA, Neltner JM",
+      "published": "2026-10-13",
+      "journal": "Acta neuropathologica",
+      "pmid": "42867534",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867534/"
+    },
+    {
+      "title": "Improved assessment of the cochlear implant and temporal bone structures with ultra-high resolution photon-counting detector CT compared to conventional CT systems.",
+      "authors": "van der Bie J, van der Eerden AW, van den Berg AS, Dijkshoorn ML, van Straten M",
+      "published": "2026-10-13",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pmid": "42867657",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867657/"
+    },
+    {
+      "title": "Forensic insights into mortality and challenges in post-mortem investigations of homeless individuals: a 10-year study (2014-2024) in Milan, Italy.",
+      "authors": "Tambuzzi S, Valleriani D, Carsana C, Arzenati P, Mazzarelli D",
+      "published": "2026-10-13",
+      "journal": "International journal of legal medicine",
+      "pmid": "42864434",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864434/"
     },
     {
       "title": "Clinicopathologic Evaluation of Amyloid Clearance in Alzheimer Disease.",
@@ -195,52 +147,100 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42864472/"
     },
     {
-      "title": "The Workplace Telepressure Scale: measuring digital psychosocial demands in the workplace.",
-      "authors": "Aresti C",
-      "published": "2026-10-12",
-      "journal": "Occupational medicine (Oxford, England)",
-      "pmid": "42862112",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42862112/"
+      "title": "Isolation, identification, and pathogenicity comparison of three NADC30-like PRRSV variants with distinct mutational patterns.",
+      "authors": "Zhao L, Guan Y, Dai Y-M, Yan Y-X, He S-Y",
+      "published": "2026-10-13",
+      "journal": "Microbiology spectrum",
+      "pmid": "42867284",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867284/"
     },
     {
-      "title": "The use of hook acetabular cage after intralesional surgery in secondary bone tumors of the acetabulum: indications and results at medium term.",
-      "authors": "Otera S, Papalia GF, Sorrentino D, Checcucci E, Baldi J",
-      "published": "2026-10-12",
-      "journal": "Musculoskeletal surgery",
-      "pmid": "42864573",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864573/"
+      "title": "Proteomic identification of resistin as a NET-associated neutrophil activity marker in sepsis.",
+      "authors": "Hashiguchi E, Shinkai A, Katsuno M, Hayakawa M, Totoki T",
+      "published": "2026-10-13",
+      "journal": "Journal of intensive care",
+      "pmid": "42870302",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870302/"
     },
     {
-      "title": "Real-World HRR Testing Pathways and Patterns of Detected Alterations in Prostate Cancer From the Multinational ARON-3 Study.",
-      "authors": "Incorvaia L, Mollica V, Fiala O, Fujita K, Ürün Y",
-      "published": "2026-10-12",
-      "journal": "The Prostate",
-      "pmid": "42862920",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42862920/"
+      "title": "Supporting incarcerated autistic individuals: evaluation of an autism awareness training for prison staff.",
+      "authors": "Maljaars J, De Roo L, Van der Paelt S, Roeyers H, Noens I",
+      "published": "2026-10-13",
+      "journal": "International journal of prison health",
+      "pmid": "42157460",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42157460/"
     },
     {
-      "title": "Homicide with a trident harpoon: a case report.",
-      "authors": "Filippucci F, Oliva F, Buscemi L",
-      "published": "2026-10-12",
-      "journal": "Legal medicine (Tokyo, Japan)",
-      "pmid": "42868938",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42868938/"
+      "title": "Infection of macrophages by mpox virus activates inflammasome and cell death, informing multitarget therapeutic strategies.",
+      "authors": "Wang Y, Wang X, Tsikari T, Qin F, Chang F",
+      "published": "2026-10-13",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42842399",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842399/"
     },
     {
-      "title": "Vulvovaginal Epithelioid Mesenchymal Neoplasm With \"Deciduoid\" Morphology: Report of a Novel Entity Frequently Associated With Inactivating Germline BAP1 Variants.",
-      "authors": "Rókusz A, Attygalle AD, Melegh Z, Scheich B, Deák BA",
-      "published": "2026-10-12",
-      "journal": "The American journal of surgical pathology",
-      "pmid": "42860666",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42860666/"
+      "title": "Mapping the knowledge landscape and identifying frontiers of mitochondrial dysfunction in sepsis-associated acute kidney injury: a four-decade bibliometric and visualized analysis.",
+      "authors": "Sun CX, Liu YS, Kou ZW, Tang H",
+      "published": "2026-10-13",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "pmid": "42864500",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864500/"
     },
     {
-      "title": "Fatal thoracic aortic transection following a motor vehicle collision: Medico-legal significance of the seat belt sign.",
-      "authors": "Wijenayaka PRC, Perera UCP, Warushahennadi J",
+      "title": "Antecedents to episodes involving aggression and coercion in in-patient mental health settings: scoping review.",
+      "authors": "Sterri NHE, Lockertsen Ø, Husum TL, Lockertsen V, Siqveland J",
+      "published": "2026-10-13",
+      "journal": "BJPsych open",
+      "pmid": "42864754",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864754/"
+    },
+    {
+      "title": "Surface sampling and transport for an effective microbial forensics: recovery of bacterial nucleic acid and protein from adhesive tape.",
+      "authors": "Motamarry S, Yadav P, Kumar RB, Prakash VV, Alam SI",
       "published": "2026-10-12",
-      "journal": "The Medico-legal journal",
-      "pmid": "42864950",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864950/"
+      "journal": "World journal of microbiology & biotechnology",
+      "pmid": "42862254",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862254/"
+    },
+    {
+      "title": "Psychological and anthropometric outcomes in preschool children exposed to antenatal maternal obesity: modelling of early life risk factors.",
+      "authors": "Sigurdardottir J, Dalrymple K, Rutherford M, Poston L, UPBEAT Consortium",
+      "published": "2026-10-12",
+      "journal": "BMJ mental health",
+      "pmid": "42864118",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864118/"
+    },
+    {
+      "title": "Novel insights on carbon source influence on azomycin production by Streptomyces eurocidicus.",
+      "authors": "Robert JM, Lopes W, de Souza Costa AA, Padula de Miranda O, Nascimento TA",
+      "published": "2026-10-12",
+      "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+      "pmid": "42862489",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862489/"
+    },
+    {
+      "title": "Genome-wide analysis of common structural variants in Alzheimer's disease identifies a risk-associated regulatory CCG repeat in FAM193B.",
+      "authors": "Cao H, Fu Y, Zhou X, Duan Y, Ip FCF",
+      "published": "2026-10-12",
+      "journal": "Nature neuroscience",
+      "pmid": "42864446",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864446/"
+    },
+    {
+      "title": "Accelerometer-based 24-h movement behaviours in children and adolescents with Down syndrome.",
+      "authors": "Calcaterra V, Vandoni M, Gatti A, Maugeri P, Gazzarri A",
+      "published": "2026-10-12",
+      "journal": "European journal of pediatrics",
+      "pmid": "42864473",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864473/"
+    },
+    {
+      "title": "Structure-induced enhancement of charge transport in DNA via bis-daunomycin intercalation.",
+      "authors": "Pardhi K, Masaram K, Patil B, Chandra S, Singh RK",
+      "published": "2026-10-12",
+      "journal": "Nanoscale horizons",
+      "pmid": "42557959",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557959/"
     }
   ]
 }
