@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:57:13.216728+00:00",
+  "updated": "2026-10-14T10:57:44.220177+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -105,6 +105,16 @@
       "country": "India"
     },
     {
+      "title": "Ghost surgery in Indian private hospitals: A silent ethical crisis",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-26",
+      "authors": "Dhiraj Lakshakar",
+      "url": "https://doi.org/10.20529/ijme.2026.058",
+      "doi": "10.20529/ijme.2026.058",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Classical Krönlein Phenomenon Following Homicidal .30-06 Rifle Injury: A Forensic Case Report",
       "journal": "Journal of Indian Academy of Forensic Medicine",
       "published": "2026-09-20",
@@ -131,6 +141,16 @@
       "authors": "Krithika Rajesh, Susikumar Sundharamoorthy",
       "url": "https://doi.org/10.1177/09710973261486925",
       "doi": "10.1177/09710973261486925",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Revelation of the Unseen Eye: A Case of Filicide—Case Report",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-10-14",
+      "authors": "Pranav A, Arun KS Prakash, Vishnu Prasad U",
+      "url": "https://doi.org/10.1177/09710973261493684",
+      "doi": "10.1177/09710973261493684",
       "source": "Crossref",
       "country": "India"
     },
@@ -275,32 +295,12 @@
       "country": "India"
     },
     {
-      "title": "Insight of forensic medicine awareness, medico-legal risk perception and specialty orientation among final-year-dominant medical undergraduates in Northeast Tamil Nadu: an analytical cross-sectional study",
-      "journal": "BMC Medical Education",
-      "published": "2026-09-14",
-      "authors": "S. Mohan, Dr. K.S Arun Prakash",
-      "url": "https://doi.org/10.1186/s12909-026-10236-4",
-      "doi": "10.1186/s12909-026-10236-4",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Observational Analysis of Alcohol in Postmortem Vitreous Humor: A Forensic Perspective",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Niranjan Sahoo, Yukti Awasarkar, Atul S. Keche, Deeksha Thakur",
-      "url": "https://doi.org/10.37506/1ywggx62",
-      "doi": "10.37506/1ywggx62",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "The Need for Standardization of Psychological Autopsy Protocols in India: A Forensic Psychiatry Perspective",
-      "journal": "Medical Journal of Dr. D.Y. Patil Vidyapeeth",
-      "published": "2026-10-09",
-      "authors": "Madhusudan Ramchandra Petkar, Rahul Mohanrao Band, Ajay Laxmanrao Ghangale",
-      "url": "https://doi.org/10.4103/mjdrdypu.mjdrdypu_555_25",
-      "doi": "10.4103/mjdrdypu.mjdrdypu_555_25",
+      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-14",
+      "authors": "Sharon Batt",
+      "url": "https://doi.org/10.20529/ijme.2026.061",
+      "doi": "10.20529/ijme.2026.061",
       "source": "Crossref",
       "country": "India"
     }
