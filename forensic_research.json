@@ -1,30 +1,46 @@
 {
-  "updated": "2026-10-15T10:27:19.823679Z",
+  "updated": "2026-10-15T15:51:49.465374Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Viral triggers of Guillain-Barré syndrome: implications for laboratory diagnostics.",
-      "authors": "Kłodnicka K, Januszewski J, Tyczyńska M, Teresińska B, Trzaskacz P",
+      "title": "Colorimetric kit for presumptive detection of semen using ascorbic acid and acid phosphatase as (bio)chemical markers.",
+      "authors": "do Nascimento Oliveira B, Santos JCC",
+      "published": "2026-10-15",
+      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "pmid": "42019378",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42019378/"
+    },
+    {
+      "title": "Forensic integrity of blood alcohol sampling in the emergency department, Part II: Establishing quality goals of turnaround time with Monte Carlo simulation.",
+      "authors": "Ialongo C",
       "published": "2026-10-15",
       "journal": "Biochemia medica",
-      "pmid": "42828225",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42828225/"
+      "pmid": "42621626",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42621626/"
     },
     {
-      "title": "A Comparative Study of MALDI MSI Versus DESI MSI Applied to Questioned Document Examination.",
-      "authors": "Tibljas V, Francese S, Abreu MDC, Lefebvre C, Bradshaw R",
+      "title": "Sudden Death in Schizophrenia.",
+      "authors": "Akers J, Schmunk G",
       "published": "2026-10-15",
-      "journal": "Rapid communications in mass spectrometry : RCM",
-      "pmid": "42421471",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42421471/"
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42875851",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875851/"
     },
     {
-      "title": "Dynamic Bronchoscopic Evolution of a Cobblestone-like Appearance in COVID-19-associated Pulmonary Aspergillosis: A Case Report.",
-      "authors": "Ishida T, Fujishima N, Satonaga Y, Yamanaka M, Omori S",
+      "title": "Mapping fermented food prevalence and intake across European regions: results from the Promoting Innovation of Fermented Foods (PIMENTO) study.",
+      "authors": "Syrpas M, Smiliotopoulos T, Adamberg S, Adamberg K, Ağagündüz D",
       "published": "2026-10-15",
-      "journal": "Internal medicine (Tokyo, Japan)",
-      "pmid": "42875205",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42875205/"
+      "journal": "The British journal of nutrition",
+      "pmid": "42876065",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876065/"
+    },
+    {
+      "title": "Targeting the P2X7 receptor in Alzheimer's disease: mechanistic insights and emerging therapeutic strategies.",
+      "authors": "Se ME, Ramalingam A",
+      "published": "2026-10-15",
+      "journal": "Purinergic signalling",
+      "pmid": "42875639",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875639/"
     },
     {
       "title": "Non-invasive time inference of repetitive contusion injuries using hyperspectral imaging and machine learning.",
@@ -35,12 +51,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42066566/"
     },
     {
-      "title": "PI3K/AKT signaling contributes to prenatal nicotine exposure-induced developmental impairment of the pontomedullary respiratory network in neonatal rats.",
-      "authors": "Du Y, Liang S, Bian M, Wang Y, Xu Z",
+      "title": "Dynamic Bronchoscopic Evolution of a Cobblestone-like Appearance in COVID-19-associated Pulmonary Aspergillosis: A Case Report.",
+      "authors": "Ishida T, Fujishima N, Satonaga Y, Yamanaka M, Omori S",
       "published": "2026-10-15",
-      "journal": "Brain research bulletin",
-      "pmid": "42767381",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767381/"
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "pmid": "42875205",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875205/"
     },
     {
       "title": "Evaluating the potential ethical and legal challenges of transitional care in urological surgery - A tale of two continents.",
@@ -49,6 +65,14 @@
       "journal": "The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland",
       "pmid": "42875290",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42875290/"
+    },
+    {
+      "title": "DNAzyme nanomotor-based logic biocomputing system for highly reliable intracellular microRNAs imaging and cancer cell identification.",
+      "authors": "Li X, Huang T, Wei L, Liao W, Zhou Q",
+      "published": "2026-10-15",
+      "journal": "Analytica chimica acta",
+      "pmid": "42618093",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618093/"
     },
     {
       "title": "Development and validation of a GC-MS method for the simultaneous determination of bisphenols, phthalate monoesters, and triclosan in human meconium for comprehensive prenatal exposure assessment.",
@@ -67,76 +91,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42603609/"
     },
     {
-      "title": "Forensic integrity of blood alcohol sampling in the emergency department, Part I: Epidemiology and factors affecting turnaround time.",
-      "authors": "Sapio M, Criniti A, Giglio S, Galardo G, Gandini O",
-      "published": "2026-10-15",
-      "journal": "Biochemia medica",
-      "pmid": "42621646",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42621646/"
-    },
-    {
-      "title": "An updated patent review of mGlu5 negative allosteric modulators (2018 - present).",
-      "authors": "Marycleopha M",
-      "published": "2026-10-15",
-      "journal": "Neuroscience",
-      "pmid": "42551711",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551711/"
-    },
-    {
-      "title": "Fragment-based discovery of novel Baicalein derivatives as triple-target 3CLpro/PLpro/RdRp inhibitors against SARS-CoV-2.",
-      "authors": "Han D, Yang H, Wang Y, Liu F, Lu W",
-      "published": "2026-10-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42691885",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691885/"
-    },
-    {
-      "title": "Colorimetric kit for presumptive detection of semen using ascorbic acid and acid phosphatase as (bio)chemical markers.",
-      "authors": "do Nascimento Oliveira B, Santos JCC",
-      "published": "2026-10-15",
-      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
-      "pmid": "42019378",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42019378/"
-    },
-    {
-      "title": "Glycosylation in neurological disorders: Mechanisms, crosstalk, and therapeutic implications.",
-      "authors": "Wu W, Wang W, Xu L, Yao Y, Zhao X",
-      "published": "2026-10-15",
-      "journal": "Brain research bulletin",
-      "pmid": "42800645",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800645/"
-    },
-    {
-      "title": "Lung Cancer Initially Presenting with Diffuse Alveolar Damage and Brain Infarction: An Autopsy Case Report.",
-      "authors": "Ikeda T, Kinoshita Y, Yoshimura M, Nakashima M, Takata K",
-      "published": "2026-10-15",
-      "journal": "Internal medicine (Tokyo, Japan)",
-      "pmid": "41850833",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41850833/"
-    },
-    {
-      "title": "Long-term social cognitive impairment after ischemic stroke: Frequency and association with lesion volume and location in an exploratory pilot study.",
-      "authors": "Helland GB, Enriquez B, Beyer MK, Rise HS, Ihle-Hansen H",
-      "published": "2026-10-15",
-      "journal": "Journal of the neurological sciences",
-      "pmid": "42391747",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391747/"
-    },
-    {
       "title": "TLE3,a transcriptional co-repressor, is dispensable for spermatogenesis and male fertility in mice.",
       "authors": "Zhao Y, Xu H, Zhou S, Yu Z, Liu D",
       "published": "2026-10-15",
       "journal": "Theriogenology",
       "pmid": "42314496",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42314496/"
-    },
-    {
-      "title": "Forensic integrity of blood alcohol sampling in the emergency department, Part II: Establishing quality goals of turnaround time with Monte Carlo simulation.",
-      "authors": "Ialongo C",
-      "published": "2026-10-15",
-      "journal": "Biochemia medica",
-      "pmid": "42621626",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42621626/"
     },
     {
       "title": "Advances in MicroRNA-mediated Regulation of Pyroptosis in Osteoarthritis: A Central Hub in Inflammation-driven Cartilage Degeneration and Its Crosstalk with Apoptosis.",
@@ -147,6 +107,38 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42873109/"
     },
     {
+      "title": "Fragment-based discovery of novel Baicalein derivatives as triple-target 3CLpro/PLpro/RdRp inhibitors against SARS-CoV-2.",
+      "authors": "Han D, Yang H, Wang Y, Liu F, Lu W",
+      "published": "2026-10-15",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42691885",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691885/"
+    },
+    {
+      "title": "Viral triggers of Guillain-Barré syndrome: implications for laboratory diagnostics.",
+      "authors": "Kłodnicka K, Januszewski J, Tyczyńska M, Teresińska B, Trzaskacz P",
+      "published": "2026-10-15",
+      "journal": "Biochemia medica",
+      "pmid": "42828225",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828225/"
+    },
+    {
+      "title": "An updated patent review of mGlu5 negative allosteric modulators (2018 - present).",
+      "authors": "Marycleopha M",
+      "published": "2026-10-15",
+      "journal": "Neuroscience",
+      "pmid": "42551711",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42551711/"
+    },
+    {
+      "title": "Forensic integrity of blood alcohol sampling in the emergency department, Part I: Epidemiology and factors affecting turnaround time.",
+      "authors": "Sapio M, Criniti A, Giglio S, Galardo G, Gandini O",
+      "published": "2026-10-15",
+      "journal": "Biochemia medica",
+      "pmid": "42621646",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42621646/"
+    },
+    {
       "title": "A dual-state emission NIR fluorescent sensor for intelligent dual-analyte detection and multisite imaging: From N(2)H(4)/ClO(-) and fingerprints to living cells and organisms.",
       "authors": "Cai SQ, An BW, Jiang RY, Yuan SW, Xiao X",
       "published": "2026-10-15",
@@ -155,12 +147,84 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42618117/"
     },
     {
-      "title": "DNAzyme nanomotor-based logic biocomputing system for highly reliable intracellular microRNAs imaging and cancer cell identification.",
-      "authors": "Li X, Huang T, Wei L, Liao W, Zhou Q",
+      "title": "PI3K/AKT signaling contributes to prenatal nicotine exposure-induced developmental impairment of the pontomedullary respiratory network in neonatal rats.",
+      "authors": "Du Y, Liang S, Bian M, Wang Y, Xu Z",
       "published": "2026-10-15",
-      "journal": "Analytica chimica acta",
-      "pmid": "42618093",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42618093/"
+      "journal": "Brain research bulletin",
+      "pmid": "42767381",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767381/"
+    },
+    {
+      "title": "Lung Cancer Initially Presenting with Diffuse Alveolar Damage and Brain Infarction: An Autopsy Case Report.",
+      "authors": "Ikeda T, Kinoshita Y, Yoshimura M, Nakashima M, Takata K",
+      "published": "2026-10-15",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "pmid": "41850833",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41850833/"
+    },
+    {
+      "title": "Ethnic inequities in mathematical models for respiratory infectious disease: A systematic review.",
+      "authors": "Kumbaroff Z, Harvey EP, Whitehead J, O'Neale DRJ",
+      "published": "2026-10-15",
+      "journal": "Epidemiology and infection",
+      "pmid": "42876218",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876218/"
+    },
+    {
+      "title": "A Comparative Study of MALDI MSI Versus DESI MSI Applied to Questioned Document Examination.",
+      "authors": "Tibljas V, Francese S, Abreu MDC, Lefebvre C, Bradshaw R",
+      "published": "2026-10-15",
+      "journal": "Rapid communications in mass spectrometry : RCM",
+      "pmid": "42421471",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421471/"
+    },
+    {
+      "title": "Glycosylation in neurological disorders: Mechanisms, crosstalk, and therapeutic implications.",
+      "authors": "Wu W, Wang W, Xu L, Yao Y, Zhao X",
+      "published": "2026-10-15",
+      "journal": "Brain research bulletin",
+      "pmid": "42800645",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800645/"
+    },
+    {
+      "title": "Long-term social cognitive impairment after ischemic stroke: Frequency and association with lesion volume and location in an exploratory pilot study.",
+      "authors": "Helland GB, Enriquez B, Beyer MK, Rise HS, Ihle-Hansen H",
+      "published": "2026-10-15",
+      "journal": "Journal of the neurological sciences",
+      "pmid": "42391747",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391747/"
+    },
+    {
+      "title": "Infectious necrotic hepatitis caused by Clostridium novyi type B in a goat with listeriosis.",
+      "authors": "Márquez-Flández CA, Becker-Cárdenas JB, Mansilla EA, Uzal FA, Navarro MA",
+      "published": "2026-10-14",
+      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+      "pmid": "42873212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873212/"
+    },
+    {
+      "title": "Chemical Biology-Based Drug Discovery Workflow Highlights Target Identification as a Key Step in Developing a Novel, Potent, and Selective GLUT1 Inhibitor.",
+      "authors": "Kamiyama H, Onizawa Y, Kubara K, Matsumoto Y, Sagane K",
+      "published": "2026-10-14",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "pmid": "42837431",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837431/"
+    },
+    {
+      "title": "SARS-CoV-2 and RSV external quality assessment on molecular detection and variant typing in European expert laboratories in 2025.",
+      "authors": "Heimsch KC, Stanoeva KR, Visser I, Rahou Y, Bleicker T",
+      "published": "2026-10-14",
+      "journal": "Journal of clinical microbiology",
+      "pmid": "42752180",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42752180/"
+    },
+    {
+      "title": "Proteome-based Computational Identification of Cathepsin B as a TLR1/2-binding Virulence Factor in Naegleria fowleri and Design of a Novel Multi-epitope Vaccine Candidate.",
+      "authors": "Chakraborty A, Malarvizhi GL, Dutta D, Chakraborty P, Bayry J",
+      "published": "2026-10-14",
+      "journal": "Experimental parasitology",
+      "pmid": "42874728",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874728/"
     },
     {
       "title": "Photobiomodulation: multifaceted therapeutic effects on disorders in the central nervous system.",
@@ -177,70 +241,6 @@
       "journal": "Brain : a journal of neurology",
       "pmid": "42872588",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42872588/"
-    },
-    {
-      "title": "Proteome-based Computational Identification of Cathepsin B as a TLR1/2-binding Virulence Factor in Naegleria fowleri and Design of a Novel Multi-epitope Vaccine Candidate.",
-      "authors": "Chakraborty A, Malarvizhi GL, Dutta D, Chakraborty P, Bayry J",
-      "published": "2026-10-14",
-      "journal": "Experimental parasitology",
-      "pmid": "42874728",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42874728/"
-    },
-    {
-      "title": "Screening strategies for the early detection of non-cardia gastric cancer in low- to moderate-prevalence regions: Asia-Pacific gastroesophageal cancer congress consensus 2026.",
-      "authors": "Takasu A, Ishibashi F, Pittayanon R, Yip HC, Li JW",
-      "published": "2026-10-14",
-      "journal": "Gastric cancer : official journal of the International Gastric Cancer Association and the Japanese Gastric Cancer Association",
-      "pmid": "42873462",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873462/"
-    },
-    {
-      "title": "The Secretome of menstrual blood-derived endometrial stem cells ameliorates chemotherapy-induced ovarian injury by inhibiting necroptosis via the HSPA8-ATRIP axis.",
-      "authors": "Liu Y, Sun Y, Zhao J, Wang Y, Xu D",
-      "published": "2026-10-14",
-      "journal": "Cellular signalling",
-      "pmid": "42874831",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42874831/"
-    },
-    {
-      "title": "Infectious necrotic hepatitis caused by Clostridium novyi type B in a goat with listeriosis.",
-      "authors": "Márquez-Flández CA, Becker-Cárdenas JB, Mansilla EA, Uzal FA, Navarro MA",
-      "published": "2026-10-14",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "pmid": "42873212",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873212/"
-    },
-    {
-      "title": "The ferroptosis-neuroinflammation feedback loop in traumatic brain injury: mechanisms and therapeutic implications.",
-      "authors": "Fang Y, Xu X",
-      "published": "2026-10-14",
-      "journal": "Neuroscience",
-      "pmid": "42874955",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42874955/"
-    },
-    {
-      "title": "Chemical Biology-Based Drug Discovery Workflow Highlights Target Identification as a Key Step in Developing a Novel, Potent, and Selective GLUT1 Inhibitor.",
-      "authors": "Kamiyama H, Onizawa Y, Kubara K, Matsumoto Y, Sagane K",
-      "published": "2026-10-14",
-      "journal": "Chembiochem : a European journal of chemical biology",
-      "pmid": "42837431",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42837431/"
-    },
-    {
-      "title": "Deletion size and background genetic variation shape congenital heart disease phenotypes in 3016 individuals with 22q11.2 deletion syndrome.",
-      "authors": "Lin JR, Miller D, Luong D, Nelson T, Crowley TB",
-      "published": "2026-10-14",
-      "journal": "Journal of medical genetics",
-      "pmid": "42875165",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42875165/"
-    },
-    {
-      "title": "What Is an Autopsy?",
-      "authors": "Walter KL",
-      "published": "2026-10-14",
-      "journal": "JAMA",
-      "pmid": "42873533",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873533/"
     }
   ]
 }
