@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:31:39.869782+00:00",
+  "updated": "2026-10-16T10:25:19.603946+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -71,16 +71,6 @@
       "authors": "Amit Singla, Ravdeep Singh",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.7",
       "doi": "10.21088/ijfmp.0974.3383.19326.7",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Histopathological Spectrum of Autopsy Cases: A One Year Retrospective Observational Study in a Tertiary Care Centre in Mumbai",
-      "journal": "Indian Journal of Forensic Medicine and Pathology",
-      "published": "2026-09-30",
-      "authors": "Manjusha Dhawle, Shweta Watane, Abhishek Muley, Devanshi Shah, Ashwini Waso, Abhishikta Misra, Sushma Ramraje",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.8",
-      "doi": "10.21088/ijfmp.0974.3383.19326.8",
       "source": "Crossref",
       "country": "India"
     },
@@ -165,22 +155,22 @@
       "country": "India"
     },
     {
-      "title": "Understanding assault Patterns: A Cross-sectional study of Cases at Chri, Kelambakkam, Chennai",
-      "journal": "Indian Journal of Forensic Medicine and Pathology",
-      "published": "2026-09-30",
-      "authors": "Sherley Alwin A, R Monisha",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.13",
-      "doi": "10.21088/ijfmp.0974.3383.19326.13",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
       "authors": "Pooja Gajmer, Ruchi Kumari",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
       "doi": "10.21088/ijfmp.0974.3383.19326.11",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Understanding assault Patterns: A Cross-sectional study of Cases at Chri, Kelambakkam, Chennai",
+      "journal": "Indian Journal of Forensic Medicine and Pathology",
+      "published": "2026-09-30",
+      "authors": "Sherley Alwin A, R Monisha",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.13",
+      "doi": "10.21088/ijfmp.0974.3383.19326.13",
       "source": "Crossref",
       "country": "India"
     },
@@ -301,6 +291,16 @@
       "authors": "Sharon Batt",
       "url": "https://doi.org/10.20529/ijme.2026.061",
       "doi": "10.20529/ijme.2026.061",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-08",
+      "authors": "Radhika Hegde, Jisa Ann Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.060",
+      "doi": "10.20529/ijme.2026.060",
       "source": "Crossref",
       "country": "India"
     }
