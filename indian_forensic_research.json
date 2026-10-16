@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:51:48.525181+00:00",
+  "updated": "2026-10-16T20:21:02.860766+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -101,6 +101,16 @@
       "authors": "Vinod Dhingra, Anu Singla, Neha Ahirwar, Amit Kumar Choudhary, Annwesha Mazumdar, Shashi Shekhar",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.15",
       "doi": "10.21088/ijfmp.0974.3383.19326.15",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Ghost surgery in Indian private hospitals: A silent ethical crisis",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-26",
+      "authors": "Dhiraj Lakshakar",
+      "url": "https://doi.org/10.20529/ijme.2026.058",
+      "doi": "10.20529/ijme.2026.058",
       "source": "Crossref",
       "country": "India"
     },
@@ -285,22 +295,12 @@
       "country": "India"
     },
     {
-      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
-      "doi": "10.25258/ijddt.16.71s.11",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Manivel Subramani",
-      "url": "https://doi.org/10.37506/07f7ht72",
-      "doi": "10.37506/07f7ht72",
+      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-14",
+      "authors": "Sharon Batt",
+      "url": "https://doi.org/10.20529/ijme.2026.061",
+      "doi": "10.20529/ijme.2026.061",
       "source": "Crossref",
       "country": "India"
     }
