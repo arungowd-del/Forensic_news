@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T02:24:13.587837+00:00",
+  "updated": "2026-10-17T09:57:13.734596+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -101,16 +101,6 @@
       "authors": "Vinod Dhingra, Anu Singla, Neha Ahirwar, Amit Kumar Choudhary, Annwesha Mazumdar, Shashi Shekhar",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.15",
       "doi": "10.21088/ijfmp.0974.3383.19326.15",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Ghost surgery in Indian private hospitals: A silent ethical crisis",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-09-26",
-      "authors": "Dhiraj Lakshakar",
-      "url": "https://doi.org/10.20529/ijme.2026.058",
-      "doi": "10.20529/ijme.2026.058",
       "source": "Crossref",
       "country": "India"
     },
@@ -295,12 +285,22 @@
       "country": "India"
     },
     {
-      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-14",
-      "authors": "Sharon Batt",
-      "url": "https://doi.org/10.20529/ijme.2026.061",
-      "doi": "10.20529/ijme.2026.061",
+      "title": "Childhood Deaths under Autopsy in South Kerala, 2005–2014: A 10-year Study of Cause and Manner of Death at a Tertiary Care Center",
+      "journal": "Journal of Association of Forensic Medicine Experts",
+      "published": "2026-09-29",
+      "authors": "Jintu Mathews, Sivasuthan S, Jenyz M Mundodan",
+      "url": "https://doi.org/10.5005/jafme-11075-0008",
+      "doi": "10.5005/jafme-11075-0008",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
+      "journal": "Journal of Medical Sciences",
+      "published": "2026-10-16",
+      "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
+      "url": "https://doi.org/10.51984/7m4bap98",
+      "doi": "10.51984/7m4bap98",
       "source": "Crossref",
       "country": "India"
     }
