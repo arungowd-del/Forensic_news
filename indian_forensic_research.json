@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-17T19:55:39.970030+00:00",
+  "updated": "2026-10-18T02:24:28.032144+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
   "items": [
-    {
-      "title": "Systematic Integration of Death Scene, Autopsy, and DNA Evidence in the Medico-legal Investigation of Sexual Homicide: A Case Report",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-09-17",
-      "authors": "Gebremariam Tewelemedhin Gebremariam, Charles Karangwa, Ntezimana Etienne, Theoneste Nzaramba, Rose Tumukunde, Ernestine Iradukunda",
-      "url": "https://doi.org/10.1177/09710973261486098",
-      "doi": "10.1177/09710973261486098",
-      "source": "Crossref",
-      "country": "India"
-    },
     {
       "title": "Public Awareness and Willingness Toward Organ Donation: A CrossSectional Study from Kelambakkam, Tamil Nadu",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
@@ -131,16 +121,6 @@
       "authors": "Priyanka G. Bale, Sachin S. Patil, Hemant G. Kukde, Narendra B. Kumar",
       "url": "https://doi.org/10.1177/09710973261486612",
       "doi": "10.1177/09710973261486612",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Botanical Evidence in Accidental Death Investigations: A Case Report",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-09-17",
-      "authors": "Krithika Rajesh, Susikumar Sundharamoorthy",
-      "url": "https://doi.org/10.1177/09710973261486925",
-      "doi": "10.1177/09710973261486925",
       "source": "Crossref",
       "country": "India"
     },
@@ -301,6 +281,26 @@
       "authors": "Sharon Batt",
       "url": "https://doi.org/10.20529/ijme.2026.061",
       "doi": "10.20529/ijme.2026.061",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-08",
+      "authors": "Radhika Hegde, Jisa Ann Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.060",
+      "doi": "10.20529/ijme.2026.060",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-02",
+      "authors": "Nisha VG",
+      "url": "https://doi.org/10.20529/ijme.2026.059",
+      "doi": "10.20529/ijme.2026.059",
       "source": "Crossref",
       "country": "India"
     }
