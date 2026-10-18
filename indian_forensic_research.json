@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:10:14.657528+00:00",
+  "updated": "2026-10-18T15:10:40.039042+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -61,6 +61,16 @@
       "authors": "Amit Singla, Ravdeep Singh",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.7",
       "doi": "10.21088/ijfmp.0974.3383.19326.7",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Histopathological Spectrum of Autopsy Cases: A One Year Retrospective Observational Study in a Tertiary Care Centre in Mumbai",
+      "journal": "Indian Journal of Forensic Medicine and Pathology",
+      "published": "2026-09-30",
+      "authors": "Manjusha Dhawle, Shweta Watane, Abhishek Muley, Devanshi Shah, Ashwini Waso, Abhishikta Misra, Sushma Ramraje",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.8",
+      "doi": "10.21088/ijfmp.0974.3383.19326.8",
       "source": "Crossref",
       "country": "India"
     },
@@ -215,6 +225,16 @@
       "country": "India"
     },
     {
+      "title": "Artificial Intelligence in Forensic Science: A Systematic Review and Meta-Analysis of Opportunities and Limitations",
+      "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
+      "published": "2026-10-11",
+      "authors": "Shereen Ahmed Elkhateeb, Doaa Elsayed Abdelrazzak, Nema allah Mohamed Hosieny",
+      "url": "https://doi.org/10.21608/zjfm.2026.485051.1236",
+      "doi": "10.21608/zjfm.2026.485051.1236",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Clinical Ethical Behavior and Its Associated Factors among Psychiatrists in Egypt: A Cross-Sectional Study",
       "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
       "published": "2026-10-04",
@@ -275,32 +295,12 @@
       "country": "India"
     },
     {
-      "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Manivel Subramani",
-      "url": "https://doi.org/10.37506/07f7ht72",
-      "doi": "10.37506/07f7ht72",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Maternal lineage tracing using mtDNA from unbuffered formalin-fixed autopsy tissues in India",
-      "journal": "Annals of Human Biology",
-      "published": "2026-09-22",
-      "authors": "Kangana Aggarwal, Nidhi Sharma, Braja Kishore Mohapatra, Kamal Chauhan, Harpreet Singh, Prachi Shukla, Chittaranjan Behera",
-      "url": "https://doi.org/10.1080/03014460.2026.2720076",
-      "doi": "10.1080/03014460.2026.2720076",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Observational Analysis of Alcohol in Postmortem Vitreous Humor: A Forensic Perspective",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Niranjan Sahoo, Yukti Awasarkar, Atul S. Keche, Deeksha Thakur",
-      "url": "https://doi.org/10.37506/1ywggx62",
-      "doi": "10.37506/1ywggx62",
+      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
+      "journal": "International Journal of Drug Delivery Technology",
+      "published": "2026-10-15",
+      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohli, K. k. Aggarwal",
+      "url": "https://doi.org/10.25258/ijddt.16.70s.38",
+      "doi": "10.25258/ijddt.16.70s.38",
       "source": "Crossref",
       "country": "India"
     }
