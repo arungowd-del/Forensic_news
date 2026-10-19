@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:55:34.609646+00:00",
+  "updated": "2026-10-19T02:39:07.962126+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -65,16 +65,6 @@
       "country": "India"
     },
     {
-      "title": "Histopathological Spectrum of Autopsy Cases: A One Year Retrospective Observational Study in a Tertiary Care Centre in Mumbai",
-      "journal": "Indian Journal of Forensic Medicine and Pathology",
-      "published": "2026-09-30",
-      "authors": "Manjusha Dhawle, Shweta Watane, Abhishek Muley, Devanshi Shah, Ashwini Waso, Abhishikta Misra, Sushma Ramraje",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.8",
-      "doi": "10.21088/ijfmp.0974.3383.19326.8",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "When DNA Lies: A Forensic Dilemma Caused by Twin Absorption and Chimerism",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
@@ -135,22 +125,22 @@
       "country": "India"
     },
     {
-      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
-      "journal": "Indian Journal of Forensic Medicine and Pathology",
-      "published": "2026-09-30",
-      "authors": "Pooja Gajmer, Ruchi Kumari",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
-      "doi": "10.21088/ijfmp.0974.3383.19326.11",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Understanding assault Patterns: A Cross-sectional study of Cases at Chri, Kelambakkam, Chennai",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
       "authors": "Sherley Alwin A, R Monisha",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.13",
       "doi": "10.21088/ijfmp.0974.3383.19326.13",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "A Study on: Child Sexual Abuse among the Urban Population: Knowledge, Experiences and Attitude",
+      "journal": "Indian Journal of Forensic Medicine and Pathology",
+      "published": "2026-09-30",
+      "authors": "Pooja Gajmer, Ruchi Kumari",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.11",
+      "doi": "10.21088/ijfmp.0974.3383.19326.11",
       "source": "Crossref",
       "country": "India"
     },
@@ -295,12 +285,22 @@
       "country": "India"
     },
     {
-      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohli, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.70s.38",
-      "doi": "10.25258/ijddt.16.70s.38",
+      "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-10-13",
+      "authors": "Manivel Subramani",
+      "url": "https://doi.org/10.37506/07f7ht72",
+      "doi": "10.37506/07f7ht72",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Maternal lineage tracing using mtDNA from unbuffered formalin-fixed autopsy tissues in India",
+      "journal": "Annals of Human Biology",
+      "published": "2026-09-22",
+      "authors": "Kangana Aggarwal, Nidhi Sharma, Braja Kishore Mohapatra, Kamal Chauhan, Harpreet Singh, Prachi Shukla, Chittaranjan Behera",
+      "url": "https://doi.org/10.1080/03014460.2026.2720076",
+      "doi": "10.1080/03014460.2026.2720076",
       "source": "Crossref",
       "country": "India"
     }
