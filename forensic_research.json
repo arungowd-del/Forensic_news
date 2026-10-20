@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T10:31:11.872949Z",
+  "updated": "2026-10-20T15:55:25.367685Z",
   "source": "PubMed",
   "items": [
     {
@@ -19,68 +19,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42832684/"
     },
     {
-      "title": "Burnout and second victim phenomenon in obstetrics: Psychological impact of maternal and perinatal adverse events, medico-legal stress, workplace violence, and organizational culture.",
-      "authors": "Chandra R, Kumari S",
+      "title": "Non-coding RNA networks remodeling metastatic signaling in the lung cancer microenvironment: a focus on TGF-β signaling and its crosstalk with Wnt/β-catenin, HIF, Notch, integrin, and CXCL12/CXCR4 pathways.",
+      "authors": "AlRamadneh TN, Rizaev J, Amir Abdul Kadhim, Jamuna KV, Maharana L",
       "published": "2026-10-19",
-      "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
-      "pmid": "42897914",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897914/"
+      "journal": "Cancer treatment and research communications",
+      "pmid": "42896412",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896412/"
     },
     {
-      "title": "Standardized Diagnosis of Lymphocytic Myocarditis at Autopsy: Application of the Seaport Criteria.",
-      "authors": "Crudele GDL, Rizzo S, Carturan E, Basso C, De Gaspari M",
+      "title": "Global Para-Regulation in Medical Education: Validity, Capture, and the Case for Contextualised Quality Enhancement.",
+      "authors": "Grant J, Samarasekara D, Nwakanma NU, Ali SM, Dharanipragada K",
       "published": "2026-10-19",
-      "journal": "Cardiovascular pathology : the official journal of the Society for Cardiovascular Pathology",
-      "pmid": "42896639",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896639/"
-    },
-    {
-      "title": "Proteomic and metabolomic profiles link lightness and eating quality in aged pork with normal pH.",
-      "authors": "Niraula A, Zhai C, Johnson LG, Lonergan SM, Huff-Lonergan E",
-      "published": "2026-10-19",
-      "journal": "Journal of animal science",
-      "pmid": "42895307",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895307/"
-    },
-    {
-      "title": "Cortical Cholinergic Pathway Degeneration Reflects Cognitive Impairment and Dementia in Parkinson's Disease.",
-      "authors": "Slater NM, Myall DJ, Shoorangiz R, Meissner WG, Kirk IJ",
-      "published": "2026-10-19",
-      "journal": "Movement disorders : official journal of the Movement Disorder Society",
-      "pmid": "42897719",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897719/"
-    },
-    {
-      "title": "Clinicoepidemiologic Profile of Oral Kaposi Sarcoma in People Living With HIV: A Systematic Review and Meta-Analysis.",
-      "authors": "Otávio E, Badaró RF, Rodrigues DPM, Silva GM, de Arruda JAA",
-      "published": "2026-10-19",
-      "journal": "Head & neck",
-      "pmid": "42897633",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897633/"
-    },
-    {
-      "title": "Before standardizing the postmortem diagnosis of sepsis, what exactly are we diagnosing?",
-      "authors": "Gojković T, Petrović T",
-      "published": "2026-10-19",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42895694",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895694/"
-    },
-    {
-      "title": "Chicken-fat clots and pulmonary intravascular neutrophil density: a retrospective autopsy study.",
-      "authors": "Nicolì S, Ambrosi L, Mercuri G, Oliva A, Ferorelli D",
-      "published": "2026-10-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42895652",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895652/"
-    },
-    {
-      "title": "Single-cell strategies for the interpretation of complex forensic DNA mixtures: isolation techniques, genotype data integration, and prospects for application.",
-      "authors": "Liu R, Wang Z, Liu J",
-      "published": "2026-10-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42894038",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894038/"
+      "journal": "Teaching and learning in medicine",
+      "pmid": "42897706",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897706/"
     },
     {
       "title": "Validating gene-brain-behavior associations in autism: A replication study.",
@@ -91,12 +43,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42896651/"
     },
     {
-      "title": "Cryo-Engineered DNA Cryogels with Interconnected Macroporous Architectures for Enhanced Mass Transfer and Ultrasensitive cTnI Detection via an Integrated Microfluidic Platform.",
-      "authors": "Jiang M, Wang B, Geng X, Sun X, Wang J",
+      "title": "Clinicoepidemiologic Profile of Oral Kaposi Sarcoma in People Living With HIV: A Systematic Review and Meta-Analysis.",
+      "authors": "Otávio E, Badaró RF, Rodrigues DPM, Silva GM, de Arruda JAA",
       "published": "2026-10-19",
-      "journal": "ACS sensors",
-      "pmid": "42896855",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896855/"
+      "journal": "Head & neck",
+      "pmid": "42897633",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897633/"
+    },
+    {
+      "title": "Chicken-fat clots and pulmonary intravascular neutrophil density: a retrospective autopsy study.",
+      "authors": "Nicolì S, Ambrosi L, Mercuri G, Oliva A, Ferorelli D",
+      "published": "2026-10-19",
+      "journal": "International journal of legal medicine",
+      "pmid": "42895652",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895652/"
     },
     {
       "title": "Single-cell eQTL Mendelian randomization reveals the monocyte-associated PRKCB-CTSL axis as a candidate regulatory pathway and potential therapeutic target in rheumatoid arthritis.",
@@ -115,12 +75,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42664060/"
     },
     {
+      "title": "Burnout and second victim phenomenon in obstetrics: Psychological impact of maternal and perinatal adverse events, medico-legal stress, workplace violence, and organizational culture.",
+      "authors": "Chandra R, Kumari S",
+      "published": "2026-10-19",
+      "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+      "pmid": "42897914",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897914/"
+    },
+    {
       "title": "Microphysiological organ-on-a-chip system for anti-doping research: long-term CYP activity characterization and S107 metabolism in a HepaRG™-based 3D liver model.",
       "authors": "Peters I, Naumann N, Görgens C, Guddat S, Thevis M",
       "published": "2026-10-19",
       "journal": "The Analyst",
       "pmid": "42895197",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42895197/"
+    },
+    {
+      "title": "Cortical Cholinergic Pathway Degeneration Reflects Cognitive Impairment and Dementia in Parkinson's Disease.",
+      "authors": "Slater NM, Myall DJ, Shoorangiz R, Meissner WG, Kirk IJ",
+      "published": "2026-10-19",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "pmid": "42897719",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897719/"
     },
     {
       "title": "Acute behavioural disturbance in the context of substance use: case series analysis of coroner reports.",
@@ -131,20 +107,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894413/"
     },
     {
-      "title": "Non-coding RNA networks remodeling metastatic signaling in the lung cancer microenvironment: a focus on TGF-β signaling and its crosstalk with Wnt/β-catenin, HIF, Notch, integrin, and CXCL12/CXCR4 pathways.",
-      "authors": "AlRamadneh TN, Rizaev J, Amir Abdul Kadhim, Jamuna KV, Maharana L",
+      "title": "Single-cell strategies for the interpretation of complex forensic DNA mixtures: isolation techniques, genotype data integration, and prospects for application.",
+      "authors": "Liu R, Wang Z, Liu J",
       "published": "2026-10-19",
-      "journal": "Cancer treatment and research communications",
-      "pmid": "42896412",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896412/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42894038",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894038/"
     },
     {
-      "title": "Global Para-Regulation in Medical Education: Validity, Capture, and the Case for Contextualised Quality Enhancement.",
-      "authors": "Grant J, Samarasekara D, Nwakanma NU, Ali SM, Dharanipragada K",
+      "title": "Cryo-Engineered DNA Cryogels with Interconnected Macroporous Architectures for Enhanced Mass Transfer and Ultrasensitive cTnI Detection via an Integrated Microfluidic Platform.",
+      "authors": "Jiang M, Wang B, Geng X, Sun X, Wang J",
       "published": "2026-10-19",
-      "journal": "Teaching and learning in medicine",
-      "pmid": "42897706",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897706/"
+      "journal": "ACS sensors",
+      "pmid": "42896855",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896855/"
+    },
+    {
+      "title": "Before standardizing the postmortem diagnosis of sepsis, what exactly are we diagnosing?",
+      "authors": "Gojković T, Petrović T",
+      "published": "2026-10-19",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42895694",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895694/"
     },
     {
       "title": "Central nervous system reservoirs and neuroHIV: lessons from rapid research autopsy studies.",
@@ -155,20 +139,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42886008/"
     },
     {
+      "title": "Proteomic and metabolomic profiles link lightness and eating quality in aged pork with normal pH.",
+      "authors": "Niraula A, Zhai C, Johnson LG, Lonergan SM, Huff-Lonergan E",
+      "published": "2026-10-19",
+      "journal": "Journal of animal science",
+      "pmid": "42895307",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895307/"
+    },
+    {
+      "title": "Standardized Diagnosis of Lymphocytic Myocarditis at Autopsy: Application of the Seaport Criteria.",
+      "authors": "Crudele GDL, Rizzo S, Carturan E, Basso C, De Gaspari M",
+      "published": "2026-10-19",
+      "journal": "Cardiovascular pathology : the official journal of the Society for Cardiovascular Pathology",
+      "pmid": "42896639",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896639/"
+    },
+    {
       "title": "Genomic diversity and antimicrobial resistance determinants among publicly available Mycoplasma genitalium genomes: a comparative phylogenomic analysis.",
       "authors": "Cetatean R, Foschi C, Lazzarotto T, Ambretti S",
       "published": "2026-10-18",
       "journal": "International journal of STD & AIDS",
       "pmid": "42894426",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894426/"
-    },
-    {
-      "title": "A Micropeptide Component of the OGDH Complex Modulates ATP Production in the TCA Cycle.",
-      "authors": "Yin X, Qi W, Lin L, Zheng H, Zhao G",
-      "published": "2026-10-18",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "pmid": "42893408",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42893408/"
     },
     {
       "title": "Integrating camel production systems into circular bioeconomy frameworks in arid and semi-arid regions: a narrative review of feed resources, waste valorization, and sustainability.",
@@ -179,20 +171,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894076/"
     },
     {
+      "title": "A Micropeptide Component of the OGDH Complex Modulates ATP Production in the TCA Cycle.",
+      "authors": "Yin X, Qi W, Lin L, Zheng H, Zhao G",
+      "published": "2026-10-18",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42893408",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893408/"
+    },
+    {
       "title": "Incidentalomas in Gastroenterology and Hepatology: A Narrative Review of Guideline-Based Management, Ethical Considerations, and a Proposed Framework for Practice.",
       "authors": "Raghavendra SR, Bharadwaj HR, Khan SA, Sharma A, Dhali A",
       "published": "2026-10-18",
       "journal": "Journal of gastroenterology and hepatology",
       "pmid": "42893844",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42893844/"
-    },
-    {
-      "title": "Fetal death caused by intentional poisoning with Warfarin: a case report.",
-      "authors": "Liu D, Dong H, Liu C, Zhang S, Du M",
-      "published": "2026-10-17",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42888379",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888379/"
     },
     {
       "title": "Bats, wild rodents, and marsupials as ecosentinels of antimicrobial resistance: a systematized narrative review of resistance genes, mobile genetic elements, and One Health implications.",
@@ -211,12 +203,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42880295/"
     },
     {
-      "title": "Pharmacogenetic Impact of CYP2C19 Variants on Diazepam Treatment Outcomes in Alcohol Withdrawal Syndrome.",
-      "authors": "Özkan-Kotiloğlu S, Tok KC, Danışman M, Yıldırım MA, Bozmaoğlu CH",
+      "title": "Structured postmortem genetic counselling and testing in sudden unexplained death among young adults in the Netherlands: results and implications regarding hereditary risk.",
+      "authors": "Wemeijer TM, Verbaan LA, Duijst WLJM, Hoedemaekers YM, Christiaans I",
       "published": "2026-10-17",
-      "journal": "Molecular neurobiology",
-      "pmid": "42891844",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891844/"
+      "journal": "Journal of community genetics",
+      "pmid": "42891777",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891777/"
     },
     {
       "title": "Multi-analytical screening of pesticides, phenols, heavy metals, and hydrocarbons in sediments from industrialized sites: a preliminary forensic interpretation.",
@@ -227,6 +219,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42891718/"
     },
     {
+      "title": "A natural neuronal receptor-derived MRI probe targets β-amyloid oligomers for the diagnosis of Alzheimer's disease.",
+      "authors": "Zheng H, Meng W, Han J, Muhetaer M, Cao Q",
+      "published": "2026-10-17",
+      "journal": "Acta biomaterialia",
+      "pmid": "42892388",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892388/"
+    },
+    {
       "title": "Nondestructive identification of emeralds using inclusion morphology and chemical composition analyses.",
       "authors": "Utsumi R, Kozaki D, Sakaguchi M, Nakano H, Komatani S",
       "published": "2026-10-17",
@@ -235,12 +235,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42896254/"
     },
     {
-      "title": "Structured postmortem genetic counselling and testing in sudden unexplained death among young adults in the Netherlands: results and implications regarding hereditary risk.",
-      "authors": "Wemeijer TM, Verbaan LA, Duijst WLJM, Hoedemaekers YM, Christiaans I",
+      "title": "Pharmacogenetic Impact of CYP2C19 Variants on Diazepam Treatment Outcomes in Alcohol Withdrawal Syndrome.",
+      "authors": "Özkan-Kotiloğlu S, Tok KC, Danışman M, Yıldırım MA, Bozmaoğlu CH",
       "published": "2026-10-17",
-      "journal": "Journal of community genetics",
-      "pmid": "42891777",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891777/"
+      "journal": "Molecular neurobiology",
+      "pmid": "42891844",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891844/"
     }
   ]
 }
