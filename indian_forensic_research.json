@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:04:45.092196+00:00",
+  "updated": "2026-10-21T02:45:15.897536+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -111,26 +111,6 @@
       "authors": "Dhiraj Lakshakar",
       "url": "https://doi.org/10.20529/ijme.2026.058",
       "doi": "10.20529/ijme.2026.058",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Classical Krönlein Phenomenon Following Homicidal .30-06 Rifle Injury: A Forensic Case Report",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-09-20",
-      "authors": "Pawan Mittal, Luv Sharma, Gaurav Sharma, Balraj Sharma, Nancy Mittal",
-      "url": "https://doi.org/10.1177/09710973261487355",
-      "doi": "10.1177/09710973261487355",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "An Unusual Case of Autoerotic Accidental Hanging or Suicide? A Dilemma",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-09-20",
-      "authors": "Priyanka G. Bale, Sachin S. Patil, Hemant G. Kukde, Narendra B. Kumar",
-      "url": "https://doi.org/10.1177/09710973261486612",
-      "doi": "10.1177/09710973261486612",
       "source": "Crossref",
       "country": "India"
     },
@@ -301,6 +281,26 @@
       "authors": "Sharon Batt",
       "url": "https://doi.org/10.20529/ijme.2026.061",
       "doi": "10.20529/ijme.2026.061",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-08",
+      "authors": "Radhika Hegde, Jisa Ann Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.060",
+      "doi": "10.20529/ijme.2026.060",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-02",
+      "authors": "Nisha VG",
+      "url": "https://doi.org/10.20529/ijme.2026.059",
+      "doi": "10.20529/ijme.2026.059",
       "source": "Crossref",
       "country": "India"
     }
