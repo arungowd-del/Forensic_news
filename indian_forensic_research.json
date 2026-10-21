@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:23:15.312216+00:00",
+  "updated": "2026-10-21T21:04:54.243393+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -75,16 +75,6 @@
       "country": "India"
     },
     {
-      "title": "Another opportunity for India to advance the public interest in research: Copyright reform and a trust label",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-16",
-      "authors": "John Willinsky",
-      "url": "https://doi.org/10.20529/ijme.2026.062",
-      "doi": "10.20529/ijme.2026.062",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "When DNA Lies: A Forensic Dilemma Caused by Twin Absorption and Chimerism",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
@@ -101,16 +91,6 @@
       "authors": "Vinod Dhingra, Anu Singla, Neha Ahirwar, Amit Kumar Choudhary, Annwesha Mazumdar, Shashi Shekhar",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.15",
       "doi": "10.21088/ijfmp.0974.3383.19326.15",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Ghost surgery in Indian private hospitals: A silent ethical crisis",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-09-26",
-      "authors": "Dhiraj Lakshakar",
-      "url": "https://doi.org/10.20529/ijme.2026.058",
-      "doi": "10.20529/ijme.2026.058",
       "source": "Crossref",
       "country": "India"
     },
@@ -275,32 +255,52 @@
       "country": "India"
     },
     {
-      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-14",
-      "authors": "Sharon Batt",
-      "url": "https://doi.org/10.20529/ijme.2026.061",
-      "doi": "10.20529/ijme.2026.061",
+      "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
+      "journal": "Journal of Medical Sciences",
+      "published": "2026-10-16",
+      "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
+      "url": "https://doi.org/10.51984/7m4bap98",
+      "doi": "10.51984/7m4bap98",
       "source": "Crossref",
       "country": "India"
     },
     {
-      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-08",
-      "authors": "Radhika Hegde, Jisa Ann Thomas",
-      "url": "https://doi.org/10.20529/ijme.2026.060",
-      "doi": "10.20529/ijme.2026.060",
+      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
+      "journal": "International Journal of Drug Delivery Technology",
+      "published": "2026-10-15",
+      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohli, K. k. Aggarwal",
+      "url": "https://doi.org/10.25258/ijddt.16.70s.38",
+      "doi": "10.25258/ijddt.16.70s.38",
       "source": "Crossref",
       "country": "India"
     },
     {
-      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-02",
-      "authors": "Nisha VG",
-      "url": "https://doi.org/10.20529/ijme.2026.059",
-      "doi": "10.20529/ijme.2026.059",
+      "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-10-13",
+      "authors": "Manivel Subramani",
+      "url": "https://doi.org/10.37506/07f7ht72",
+      "doi": "10.37506/07f7ht72",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Maternal lineage tracing using mtDNA from unbuffered formalin-fixed autopsy tissues in India",
+      "journal": "Annals of Human Biology",
+      "published": "2026-09-22",
+      "authors": "Kangana Aggarwal, Nidhi Sharma, Braja Kishore Mohapatra, Kamal Chauhan, Harpreet Singh, Prachi Shukla, Chittaranjan Behera",
+      "url": "https://doi.org/10.1080/03014460.2026.2720076",
+      "doi": "10.1080/03014460.2026.2720076",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Observational Analysis of Alcohol in Postmortem Vitreous Humor: A Forensic Perspective",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-10-13",
+      "authors": "Niranjan Sahoo, Yukti Awasarkar, Atul S. Keche, Deeksha Thakur",
+      "url": "https://doi.org/10.37506/1ywggx62",
+      "doi": "10.37506/1ywggx62",
       "source": "Crossref",
       "country": "India"
     }
