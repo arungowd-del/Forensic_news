@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-23T02:15:07.904440Z",
+  "updated": "2026-10-23T10:36:34.609448Z",
   "source": "PubMed",
   "items": [
+    {
+      "title": "Unrecognised acute appendicitis presenting as sudden unexpected death: A forensic case report.",
+      "authors": "Al-Qazzaz MA, Kareem SK, Falah Al-Jobori H",
+      "published": "2026-10-22",
+      "journal": "The Medico-legal journal",
+      "pmid": "42908361",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908361/"
+    },
+    {
+      "title": "Unexpected Death in a Preschool Child: Forensic Assessment of Acute Myocarditis on Left Ventricular Hypertrophy.",
+      "authors": "Incarnato S, Luta R, Fraternali Orcioni G, Barranco R, Ventura F",
+      "published": "2026-10-22",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42908056",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908056/"
+    },
+    {
+      "title": "Outdated Product Labeling and Implications for Contemporary Standards of Care: The Example of Clozapine.",
+      "authors": "Meyer JM, Ravin L, Carruthers JW, Cotes RO, Ehret M",
+      "published": "2026-10-22",
+      "journal": "Psychiatric services (Washington, D.C.)",
+      "pmid": "42908070",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908070/"
+    },
     {
       "title": "Development of a fully automated sample-to-answer system for rapid molecular detection of pathogens in whole blood.",
       "authors": "Park C, Bae S, Seo MS, Woo C, Shim S",
@@ -9,6 +33,22 @@
       "journal": "Analytica chimica acta",
       "pmid": "42648850",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42648850/"
+    },
+    {
+      "title": "Strengthening the diagnosis of death due to lightning: an integrated forensic approach - a literature review.",
+      "authors": "Bingert R, Köhne A, Blumenthal R, Büttner A, Zack F",
+      "published": "2026-10-22",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42907673",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907673/"
+    },
+    {
+      "title": "SOFEx: A Self-Organized Feature Extraction Approach for Detecting Mild Cognitive Impairment and Alzheimer's Disease using EEG Datasets.",
+      "authors": "Tasci B, Yildirim K, Barua PD, Dogan S, Salvi M",
+      "published": "2026-10-22",
+      "journal": "Brain topography",
+      "pmid": "42907596",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907596/"
     },
     {
       "title": "Effects of routine laboratory parameter variations on diatom preservation: Implications for the standardization of forensic diatom testing.",
@@ -19,12 +59,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42901959/"
     },
     {
-      "title": "Minute Pulmonary Meningothelial-Like Nodules in Pediatric Patients.",
-      "authors": "Stuhlfaut CA, Winant AJ, Lee EY, Vargas SO",
+      "title": "Community mental health workforce capacity and official early psychiatric readmission indicators in Italy: a longitudinal ecological panel study.",
+      "authors": "Scognamiglio P, Morena D, Fineschi V, Iniziato V, Martiadis V",
       "published": "2026-10-21",
-      "journal": "Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society",
-      "pmid": "42902822",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902822/"
+      "journal": "Epidemiology and psychiatric sciences",
+      "pmid": "42904349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904349/"
+    },
+    {
+      "title": "Optimised strategies for read mapping and snp filtering of highly fragmented DNA from keratinised tissues.",
+      "authors": "Zhou Y, Su C, Cui L, Liu B, Gao P",
+      "published": "2026-10-21",
+      "journal": "International journal of legal medicine",
+      "pmid": "42905265",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905265/"
     },
     {
       "title": "Biaxial Sinusoidal Superposition Interlocked Architecture with Asymmetric Modulus Distribution Enables High-Performance Flexible Capacitive Pressure Sensors for Tactile Sensing.",
@@ -35,12 +83,124 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42839318/"
     },
     {
-      "title": "Community mental health workforce capacity and official early psychiatric readmission indicators in Italy: a longitudinal ecological panel study.",
-      "authors": "Scognamiglio P, Morena D, Fineschi V, Iniziato V, Martiadis V",
+      "title": "Wolbachia outcompetes mosquito-borne viruses by reprogramming host ATPSβ1-driven ATP metabolism toward symbiotic proliferation.",
+      "authors": "Yuan H, Zhang Y, Zhao Y, Wang C, Zhou Y",
       "published": "2026-10-21",
-      "journal": "Epidemiology and psychiatric sciences",
-      "pmid": "42904349",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904349/"
+      "journal": "PLoS pathogens",
+      "pmid": "42905784",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905784/"
+    },
+    {
+      "title": "A Fracture Healing Odyssey: Kinematic Comparison of Unions and Nonunions in Human Lower-Extremity Long Bones Treated with Intramedullary Nailing : A Retrospective Cohort Study.",
+      "authors": "Lopas LA, Jang Y, Liu Z, Slaven JE, Arnold JC",
+      "published": "2026-10-21",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "pmid": "42149746",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42149746/"
+    },
+    {
+      "title": "Disabled enough? Public health and Lysias's For the Disabled Man.",
+      "authors": "Ricciardi GE",
+      "published": "2026-10-21",
+      "journal": "Journal of public health (Oxford, England)",
+      "pmid": "42905442",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905442/"
+    },
+    {
+      "title": "Hepatic encephalopathy in shelter-housed Van cats: neuropathology, cytokine immunoreactivity and concurrent hepatic lipidosis.",
+      "authors": "Anteplioğlu T, Alçiğir ME, Özkan C, Yildirim S, Türkmen MB",
+      "published": "2026-10-21",
+      "journal": "Journal of comparative pathology",
+      "pmid": "42906264",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906264/"
+    },
+    {
+      "title": "Duplicated Appendix With Mucocele Mimicking an Appendiceal Neoplasm in a 45-Year-Old Woman: A Case Report.",
+      "authors": "Adewunmi OL, Garg G, Jena SS, Yadav A, Das S",
+      "published": "2026-10-21",
+      "journal": "The American journal of case reports",
+      "pmid": "42905623",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905623/"
+    },
+    {
+      "title": "Paradoxical inflation of prediction model performance measures in minority patient subgroups: the role of upstream bias.",
+      "authors": "Ladhania R, Ho AZ, Dhillon P, Brummett CM, Singh K",
+      "published": "2026-10-21",
+      "journal": "npj health systems",
+      "pmid": "42907563",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907563/"
+    },
+    {
+      "title": "Automated classification of ignitable liquid profiles: Comparing machine learning and rule-based systems.",
+      "authors": "Chng LL, Lee KH",
+      "published": "2026-10-21",
+      "journal": "Journal of forensic sciences",
+      "pmid": "42908257",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908257/"
+    },
+    {
+      "title": "The Ongoing Utility of Historical Military Photofluorographs-Tools to Identify Fallen US Soldiers From Past Wars as Cross-Validated by DNA and Dental Data in 180 Cases.",
+      "authors": "Stephan CN, Grow K, D'Alonzo Jaques SS, Byrd JE",
+      "published": "2026-10-21",
+      "journal": "Military medicine",
+      "pmid": "42906907",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906907/"
+    },
+    {
+      "title": "Whole person health in epilepsy: prioritizing care-partner wellbeing.",
+      "authors": "Kiriakopoulos ET, Wagner JL, Jones M, Vernick A, Kukla A",
+      "published": "2026-10-21",
+      "journal": "Epilepsy & behavior : E&B",
+      "pmid": "42906342",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906342/"
+    },
+    {
+      "title": "UPDATE IN GENETIC CAUSES OF SUDDEN CARDIAC DEATH.",
+      "authors": "Chockalingam P, Wilde AAM, Semsarian C",
+      "published": "2026-10-21",
+      "journal": "Indian heart journal",
+      "pmid": "42906815",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906815/"
+    },
+    {
+      "title": "Artificial intelligence in diabetic retinopathy: From deep learning to foundation models, clinical translation, and real-world deployment.",
+      "authors": "Haobijam B, Singh TH, Singh PT, Wu WC, Kang EY",
+      "published": "2026-10-21",
+      "journal": "Survey of ophthalmology",
+      "pmid": "42906863",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906863/"
+    },
+    {
+      "title": "Litigation on Obstetric Ultrasound Reporting Offers Lessons for Radiologists.",
+      "authors": "Mezrich JL",
+      "published": "2026-10-21",
+      "journal": "AJR. American journal of roentgenology",
+      "pmid": "42905415",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905415/"
+    },
+    {
+      "title": "Minute Pulmonary Meningothelial-Like Nodules in Pediatric Patients.",
+      "authors": "Stuhlfaut CA, Winant AJ, Lee EY, Vargas SO",
+      "published": "2026-10-21",
+      "journal": "Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society",
+      "pmid": "42902822",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902822/"
+    },
+    {
+      "title": "The Avian DNA Barcoding Reference Library in South Africa: A Tool for Conservation and Combating Illegal Wildlife Trade.",
+      "authors": "Baxter JR, Kotze A, Letlojane I, de Bruyn M, Kropff AS",
+      "published": "2026-10-21",
+      "journal": "Genome",
+      "pmid": "42906193",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906193/"
+    },
+    {
+      "title": "Forensic electrochemistry on a drop: bromocresol green-modified screen-printed platforms for dual colorimetric-electrochemical detection of scopolamine.",
+      "authors": "Melo LMA, Crapnell RD, Bernalte E, Paula DS, Munoz RAA",
+      "published": "2026-10-21",
+      "journal": "RSC advances",
+      "pmid": "42840688",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840688/"
     },
     {
       "title": "Magnetic, optical, and photoelectrochemical properties of Er(0.75)Y(0.25)Fe(1-x)Co(x)O(3) (x = 0.05, 0.15, 0.3, and 0.5): a Mössbauer and X-ray photoelectron spectroscopy study.",
@@ -51,52 +211,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42900564/"
     },
     {
-      "title": "Toward Cadaveric Proteomics: A Theoretical Framework for Mass Spectrometry Analysis of Embalmed Human Tissues.",
-      "authors": "Nagshabandi LN, AlHammadi SA, Sukkarieh HH, Abdelhadi OE, Aljada A",
-      "published": "2026-10-20",
-      "journal": "Mass spectrometry reviews",
-      "pmid": "42900780",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900780/"
-    },
-    {
-      "title": "The Impact of Exposure to Child Sexual Violence on Police Officers and Forensic Scientists: A Systematic Review.",
-      "authors": "Boudilmi M, Landais L, Guenoun T, Smaniotto B, Urgese S",
-      "published": "2026-10-20",
-      "journal": "Trauma, violence & abuse",
-      "pmid": "42899491",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42899491/"
-    },
-    {
-      "title": "First molecular characterization of Echinococcus granulosus sensu stricto genotype G1 from a common chimpanzee (Pan troglodytes) in the Kuwait Zoo.",
-      "authors": "El-Azazy OME, Abouelella AG, Aryan FAM, Kinsella JM, Tahrani LMA",
-      "published": "2026-10-20",
-      "journal": "Acta parasitologica",
-      "pmid": "42900271",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900271/"
-    },
-    {
-      "title": "Multi-target molecular mechanisms underlying the protective effects of cannabidiol against methamphetamine-induced neurotoxicity.",
-      "authors": "Zhao W, Shan D, Liu M, Wang Y",
-      "published": "2026-10-20",
-      "journal": "Neural regeneration research",
-      "pmid": "42899898",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42899898/"
-    },
-    {
-      "title": "EXPRESS: Synaptic density PET mediates the relationship between Alzheimer's disease pathology and cognitive performance.",
-      "authors": "McLachlan MJ, Bettcher B, Langhough R, DiFilippo A, Betthauser T",
-      "published": "2026-10-20",
-      "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
-      "pmid": "42902482",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902482/"
-    },
-    {
       "title": "Incidence of intra-axial brain metastases in Eastern Finland.",
       "authors": "Moniruzzaman S, Rantala S, Hakumäki J, Rauramaa T",
       "published": "2026-10-20",
       "journal": "Journal of neuro-oncology",
       "pmid": "42900244",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42900244/"
+    },
+    {
+      "title": "Toward Cadaveric Proteomics: A Theoretical Framework for Mass Spectrometry Analysis of Embalmed Human Tissues.",
+      "authors": "Nagshabandi LN, AlHammadi SA, Sukkarieh HH, Abdelhadi OE, Aljada A",
+      "published": "2026-10-20",
+      "journal": "Mass spectrometry reviews",
+      "pmid": "42900780",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900780/"
     },
     {
       "title": "Organ Wet Mount (Squash) Preparations in Fish Pathology: An Underused, Rapid and Low-Cost Tool for Tissue-Level Diagnosis During Necropsy.",
@@ -107,140 +235,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42902094/"
     },
     {
-      "title": "Challenging the norm: are cefixime challenges relevant in confirmed penicillin-allergic patients?",
-      "authors": "Soares AV, Pinhal AL, Brandão Abreu D, Miranda J, Mesquita AM",
-      "published": "2026-10-20",
-      "journal": "European annals of allergy and clinical immunology",
-      "pmid": "42899558",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42899558/"
-    },
-    {
       "title": "Tissue-Specific Insulin Resistance Pattern Underlies Heterogeneous Disease Severity and Complications in MASLD.",
       "authors": "Teng L, Luo L, Shao C, Sun Y, Lai J",
       "published": "2026-10-20",
       "journal": "Journal of the American Nutrition Association",
       "pmid": "42899947",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42899947/"
-    },
-    {
-      "title": "Tissue expression of aquaporin-5 and cytochrome c as potential forensic biomarkers of drowning: Evidence from an experimental rat model.",
-      "authors": "Dervišević E, Osmanović H, Katica M, Bešić A, Čelebičić M",
-      "published": "2026-10-20",
-      "journal": "Die Naturwissenschaften",
-      "pmid": "42900221",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900221/"
-    },
-    {
-      "title": "Enhancing Ecological Validity in Forensic Assessments: Immediate and Delayed Suggestibility Across Video Viewing and Spoken Narrative Modalities.",
-      "authors": "Giostra V, Morresi S, Ottaviani I, Vagni M",
-      "published": "2026-10-20",
-      "journal": "Behavioral sciences & the law",
-      "pmid": "42900741",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900741/"
-    },
-    {
-      "title": "Mobile AI-Assisted Oral Lesion Triage for Community Oral Cancer Screening: Prospective Field Evaluation Study.",
-      "authors": "Liu HY, Huang YC, Chen SW, Wei LY, Chou CY",
-      "published": "2026-10-20",
-      "journal": "JMIR mHealth and uHealth",
-      "pmid": "42902899",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902899/"
-    },
-    {
-      "title": "Prevention of IED threats: a non-destructive and multiparametric detection of pre-blast explosive residues in fabrics using confocal Raman microscopy.",
-      "authors": "Gullifa G, Iezzi F, Lombardozzi A, Pigro MC, Panetta D",
-      "published": "2026-10-20",
-      "journal": "Analytical methods : advancing methods and applications",
-      "pmid": "42899459",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42899459/"
-    },
-    {
-      "title": "Twelve-month tracking of metabolomic changes in ex vivo bloodstains: the analytical validity window of bloodstain metabolites.",
-      "authors": "Lee YR, Kwon S, Lee J, Kang HG",
-      "published": "2026-10-20",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42900445",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900445/"
-    },
-    {
-      "title": "Impact of fire extinguishing agents on DNA quantity and integrity.",
-      "authors": "Konrad H, Fertyk S, Firl K, Hartung B, Poetsch M",
-      "published": "2026-10-20",
-      "journal": "International journal of legal medicine",
-      "pmid": "42897220",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897220/"
-    },
-    {
-      "title": "Occupational injury patterns in a hospital-based cross-sectional study in Türkiye: sectoral characteristics, injury profiles, and determinants of multiple injuries (2019-2023).",
-      "authors": "Aydogan HC, Unat Öztürk Z, Yaşar Teke H",
-      "published": "2026-10-20",
-      "journal": "Archives of public health = Archives belges de sante publique",
-      "pmid": "42902414",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902414/"
-    },
-    {
-      "title": "AI-Powered CURA Application for Identifying At-Risk Pregnancies in Obstetrics Management (CURAte): protocol for a randomised controlled trial.",
-      "authors": "Li S, Por CWS, Ramlal H, Mahyuddin AP, Tan DYY",
-      "published": "2026-10-20",
-      "journal": "BMJ open",
-      "pmid": "42901589",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901589/"
-    },
-    {
-      "title": "Ancient DNA challenges to admixture narratives: Insights from Notre-Dame Cemetery (1683-1796) in Colonial Montreal, Canada.",
-      "authors": "Martin-Moya D, Grenier JC, Lanigan LT, Pelletier J, Irving Pease EK",
-      "published": "2026-10-20",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "pmid": "42832684",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42832684/"
-    },
-    {
-      "title": "Psychiatrists' perceptions of mandatory treatment orders in Singapore: a qualitative study.",
-      "authors": "Yeo D, Poremski D, Chua J, Cheok C, Phang S",
-      "published": "2026-10-20",
-      "journal": "International journal of law and psychiatry",
-      "pmid": "42900963",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900963/"
-    },
-    {
-      "title": "Negative differential resistance in molecular junctions.",
-      "authors": "Krishnapriya R, Shekhawat AS, Bhatia GK, Gupta A, Daukiya L",
-      "published": "2026-10-20",
-      "journal": "RSC advances",
-      "pmid": "42904153",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904153/"
-    },
-    {
-      "title": "Analytical Detection and Sample Preparation Techniques for Selected New Psychoactive Substances: Advances, Critical Limitations, and Future Perspectives.",
-      "authors": "Saleh ARQ, El-Tahlawy AS, Abuhejail RM, Alahmad W",
-      "published": "2026-10-20",
-      "journal": "Critical reviews in analytical chemistry",
-      "pmid": "42902583",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902583/"
-    },
-    {
-      "title": "Microphysiological organ-on-a-chip system for anti-doping research: long-term CYP activity characterization and S107 metabolism in a HepaRG™-based 3D liver model.",
-      "authors": "Peters I, Naumann N, Görgens C, Guddat S, Thevis M",
-      "published": "2026-10-19",
-      "journal": "The Analyst",
-      "pmid": "42895197",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895197/"
-    },
-    {
-      "title": "Validating gene-brain-behavior associations in autism: A replication study.",
-      "authors": "Zhou D, Mei T, Oldehinkel M, Mennes M, Forde NJ",
-      "published": "2026-10-19",
-      "journal": "Biological psychiatry. Cognitive neuroscience and neuroimaging",
-      "pmid": "42896651",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896651/"
-    },
-    {
-      "title": "Chicken-fat clots and pulmonary intravascular neutrophil density: a retrospective autopsy study.",
-      "authors": "Nicolì S, Ambrosi L, Mercuri G, Oliva A, Ferorelli D",
-      "published": "2026-10-19",
-      "journal": "International journal of legal medicine",
-      "pmid": "42895652",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895652/"
     }
   ]
 }
