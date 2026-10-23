@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:02:51.707992+00:00",
+  "updated": "2026-10-23T02:47:47.918818+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -205,16 +205,6 @@
       "country": "India"
     },
     {
-      "title": "Determination of Gender and ABO Blood Group from Dried Saliva",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-09-22",
-      "authors": "Periasamy Asokan Jayasri, Immudi Paranjothi Shenpaga Priya, Muthusamy Rajmohan, Harikrishnan Prasad, Kenniyan Kumar Sri Chinthu, Viswanath Prema",
-      "url": "https://doi.org/10.1177/09710973261487360",
-      "doi": "10.1177/09710973261487360",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Associations of Mortuary Ambient Temperature, Relative Humidity and Gross Nutritional Status with Rigor Mortis and Postmortem Lividity in the Mahakaushal Region of Central India.",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-10-13",
@@ -265,16 +255,6 @@
       "country": "India"
     },
     {
-      "title": "Oxidative Stress Biomarkers as Predictors of Methotrexate-Induced Acute Hepatotoxicity in Children with Acute Lymphoblastic Leukaemia",
-      "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
-      "published": "2026-09-22",
-      "authors": "Alshaimma Mahmoud Elmansy, Lamia M. Morad, Rehab M. El-Gohary, Fatma G. Sobeeh, Aisha ElMihy",
-      "url": "https://doi.org/10.21608/zjfm.2026.522451.1245",
-      "doi": "10.21608/zjfm.2026.522451.1245",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
       "journal": "International Journal of Drug Delivery Technology",
       "published": "2026-10-19",
@@ -301,6 +281,26 @@
       "authors": "Radhika Hegde, Jisa Ann Thomas",
       "url": "https://doi.org/10.20529/ijme.2026.060",
       "doi": "10.20529/ijme.2026.060",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-02",
+      "authors": "Nisha VG",
+      "url": "https://doi.org/10.20529/ijme.2026.059",
+      "doi": "10.20529/ijme.2026.059",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
+      "journal": "Journal of Medical Sciences",
+      "published": "2026-10-16",
+      "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
+      "url": "https://doi.org/10.51984/7m4bap98",
+      "doi": "10.51984/7m4bap98",
       "source": "Crossref",
       "country": "India"
     }
