@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:50:44.145685+00:00",
+  "updated": "2026-10-24T02:44:53.830954+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -175,16 +175,6 @@
       "country": "India"
     },
     {
-      "title": "Morphometric Analysis of Gonial Angle Using ImageJ and Artificial Intelligence: A Cross-sectional Study",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-09-23",
-      "authors": "Amitha Mohan, Dinesh Yasothkumar",
-      "url": "https://doi.org/10.1177/09710973261487368",
-      "doi": "10.1177/09710973261487368",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Associations of Mortuary Ambient Temperature, Relative Humidity and Gross Nutritional Status with Rigor Mortis and Postmortem Lividity in the Mahakaushal Region of Central India.",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-10-13",
@@ -245,16 +235,6 @@
       "country": "India"
     },
     {
-      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
-      "doi": "10.25258/ijddt.16.71s.11",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-10-13",
@@ -295,12 +275,32 @@
       "country": "India"
     },
     {
-      "title": "FORENSIC PHARMACOLOGY IN INDIA: AN EMERGING DISCIPLINE AND ITS FUTURE PERSPECTIVES",
-      "journal": "Global Journal of Forensic Pathology and Medicine",
-      "published": "2026-09-23",
-      "authors": "Mamta Kumari, Rajesh Mishra,, Lalita Singh, Soumya Chaudhary, Vinay Tiwari,, Shubhyanka Singh, Anubhav Dubey",
-      "url": "https://doi.org/10.66838/4ez7q821",
-      "doi": "10.66838/4ez7q821",
+      "title": "Coronal Suture Fusion Assessed by Computed Tomography: Age Estimation Insights From Western Maharashtra",
+      "journal": "Academic Forensic Pathology",
+      "published": "2026-10-22",
+      "authors": "Emarson L. Sison, Jomar L. Aban, Don Eliseo Lucero-Prisno, Alma M. Corpuz",
+      "url": "https://doi.org/10.1177/19253621261500870",
+      "doi": "10.1177/19253621261500870",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Advanced Techniques in Mosquito Blood Meal Dna Analysis: Technological Innovations in Forensic Methodologies",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-10-13",
+      "authors": "Eni-Yimini Solomon Agoro, Teddy Charles Adias, Charles German Ikimi",
+      "url": "https://doi.org/10.37506/tj4dg675",
+      "doi": "10.37506/tj4dg675",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "AI-Driven Object Detection for Projectile Localization on Trauma X-rays: An Analytical Study of Diagnostic Accuracy and Forensic Utility",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-10-13",
+      "authors": "Balamanikandan S, Vijayakumar Nair, Thumma Amar, Srimukesh A",
+      "url": "https://doi.org/10.37506/45zrb254",
+      "doi": "10.37506/45zrb254",
       "source": "Crossref",
       "country": "India"
     }
