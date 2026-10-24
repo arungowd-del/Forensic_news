@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T02:44:53.830954+00:00",
+  "updated": "2026-10-24T10:03:53.963770+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -235,6 +235,16 @@
       "country": "India"
     },
     {
+      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
+      "journal": "International Journal of Drug Delivery Technology",
+      "published": "2026-10-15",
+      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
+      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
+      "doi": "10.25258/ijddt.16.71s.11",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-10-13",
@@ -265,6 +275,16 @@
       "country": "India"
     },
     {
+      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
+      "journal": "Legal Medicine",
+      "published": "2026-10-01",
+      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
+      "doi": "10.1016/j.legalmed.2026.102996",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Postmortem characteristics of hanging deaths at a tertiary care hospital in Indore, Madhya Pradesh: A cross-sectional descriptive study",
       "journal": "Journal of Integrative Medicine and Research",
       "published": "2026-10-01",
@@ -281,26 +301,6 @@
       "authors": "Emarson L. Sison, Jomar L. Aban, Don Eliseo Lucero-Prisno, Alma M. Corpuz",
       "url": "https://doi.org/10.1177/19253621261500870",
       "doi": "10.1177/19253621261500870",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Advanced Techniques in Mosquito Blood Meal Dna Analysis: Technological Innovations in Forensic Methodologies",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Eni-Yimini Solomon Agoro, Teddy Charles Adias, Charles German Ikimi",
-      "url": "https://doi.org/10.37506/tj4dg675",
-      "doi": "10.37506/tj4dg675",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "AI-Driven Object Detection for Projectile Localization on Trauma X-rays: An Analytical Study of Diagnostic Accuracy and Forensic Utility",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Balamanikandan S, Vijayakumar Nair, Thumma Amar, Srimukesh A",
-      "url": "https://doi.org/10.37506/45zrb254",
-      "doi": "10.37506/45zrb254",
       "source": "Crossref",
       "country": "India"
     }
