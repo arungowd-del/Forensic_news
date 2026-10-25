@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:01:48.041228+00:00",
+  "updated": "2026-10-25T02:34:47.772289+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -245,6 +245,16 @@
       "country": "India"
     },
     {
+      "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
+      "journal": "International Journal of Drug Delivery Technology",
+      "published": "2026-10-19",
+      "authors": "",
+      "url": "https://doi.org/10.25258/ijddt.16.74s.77",
+      "doi": "10.25258/ijddt.16.74s.77",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
       "journal": "Indian Journal of Medical Ethics",
       "published": "2026-10-14",
@@ -288,19 +298,9 @@
       "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
       "journal": "International Journal of Drug Delivery Technology",
       "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohli, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.70s.38",
-      "doi": "10.25258/ijddt.16.70s.38",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Manivel Subramani",
-      "url": "https://doi.org/10.37506/07f7ht72",
-      "doi": "10.37506/07f7ht72",
+      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
+      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
+      "doi": "10.25258/ijddt.16.71s.11",
       "source": "Crossref",
       "country": "India"
     }
