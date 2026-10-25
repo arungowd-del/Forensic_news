@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:21:14.808218+00:00",
+  "updated": "2026-10-25T20:13:20.394414+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -85,6 +85,16 @@
       "country": "India"
     },
     {
+      "title": "Another opportunity for India to advance the public interest in research: Copyright reform and a trust label",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-16",
+      "authors": "John Willinsky",
+      "url": "https://doi.org/10.20529/ijme.2026.062",
+      "doi": "10.20529/ijme.2026.062",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "When DNA Lies: A Forensic Dilemma Caused by Twin Absorption and Chimerism",
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
@@ -101,6 +111,16 @@
       "authors": "Vinod Dhingra, Anu Singla, Neha Ahirwar, Amit Kumar Choudhary, Annwesha Mazumdar, Shashi Shekhar",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.15",
       "doi": "10.21088/ijfmp.0974.3383.19326.15",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Ghost surgery in Indian private hospitals: A silent ethical crisis",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-09-26",
+      "authors": "Dhiraj Lakshakar",
+      "url": "https://doi.org/10.20529/ijme.2026.058",
+      "doi": "10.20529/ijme.2026.058",
       "source": "Crossref",
       "country": "India"
     },
@@ -235,6 +255,36 @@
       "country": "India"
     },
     {
+      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-14",
+      "authors": "Sharon Batt",
+      "url": "https://doi.org/10.20529/ijme.2026.061",
+      "doi": "10.20529/ijme.2026.061",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-08",
+      "authors": "Radhika Hegde, Jisa Ann Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.060",
+      "doi": "10.20529/ijme.2026.060",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-02",
+      "authors": "Nisha VG",
+      "url": "https://doi.org/10.20529/ijme.2026.059",
+      "doi": "10.20529/ijme.2026.059",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
       "journal": "Journal of Medical Sciences",
       "published": "2026-10-16",
@@ -251,56 +301,6 @@
       "authors": "Manivel Subramani",
       "url": "https://doi.org/10.37506/07f7ht72",
       "doi": "10.37506/07f7ht72",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Observational Analysis of Alcohol in Postmortem Vitreous Humor: A Forensic Perspective",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Niranjan Sahoo, Yukti Awasarkar, Atul S. Keche, Deeksha Thakur",
-      "url": "https://doi.org/10.37506/1ywggx62",
-      "doi": "10.37506/1ywggx62",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "The Need for Standardization of Psychological Autopsy Protocols in India: A Forensic Psychiatry Perspective",
-      "journal": "Medical Journal of Dr. D.Y. Patil Vidyapeeth",
-      "published": "2026-10-09",
-      "authors": "Madhusudan Ramchandra Petkar, Rahul Mohanrao Band, Ajay Laxmanrao Ghangale",
-      "url": "https://doi.org/10.4103/mjdrdypu.mjdrdypu_555_25",
-      "doi": "10.4103/mjdrdypu.mjdrdypu_555_25",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
-      "journal": "Legal Medicine",
-      "published": "2026-10-01",
-      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
-      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
-      "doi": "10.1016/j.legalmed.2026.103040",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
-      "journal": "Legal Medicine",
-      "published": "2026-10-01",
-      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
-      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
-      "doi": "10.1016/j.legalmed.2026.102996",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Postmortem characteristics of hanging deaths at a tertiary care hospital in Indore, Madhya Pradesh: A cross-sectional descriptive study",
-      "journal": "Journal of Integrative Medicine and Research",
-      "published": "2026-10-01",
-      "authors": "Ashish Kumar Vishwakarma, Brijeshkumar Umeshbhai Suthar, Deep Pankaj Shah, Sanjeev Kumar Choudhary",
-      "url": "https://doi.org/10.4103/jimr.jimr_95_26",
-      "doi": "10.4103/jimr.jimr_95_26",
       "source": "Crossref",
       "country": "India"
     }
