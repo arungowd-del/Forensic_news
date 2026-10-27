@@ -1,62 +1,14 @@
 {
-  "updated": "2026-10-26T21:59:19.472049Z",
+  "updated": "2026-10-27T02:38:37.293851Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "More than words: Lay perceptions of mental health terminology across context and severity.",
-      "authors": "Healey LV, Hegwood CM, Kyebasuuta A, Zernick MV, Schiffman J",
-      "published": "2026-10-26",
-      "journal": "Psychological services",
-      "pmid": "42932785",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932785/"
-    },
-    {
-      "title": "Contextual diagnostic framework for evaluating histopathology grey zones: a proposal with medicolegal implications using breast pathology as a model.",
-      "authors": "Rakha EA, Shaaban AM, Van Bockstal MR, Decker T, Foschini MP",
-      "published": "2026-10-26",
-      "journal": "Virchows Archiv : an international journal of pathology",
-      "pmid": "42928370",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928370/"
-    },
-    {
-      "title": "Is hostility toward women a substantiated risk factor for sexual recidivism? A meta-analysis.",
-      "authors": "Iffland JA, Langkamp T, Fascher M",
-      "published": "2026-10-26",
-      "journal": "Law and human behavior",
-      "pmid": "42932808",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932808/"
-    },
-    {
-      "title": "Recent advances in cobalt group metal complexes as anticancer agents: influence of ligands on therapeutic efficacy.",
-      "authors": "Yadav N, Anjali, Sanjana, Sharma V, Sharma KN",
-      "published": "2026-10-26",
-      "journal": "Dalton transactions (Cambridge, England : 2003)",
-      "pmid": "42929697",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42929697/"
-    },
-    {
-      "title": "Postmortem tanning: A narrative review of pigment darkening phenomena and the unsettled chemistry of melanin.",
-      "authors": "Sonoda A, Shinkawa N, Kakizaki E, Uemura Y, Yukawa N",
-      "published": "2026-10-26",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "42932027",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932027/"
-    },
-    {
-      "title": "Emerging blood-based diagnostic strategies for tuberculosis.",
-      "authors": "Yue C, Geng X, Sun X, Liu J, Zhang D",
-      "published": "2026-10-26",
-      "journal": "Clinical chemistry and laboratory medicine",
-      "pmid": "42383897",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42383897/"
-    },
-    {
-      "title": "Molecular Xenomonitoring of Dirofilaria immitis in Mosquitoes From an Urban Recreational Lagoon in Veracruz, Mexico.",
-      "authors": "Herrera-Rodriguez K, Ortiz-Carbajal LA, Sánchez-Otero MG, Sánchez-Montes S, Palmeros-Exsome C",
-      "published": "2026-10-26",
-      "journal": "Acta parasitologica",
-      "pmid": "42931858",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42931858/"
+      "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
+      "authors": "De Meyer S, Tomé SO, Lahaije B, Vanbrabant J, Lambrechts C",
+      "published": "2026-10-27",
+      "journal": "Neurology",
+      "pmid": "42837647",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837647/"
     },
     {
       "title": "Medicolegal Sidebar: Could a Malpractice Verdict Bankrupt You?",
@@ -67,6 +19,38 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42931813/"
     },
     {
+      "title": "Contextual diagnostic framework for evaluating histopathology grey zones: a proposal with medicolegal implications using breast pathology as a model.",
+      "authors": "Rakha EA, Shaaban AM, Van Bockstal MR, Decker T, Foschini MP",
+      "published": "2026-10-26",
+      "journal": "Virchows Archiv : an international journal of pathology",
+      "pmid": "42928370",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928370/"
+    },
+    {
+      "title": "Postmortem tanning: A narrative review of pigment darkening phenomena and the unsettled chemistry of melanin.",
+      "authors": "Sonoda A, Shinkawa N, Kakizaki E, Uemura Y, Yukawa N",
+      "published": "2026-10-26",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42932027",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932027/"
+    },
+    {
+      "title": "Recent advances in cobalt group metal complexes as anticancer agents: influence of ligands on therapeutic efficacy.",
+      "authors": "Yadav N, Anjali, Sanjana, Sharma V, Sharma KN",
+      "published": "2026-10-26",
+      "journal": "Dalton transactions (Cambridge, England : 2003)",
+      "pmid": "42929697",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929697/"
+    },
+    {
+      "title": "More than words: Lay perceptions of mental health terminology across context and severity.",
+      "authors": "Healey LV, Hegwood CM, Kyebasuuta A, Zernick MV, Schiffman J",
+      "published": "2026-10-26",
+      "journal": "Psychological services",
+      "pmid": "42932785",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932785/"
+    },
+    {
       "title": "Prosthetic mesh infection after abdominal wall hernia repair: a medico-legal analysis.",
       "authors": "Matteucci M, Gioia S, Tesoro D, Barone G, Zampino L",
       "published": "2026-10-26",
@@ -75,20 +59,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42931966/"
     },
     {
-      "title": "Plasma-Enabled Multiscale Coupling of Gyroid Architecture and Silver Nanoparticle Biointerfaces Drives Osteogenesis in 3D-Printed Scaffolds.",
-      "authors": "Kanakarajan Vijaya Kumari P, Carpenter J, Cleon B, Panebianco CJ, Boerckel JD",
-      "published": "2026-10-25",
-      "journal": "Advanced healthcare materials",
-      "pmid": "42928442",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928442/"
+      "title": "Molecular Xenomonitoring of Dirofilaria immitis in Mosquitoes From an Urban Recreational Lagoon in Veracruz, Mexico.",
+      "authors": "Herrera-Rodriguez K, Ortiz-Carbajal LA, Sánchez-Otero MG, Sánchez-Montes S, Palmeros-Exsome C",
+      "published": "2026-10-26",
+      "journal": "Acta parasitologica",
+      "pmid": "42931858",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931858/"
     },
     {
-      "title": "A Malaysian Expert Consensus on The Identification, Evaluation, and Pharmacological Management of Diabetic Sensorimotor Polyneuropathy.",
-      "authors": "Lim LL, Foo SH, Abdul Ghani R, Ibrahim L, Wahab NA",
+      "title": "Is hostility toward women a substantiated risk factor for sexual recidivism? A meta-analysis.",
+      "authors": "Iffland JA, Langkamp T, Fascher M",
+      "published": "2026-10-26",
+      "journal": "Law and human behavior",
+      "pmid": "42932808",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932808/"
+    },
+    {
+      "title": "Emerging blood-based diagnostic strategies for tuberculosis.",
+      "authors": "Yue C, Geng X, Sun X, Liu J, Zhang D",
+      "published": "2026-10-26",
+      "journal": "Clinical chemistry and laboratory medicine",
+      "pmid": "42383897",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42383897/"
+    },
+    {
+      "title": "[Genome-wide identification, expression profiling, and natural allelic variation analysis of the ckx genes in sorghum (Sorghum bicolor)].",
+      "authors": "Wei X, Hou Y, Wang Z, Guo Z, Shi X",
       "published": "2026-10-25",
-      "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
-      "pmid": "42928304",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928304/"
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "pmid": "42920219",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42920219/"
     },
     {
       "title": "Citizen science tick observations as a proxy for human exposure: Ecological, behavioural and weather drivers in Finland.",
@@ -107,12 +107,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42928411/"
     },
     {
-      "title": "[Genome-wide identification, expression profiling, and natural allelic variation analysis of the ckx genes in sorghum (Sorghum bicolor)].",
-      "authors": "Wei X, Hou Y, Wang Z, Guo Z, Shi X",
+      "title": "A Malaysian Expert Consensus on The Identification, Evaluation, and Pharmacological Management of Diabetic Sensorimotor Polyneuropathy.",
+      "authors": "Lim LL, Foo SH, Abdul Ghani R, Ibrahim L, Wahab NA",
       "published": "2026-10-25",
-      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
-      "pmid": "42920219",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42920219/"
+      "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+      "pmid": "42928304",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928304/"
+    },
+    {
+      "title": "Plasma-Enabled Multiscale Coupling of Gyroid Architecture and Silver Nanoparticle Biointerfaces Drives Osteogenesis in 3D-Printed Scaffolds.",
+      "authors": "Kanakarajan Vijaya Kumari P, Carpenter J, Cleon B, Panebianco CJ, Boerckel JD",
+      "published": "2026-10-25",
+      "journal": "Advanced healthcare materials",
+      "pmid": "42928442",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928442/"
     },
     {
       "title": "Shape-based identification of caprine taxa using fragmentary skull regions.",
@@ -123,28 +131,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42928623/"
     },
     {
-      "title": "Influence of perfusion pressure on image quality in postmortem CT angiography (PMCTA) of coronary arteries: a pilot study.",
-      "authors": "Feldmann NH, Sabel BO, Bruch GM, Fischer FT",
+      "title": "Phytochemical and biological investigation of Galium sinaicum: Cytotoxic constituents with in vitro PARP-1 inhibitory activity.",
+      "authors": "Elbermawi A, Zulfiqar F, Khan IA, Ali Z, Ali AR",
       "published": "2026-10-24",
-      "journal": "International journal of legal medicine",
-      "pmid": "42920029",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42920029/"
-    },
-    {
-      "title": "Clinical Outcomes of Long-Acting Lipoglycopeptides in Osteoarticular Infections: A Multidisciplinary Approach Integrating Therapeutic Drug Monitoring and Serum Bactericidal Titre During Dalbavancin Therapy.",
-      "authors": "Petrucci F, Iaiani G, De Meo D, Capparuccia MR, Lesina A",
-      "published": "2026-10-24",
-      "journal": "International journal of antimicrobial agents",
-      "pmid": "42925886",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925886/"
-    },
-    {
-      "title": "Sex differences in the association of late-life blood pressure decline with postmortem brain vessel pathology.",
-      "authors": "Baumgartner NW, Du L, Mehta RI, Casaletto KB, Wood Alexander M",
-      "published": "2026-10-24",
-      "journal": "Acta neuropathologica",
-      "pmid": "42925335",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925335/"
+      "journal": "Fitoterapia",
+      "pmid": "42925974",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925974/"
     },
     {
       "title": "May - Thurner syndrome: a case report of a lethal undiagnosed left iliac vein thrombosis.",
@@ -171,12 +163,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42920028/"
     },
     {
+      "title": "A novel and adaptable method to prepare samples for postmortem imaging with artifact reduction.",
+      "authors": "Smith EC, Rosenblum EW, Stevens A, Morgan L, Mora J",
+      "published": "2026-10-24",
+      "journal": "Journal of neuroscience methods",
+      "pmid": "42926023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926023/"
+    },
+    {
       "title": "Influence of socio-economic inequalities and healthcare organisation on HPV vaccination coverage in both sexes in the Campania region: A population-based study between 2006 and 2023.",
       "authors": "Mercogliano M, Montuori P, Bencivenga F, Errico G, Giordano V",
       "published": "2026-10-24",
       "journal": "Vaccine",
       "pmid": "42763966",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42763966/"
+    },
+    {
+      "title": "Sex differences in the association of late-life blood pressure decline with postmortem brain vessel pathology.",
+      "authors": "Baumgartner NW, Du L, Mehta RI, Casaletto KB, Wood Alexander M",
+      "published": "2026-10-24",
+      "journal": "Acta neuropathologica",
+      "pmid": "42925335",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925335/"
     },
     {
       "title": "Quantitative diatom analysis for drowning-site determination: Evaluation of accuracy and a practical decision guide.",
@@ -187,12 +195,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42925317/"
     },
     {
-      "title": "A novel and adaptable method to prepare samples for postmortem imaging with artifact reduction.",
-      "authors": "Smith EC, Rosenblum EW, Stevens A, Morgan L, Mora J",
+      "title": "Influence of perfusion pressure on image quality in postmortem CT angiography (PMCTA) of coronary arteries: a pilot study.",
+      "authors": "Feldmann NH, Sabel BO, Bruch GM, Fischer FT",
       "published": "2026-10-24",
-      "journal": "Journal of neuroscience methods",
-      "pmid": "42926023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42926023/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42920029",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42920029/"
     },
     {
       "title": "A fatal case of malathion and organic-solvent intoxication: the potential utility of cerebrospinal fluid.",
@@ -211,6 +219,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42913671/"
     },
     {
+      "title": "Clinical Outcomes of Long-Acting Lipoglycopeptides in Osteoarticular Infections: A Multidisciplinary Approach Integrating Therapeutic Drug Monitoring and Serum Bactericidal Titre During Dalbavancin Therapy.",
+      "authors": "Petrucci F, Iaiani G, De Meo D, Capparuccia MR, Lesina A",
+      "published": "2026-10-24",
+      "journal": "International journal of antimicrobial agents",
+      "pmid": "42925886",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925886/"
+    },
+    {
       "title": "Diagnostic accuracy of neuropathological assessment across different diagnostic settings for high-grade gliomas: the added value of DNA methylation profiling.",
       "authors": "Christoforou T, Elmuradova U, Hammersen S, Koch A, Kantelhardt S",
       "published": "2026-10-24",
@@ -219,28 +235,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42931851/"
     },
     {
-      "title": "Phytochemical and biological investigation of Galium sinaicum: Cytotoxic constituents with in vitro PARP-1 inhibitory activity.",
-      "authors": "Elbermawi A, Zulfiqar F, Khan IA, Ali Z, Ali AR",
-      "published": "2026-10-24",
-      "journal": "Fitoterapia",
-      "pmid": "42925974",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925974/"
-    },
-    {
-      "title": "[Overview of practices dna analysis of abortion products in rape cases for genetic identification].",
-      "authors": "Sauzedde C, Suzat B, Godin M, Dreyfus M",
+      "title": "Hornady 410 Triple Defense Ammunition.",
+      "authors": "Fitzgerald JL, Ward TL",
       "published": "2026-10-23",
-      "journal": "Gynecologie, obstetrique, fertilite & senologie",
-      "pmid": "42918545",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918545/"
-    },
-    {
-      "title": "Altered GABA(B) receptor sensitivity in heavy drinkers indexed using a TMS-based biomarker: a randomized controlled experimental medicine trial.",
-      "authors": "Montemitro C, Donahue D, Costumati A, Maruottolo F, Terezza S",
-      "published": "2026-10-23",
-      "journal": "Translational psychiatry",
-      "pmid": "42918748",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918748/"
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "42919455",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919455/"
     }
   ]
 }
