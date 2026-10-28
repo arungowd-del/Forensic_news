@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T21:39:36.668012+00:00",
+  "updated": "2026-10-28T03:21:44.981346+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -81,6 +81,16 @@
       "authors": "Manjusha Dhawle, Shweta Watane, Abhishek Muley, Devanshi Shah, Ashwini Waso, Abhishikta Misra, Sushma Ramraje",
       "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.8",
       "doi": "10.21088/ijfmp.0974.3383.19326.8",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Another opportunity for India to advance the public interest in research: Copyright reform and a trust label",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-16",
+      "authors": "John Willinsky",
+      "url": "https://doi.org/10.20529/ijme.2026.062",
+      "doi": "10.20529/ijme.2026.062",
       "source": "Crossref",
       "country": "India"
     },
@@ -235,22 +245,42 @@
       "country": "India"
     },
     {
+      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-14",
+      "authors": "Sharon Batt",
+      "url": "https://doi.org/10.20529/ijme.2026.061",
+      "doi": "10.20529/ijme.2026.061",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-08",
+      "authors": "Radhika Hegde, Jisa Ann Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.060",
+      "doi": "10.20529/ijme.2026.060",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-02",
+      "authors": "Nisha VG",
+      "url": "https://doi.org/10.20529/ijme.2026.059",
+      "doi": "10.20529/ijme.2026.059",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
       "journal": "Journal of Medical Sciences",
       "published": "2026-10-16",
       "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
       "url": "https://doi.org/10.51984/7m4bap98",
       "doi": "10.51984/7m4bap98",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
-      "doi": "10.25258/ijddt.16.71s.11",
       "source": "Crossref",
       "country": "India"
     },
@@ -271,36 +301,6 @@
       "authors": "Niranjan Sahoo, Yukti Awasarkar, Atul S. Keche, Deeksha Thakur",
       "url": "https://doi.org/10.37506/1ywggx62",
       "doi": "10.37506/1ywggx62",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "The Need for Standardization of Psychological Autopsy Protocols in India: A Forensic Psychiatry Perspective",
-      "journal": "Medical Journal of Dr. D.Y. Patil Vidyapeeth",
-      "published": "2026-10-09",
-      "authors": "Madhusudan Ramchandra Petkar, Rahul Mohanrao Band, Ajay Laxmanrao Ghangale",
-      "url": "https://doi.org/10.4103/mjdrdypu.mjdrdypu_555_25",
-      "doi": "10.4103/mjdrdypu.mjdrdypu_555_25",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
-      "journal": "Legal Medicine",
-      "published": "2026-10-01",
-      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
-      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
-      "doi": "10.1016/j.legalmed.2026.103040",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
-      "journal": "Legal Medicine",
-      "published": "2026-10-01",
-      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
-      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
-      "doi": "10.1016/j.legalmed.2026.102996",
       "source": "Crossref",
       "country": "India"
     }
