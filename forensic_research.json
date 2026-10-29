@@ -1,30 +1,14 @@
 {
-  "updated": "2026-10-28T21:57:08.958862Z",
+  "updated": "2026-10-29T03:08:55.115719Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Global Burden of Anorexia Nervosa and Bulimia Nervosa, 1990 to 2023, With Forecasts to 2050: A Global Burden of Disease Study 2023 Analysis.",
-      "authors": "Bai R, Dong W, Wang X, Zhang A, Santomauro DF",
+      "title": "Spontaneous inversion of the left atrial appendage: a first autopsy case report and updated literature review.",
+      "authors": "Wathek T, Nouma Y, Atig A, Hamdani M, Harzallah H",
       "published": "2026-10-28",
-      "journal": "JAMA psychiatry",
-      "pmid": "42949727",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949727/"
-    },
-    {
-      "title": "Mechanistic elucidation of the therapeutic effects of Fushen Xiezhuo formula on chronic kidney disease.",
-      "authors": "Abudukelimu S, Sun B, Qin X, Li J, Lu L",
-      "published": "2026-10-28",
-      "journal": "Journal of ethnopharmacology",
-      "pmid": "42173417",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42173417/"
-    },
-    {
-      "title": "Human infections caused by filamentous basidiomycetes: A global systematic review.",
-      "authors": "Vinayan S, S N, Samaddar A",
-      "published": "2026-10-28",
-      "journal": "Medical mycology",
-      "pmid": "42949671",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949671/"
+      "journal": "Cardiology in the young",
+      "pmid": "42947459",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947459/"
     },
     {
       "title": "Childhood trauma and dimensions of criminal thinking in individuals referred for forensic psychiatric evaluation.",
@@ -35,6 +19,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42949239/"
     },
     {
+      "title": "Non-destructive discrimination of black gel pen inks via physics-guided band-gate attention network and hyperspectral imaging.",
+      "authors": "Qian Q, Li Y, Zhang X, Xie X, Yin L",
+      "published": "2026-10-28",
+      "journal": "The Analyst",
+      "pmid": "42949634",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949634/"
+    },
+    {
+      "title": "Human infections caused by filamentous basidiomycetes: A global systematic review.",
+      "authors": "Vinayan S, S N, Samaddar A",
+      "published": "2026-10-28",
+      "journal": "Medical mycology",
+      "pmid": "42949671",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949671/"
+    },
+    {
       "title": "Neuropathological Correlates of Apathy Progression in Alzheimer Disease and Related Dementias: A Longitudinal NACC Cohort Study.",
       "authors": "Qi YA, Goldberg TE, Kim H, Devanand DP, Lee S",
       "published": "2026-10-28",
@@ -43,20 +43,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42949266/"
     },
     {
-      "title": "Therapy-associated lineage plasticity in DIPG following combined CDK4/6 inhibitor, temozolomide, and radiation.",
-      "authors": "Huang ZL, Jiang T, Suarez Palacios MM, Ouyang T, Abdallah A",
+      "title": "Mechanistic elucidation of the therapeutic effects of Fushen Xiezhuo formula on chronic kidney disease.",
+      "authors": "Abudukelimu S, Sun B, Qin X, Li J, Lu L",
       "published": "2026-10-28",
-      "journal": "Cancer letters",
-      "pmid": "42532370",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42532370/"
-    },
-    {
-      "title": "A DNA Platform-Assisted Cooperative Probe Addresses the Affinity-Selectivity Trade-Off in Hybridization-Based Nucleic Acid Detection at Room Temperature.",
-      "authors": "Bobkova MY, Viskov MA, Zelenin KA, Gorbenko DA, Kolpashchikov DM",
-      "published": "2026-10-28",
-      "journal": "Chembiochem : a European journal of chemical biology",
-      "pmid": "42902930",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902930/"
+      "journal": "Journal of ethnopharmacology",
+      "pmid": "42173417",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42173417/"
     },
     {
       "title": "The chaperone in the modern outpatient clinic: reconsidering gender, autonomy, and professional standards.",
@@ -67,6 +59,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42949194/"
     },
     {
+      "title": "Global Burden of Anorexia Nervosa and Bulimia Nervosa, 1990 to 2023, With Forecasts to 2050: A Global Burden of Disease Study 2023 Analysis.",
+      "authors": "Bai R, Dong W, Wang X, Zhang A, Santomauro DF",
+      "published": "2026-10-28",
+      "journal": "JAMA psychiatry",
+      "pmid": "42949727",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949727/"
+    },
+    {
+      "title": "A DNA Platform-Assisted Cooperative Probe Addresses the Affinity-Selectivity Trade-Off in Hybridization-Based Nucleic Acid Detection at Room Temperature.",
+      "authors": "Bobkova MY, Viskov MA, Zelenin KA, Gorbenko DA, Kolpashchikov DM",
+      "published": "2026-10-28",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "pmid": "42902930",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902930/"
+    },
+    {
       "title": "Percutaneous Echo-Guided Cervical Venoarterial Extracorporeal Membrane Oxygenation Cannulation by Intensivists in Neonates and Children.",
       "authors": "Moscatelli A, Giardina A, Dato A, Pezzato S, Cheli M",
       "published": "2026-10-28",
@@ -75,20 +83,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950235/"
     },
     {
-      "title": "Non-destructive discrimination of black gel pen inks via physics-guided band-gate attention network and hyperspectral imaging.",
-      "authors": "Qian Q, Li Y, Zhang X, Xie X, Yin L",
+      "title": "Therapy-associated lineage plasticity in DIPG following combined CDK4/6 inhibitor, temozolomide, and radiation.",
+      "authors": "Huang ZL, Jiang T, Suarez Palacios MM, Ouyang T, Abdallah A",
       "published": "2026-10-28",
-      "journal": "The Analyst",
-      "pmid": "42949634",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949634/"
-    },
-    {
-      "title": "Spontaneous inversion of the left atrial appendage: a first autopsy case report and updated literature review.",
-      "authors": "Wathek T, Nouma Y, Atig A, Hamdani M, Harzallah H",
-      "published": "2026-10-28",
-      "journal": "Cardiology in the young",
-      "pmid": "42947459",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947459/"
+      "journal": "Cancer letters",
+      "pmid": "42532370",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532370/"
     },
     {
       "title": "Label‑Free Optical Biosensing of Interleukin‑6, Procalcitonin, and High-Sensitivity C-Reactive Protein as Inflammatory Biomarkers in Cardiovascular Disease: A Review.",
@@ -107,12 +107,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42946688/"
     },
     {
-      "title": "Development of a multimodel predictive framework for gangrenous cholecystitis with SHAP-based interpretability.",
-      "authors": "Niu QG, Yu Y, Xu F, Kong WQ, Li JY",
+      "title": "Nursing contributions to the prevention of female genital mutilation in multicultural contexts: A scoping review.",
+      "authors": "Teixeira V, Roquette-Viana C, Figueiredo AS",
       "published": "2026-10-27",
-      "journal": "BMC medical informatics and decision making",
-      "pmid": "42934670",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934670/"
+      "journal": "Nursing outlook",
+      "pmid": "42945680",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945680/"
+    },
+    {
+      "title": "The Cost-Of-Living Crisis and Suicide Rates.",
+      "authors": "Pirkis J, Shin S, Roberts L, Arya V, Agrest M",
+      "published": "2026-10-27",
+      "journal": "Crisis",
+      "pmid": "42935141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42935141/"
+    },
+    {
+      "title": "A Standardized Procedure for Post-Mortem Harvesting of the Brain and Rete Mirabile in Domestic Pigs.",
+      "authors": "Spero Z, Vazana U, Burg-Golani T, Nyska A",
+      "published": "2026-10-27",
+      "journal": "Toxicologic pathology",
+      "pmid": "42947499",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947499/"
     },
     {
       "title": "Meta-omic insight into the community-level tolerance of the activated sludge to limited-dose ionizing radiation (LimDIR).",
@@ -123,44 +139,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42946188/"
     },
     {
-      "title": "Nursing contributions to the prevention of female genital mutilation in multicultural contexts: A scoping review.",
-      "authors": "Teixeira V, Roquette-Viana C, Figueiredo AS",
+      "title": "Turn Shield into Sword: Pathological Hydroxyapatite-Targeting Micelles Drive Metabolic Stress-Induced Autophagy Dysfunction for Bone Metastasis Therapy.",
+      "authors": "Ye Y, Wang R, Nie S, Liu T, Tian T",
       "published": "2026-10-27",
-      "journal": "Nursing outlook",
-      "pmid": "42945680",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945680/"
-    },
-    {
-      "title": "The analysis of post-mortem fluorescent signatures in discarded cell lysate from DNA extractions: a comparative study between pig and human remains.",
-      "authors": "Elliott CI, Shafer ABA, Forbes SL, Stotesbury T",
-      "published": "2026-10-27",
-      "journal": "The Analyst",
-      "pmid": "42814482",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814482/"
-    },
-    {
-      "title": "Characteristic Facial Expressions During Visual Fixation in Japanese Older Adults With Lower Cognitive Screening Performance: Exploratory Cross-Sectional Study.",
-      "authors": "Miyayama M, Sekiguchi T, Sugimoto H, Kawagoe T, Tripanpitak K",
-      "published": "2026-10-27",
-      "journal": "JMIR formative research",
-      "pmid": "42944647",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944647/"
-    },
-    {
-      "title": "TFXcan reveals transcription factor programs driving GWAS loci.",
-      "authors": "Adeluwa T, Salazar-Magaña S, Sumner S, Gona S, Nyasimi F",
-      "published": "2026-10-27",
-      "journal": "Cell genomics",
-      "pmid": "42945964",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945964/"
-    },
-    {
-      "title": "Immune cell phenotypes across tissues in people with HIV.",
-      "authors": "George AF, Roan NR",
-      "published": "2026-10-27",
-      "journal": "Current opinion in HIV and AIDS",
-      "pmid": "42935439",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42935439/"
+      "journal": "ACS nano",
+      "pmid": "42937568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42937568/"
     },
     {
       "title": "Amygdala vulnerability in Pick disease with discrete frontotemporal dementia syndromes.",
@@ -171,46 +155,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42945950/"
     },
     {
-      "title": "Rapid identification of marijuana using copper-phosphine ion complexation and commercialized paper spray ionization-mass spectrometry.",
-      "authors": "Couch AN, Zall CM, Davidson JT",
-      "published": "2026-10-27",
-      "journal": "Analytical methods : advancing methods and applications",
-      "pmid": "42936871",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936871/"
-    },
-    {
-      "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
-      "authors": "De Meyer S, Tomé SO, Lahaije B, Vanbrabant J, Lambrechts C",
-      "published": "2026-10-27",
-      "journal": "Neurology",
-      "pmid": "42837647",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42837647/"
-    },
-    {
-      "title": "Altered developmental trajectories in neurodevelopmental disorders: mechanisms, human models and translational perspectives.",
-      "authors": "Desprez F, Ung DC",
-      "published": "2026-10-27",
-      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
-      "pmid": "42944849",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944849/"
-    },
-    {
-      "title": "Prevalence of vascular dementia in a population-based autopsy study in Brazil.",
-      "authors": "Ururahy RDR, Leite REP, Matos C, Padrão I, Paes V",
-      "published": "2026-10-27",
-      "journal": "Neuroepidemiology",
-      "pmid": "42945424",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945424/"
-    },
-    {
-      "title": "Differences in functional mobility and body composition between older Thai women with and without mild cognitive impairment: a cross-sectional comparative study.",
-      "authors": "Poncumhak P, Duangsanjun W, Namwong W, Intaruk R",
-      "published": "2026-10-27",
-      "journal": "Korean journal of family medicine",
-      "pmid": "42934840",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934840/"
-    },
-    {
       "title": "Enhanced LAMP-based assay for rapid detection of non-vaccine Streptococcus pneumoniae capsular types in meningitis.",
       "authors": "Kim DW, Kim EJ, Sakai J, Oguchi H, Chang B",
       "published": "2026-10-27",
@@ -219,12 +163,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42937299/"
     },
     {
+      "title": "Immune cell phenotypes across tissues in people with HIV.",
+      "authors": "George AF, Roan NR",
+      "published": "2026-10-27",
+      "journal": "Current opinion in HIV and AIDS",
+      "pmid": "42935439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42935439/"
+    },
+    {
       "title": "Adaptive Cellular Responsiveness to Electrical Stimulation at the Skin-Electrode Interface.",
       "authors": "Chang YJ, Choi SJ, Rahaman KA, Lee TK, Lee G",
       "published": "2026-10-27",
       "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
       "pmid": "42944681",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42944681/"
+    },
+    {
+      "title": "Lipidic obstruction of sinusoids (LOS): a potentially serious complication of steatotic liver disease.",
+      "authors": "Endhardt K, Friemel J, Leblond AL, Lenggenhager D, Müllhaupt B",
+      "published": "2026-10-27",
+      "journal": "Histopathology",
+      "pmid": "42946536",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946536/"
+    },
+    {
+      "title": "Characteristic Facial Expressions During Visual Fixation in Japanese Older Adults With Lower Cognitive Screening Performance: Exploratory Cross-Sectional Study.",
+      "authors": "Miyayama M, Sekiguchi T, Sugimoto H, Kawagoe T, Tripanpitak K",
+      "published": "2026-10-27",
+      "journal": "JMIR formative research",
+      "pmid": "42944647",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944647/"
+    },
+    {
+      "title": "The analysis of post-mortem fluorescent signatures in discarded cell lysate from DNA extractions: a comparative study between pig and human remains.",
+      "authors": "Elliott CI, Shafer ABA, Forbes SL, Stotesbury T",
+      "published": "2026-10-27",
+      "journal": "The Analyst",
+      "pmid": "42814482",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814482/"
+    },
+    {
+      "title": "Forensic digital histopathology datasets as infrastructure for trustworthy artificial intelligence deployment.",
+      "authors": "Pigaiani N, Garavello M, Sharifi S, Oliviero B, Gobbo S",
+      "published": "2026-10-27",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "42944953",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944953/"
+    },
+    {
+      "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
+      "authors": "De Meyer S, Tomé SO, Lahaije B, Vanbrabant J, Lambrechts C",
+      "published": "2026-10-27",
+      "journal": "Neurology",
+      "pmid": "42837647",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837647/"
     },
     {
       "title": "The Role of Nitrous Oxide (\"Laughing Gas\") in DUID Cases and Its Impact on Driving Fitness.",
@@ -241,6 +233,14 @@
       "journal": "Journal of analytical toxicology",
       "pmid": "42937126",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42937126/"
+    },
+    {
+      "title": "Cannula detachment during intraocular surgery: Impact, implications and what the theatre team can do.",
+      "authors": "Alwitry A",
+      "published": "2026-10-27",
+      "journal": "Journal of perioperative practice",
+      "pmid": "42937008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42937008/"
     }
   ]
 }
