@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:02:30.265219+00:00",
+  "updated": "2026-10-29T22:15:04.310168+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -109,8 +109,8 @@
       "journal": "Indian Journal of Forensic Medicine and Pathology",
       "published": "2026-09-30",
       "authors": "Vinod Dhingra, Anu Singla, Neha Ahirwar, Amit Kumar Choudhary, Annwesha Mazumdar, Shashi Shekhar",
-      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.15",
-      "doi": "10.21088/ijfmp.0974.3383.19326.15",
+      "url": "https://doi.org/10.21088/ijfmp.0974.3383.19326.14",
+      "doi": "10.21088/ijfmp.0974.3383.19326.14",
       "source": "Crossref",
       "country": "India"
     },
@@ -235,16 +235,6 @@
       "country": "India"
     },
     {
-      "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-19",
-      "authors": "",
-      "url": "https://doi.org/10.25258/ijddt.16.74s.77",
-      "doi": "10.25258/ijddt.16.74s.77",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
       "journal": "Indian Journal of Medical Ethics",
       "published": "2026-10-14",
@@ -275,16 +265,6 @@
       "country": "India"
     },
     {
-      "title": "Childhood Deaths under Autopsy in South Kerala, 2005–2014: A 10-year Study of Cause and Manner of Death at a Tertiary Care Center",
-      "journal": "Journal of Association of Forensic Medicine Experts",
-      "published": "2026-09-29",
-      "authors": "Jintu Mathews, Sivasuthan S, Jenyz M Mundodan",
-      "url": "https://doi.org/10.5005/jafme-11075-0008",
-      "doi": "10.5005/jafme-11075-0008",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
       "journal": "Journal of Medical Sciences",
       "published": "2026-10-16",
@@ -301,6 +281,26 @@
       "authors": "Manivel Subramani",
       "url": "https://doi.org/10.37506/07f7ht72",
       "doi": "10.37506/07f7ht72",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Observational Analysis of Alcohol in Postmortem Vitreous Humor: A Forensic Perspective",
+      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
+      "published": "2026-10-13",
+      "authors": "Niranjan Sahoo, Yukti Awasarkar, Atul S. Keche, Deeksha Thakur",
+      "url": "https://doi.org/10.37506/1ywggx62",
+      "doi": "10.37506/1ywggx62",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The Need for Standardization of Psychological Autopsy Protocols in India: A Forensic Psychiatry Perspective",
+      "journal": "Medical Journal of Dr. D.Y. Patil Vidyapeeth",
+      "published": "2026-10-09",
+      "authors": "Madhusudan Ramchandra Petkar, Rahul Mohanrao Band, Ajay Laxmanrao Ghangale",
+      "url": "https://doi.org/10.4103/mjdrdypu.mjdrdypu_555_25",
+      "doi": "10.4103/mjdrdypu.mjdrdypu_555_25",
       "source": "Crossref",
       "country": "India"
     }
