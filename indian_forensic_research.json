@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:31:34.999353+00:00",
+  "updated": "2026-10-31T11:29:38.212403+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -21,6 +21,16 @@
       "authors": "Vinay Bannur, Dhivagar K, Ajay V. Patil, Chandrakant Kokatnur, Vijayesh V. Mokal",
       "url": "https://doi.org/10.1177/09710973261495256",
       "doi": "10.1177/09710973261495256",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Another opportunity for India to advance the public interest in research: Copyright reform and a trust label",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-16",
+      "authors": "John Willinsky",
+      "url": "https://doi.org/10.20529/ijme.2026.062",
+      "doi": "10.20529/ijme.2026.062",
       "source": "Crossref",
       "country": "India"
     },
@@ -85,22 +95,42 @@
       "country": "India"
     },
     {
+      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-14",
+      "authors": "Sharon Batt",
+      "url": "https://doi.org/10.20529/ijme.2026.061",
+      "doi": "10.20529/ijme.2026.061",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-08",
+      "authors": "Radhika Hegde, Jisa Ann Thomas",
+      "url": "https://doi.org/10.20529/ijme.2026.060",
+      "doi": "10.20529/ijme.2026.060",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The room with the oranges: Reflections on palliative care, suffering, and becoming a doctor",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-02",
+      "authors": "Nisha VG",
+      "url": "https://doi.org/10.20529/ijme.2026.059",
+      "doi": "10.20529/ijme.2026.059",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
       "journal": "Journal of Medical Sciences",
       "published": "2026-10-16",
       "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
       "url": "https://doi.org/10.51984/7m4bap98",
       "doi": "10.51984/7m4bap98",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
-      "doi": "10.25258/ijddt.16.71s.11",
       "source": "Crossref",
       "country": "India"
     },
