@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-30T21:44:18.485380Z",
+  "updated": "2026-10-31T02:57:39.489963Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "LC-HRMS-Based Metabolic Profiling of the REV-ERB Agonist SR9009 in Camel Liver Homogenate and Cunninghamella elegans for Anti-Doping Analysis.",
-      "authors": "Palathinkal AB, Farook Basha S, Laya S, Nalakath J, Praseen OK",
+      "title": "A focus on microplastics in daily life eateries: identification by FT-IR, AFM, pyrolysis GC/MS and microscopic studies.",
+      "authors": "Sharma A, Sharma GC, Kumar N, Chaturvedi B, Debnath S",
+      "published": "2026-10-31",
+      "journal": "Food research international (Ottawa, Ont.)",
+      "pmid": "42637392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42637392/"
+    },
+    {
+      "title": "Human trafficking and the mental health burden of forced migrants in Germany.",
+      "authors": "Rzepka-Marot I, Dönnhoff I, Kindermann D, Friederich HC, Nikendei C",
       "published": "2026-10-30",
-      "journal": "Rapid communications in mass spectrometry : RCM",
-      "pmid": "42530886",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42530886/"
+      "journal": "Social psychiatry and psychiatric epidemiology",
+      "pmid": "42961502",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961502/"
     },
     {
       "title": "Sex Differences in Suicide Mortality: Epidemiology, Modifying Factors, and Clinical Implications. A Narrative Review.",
@@ -19,12 +27,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42717676/"
     },
     {
-      "title": "Sudden Cardiac Death in Firefighters From the United States: A 16-Year Postmortem Analysis.",
-      "authors": "Petek BJ, Layman AJ, Weller SL, Dean JL, Zurcher G",
+      "title": "Identification of broad-spectrum inhibitors for the cryptic binding site of SARS-CoV-2 NSP1 across multiple variants using molecular dynamics simulation.",
+      "authors": "Lakhera A, Panda SK, Kumar S, Gupta PSS",
       "published": "2026-10-30",
-      "journal": "Journal of the American Heart Association",
-      "pmid": "42960733",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42960733/"
+      "journal": "Journal of molecular modeling",
+      "pmid": "42961675",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961675/"
     },
     {
       "title": "A Dual GC-MS and LC-MS/MS Analytical Strategy for Evaluating Free Chlorine Toxicity in Aqueous Samples.",
@@ -43,36 +51,68 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42957372/"
     },
     {
-      "title": "Developmental pathways to aggression in mental disorders : The child and adolescent perspective of TRR 379.",
-      "authors": "Konrad K, Reindl V, Banaschewski T, Holz N, Chiocchetti AG",
-      "published": "2026-10-29",
-      "journal": "Der Nervenarzt",
-      "pmid": "42957842",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957842/"
+      "title": "β-amyloid precursor protein immunoreactivity in fatal polysubstance poisonings: a neuropathologically examined autopsy case series.",
+      "authors": "Kivelä T, Vauhkonen PK, Koskela R, Kriikku P, Oura P",
+      "published": "2026-10-30",
+      "journal": "International journal of legal medicine",
+      "pmid": "42961654",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961654/"
     },
     {
-      "title": "Alzheimer's pathology mediates arteriolosclerosis and cerebral amyloid angiopathy associations with cognition.",
-      "authors": "Hayes CA, Dharmapuri A, Agwu C, Ramirez V, Newman J",
-      "published": "2026-10-29",
-      "journal": "Brain : a journal of neurology",
-      "pmid": "42953974",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42953974/"
+      "title": "Sudden Cardiac Death in Firefighters From the United States: A 16-Year Postmortem Analysis.",
+      "authors": "Petek BJ, Layman AJ, Weller SL, Dean JL, Zurcher G",
+      "published": "2026-10-30",
+      "journal": "Journal of the American Heart Association",
+      "pmid": "42960733",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960733/"
     },
     {
-      "title": "Glycosylated hypoxic tumour-derived extracellular vesicles as a targeted siRNA delivery system to remodel the immunosuppressive microenvironment in pancreatic cancer.",
-      "authors": "Ren D, Lu F, Zhang G, Yan S, Li T",
-      "published": "2026-10-29",
-      "journal": "Journal of drug targeting",
-      "pmid": "42925099",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925099/"
+      "title": "Serious Patient Safety Incidents in Psychiatric Inpatient Care: A Descriptive Register Study.",
+      "authors": "Ikonen K, Väätäinen L, Lantta T, Ameel M",
+      "published": "2026-10-30",
+      "journal": "Journal of nursing care quality",
+      "pmid": "42962173",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962173/"
     },
     {
-      "title": "Data governance framework for the implementation of automated healthcare-associated infection surveillance using large language models: Privacy-by-design with open-source de-identification pipeline.",
-      "authors": "Vicentini C, Ramondetti L, Citta D, Consoli D, Lagrange Pusterla JCS",
+      "title": "Single-cell epigenomics in plants.",
+      "authors": "Tong C, Liu C, Liang Z, Gu X",
+      "published": "2026-10-30",
+      "journal": "The Plant cell",
+      "pmid": "42777158",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777158/"
+    },
+    {
+      "title": "LC-HRMS-Based Metabolic Profiling of the REV-ERB Agonist SR9009 in Camel Liver Homogenate and Cunninghamella elegans for Anti-Doping Analysis.",
+      "authors": "Palathinkal AB, Farook Basha S, Laya S, Nalakath J, Praseen OK",
+      "published": "2026-10-30",
+      "journal": "Rapid communications in mass spectrometry : RCM",
+      "pmid": "42530886",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530886/"
+    },
+    {
+      "title": "Remodeling of Failed Pulmonary Valve Autografts After the Ross Procedure.",
+      "authors": "Stejskal V, Sokolova T, Sagat J, Vasova B, Hrnciarova L",
+      "published": "2026-10-30",
+      "journal": "Journal of cardiovascular translational research",
+      "pmid": "42961761",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961761/"
+    },
+    {
+      "title": "Identification of peptide epitopes in major antigens of Yersinia pestis from infected humans and immunised mice.",
+      "authors": "Echenique-Rivera H, Simon A, Spadoni JL, Holenya P, Schnatbaum K",
       "published": "2026-10-29",
-      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
-      "pmid": "42956003",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42956003/"
+      "journal": "EBioMedicine",
+      "pmid": "42956539",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956539/"
+    },
+    {
+      "title": "Exploring the Legal Landscape of Intradural Spine Procedures: A Retrospective Analysis of US Malpractice Claims.",
+      "authors": "Stich JL, Walker MX, Videlefsky Z, Golding R, Bases B",
+      "published": "2026-10-29",
+      "journal": "International journal of spine surgery",
+      "pmid": "42728023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728023/"
     },
     {
       "title": "Does time-lapse imaging (TLI) of embryos improve reproductive outcomes in in vitro fertilisation (IVF)/intracytoplasmic sperm injection (ICSI)? Individual participant data (IPD) meta-analysis.",
@@ -83,12 +123,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42955792/"
     },
     {
-      "title": "Hydroxynaphthol Blue-Based Recombinase Polymerase Amplification for the Detection of Plasmodium knowlesi.",
-      "authors": "Lai MY, Abdullah ML, Lau YL",
+      "title": "Developmental pathways to aggression in mental disorders : The child and adolescent perspective of TRR 379.",
+      "authors": "Konrad K, Reindl V, Banaschewski T, Holz N, Chiocchetti AG",
       "published": "2026-10-29",
-      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
-      "pmid": "42955868",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955868/"
+      "journal": "Der Nervenarzt",
+      "pmid": "42957842",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957842/"
+    },
+    {
+      "title": "Oxidative Stress and CO(2) Emissions in Honey Bees Following λ-Cyhalothrin and Azoxystrobin Exposure.",
+      "authors": "Bartosz P, Kuliga A, Kobylarz D, Jankowska M, Grodzicki P",
+      "published": "2026-10-29",
+      "journal": "Environmental toxicology and pharmacology",
+      "pmid": "42956865",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956865/"
     },
     {
       "title": "Metal-organic frameworks for antibiotic removal from water and wastewater.",
@@ -107,22 +155,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42955664/"
     },
     {
-      "title": "Digital Malnutrition Screening in Older Adults: Translating Technological Detection Into Equitable Nutrition-Care Pathways.",
-      "authors": "Garg M, Jayaswal RP, Badyal RK, Choudhary RK",
-      "published": "2026-10-29",
-      "journal": "Current nutrition reports",
-      "pmid": "42955563",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955563/"
-    },
-    {
-      "title": "Global, Regional, and National Burden of Bone Cancers, 1990 to 2023, With Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023.",
-      "authors": "GBD 2023 Bone Cancer Collaborators, Monsereenusorn C, Bisignano C, May ML, Pritchett N",
-      "published": "2026-10-29",
-      "journal": "JAMA oncology",
-      "pmid": "42955027",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955027/"
-    },
-    {
       "title": "Mental health issues among women experiencing domestic violence and their help-seeking behaviour in the WHO South-East Asian Region: a systematic review protocol.",
       "authors": "Ngangom KC, Chandra Sekaran V, Dhyani VS, S A, Kunder MA",
       "published": "2026-10-29",
@@ -131,52 +163,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42957310/"
     },
     {
-      "title": "Cultural Competence in the Modern Slavery Sector in the United Kingdom: A Rapid Scoping Review.",
-      "authors": "Lazzarino R, Murphy C, Brachou A, Papadopoulos I",
+      "title": "Glycosylated hypoxic tumour-derived extracellular vesicles as a targeted siRNA delivery system to remodel the immunosuppressive microenvironment in pancreatic cancer.",
+      "authors": "Ren D, Lu F, Zhang G, Yan S, Li T",
       "published": "2026-10-29",
-      "journal": "Trauma, violence & abuse",
-      "pmid": "42954647",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42954647/"
+      "journal": "Journal of drug targeting",
+      "pmid": "42925099",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925099/"
     },
     {
-      "title": "Association of modified cardiovascular health with long-term all-cause mortality among adults with Ankle-Brachial Index-defined peripheral artery disease: a NHANES 1999-2004 cohort study.",
-      "authors": "Wang M, Wang Y",
+      "title": "Digital Malnutrition Screening in Older Adults: Translating Technological Detection Into Equitable Nutrition-Care Pathways.",
+      "authors": "Garg M, Jayaswal RP, Badyal RK, Choudhary RK",
       "published": "2026-10-29",
-      "journal": "International angiology : a journal of the International Union of Angiology",
-      "pmid": "42954790",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42954790/"
-    },
-    {
-      "title": "Hybrid Graph Neural Network Ensemble with Stacked Meta-Learning for Laboratory-Conditioned Chromatographic Retention-Time Prediction.",
-      "authors": "Wang S, Zhang Q, Liu X, Wang Z, Cheng J",
-      "published": "2026-10-29",
-      "journal": "The journal of physical chemistry. B",
-      "pmid": "42954625",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42954625/"
-    },
-    {
-      "title": "Skull fractures in forensic autopsies: phenomenology and possibilities of biomechanical reconstruction.",
-      "authors": "Pollak S, Große Perdekamp M, Thierauf-Emberger A",
-      "published": "2026-10-29",
-      "journal": "International journal of legal medicine",
-      "pmid": "42955102",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955102/"
-    },
-    {
-      "title": "Expanding amelogenin peptide panels to address target-specific loss in enamel-based sex determination.",
-      "authors": "Gorshkov V, Nielsen KN, Elleskov SN, Pedersen DD, Kjeldsen F",
-      "published": "2026-10-29",
-      "journal": "Methods (San Diego, Calif.)",
-      "pmid": "42957076",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957076/"
-    },
-    {
-      "title": "Oxidative Stress and CO(2) Emissions in Honey Bees Following λ-Cyhalothrin and Azoxystrobin Exposure.",
-      "authors": "Bartosz P, Kuliga A, Kobylarz D, Jankowska M, Grodzicki P",
-      "published": "2026-10-29",
-      "journal": "Environmental toxicology and pharmacology",
-      "pmid": "42956865",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42956865/"
+      "journal": "Current nutrition reports",
+      "pmid": "42955563",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955563/"
     },
     {
       "title": "Accidental regional left subclavian artery perfusion revealed by roller pump-synchronous arterial pressure waveform during ascending aortic cannulation.",
@@ -187,20 +187,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42955116/"
     },
     {
-      "title": "Exploring the Legal Landscape of Intradural Spine Procedures: A Retrospective Analysis of US Malpractice Claims.",
-      "authors": "Stich JL, Walker MX, Videlefsky Z, Golding R, Bases B",
+      "title": "Alzheimer's pathology mediates arteriolosclerosis and cerebral amyloid angiopathy associations with cognition.",
+      "authors": "Hayes CA, Dharmapuri A, Agwu C, Ramirez V, Newman J",
       "published": "2026-10-29",
-      "journal": "International journal of spine surgery",
-      "pmid": "42728023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728023/"
-    },
-    {
-      "title": "Identification of peptide epitopes in major antigens of Yersinia pestis from infected humans and immunised mice.",
-      "authors": "Echenique-Rivera H, Simon A, Spadoni JL, Holenya P, Schnatbaum K",
-      "published": "2026-10-29",
-      "journal": "EBioMedicine",
-      "pmid": "42956539",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42956539/"
+      "journal": "Brain : a journal of neurology",
+      "pmid": "42953974",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953974/"
     },
     {
       "title": "The detection of latent fingermarks on semi-porous substrates with UV-C and the full spectrum imaging system (FSIS-II).",
@@ -211,36 +203,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42952290/"
     },
     {
-      "title": "Metabolite Screening Identifies Potent Antivirals that Mitigate Zika Virus-Induced Ocular Pathology.",
-      "authors": "Singh S, Jeyachandran AV, Daskou M, Zaiss A, Kolge H",
-      "published": "2026-10-28",
-      "journal": "Antiviral research",
-      "pmid": "42951030",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42951030/"
+      "title": "Hydroxynaphthol Blue-Based Recombinase Polymerase Amplification for the Detection of Plasmodium knowlesi.",
+      "authors": "Lai MY, Abdullah ML, Lau YL",
+      "published": "2026-10-29",
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "pmid": "42955868",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955868/"
     },
     {
-      "title": "A description of legislative frameworks for mentally ill offenders found not criminally responsible across Australia and New Zealand.",
-      "authors": "Lu M, Wright B, Trott M, Kisely S, Weller P",
-      "published": "2026-10-28",
-      "journal": "International journal of law and psychiatry",
-      "pmid": "42950391",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950391/"
+      "title": "Expanding amelogenin peptide panels to address target-specific loss in enamel-based sex determination.",
+      "authors": "Gorshkov V, Nielsen KN, Elleskov SN, Pedersen DD, Kjeldsen F",
+      "published": "2026-10-29",
+      "journal": "Methods (San Diego, Calif.)",
+      "pmid": "42957076",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957076/"
     },
     {
-      "title": "The characteristics of perivascular proinflammation in 4-repeat tauopathies.",
-      "authors": "Fu MH, Uruk G, Gatto RG, Reichard RR, Whitwell JL",
-      "published": "2026-10-28",
-      "journal": "Brain pathology (Zurich, Switzerland)",
-      "pmid": "42950799",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950799/"
+      "title": "Global, Regional, and National Burden of Bone Cancers, 1990 to 2023, With Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023.",
+      "authors": "GBD 2023 Bone Cancer Collaborators, Monsereenusorn C, Bisignano C, May ML, Pritchett N",
+      "published": "2026-10-29",
+      "journal": "JAMA oncology",
+      "pmid": "42955027",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955027/"
     },
     {
-      "title": "A DNA Platform-Assisted Cooperative Probe Addresses the Affinity-Selectivity Trade-Off in Hybridization-Based Nucleic Acid Detection at Room Temperature.",
-      "authors": "Bobkova MY, Viskov MA, Zelenin KA, Gorbenko DA, Kolpashchikov DM",
-      "published": "2026-10-28",
-      "journal": "Chembiochem : a European journal of chemical biology",
-      "pmid": "42902930",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42902930/"
+      "title": "Hybrid Graph Neural Network Ensemble with Stacked Meta-Learning for Laboratory-Conditioned Chromatographic Retention-Time Prediction.",
+      "authors": "Wang S, Zhang Q, Liu X, Wang Z, Cheng J",
+      "published": "2026-10-29",
+      "journal": "The journal of physical chemistry. B",
+      "pmid": "42954625",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954625/"
+    },
+    {
+      "title": "Association of modified cardiovascular health with long-term all-cause mortality among adults with Ankle-Brachial Index-defined peripheral artery disease: a NHANES 1999-2004 cohort study.",
+      "authors": "Wang M, Wang Y",
+      "published": "2026-10-29",
+      "journal": "International angiology : a journal of the International Union of Angiology",
+      "pmid": "42954790",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954790/"
     }
   ]
 }
