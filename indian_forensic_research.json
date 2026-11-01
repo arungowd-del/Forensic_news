@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:50:37.752179+00:00",
+  "updated": "2026-11-01T03:38:11.448959+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -155,6 +155,16 @@
       "country": "India"
     },
     {
+      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
+      "journal": "Legal Medicine",
+      "published": "2026-11-01",
+      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
+      "doi": "10.1016/j.legalmed.2026.103040",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Observational Analysis of Alcohol in Postmortem Vitreous Humor: A Forensic Perspective",
       "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
       "published": "2026-10-13",
@@ -165,22 +175,12 @@
       "country": "India"
     },
     {
-      "title": "The Need for Standardization of Psychological Autopsy Protocols in India: A Forensic Psychiatry Perspective",
-      "journal": "Medical Journal of Dr. D.Y. Patil Vidyapeeth",
-      "published": "2026-10-09",
-      "authors": "Madhusudan Ramchandra Petkar, Rahul Mohanrao Band, Ajay Laxmanrao Ghangale",
-      "url": "https://doi.org/10.4103/mjdrdypu.mjdrdypu_555_25",
-      "doi": "10.4103/mjdrdypu.mjdrdypu_555_25",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Triallelic STR patterns in indian parentage testing: Observations from 15,000 consecutive STR profiles",
-      "journal": "Legal Medicine",
-      "published": "2026-10-01",
-      "authors": "Vikash Chandra Mishra, Dinesh Chandra, Anoushka Raina, Ritu Sharma, Diksha Dhuliya, Vimarsh Raina",
-      "url": "https://doi.org/10.1016/j.legalmed.2026.102996",
-      "doi": "10.1016/j.legalmed.2026.102996",
+      "title": "Pattern of Head Injuries among Unhelmeted Motorcycle Riders involved in Fatal Road Traffic Accidents: A Three-Year Retrospective Autopsy-based Study in a Tertiary Care Centre of Karnataka",
+      "journal": "International Journal of Health Sciences and Research",
+      "published": "2026-10-29",
+      "authors": "Yogesh G, Chaitanya R, Ravishankar MG",
+      "url": "https://doi.org/10.52403/ijhsr.20261019",
+      "doi": "10.52403/ijhsr.20261019",
       "source": "Crossref",
       "country": "India"
     },
