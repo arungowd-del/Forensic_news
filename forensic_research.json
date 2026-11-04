@@ -1,23 +1,7 @@
 {
-  "updated": "2026-11-03T22:38:12.049750Z",
+  "updated": "2026-11-04T03:36:53.301103Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Post-mortem and high field MRI and MR spectroscopy insights into the neurobiology of autism.",
-      "authors": "Bakul F, Stallworth H, Deshpande G, Kana RK",
-      "published": "2026-11-03",
-      "journal": "Neuroscience",
-      "pmid": "42668002",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668002/"
-    },
-    {
-      "title": "Genetic architecture of MRI-derived intervertebral DISC degeneration revealed by automated phenotyping and genomic structural equation modelling.",
-      "authors": "Compte R, Kazemi Naeini M, McSweeney T, Freidin MB, Karppinen J",
-      "published": "2026-11-03",
-      "journal": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
-      "pmid": "42975675",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975675/"
-    },
     {
       "title": "Multi-matrix postmortem distribution in fatal venlafaxine-mirtazapine intoxication.",
       "authors": "Camatti J, Verri P, Palazzoli F, Vandelli D, Castagnetti V",
@@ -25,30 +9,6 @@
       "journal": "International journal of legal medicine",
       "pmid": "42972087",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42972087/"
-    },
-    {
-      "title": "Clinical and forensic implications of severe liver injury associated with selective androgen receptor modulators and other performance-enhancing drugs advertised on social media.",
-      "authors": "Cuba L, Hasslinger S, Plieger M, Zaekova A, Ferlitsch M",
-      "published": "2026-11-03",
-      "journal": "Wiener medizinische Wochenschrift (1946)",
-      "pmid": "42975779",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975779/"
-    },
-    {
-      "title": "Cefuroxime combined with metronidazole alleviates sepsis-induced cognitive dysfunction.",
-      "authors": "Luo Y, An M, He J, Luo F, Ma Q",
-      "published": "2026-11-03",
-      "journal": "Neuroscience",
-      "pmid": "42702247",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702247/"
-    },
-    {
-      "title": "Beyond live probiotics: bioactivities, mechanisms, and application perspectives of Lacticaseibacillus rhamnosus cell-free supernatants.",
-      "authors": "Wu R, Ding K, Wang X, Liao C",
-      "published": "2026-11-03",
-      "journal": "World journal of microbiology & biotechnology",
-      "pmid": "42975769",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975769/"
     },
     {
       "title": "Learning from deaths to improve lives: why England still needs a national LeDeR programme.",
@@ -59,22 +19,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42973441/"
     },
     {
-      "title": "Meningioma harboring IDH1 R132H mutation: a case report.",
-      "authors": "Ahn S, Lee C, Park JP, Kim SH",
-      "published": "2026-11-03",
-      "journal": "Journal of pathology and translational medicine",
-      "pmid": "42973145",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42973145/"
-    },
-    {
-      "title": "Suicide following recent psychiatric care: Clinical and medicolegal considerations.",
-      "authors": "Sher L",
-      "published": "2026-11-03",
-      "journal": "Medicine, science, and the law",
-      "pmid": "42974757",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42974757/"
-    },
-    {
       "title": "Nrf2 Immunohistochemical Expression in Stillbirths: A Potential Marker of Early Fetal Hypoxic Stress.",
       "authors": "Bonasoni MP, Camatti J, Santunione AL, Giorgetti A, Ferretti A",
       "published": "2026-11-03",
@@ -83,12 +27,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42973273/"
     },
     {
-      "title": "circEPSTI1 regulates miR-942-5p-SERPINE1-AKT1 signaling axis to enhance dengue infection and is suppressed by Tiplaxtinin.",
-      "authors": "Das N, Krishnamoorthy P, Junghare KR, Raj AS, Saha P",
+      "title": "Clinical and forensic implications of severe liver injury associated with selective androgen receptor modulators and other performance-enhancing drugs advertised on social media.",
+      "authors": "Cuba L, Hasslinger S, Plieger M, Zaekova A, Ferlitsch M",
       "published": "2026-11-03",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "pmid": "42932652",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932652/"
+      "journal": "Wiener medizinische Wochenschrift (1946)",
+      "pmid": "42975779",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975779/"
     },
     {
       "title": "Artificial intelligence-driven pharmacovigilance: transforming signal detection, real-world drug safety monitoring, and regulatory decision-making.",
@@ -99,12 +43,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975625/"
     },
     {
+      "title": "circEPSTI1 regulates miR-942-5p-SERPINE1-AKT1 signaling axis to enhance dengue infection and is suppressed by Tiplaxtinin.",
+      "authors": "Das N, Krishnamoorthy P, Junghare KR, Raj AS, Saha P",
+      "published": "2026-11-03",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42932652",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932652/"
+    },
+    {
       "title": "Comparison of Erect Sitting and Supine MRI Proctography in Women with Pelvic Organ Prolapse and Defecatory Symptoms.",
       "authors": "Tadros M, Lemmon B, Bhide A, Digesu A, Fernando R",
       "published": "2026-11-03",
       "journal": "International urogynecology journal",
       "pmid": "42975586",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975586/"
+    },
+    {
+      "title": "Cefuroxime combined with metronidazole alleviates sepsis-induced cognitive dysfunction.",
+      "authors": "Luo Y, An M, He J, Luo F, Ma Q",
+      "published": "2026-11-03",
+      "journal": "Neuroscience",
+      "pmid": "42702247",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702247/"
     },
     {
       "title": "Bone-targeted nanocarrier systems in osteoporotic therapy: design strategies and therapeutic potential.",
@@ -115,6 +75,46 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975027/"
     },
     {
+      "title": "Genetic architecture of MRI-derived intervertebral DISC degeneration revealed by automated phenotyping and genomic structural equation modelling.",
+      "authors": "Compte R, Kazemi Naeini M, McSweeney T, Freidin MB, Karppinen J",
+      "published": "2026-11-03",
+      "journal": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+      "pmid": "42975675",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975675/"
+    },
+    {
+      "title": "Meningioma harboring IDH1 R132H mutation: a case report.",
+      "authors": "Ahn S, Lee C, Park JP, Kim SH",
+      "published": "2026-11-03",
+      "journal": "Journal of pathology and translational medicine",
+      "pmid": "42973145",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973145/"
+    },
+    {
+      "title": "Beyond live probiotics: bioactivities, mechanisms, and application perspectives of Lacticaseibacillus rhamnosus cell-free supernatants.",
+      "authors": "Wu R, Ding K, Wang X, Liao C",
+      "published": "2026-11-03",
+      "journal": "World journal of microbiology & biotechnology",
+      "pmid": "42975769",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975769/"
+    },
+    {
+      "title": "Suicide following recent psychiatric care: Clinical and medicolegal considerations.",
+      "authors": "Sher L",
+      "published": "2026-11-03",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42974757",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42974757/"
+    },
+    {
+      "title": "Post-mortem and high field MRI and MR spectroscopy insights into the neurobiology of autism.",
+      "authors": "Bakul F, Stallworth H, Deshpande G, Kana RK",
+      "published": "2026-11-03",
+      "journal": "Neuroscience",
+      "pmid": "42668002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668002/"
+    },
+    {
       "title": "Serum selenium, iron and rubidium are altered in treatment-resistant schizophrenia.",
       "authors": "Luza S, Talluri N, Ravanfar P, Lane D, Jakaria M",
       "published": "2026-11-02",
@@ -123,84 +123,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42972008/"
     },
     {
-      "title": "Pneumocystis jirovecii Pneumonia in Adults with Brain Tumors: Treatment-Related Risk, Diagnostic Challenges, and Evidence-Informed Prophylaxis-A Narrative Review.",
-      "authors": "Yang X, Yang C, Li Y, Wang Y, Meng X",
-      "published": "2026-11-02",
-      "journal": "Infectious diseases and therapy",
-      "pmid": "42970042",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970042/"
-    },
-    {
-      "title": "Serious Patient Safety Incidents in Psychiatric Inpatient Care: A Descriptive Register Study.",
-      "authors": "Ikonen K, Väätäinen L, Lantta T, Ameel M",
-      "published": "2026-11-02",
-      "journal": "Journal of nursing care quality",
-      "pmid": "42962173",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962173/"
-    },
-    {
       "title": "LRP2: a proteogenomics pipeline for long-read informed protein isoform analysis and discovery.",
       "authors": "Schertzer MD, Lewandowski JT, Watts EF, Rosenow W, Mehlferber MM",
       "published": "2026-11-02",
       "journal": "Bioinformatics (Oxford, England)",
       "pmid": "42922195",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42922195/"
-    },
-    {
-      "title": "Cytomegalovirus and cancer stem cells: a hidden alliance in tumor progression and therapy resistance.",
-      "authors": "Kumar S, Kumari P, Kumar R, Qamar Z, Dang S",
-      "published": "2026-11-02",
-      "journal": "Molecular biology reports",
-      "pmid": "42970103",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970103/"
-    },
-    {
-      "title": "\"It does feel different when you're seeing a colleague\": A qualitative study of general practitioners' experiences of treating doctor-patients.",
-      "authors": "Hettiarachchi D, Bradfield O, Tayal A, Bismark M",
-      "published": "2026-11-02",
-      "journal": "The British journal of general practice : the journal of the Royal College of General Practitioners",
-      "pmid": "42971715",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42971715/"
-    },
-    {
-      "title": "Self-reported health history from 70,724 individuals reveals novel HLA associations with allergy and other frequently underreported conditions.",
-      "authors": "Boquett JA, Yu-Tseng Lin S, House JS, Ahn KK, Burkholder AB",
-      "published": "2026-11-02",
-      "journal": "The Journal of allergy and clinical immunology",
-      "pmid": "42971482",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42971482/"
-    },
-    {
-      "title": "A Germline Truncating VEGFB Mutation Causes Severe Familial Hyperlipidemia and Impairs Lipid Metabolism.",
-      "authors": "Wang F, Zhao X, Zhao M, Wu X, Fan L",
-      "published": "2026-11-02",
-      "journal": "QJM : monthly journal of the Association of Physicians",
-      "pmid": "42969382",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42969382/"
-    },
-    {
-      "title": "XenoMix: estimating mouse content from DNA methylation data of Patient-Derived Xenograft models.",
-      "authors": "Esmaeelpour N, Mücke O, Altun G, Cornick J, Capone M",
-      "published": "2026-11-02",
-      "journal": "Bioinformatics (Oxford, England)",
-      "pmid": "42905496",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42905496/"
-    },
-    {
-      "title": "Evidence of White Matter R(2)* Homogenization After Formalin Fixation.",
-      "authors": "Bedarf L, Neuhaus D, Bauer M, Berger C, Wendebourg MJ",
-      "published": "2026-11-02",
-      "journal": "Magnetic resonance in medicine",
-      "pmid": "42972606",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972606/"
-    },
-    {
-      "title": "Enantioselective Analysis of Ketamine and Other Substances Commonly Found in \"Pink Cocaine\" Preparations via Capillary Electrophoresis and Liquid Chromatography With Ultraviolet Detection.",
-      "authors": "Sartor L, Schulze L, Greif M, Martin N, Huppertz LM",
-      "published": "2026-11-02",
-      "journal": "Drug testing and analysis",
-      "pmid": "42972946",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972946/"
     },
     {
       "title": "Inhalation Injury: Update on Pathogenesis, Emerging Hazards, and Management.",
@@ -219,12 +147,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42969671/"
     },
     {
-      "title": "Global, regional and national burden of cervical cancer in 1990-2023 with forecasts to 2050: a Global Burden of Disease study.",
-      "authors": "GBD 2023 Cervical Cancer Collaborators",
+      "title": "Evidence of White Matter R(2)* Homogenization After Formalin Fixation.",
+      "authors": "Bedarf L, Neuhaus D, Bauer M, Berger C, Wendebourg MJ",
       "published": "2026-11-02",
-      "journal": "Nature medicine",
-      "pmid": "42972107",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972107/"
+      "journal": "Magnetic resonance in medicine",
+      "pmid": "42972606",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972606/"
+    },
+    {
+      "title": "Self-reported health history from 70,724 individuals reveals novel HLA associations with allergy and other frequently underreported conditions.",
+      "authors": "Boquett JA, Yu-Tseng Lin S, House JS, Ahn KK, Burkholder AB",
+      "published": "2026-11-02",
+      "journal": "The Journal of allergy and clinical immunology",
+      "pmid": "42971482",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971482/"
+    },
+    {
+      "title": "Serious Patient Safety Incidents in Psychiatric Inpatient Care: A Descriptive Register Study.",
+      "authors": "Ikonen K, Väätäinen L, Lantta T, Ameel M",
+      "published": "2026-11-02",
+      "journal": "Journal of nursing care quality",
+      "pmid": "42962173",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962173/"
+    },
+    {
+      "title": "Super-enhancers: regulatory mechanisms, biological functions, diseases, and therapeutic targets.",
+      "authors": "Miao H, Liu Y, Yang K, Gu A, Zhang C",
+      "published": "2026-11-02",
+      "journal": "Molecular biomedicine",
+      "pmid": "42970013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970013/"
     },
     {
       "title": "The relationship between hypostasis and gas detected in postmortem computed tomography and the postmortem interval.",
@@ -235,12 +187,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41320860/"
     },
     {
-      "title": "High legal risk perception despite high medicolegal awareness: a cross-sectional survey of haematologists in Türkiye.",
-      "authors": "Kars TU, Mersin S",
+      "title": "Global, regional and national burden of cervical cancer in 1990-2023 with forecasts to 2050: a Global Burden of Disease study.",
+      "authors": "GBD 2023 Cervical Cancer Collaborators",
       "published": "2026-11-02",
-      "journal": "BMJ open",
-      "pmid": "42971606",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42971606/"
+      "journal": "Nature medicine",
+      "pmid": "42972107",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972107/"
+    },
+    {
+      "title": "Cytomegalovirus and cancer stem cells: a hidden alliance in tumor progression and therapy resistance.",
+      "authors": "Kumar S, Kumari P, Kumar R, Qamar Z, Dang S",
+      "published": "2026-11-02",
+      "journal": "Molecular biology reports",
+      "pmid": "42970103",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970103/"
+    },
+    {
+      "title": "XenoMix: estimating mouse content from DNA methylation data of Patient-Derived Xenograft models.",
+      "authors": "Esmaeelpour N, Mücke O, Altun G, Cornick J, Capone M",
+      "published": "2026-11-02",
+      "journal": "Bioinformatics (Oxford, England)",
+      "pmid": "42905496",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905496/"
+    },
+    {
+      "title": "AxialTAD: an axial contrast architecture for TAD boundary prediction from Hi-C.",
+      "authors": "Choi WY, Rhee JK",
+      "published": "2026-11-02",
+      "journal": "Briefings in bioinformatics",
+      "pmid": "42969852",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969852/"
+    },
+    {
+      "title": "Retrospective Chart Review of Law Enforcement Involvement, Survivor Declination, and Forensic Kit Completion Among Sexual Assault Survivors.",
+      "authors": "Carter GA, Clouse M, Miller WR",
+      "published": "2026-11-02",
+      "journal": "Journal of forensic nursing",
+      "pmid": "42970560",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970560/"
+    },
+    {
+      "title": "Enantioselective Analysis of Ketamine and Other Substances Commonly Found in \"Pink Cocaine\" Preparations via Capillary Electrophoresis and Liquid Chromatography With Ultraviolet Detection.",
+      "authors": "Sartor L, Schulze L, Greif M, Martin N, Huppertz LM",
+      "published": "2026-11-02",
+      "journal": "Drug testing and analysis",
+      "pmid": "42972946",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972946/"
+    },
+    {
+      "title": "Pneumocystis jirovecii Pneumonia in Adults with Brain Tumors: Treatment-Related Risk, Diagnostic Challenges, and Evidence-Informed Prophylaxis-A Narrative Review.",
+      "authors": "Yang X, Yang C, Li Y, Wang Y, Meng X",
+      "published": "2026-11-02",
+      "journal": "Infectious diseases and therapy",
+      "pmid": "42970042",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970042/"
     }
   ]
 }
