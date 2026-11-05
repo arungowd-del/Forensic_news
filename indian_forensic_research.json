@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T13:47:54.921479+00:00",
+  "updated": "2026-11-05T23:06:16.107579+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -55,26 +55,6 @@
       "country": "India"
     },
     {
-      "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-19",
-      "authors": "",
-      "url": "https://doi.org/10.25258/ijddt.16.74s.77",
-      "doi": "10.25258/ijddt.16.74s.77",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Autopsy Findings in Pressure over Neck Deaths: A Cross-Sectional Autopsy Study from Western India",
-      "journal": "",
-      "published": "2026-11-04",
-      "authors": "HARDIK UPADHYAY, DEVKISHAN AHIR, CHANDRESH TAILOR, JIGNESH PATEL, PRATIK PATEL",
-      "url": "https://doi.org/10.21203/rs.3.rs-11212935/v1",
-      "doi": "10.21203/rs.3.rs-11212935/v1",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
       "journal": "Journal of Medical Sciences",
       "published": "2026-10-16",
@@ -105,22 +85,22 @@
       "country": "India"
     },
     {
+      "title": "Perspectives of Medical Practitioners in India on Medicolegal Teleguidance by Forensic Medical Experts: A Mixed-Methods Approach",
+      "journal": "Cureus",
+      "published": "2026-11-05",
+      "authors": "Mukesh R, Amaravathi Uthayakumar, Ambika Prasad Patra, Gautam Roy, Kumaran M",
+      "url": "https://doi.org/10.7759/cureus.119177",
+      "doi": "10.7759/cureus.119177",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "Evolution of crimes against women and related criminal law reforms in India: emerging trends and the expanding role of forensic medicine specialists",
       "journal": "IP International Journal of Forensic Medicine and Toxicological Sciences",
       "published": "2026-11-02",
       "authors": "A Veeravijayan, L R A Suryaprakash, S. Ramalingam",
       "url": "https://doi.org/10.18231/j.ijfmts.19173.1792481549",
       "doi": "10.18231/j.ijfmts.19173.1792481549",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
-      "journal": "Legal Medicine",
-      "published": "2026-11-01",
-      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
-      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
-      "doi": "10.1016/j.legalmed.2026.103040",
       "source": "Crossref",
       "country": "India"
     },
