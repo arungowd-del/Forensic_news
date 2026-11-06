@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-06T13:20:46.693054Z",
+  "updated": "2026-11-06T22:28:14.872841Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Building trust before building a program: community lessons from the last gift HIV end-of-life research program.",
-      "authors": "Dullano C, Dickerson S, Taylor J, Kaytes A",
-      "published": "2026-11-06",
-      "journal": "Current opinion in HIV and AIDS",
-      "pmid": "42989935",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989935/"
-    },
     {
       "title": "Detection of common neonatal sepsis pathogens using a contemporary pediatric blood culture system.",
       "authors": "Faugno A, Strunk T, MacKay C, Joubert IA, Peck A",
@@ -19,28 +11,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988897/"
     },
     {
-      "title": "Population genetic analysis of 23 autosomal STR loci in northwestern Türkiye (Bursa).",
-      "authors": "Degerli I, Kiyak S, Yurekli Y, Korkmaz M",
+      "title": "Postmortem femoral venous blood concentrations, redistribution and toxicity of duloxetine.",
+      "authors": "Ketola RA, Häkkinen M",
       "published": "2026-11-06",
-      "journal": "International journal of legal medicine",
-      "pmid": "42988948",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988948/"
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42992942",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992942/"
     },
     {
-      "title": "Mapping HIV reservoir geography: lessons for cure from the Last Gift rapid autopsy cohort.",
-      "authors": "Birabaharan M, Immer A, Gomez AN, Valdes D, Smith DM",
+      "title": "Bacterial community response to postmortem changes predicts the causes of death and postmortem interval.",
+      "authors": "Zhao J, Su Q, Wang S, Liao X, Li Q",
       "published": "2026-11-06",
-      "journal": "Current opinion in HIV and AIDS",
-      "pmid": "42989938",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989938/"
-    },
-    {
-      "title": "Case series: odontological identification using post-mortem CT in charred victims after a fatal road traffic accident: contribution of the extended Hounsfield unit scale.",
-      "authors": "Fournier G, Deny O, Maret D, Dédouit F",
-      "published": "2026-11-06",
-      "journal": "International journal of legal medicine",
-      "pmid": "42988949",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988949/"
+      "journal": "Medicine, science, and the law",
+      "pmid": "42992414",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992414/"
     },
     {
       "title": "AI for reducing claims and compensation payments from missed fractures on radiographs.",
@@ -59,124 +43,84 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989941/"
     },
     {
-      "title": "Genome-Wide Association Study Meta-Analysis of Central Serous Chorioretinopathy.",
-      "authors": "Chen L, Kim SHF, Truong B, Rämö JT, Gorman BR",
-      "published": "2026-11-05",
-      "journal": "JAMA ophthalmology",
-      "pmid": "42986610",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42986610/"
+      "title": "Incidence and risk factors of acute respiratory illness associated with influenza, COVID-19, and respiratory syncytial virus within a birth cohort study.",
+      "authors": "Bird B, Thorn L, Aminisani N, Wood T, Seeds R",
+      "published": "2026-11-06",
+      "journal": "Journal of virology",
+      "pmid": "42992825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992825/"
     },
     {
-      "title": "Greater adoption of artificial intelligent tools requires resolution of the liability conundrum.",
-      "authors": "Scott IA, van der Vegt A, Douglas P, Freckelton I",
-      "published": "2026-11-05",
-      "journal": "Australian health review : a publication of the Australian Hospital Association",
-      "pmid": "42933374",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42933374/"
+      "title": "Regulatory uncertainty in management of individuals with intersex traits in Italy: A medico-legal and bioethical perspective.",
+      "authors": "Cioffi A, Cioffi F, De Simone S, Cipolloni L, Cecannecchia C",
+      "published": "2026-11-06",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42992392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992392/"
     },
     {
-      "title": "Predictive modeling of post-blast TNT residue recovery using semi-quantitative LC-MS/MS data and machine learning.",
-      "authors": "Kulahlioglu N, Tuysuz O, Memis ES, Cimtay Y, Goren IE",
-      "published": "2026-11-05",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42984455",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42984455/"
-    },
-    {
-      "title": "STRhub: an open-access educational platform for CE and NGS STR data exploration in forensic genetics.",
-      "authors": "Frontanilla TS, Kobachuk LDG, Ayala J, Mendes-Junior CT",
-      "published": "2026-11-05",
+      "title": "Case series: odontological identification using post-mortem CT in charred victims after a fatal road traffic accident: contribution of the extended Hounsfield unit scale.",
+      "authors": "Fournier G, Deny O, Maret D, Dédouit F",
+      "published": "2026-11-06",
       "journal": "International journal of legal medicine",
-      "pmid": "42983068",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983068/"
+      "pmid": "42988949",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988949/"
     },
     {
-      "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
-      "authors": "Kiene F, Wagener MG, Röhrig P, Ganter M",
-      "published": "2026-11-05",
-      "journal": "BMC veterinary research",
-      "pmid": "42983717",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983717/"
+      "title": "Population genetic analysis of 23 autosomal STR loci in northwestern Türkiye (Bursa).",
+      "authors": "Degerli I, Kiyak S, Yurekli Y, Korkmaz M",
+      "published": "2026-11-06",
+      "journal": "International journal of legal medicine",
+      "pmid": "42988948",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988948/"
     },
     {
-      "title": "A human health risk assessment of heavy metal ingestion from ayurvedic medicines among New Zealand consumers.",
-      "authors": "Gautam A, Hopley T",
-      "published": "2026-11-05",
-      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
-      "pmid": "42988309",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988309/"
+      "title": "Target engagement without clinical benefit: a systematic review, mechanism-concordant meta-analysis, and research agenda for Parkinson's disease immunotherapy.",
+      "authors": "Zhou X, Richard SA, Lan Z, Madhusudan S, Zhang R",
+      "published": "2026-11-06",
+      "journal": "Immunotherapy",
+      "pmid": "42992461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992461/"
     },
     {
-      "title": "Automated positive-pressure peptide desalting yields equivalent performance to traditional StageTips for TMT and LFQ-based proteomics.",
-      "authors": "Yang K, Schroeter CB, Paulo JA",
-      "published": "2026-11-05",
-      "journal": "Journal of proteomics",
-      "pmid": "42988332",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988332/"
+      "title": "The anatomy of female homicide: Psychiatric and criminal profiles of women offenders in Türkiye.",
+      "authors": "Boylu ME, Şahin HÇ, Alan E, Kirbiyik F, Boylu FB",
+      "published": "2026-11-06",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42992404",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992404/"
     },
     {
-      "title": "Beyond CD4⁺/CD8⁺: NK-Cell PD-L1 Expression and Adaptive Immune Checkpoint Profiles in People with HIV.",
-      "authors": "Aksak-Wąs B, Skonieczna-Żydecka K, Cembrowska-Lech D, Parczewski M, Lewandowski F",
-      "published": "2026-11-05",
-      "journal": "Immunology letters",
-      "pmid": "42987984",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42987984/"
+      "title": "Hyoid fracture and judicial outcomes in alleged strangulation deaths: Mixed-methods analysis of Indian High Court and Supreme Court judgments (2024-2025).",
+      "authors": "D'Souza DH, Kumar A, Pal S, D'Souza JM",
+      "published": "2026-11-06",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42992379",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992379/"
     },
     {
-      "title": "Forensically significant microbial community responses to aboveground cadaver decomposition in Southeast Texas soils.",
-      "authors": "Nieciecki V, Edwards E, Seitz VA, Emmons AL, Belk A",
+      "title": "Mapping HIV reservoir geography: lessons for cure from the Last Gift rapid autopsy cohort.",
+      "authors": "Birabaharan M, Immer A, Gomez AN, Valdes D, Smith DM",
+      "published": "2026-11-06",
+      "journal": "Current opinion in HIV and AIDS",
+      "pmid": "42989938",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989938/"
+    },
+    {
+      "title": "Building trust before building a program: community lessons from the last gift HIV end-of-life research program.",
+      "authors": "Dullano C, Dickerson S, Taylor J, Kaytes A",
+      "published": "2026-11-06",
+      "journal": "Current opinion in HIV and AIDS",
+      "pmid": "42989935",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989935/"
+    },
+    {
+      "title": "Development of solvent-mediated tape separation technology for fingerprint restoration and STR-based genetic analysis.",
+      "authors": "Kim SL, Lee H, Kim M, Nam H, Jung J",
       "published": "2026-11-05",
       "journal": "Journal of forensic sciences",
-      "pmid": "42984465",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42984465/"
-    },
-    {
-      "title": "Medicolegal considerations in Physical Employment Standards: balancing safety and equality.",
-      "authors": "Stevenson RDM, Williams AN, Bilzon JLJ",
-      "published": "2026-11-05",
-      "journal": "Occupational medicine (Oxford, England)",
-      "pmid": "42986714",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42986714/"
-    },
-    {
-      "title": "Accurate detection of sub-1% frequency somatic mutations by whole-genome sequencing.",
-      "authors": "Jang Y, Gardiner S, Wang Y, Natu A, Dehankar MK",
-      "published": "2026-11-05",
-      "journal": "American journal of human genetics",
-      "pmid": "42880293",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42880293/"
-    },
-    {
-      "title": "A cell type transcriptome atlas for human pituitary, adrenal, thyroid and minor salivary glands.",
-      "authors": "Dusart P, Struck E, Zwahlen M, von Feilitzen K, Pontén F",
-      "published": "2026-11-05",
-      "journal": "BMC genomics",
-      "pmid": "42989088",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989088/"
-    },
-    {
-      "title": "Forensic Dermatology of Tattoos: Part 3A. Cutaneous Diseases and Infections with Tattoos in a Forensic Setting.",
-      "authors": "Cohen PR",
-      "published": "2026-11-05",
-      "journal": "Clinics in dermatology",
-      "pmid": "42988342",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988342/"
-    },
-    {
-      "title": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
-      "authors": "Kuzkina A, Rodriguez D, Panzer C, Ndayisaba A, Kohl A",
-      "published": "2026-11-05",
-      "journal": "Movement disorders : official journal of the Movement Disorder Society",
-      "pmid": "42984461",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42984461/"
-    },
-    {
-      "title": "Is Phototherapy and Photodynamic Therapy Associated With High Medico-legal Risk? An Analysis of Canadian Medico-Legal Trends.",
-      "authors": "Deng Y, Kalia S, Toy J, Liu C, Payant L",
-      "published": "2026-11-05",
-      "journal": "Journal of cutaneous medicine and surgery",
-      "pmid": "42989456",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989456/"
+      "pmid": "42984467",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984467/"
     },
     {
       "title": "Predictive Performance of the Glasgow Coma Scale Motor Score for 7-Day In-Hospital Mortality Among Patients with Traumatic Brain Injury in Western Cape, South Africa.",
@@ -187,6 +131,22 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988155/"
     },
     {
+      "title": "A human health risk assessment of heavy metal ingestion from ayurvedic medicines among New Zealand consumers.",
+      "authors": "Gautam A, Hopley T",
+      "published": "2026-11-05",
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "pmid": "42988309",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988309/"
+    },
+    {
+      "title": "Pupal age estimation of Dermestes maculatus (Coleoptera: Dermestidae) using hyperspectral imaging and machine learning.",
+      "authors": "Tian L, Wang J, Miao S, Zhang X, Wu H",
+      "published": "2026-11-05",
+      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "pmid": "42068912",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42068912/"
+    },
+    {
       "title": "Thrombospondin 2 Promotes Neuropathic Pain by Mediating Nav1.7 Membrane Anchoring in Mouse Primary Sensory Neurons.",
       "authors": "Wei J, Wang Y, Zhao ZX, Chen H, Chang S",
       "published": "2026-11-05",
@@ -195,28 +155,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988964/"
     },
     {
-      "title": "The impact of attire on patient approval of staff in psychiatric services: a randomised survey experiment.",
-      "authors": "Østergaard SD, Hjuler RS, Ørberg A, Kølbæk P, Perfalk E",
+      "title": "Automated positive-pressure peptide desalting yields equivalent performance to traditional StageTips for TMT and LFQ-based proteomics.",
+      "authors": "Yang K, Schroeter CB, Paulo JA",
       "published": "2026-11-05",
-      "journal": "Acta neuropsychiatrica",
-      "pmid": "42983954",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983954/"
-    },
-    {
-      "title": "Autonomous Agricultural Robot Framework featuring Temporal Dynamic Graph Neural Network based Semantic Segmentation coupled with Novel Navigation Line Extraction for efficient field operation and intelligent decision making.",
-      "authors": "Kirubakaran S, Renu Deepti S, Kumar Sekhar Y, Nagababu K, Al Said N",
-      "published": "2026-11-05",
-      "journal": "Pest management science",
-      "pmid": "42984308",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42984308/"
-    },
-    {
-      "title": "Atherosclerotic plaque healing: mechanisms and clinical relevance.",
-      "authors": "Buonpane A, De Caterina AR, Porto I, Crea F, Vergallo R",
-      "published": "2026-11-05",
-      "journal": "European heart journal",
-      "pmid": "42986702",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42986702/"
+      "journal": "Journal of proteomics",
+      "pmid": "42988332",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988332/"
     },
     {
       "title": "Early and Extensive Degeneration of Sensory Neurons in Spinocerebellar Ataxia Type 3.",
@@ -227,6 +171,30 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42984350/"
     },
     {
+      "title": "The impact of attire on patient approval of staff in psychiatric services: a randomised survey experiment.",
+      "authors": "Østergaard SD, Hjuler RS, Ørberg A, Kølbæk P, Perfalk E",
+      "published": "2026-11-05",
+      "journal": "Acta neuropsychiatrica",
+      "pmid": "42983954",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983954/"
+    },
+    {
+      "title": "Beyond CD4⁺/CD8⁺: NK-Cell PD-L1 Expression and Adaptive Immune Checkpoint Profiles in People with HIV.",
+      "authors": "Aksak-Wąs B, Skonieczna-Żydecka K, Cembrowska-Lech D, Parczewski M, Lewandowski F",
+      "published": "2026-11-05",
+      "journal": "Immunology letters",
+      "pmid": "42987984",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987984/"
+    },
+    {
+      "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
+      "authors": "Kiene F, Wagener MG, Röhrig P, Ganter M",
+      "published": "2026-11-05",
+      "journal": "BMC veterinary research",
+      "pmid": "42983717",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983717/"
+    },
+    {
       "title": "Brainhack Rome 2025: connecting the dots between structure and function.",
       "authors": "Mancini M, Guidi M, Maiuro A, Palombo M, d'Andrea E",
       "published": "2026-11-05",
@@ -235,12 +203,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42986476/"
     },
     {
+      "title": "Forensically significant microbial community responses to aboveground cadaver decomposition in Southeast Texas soils.",
+      "authors": "Nieciecki V, Edwards E, Seitz VA, Emmons AL, Belk A",
+      "published": "2026-11-05",
+      "journal": "Journal of forensic sciences",
+      "pmid": "42984465",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984465/"
+    },
+    {
       "title": "Ketone bodies and heart failure: A dual paradox from metabolic adaptation to therapeutic target.",
       "authors": "Hao L, Zhang Q, Gao RK, Du ZX, Wang HQ",
       "published": "2026-11-05",
       "journal": "Metabolism: clinical and experimental",
       "pmid": "42988152",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988152/"
+    },
+    {
+      "title": "A cell type transcriptome atlas for human pituitary, adrenal, thyroid and minor salivary glands.",
+      "authors": "Dusart P, Struck E, Zwahlen M, von Feilitzen K, Pontén F",
+      "published": "2026-11-05",
+      "journal": "BMC genomics",
+      "pmid": "42989088",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989088/"
+    },
+    {
+      "title": "CKMT1 Counteracts VDAC1 Oligomerization-Induced Neuronal Pyroptosis Through Steric Hindrance in Ischemic Stroke.",
+      "authors": "Wang X, Shi S, Wu J, Zhang J, Li S",
+      "published": "2026-11-05",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42985831",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985831/"
+    },
+    {
+      "title": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
+      "authors": "Kuzkina A, Rodriguez D, Panzer C, Ndayisaba A, Kohl A",
+      "published": "2026-11-05",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "pmid": "42984461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984461/"
     }
   ]
 }
