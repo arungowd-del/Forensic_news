@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T21:16:08.749465+00:00",
+  "updated": "2026-11-08T03:42:14.263922+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -75,6 +75,16 @@
       "country": "India"
     },
     {
+      "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
+      "journal": "International Journal of Drug Delivery Technology",
+      "published": "2026-10-19",
+      "authors": "",
+      "url": "https://doi.org/10.25258/ijddt.16.74s.77",
+      "doi": "10.25258/ijddt.16.74s.77",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
       "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
       "journal": "Indian Journal of Medical Ethics",
       "published": "2026-10-14",
@@ -85,12 +95,12 @@
       "country": "India"
     },
     {
-      "title": "Preserving institutional memory: Reading the Annals of GS Medical College and KEM Hospital",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-08",
-      "authors": "Radhika Hegde, Jisa Ann Thomas",
-      "url": "https://doi.org/10.20529/ijme.2026.060",
-      "doi": "10.20529/ijme.2026.060",
+      "title": "Autopsy Findings in Pressure over Neck Deaths: A Cross-Sectional Autopsy Study from Western India",
+      "journal": "",
+      "published": "2026-11-04",
+      "authors": "HARDIK UPADHYAY, DEVKISHAN AHIR, CHANDRESH TAILOR, JIGNESH PATEL, PRATIK PATEL",
+      "url": "https://doi.org/10.21203/rs.3.rs-11212935/v1",
+      "doi": "10.21203/rs.3.rs-11212935/v1",
       "source": "Crossref",
       "country": "India"
     },
@@ -101,6 +111,16 @@
       "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
       "url": "https://doi.org/10.51984/7m4bap98",
       "doi": "10.51984/7m4bap98",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
+      "journal": "International Journal of Drug Delivery Technology",
+      "published": "2026-10-15",
+      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohli, K. k. Aggarwal",
+      "url": "https://doi.org/10.25258/ijddt.16.70s.38",
+      "doi": "10.25258/ijddt.16.70s.38",
       "source": "Crossref",
       "country": "India"
     },
@@ -141,6 +161,16 @@
       "authors": "A Veeravijayan, L R A Suryaprakash, S. Ramalingam",
       "url": "https://doi.org/10.18231/j.ijfmts.19173.1792481549",
       "doi": "10.18231/j.ijfmts.19173.1792481549",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
+      "journal": "Legal Medicine",
+      "published": "2026-11-01",
+      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
+      "doi": "10.1016/j.legalmed.2026.103040",
       "source": "Crossref",
       "country": "India"
     },
