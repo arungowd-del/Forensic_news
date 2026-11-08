@@ -1,30 +1,54 @@
 {
-  "updated": "2026-11-07T21:09:35.053729Z",
+  "updated": "2026-11-08T02:57:21.297956Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Genetic and phenotypic landscape of hypertrophic cardiomyopathy in the MENA region: a systematic review.",
-      "authors": "Iqbal S, Syauqi K, Alsaiqal A, Hasan A, Aldosari WR",
+      "title": "Pathology of the Parietal Pericardium: A Consensus Statement on Pericardial Disease from the Society for Cardiovascular Pathology and the Association for European Cardiovascular Pathology.",
+      "authors": "Tan CD, Preston SD, Basso C, Bois MC, Casimero FVC",
       "published": "2026-11-06",
-      "journal": "Journal of community genetics",
-      "pmid": "42993355",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993355/"
+      "journal": "Cardiovascular pathology : the official journal of the Society for Cardiovascular Pathology",
+      "pmid": "42994658",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994658/"
     },
     {
-      "title": "Mapping HIV reservoir geography: lessons for cure from the Last Gift rapid autopsy cohort.",
-      "authors": "Birabaharan M, Immer A, Gomez AN, Valdes D, Smith DM",
+      "title": "Target engagement without clinical benefit: a systematic review, mechanism-concordant meta-analysis, and research agenda for Parkinson's disease immunotherapy.",
+      "authors": "Zhou X, Richard SA, Lan Z, Madhusudan S, Zhang R",
       "published": "2026-11-06",
-      "journal": "Current opinion in HIV and AIDS",
-      "pmid": "42989938",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989938/"
+      "journal": "Immunotherapy",
+      "pmid": "42992461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992461/"
     },
     {
-      "title": "The last gift cohort: advancing HIV reservoir research through single-cell and spatial approaches.",
-      "authors": "Stephens VR, Beliakova-Bethell N, Wanjalla CN",
+      "title": "Bacterial community response to postmortem changes predicts the causes of death and postmortem interval.",
+      "authors": "Zhao J, Su Q, Wang S, Liao X, Li Q",
       "published": "2026-11-06",
-      "journal": "Current opinion in HIV and AIDS",
-      "pmid": "42993677",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993677/"
+      "journal": "Medicine, science, and the law",
+      "pmid": "42992414",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992414/"
+    },
+    {
+      "title": "Hyoid fracture and judicial outcomes in alleged strangulation deaths: Mixed-methods analysis of Indian High Court and Supreme Court judgments (2024-2025).",
+      "authors": "D'Souza DH, Kumar A, Pal S, D'Souza JM",
+      "published": "2026-11-06",
+      "journal": "Medicine, science, and the law",
+      "pmid": "42992379",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992379/"
+    },
+    {
+      "title": "Potential dietary exposure to bromoform from its use as a methane inhibitor.",
+      "authors": "Cressey PJ",
+      "published": "2026-11-06",
+      "journal": "Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment",
+      "pmid": "42993617",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993617/"
+    },
+    {
+      "title": "Evaluation of Volumetric Absorptive Microsampling as an Alternative Matrix for Therapeutic Drug Monitoring of Antiseizure Medications: A Robust Clinical Validation Study.",
+      "authors": "Cobo-Golpe M, Lendoiro E, Blanco-Ces M, Melcón C, Abella J",
+      "published": "2026-11-06",
+      "journal": "Therapeutic drug monitoring",
+      "pmid": "42993815",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993815/"
     },
     {
       "title": "Case series: odontological identification using post-mortem CT in charred victims after a fatal road traffic accident: contribution of the extended Hounsfield unit scale.",
@@ -33,6 +57,14 @@
       "journal": "International journal of legal medicine",
       "pmid": "42988949",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988949/"
+    },
+    {
+      "title": "Disproportionality analysis of ventricular extrasystoles reported with semaglutide in VigiBase and the FDA Adverse Event Monitoring System.",
+      "authors": "Wu D, Yang R, Zeng J, Bai Z, Zhang C",
+      "published": "2026-11-06",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "pmid": "42993217",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993217/"
     },
     {
       "title": "Recommendations for the Examination, Processing, and Reporting of Non-neoplastic Pericardial Diseases: A Consensus Statement on Pericardial Disease from the Society for Cardiovascular Pathology and the Association for European Cardiovascular Pathology.",
@@ -51,14 +83,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988897/"
     },
     {
-      "title": "Target engagement without clinical benefit: a systematic review, mechanism-concordant meta-analysis, and research agenda for Parkinson's disease immunotherapy.",
-      "authors": "Zhou X, Richard SA, Lan Z, Madhusudan S, Zhang R",
-      "published": "2026-11-06",
-      "journal": "Immunotherapy",
-      "pmid": "42992461",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992461/"
-    },
-    {
       "title": "AI for reducing claims and compensation payments from missed fractures on radiographs.",
       "authors": "Tordjman M, Gracia L, Guillo E, Amar R, Ventre J",
       "published": "2026-11-06",
@@ -67,36 +91,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42988990/"
     },
     {
-      "title": "Evaluation of Volumetric Absorptive Microsampling as an Alternative Matrix for Therapeutic Drug Monitoring of Antiseizure Medications: A Robust Clinical Validation Study.",
-      "authors": "Cobo-Golpe M, Lendoiro E, Blanco-Ces M, Melcón C, Abella J",
+      "title": "Feasibility of reducing Angiofil(®) concentration in multiphase postmortem CT angiography and implications for iodine consumption and environmental sustainability : an observational study.",
+      "authors": "Bruguier C, Genet P, Grabherr S, Magnin V",
       "published": "2026-11-06",
-      "journal": "Therapeutic drug monitoring",
-      "pmid": "42993815",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993815/"
-    },
-    {
-      "title": "Disproportionality analysis of ventricular extrasystoles reported with semaglutide in VigiBase and the FDA Adverse Event Monitoring System.",
-      "authors": "Wu D, Yang R, Zeng J, Bai Z, Zhang C",
-      "published": "2026-11-06",
-      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-      "pmid": "42993217",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993217/"
-    },
-    {
-      "title": "\"Where's Daddy?\": attachment and the language of AI-assisted weapons targeting.",
-      "authors": "Asan Ö",
-      "published": "2026-11-06",
-      "journal": "The lancet. Psychiatry",
-      "pmid": "42994445",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994445/"
-    },
-    {
-      "title": "Bacterial community response to postmortem changes predicts the causes of death and postmortem interval.",
-      "authors": "Zhao J, Su Q, Wang S, Liao X, Li Q",
-      "published": "2026-11-06",
-      "journal": "Medicine, science, and the law",
-      "pmid": "42992414",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992414/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42993287",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993287/"
     },
     {
       "title": "Mumps is rising in Khyber Pakhtunkhwa, Pakistan, under a measles-rubella-only schedule: weekly surveillance data, 2023 to 2026.",
@@ -107,12 +107,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42994509/"
     },
     {
-      "title": "Postmortem femoral venous blood concentrations, redistribution and toxicity of duloxetine.",
-      "authors": "Ketola RA, Häkkinen M",
+      "title": "Regulatory uncertainty in management of individuals with intersex traits in Italy: A medico-legal and bioethical perspective.",
+      "authors": "Cioffi A, Cioffi F, De Simone S, Cipolloni L, Cecannecchia C",
       "published": "2026-11-06",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "42992942",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992942/"
+      "journal": "Medicine, science, and the law",
+      "pmid": "42992392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992392/"
     },
     {
       "title": "Incidence and risk factors of acute respiratory illness associated with influenza, COVID-19, and respiratory syncytial virus within a birth cohort study.",
@@ -121,6 +121,22 @@
       "journal": "Journal of virology",
       "pmid": "42992825",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992825/"
+    },
+    {
+      "title": "The last gift cohort: advancing HIV reservoir research through single-cell and spatial approaches.",
+      "authors": "Stephens VR, Beliakova-Bethell N, Wanjalla CN",
+      "published": "2026-11-06",
+      "journal": "Current opinion in HIV and AIDS",
+      "pmid": "42993677",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993677/"
+    },
+    {
+      "title": "The tibialis posterior tendon revisited: a classification-based anatomical and radiological framework.",
+      "authors": "Olewnik Ł, Landfald IC, Łabętowicz P, Aragonés P",
+      "published": "2026-11-06",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "pmid": "42993253",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993253/"
     },
     {
       "title": "Public willingness to undergo pathological autopsy and autopsy imaging across different death scenarios: a cross-sectional survey in Japan.",
@@ -139,12 +155,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42992404/"
     },
     {
-      "title": "Pathology of the Parietal Pericardium: A Consensus Statement on Pericardial Disease from the Society for Cardiovascular Pathology and the Association for European Cardiovascular Pathology.",
-      "authors": "Tan CD, Preston SD, Basso C, Bois MC, Casimero FVC",
+      "title": "Population genetic analysis of 23 autosomal STR loci in northwestern Türkiye (Bursa).",
+      "authors": "Degerli I, Kiyak S, Yurekli Y, Korkmaz M",
       "published": "2026-11-06",
-      "journal": "Cardiovascular pathology : the official journal of the Society for Cardiovascular Pathology",
-      "pmid": "42994658",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994658/"
+      "journal": "International journal of legal medicine",
+      "pmid": "42988948",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988948/"
     },
     {
       "title": "Building trust before building a program: community lessons from the last gift HIV end-of-life research program.",
@@ -155,28 +171,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989935/"
     },
     {
-      "title": "Potential dietary exposure to bromoform from its use as a methane inhibitor.",
-      "authors": "Cressey PJ",
+      "title": "Postmortem femoral venous blood concentrations, redistribution and toxicity of duloxetine.",
+      "authors": "Ketola RA, Häkkinen M",
       "published": "2026-11-06",
-      "journal": "Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment",
-      "pmid": "42993617",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993617/"
+      "journal": "Journal of analytical toxicology",
+      "pmid": "42992942",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992942/"
     },
     {
-      "title": "Hyoid fracture and judicial outcomes in alleged strangulation deaths: Mixed-methods analysis of Indian High Court and Supreme Court judgments (2024-2025).",
-      "authors": "D'Souza DH, Kumar A, Pal S, D'Souza JM",
+      "title": "Genetic and phenotypic landscape of hypertrophic cardiomyopathy in the MENA region: a systematic review.",
+      "authors": "Iqbal S, Syauqi K, Alsaiqal A, Hasan A, Aldosari WR",
       "published": "2026-11-06",
-      "journal": "Medicine, science, and the law",
-      "pmid": "42992379",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992379/"
-    },
-    {
-      "title": "Regulatory uncertainty in management of individuals with intersex traits in Italy: A medico-legal and bioethical perspective.",
-      "authors": "Cioffi A, Cioffi F, De Simone S, Cipolloni L, Cecannecchia C",
-      "published": "2026-11-06",
-      "journal": "Medicine, science, and the law",
-      "pmid": "42992392",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992392/"
+      "journal": "Journal of community genetics",
+      "pmid": "42993355",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993355/"
     },
     {
       "title": "Operationalizing rapid research autopsy: lessons learned from the Last Gift program.",
@@ -187,12 +195,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989941/"
     },
     {
-      "title": "The tibialis posterior tendon revisited: a classification-based anatomical and radiological framework.",
-      "authors": "Olewnik Ł, Landfald IC, Łabętowicz P, Aragonés P",
+      "title": "Mapping HIV reservoir geography: lessons for cure from the Last Gift rapid autopsy cohort.",
+      "authors": "Birabaharan M, Immer A, Gomez AN, Valdes D, Smith DM",
       "published": "2026-11-06",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "pmid": "42993253",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993253/"
+      "journal": "Current opinion in HIV and AIDS",
+      "pmid": "42989938",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989938/"
     },
     {
       "title": "Pathway-selective G(i1), but not G(q), protein activation distinguishes hallucinogenic from non-hallucinogenic serotonin 5-HT(2A) receptor agonists in the human cortex.",
@@ -203,44 +211,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42994673/"
     },
     {
-      "title": "Feasibility of reducing Angiofil(®) concentration in multiphase postmortem CT angiography and implications for iodine consumption and environmental sustainability : an observational study.",
-      "authors": "Bruguier C, Genet P, Grabherr S, Magnin V",
+      "title": "\"Where's Daddy?\": attachment and the language of AI-assisted weapons targeting.",
+      "authors": "Asan Ö",
       "published": "2026-11-06",
-      "journal": "International journal of legal medicine",
-      "pmid": "42993287",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993287/"
+      "journal": "The lancet. Psychiatry",
+      "pmid": "42994445",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994445/"
     },
     {
-      "title": "Population genetic analysis of 23 autosomal STR loci in northwestern Türkiye (Bursa).",
-      "authors": "Degerli I, Kiyak S, Yurekli Y, Korkmaz M",
-      "published": "2026-11-06",
-      "journal": "International journal of legal medicine",
-      "pmid": "42988948",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42988948/"
-    },
-    {
-      "title": "Predictive modeling of post-blast TNT residue recovery using semi-quantitative LC-MS/MS data and machine learning.",
-      "authors": "Kulahlioglu N, Tuysuz O, Memis ES, Cimtay Y, Goren IE",
+      "title": "Is Phototherapy and Photodynamic Therapy Associated With High Medico-legal Risk? An Analysis of Canadian Medico-Legal Trends.",
+      "authors": "Deng Y, Kalia S, Toy J, Liu C, Payant L",
       "published": "2026-11-05",
-      "journal": "Journal of forensic sciences",
-      "pmid": "42984455",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42984455/"
+      "journal": "Journal of cutaneous medicine and surgery",
+      "pmid": "42989456",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989456/"
     },
     {
-      "title": "Brainhack Rome 2025: connecting the dots between structure and function.",
-      "authors": "Mancini M, Guidi M, Maiuro A, Palombo M, d'Andrea E",
+      "title": "CKMT1 Counteracts VDAC1 Oligomerization-Induced Neuronal Pyroptosis Through Steric Hindrance in Ischemic Stroke.",
+      "authors": "Wang X, Shi S, Wu J, Zhang J, Li S",
       "published": "2026-11-05",
-      "journal": "Brain structure & function",
-      "pmid": "42986476",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42986476/"
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42985831",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985831/"
     },
     {
-      "title": "Beyond CD4⁺/CD8⁺: NK-Cell PD-L1 Expression and Adaptive Immune Checkpoint Profiles in People with HIV.",
-      "authors": "Aksak-Wąs B, Skonieczna-Żydecka K, Cembrowska-Lech D, Parczewski M, Lewandowski F",
+      "title": "Forensic Dermatology of Tattoos: Part 3A. Cutaneous Diseases and Infections with Tattoos in a Forensic Setting.",
+      "authors": "Cohen PR",
       "published": "2026-11-05",
-      "journal": "Immunology letters",
-      "pmid": "42987984",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42987984/"
+      "journal": "Clinics in dermatology",
+      "pmid": "42988342",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988342/"
     }
   ]
 }
