@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T22:41:50.168297+00:00",
+  "updated": "2026-11-11T03:59:13.127643+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -21,6 +21,16 @@
       "authors": "Vinay Bannur, Dhivagar K, Ajay V. Patil, Chandrakant Kokatnur, Vijayesh V. Mokal",
       "url": "https://doi.org/10.1177/09710973261495256",
       "doi": "10.1177/09710973261495256",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Another opportunity for India to advance the public interest in research: Copyright reform and a trust label",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-16",
+      "authors": "John Willinsky",
+      "url": "https://doi.org/10.20529/ijme.2026.062",
+      "doi": "10.20529/ijme.2026.062",
       "source": "Crossref",
       "country": "India"
     },
@@ -55,22 +65,22 @@
       "country": "India"
     },
     {
-      "title": "Artificial Intelligence in Forensic Science: A Systematic Review and Meta-Analysis of Opportunities and Limitations",
-      "journal": "Zagazig Journal of Forensic Medicine and Toxicology",
-      "published": "2026-10-11",
-      "authors": "Shereen Ahmed Elkhateeb, Doaa Elsayed Abdelrazzak, Nema allah Mohamed Hosieny",
-      "url": "https://doi.org/10.21608/zjfm.2026.485051.1236",
-      "doi": "10.21608/zjfm.2026.485051.1236",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
       "journal": "International Journal of Drug Delivery Technology",
       "published": "2026-10-19",
       "authors": "",
       "url": "https://doi.org/10.25258/ijddt.16.74s.77",
       "doi": "10.25258/ijddt.16.74s.77",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-14",
+      "authors": "Sharon Batt",
+      "url": "https://doi.org/10.20529/ijme.2026.061",
+      "doi": "10.20529/ijme.2026.061",
       "source": "Crossref",
       "country": "India"
     },
@@ -98,9 +108,9 @@
       "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
       "journal": "International Journal of Drug Delivery Technology",
       "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
-      "doi": "10.25258/ijddt.16.71s.11",
+      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohli, K. k. Aggarwal",
+      "url": "https://doi.org/10.25258/ijddt.16.70s.38",
+      "doi": "10.25258/ijddt.16.70s.38",
       "source": "Crossref",
       "country": "India"
     },
