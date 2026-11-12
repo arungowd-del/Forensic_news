@@ -1,19 +1,9 @@
 {
-  "updated": "2026-11-11T23:54:23.640885+00:00",
+  "updated": "2026-11-12T05:10:08.927326+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
   "items": [
-    {
-      "title": "Deaths Due to Compression of the Neck by Ligature: A Critical Review of Defensive Reporting and Forensic Rigor in Medico-legal Practice",
-      "journal": "Journal of Indian Academy of Forensic Medicine",
-      "published": "2026-10-12",
-      "authors": "Shailesh Mohite, Pawan Sabale, Vaibhav Sharma",
-      "url": "https://doi.org/10.1177/09710973261493203",
-      "doi": "10.1177/09710973261493203",
-      "source": "Crossref",
-      "country": "India"
-    },
     {
       "title": "Awareness Regarding Documentation and Preservation of Medical Records and Associated Medicolegal Issues Among Medical Practitioners: A Cross-sectional Questionnaire-based Study",
       "journal": "Journal of Indian Academy of Forensic Medicine",
@@ -88,9 +78,9 @@
       "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
       "journal": "International Journal of Drug Delivery Technology",
       "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohli, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.70s.38",
-      "doi": "10.25258/ijddt.16.70s.38",
+      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
+      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
+      "doi": "10.25258/ijddt.16.71s.11",
       "source": "Crossref",
       "country": "India"
     },
@@ -131,6 +121,16 @@
       "authors": "A Veeravijayan, L R A Suryaprakash, S. Ramalingam",
       "url": "https://doi.org/10.18231/j.ijfmts.19173.1792481549",
       "doi": "10.18231/j.ijfmts.19173.1792481549",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
+      "journal": "Legal Medicine",
+      "published": "2026-11-01",
+      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
+      "doi": "10.1016/j.legalmed.2026.103040",
       "source": "Crossref",
       "country": "India"
     },
