@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-11T23:46:30.077366Z",
+  "updated": "2026-11-12T04:37:07.896455Z",
   "source": "PubMed",
   "items": [
+    {
+      "title": "Stature estimation from skull measurements using computed tomography images in a contemporary Thai dry skull sample.",
+      "authors": "Du Z, Navic P, Sinthubua A, Palee P, Mahakkanukrauh P",
+      "published": "2026-11-12",
+      "journal": "Anatomy & cell biology",
+      "pmid": "43015077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015077/"
+    },
+    {
+      "title": "Use and perceptions of AI tools among Australian general practice registrars: a national survey.",
+      "authors": "Runciman D, Turnbull B, Walker L, Robinson-Kingi H, Patsan I",
+      "published": "2026-11-12",
+      "journal": "Journal of primary health care",
+      "pmid": "43014351",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014351/"
+    },
     {
       "title": "Informed consent for tonsillectomy - A cross-sectional survey.",
       "authors": "Mishra V, Wakeford W, Talwar R",
@@ -9,30 +25,6 @@
       "journal": "The Medico-legal journal",
       "pmid": "43012418",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43012418/"
-    },
-    {
-      "title": "[Patient Positioning During Trauma and Orthopedic Surgeries : Risks, responsibilities and practical recommendations].",
-      "authors": "Dresing K, Motzny A",
-      "published": "2026-11-11",
-      "journal": "Operative Orthopadie und Traumatologie",
-      "pmid": "43012956",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43012956/"
-    },
-    {
-      "title": "Morphological markers of acidic pH within cortical canal network of bone tissue - exploratory study using high-resolution micro-CT.",
-      "authors": "Mihalčinová Z, Maleček L, Zikmund T, Kaiser J, Sládek V",
-      "published": "2026-11-11",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "43013206",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013206/"
-    },
-    {
-      "title": "Ant dominance may mask effects of tree diversity on carcass decomposition.",
-      "authors": "Rehling F, Dadda M, Nagel M, Albert G, Bruelheide H",
-      "published": "2026-11-11",
-      "journal": "Oecologia",
-      "pmid": "43009654",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009654/"
     },
     {
       "title": "Evaluation of point-of-care testing (POCT) for blood-borne infections in forensic autopsy specimens.",
@@ -43,12 +35,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43012444/"
     },
     {
-      "title": "Healthcare use and work disability among individuals diagnosed with autism spectrum disorder (ASD) - a matched comparison cohort study.",
-      "authors": "Cybulski L, Oelrich O, Lieslehto J, Taipale H, Alaie I",
+      "title": "Morphological markers of acidic pH within cortical canal network of bone tissue - exploratory study using high-resolution micro-CT.",
+      "authors": "Mihalčinová Z, Maleček L, Zikmund T, Kaiser J, Sládek V",
       "published": "2026-11-11",
-      "journal": "Social psychiatry and psychiatric epidemiology",
-      "pmid": "43012974",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43012974/"
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "43013206",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013206/"
+    },
+    {
+      "title": "CD8⁺ T Cell Immune Signatures Bridging Systemic Inflammation and Coronary Artery Injury in Kawasaki Disease.",
+      "authors": "Chen J, Zhang Y, Wang D, Li K, Liu Z",
+      "published": "2026-11-11",
+      "journal": "Clinical reviews in allergy & immunology",
+      "pmid": "43013208",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013208/"
+    },
+    {
+      "title": "Multi-planar reconstruction and 3D volume rendering as tools of anatomical dissection and morphometry on the example of cadaveric study of inferior medial genicular artery : Comparison of visualisation of branches of the inferior medial genicular artery using 3D volume reconstruction, MPR, and a fresh-frozen cadaver.",
+      "authors": "Szopa J, Fortuna L, Gębski P, Lipiński F, Ciszek B",
+      "published": "2026-11-11",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "pmid": "43013080",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013080/"
+    },
+    {
+      "title": "Exploiting the transient matrix effect for improved GC-MS analysis of drugs in human plasma.",
+      "authors": "Dybowski MP, Siwek KJ",
+      "published": "2026-11-11",
+      "journal": "Forensic toxicology",
+      "pmid": "43012948",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012948/"
+    },
+    {
+      "title": "Spatial evolution of microglial phenotypes and iron accumulation in CSF1R-associated leukoencephalopathy.",
+      "authors": "Lier J, Moein A, Barrantes-Freer A, Rosmus DD, Ponleitner M",
+      "published": "2026-11-11",
+      "journal": "Brain pathology (Zurich, Switzerland)",
+      "pmid": "43015006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015006/"
+    },
+    {
+      "title": "Ant dominance may mask effects of tree diversity on carcass decomposition.",
+      "authors": "Rehling F, Dadda M, Nagel M, Albert G, Bruelheide H",
+      "published": "2026-11-11",
+      "journal": "Oecologia",
+      "pmid": "43009654",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009654/"
+    },
+    {
+      "title": "Video-Based Analysis of Head-Torso Coupling During Lateral Impacts Under Passive and Co-contracted Conditions.",
+      "authors": "Kudzia P, Booth GR, Reynier K, Panzer M, Cripton PA",
+      "published": "2026-11-11",
+      "journal": "Annals of biomedical engineering",
+      "pmid": "43012902",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012902/"
     },
     {
       "title": "Phycoerythrin attenuates Pseudomonas aeruginosa - induced pathogenesis, oxidative stress and intestinal dysfunction in Caenorhabditis elegans.",
@@ -57,6 +97,14 @@
       "journal": "World journal of microbiology & biotechnology",
       "pmid": "43013142",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43013142/"
+    },
+    {
+      "title": "Direct Identification and Quantification of Peptide Biomarkers in 20% Human Serum Using a Solid-State Nanopore Platform and Machine Learning.",
+      "authors": "Cai Y, Liu Y, Khaled I, Cressiot B, Bacri L",
+      "published": "2026-11-11",
+      "journal": "Journal of the American Chemical Society",
+      "pmid": "43013013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013013/"
     },
     {
       "title": "Ultra-processed food intake during pregnancy and its association with early brain and behavioral development in children: a prospective cohort study.",
@@ -91,14 +139,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43012911/"
     },
     {
-      "title": "CD8⁺ T Cell Immune Signatures Bridging Systemic Inflammation and Coronary Artery Injury in Kawasaki Disease.",
-      "authors": "Chen J, Zhang Y, Wang D, Li K, Liu Z",
-      "published": "2026-11-11",
-      "journal": "Clinical reviews in allergy & immunology",
-      "pmid": "43013208",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013208/"
-    },
-    {
       "title": "Magnetic, optical, and photoelectrochemical properties of Er(0.75)Y(0.25)Fe(1-x)Co(x)O(3) (x = 0.05, 0.15, 0.3, and 0.5): a Mössbauer and X-ray photoelectron spectroscopy study.",
       "authors": "Devi L, Ash S, Nancy, Kumar A, Kumar A",
       "published": "2026-11-11",
@@ -107,100 +147,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42900564/"
     },
     {
-      "title": "Exploiting the transient matrix effect for improved GC-MS analysis of drugs in human plasma.",
-      "authors": "Dybowski MP, Siwek KJ",
+      "title": "[Patient Positioning During Trauma and Orthopedic Surgeries : Risks, responsibilities and practical recommendations].",
+      "authors": "Dresing K, Motzny A",
       "published": "2026-11-11",
-      "journal": "Forensic toxicology",
-      "pmid": "43012948",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43012948/"
+      "journal": "Operative Orthopadie und Traumatologie",
+      "pmid": "43012956",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012956/"
     },
     {
-      "title": "Multi-planar reconstruction and 3D volume rendering as tools of anatomical dissection and morphometry on the example of cadaveric study of inferior medial genicular artery : Comparison of visualisation of branches of the inferior medial genicular artery using 3D volume reconstruction, MPR, and a fresh-frozen cadaver.",
-      "authors": "Szopa J, Fortuna L, Gębski P, Lipiński F, Ciszek B",
+      "title": "Healthcare use and work disability among individuals diagnosed with autism spectrum disorder (ASD) - a matched comparison cohort study.",
+      "authors": "Cybulski L, Oelrich O, Lieslehto J, Taipale H, Alaie I",
       "published": "2026-11-11",
-      "journal": "Surgical and radiologic anatomy : SRA",
-      "pmid": "43013080",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013080/"
+      "journal": "Social psychiatry and psychiatric epidemiology",
+      "pmid": "43012974",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012974/"
     },
     {
-      "title": "Video-Based Analysis of Head-Torso Coupling During Lateral Impacts Under Passive and Co-contracted Conditions.",
-      "authors": "Kudzia P, Booth GR, Reynier K, Panzer M, Cripton PA",
-      "published": "2026-11-11",
-      "journal": "Annals of biomedical engineering",
-      "pmid": "43012902",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43012902/"
-    },
-    {
-      "title": "Direct Identification and Quantification of Peptide Biomarkers in 20% Human Serum Using a Solid-State Nanopore Platform and Machine Learning.",
-      "authors": "Cai Y, Liu Y, Khaled I, Cressiot B, Bacri L",
-      "published": "2026-11-11",
-      "journal": "Journal of the American Chemical Society",
-      "pmid": "43013013",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013013/"
-    },
-    {
-      "title": "Evaluation of 3D palatal surface registration for human identification: The impact of developmental dentition stages.",
-      "authors": "Chiam TL, Hughes T, Palmer LJ, Higgins D",
+      "title": "Multicancer Detection Tests: Navigating Promise, Pitfalls, and the Path Forward for Primary Care.",
+      "authors": "Rubinstein WS, Han PKJ, Samimi G, LeeVan E, Pinsky PF",
       "published": "2026-11-10",
-      "journal": "International journal of legal medicine",
-      "pmid": "43007435",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43007435/"
+      "journal": "Annals of family medicine",
+      "pmid": "43009314",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009314/"
     },
     {
-      "title": "Sequencing Deoxyuracil at Single-Base Resolution via a Hydrazine Reagent-Induced U-to-A Transition.",
-      "authors": "Xue CY, Liu YH, Cao YC, Zhang RH, Liu Y",
+      "title": "Relationships Between Mental Health Problems, Unmet Needs and Aggressive Behaviour During Remand Imprisonment With a New Criminal Conviction After Release.",
+      "authors": "Bloem O, Bulten E, Verkes RJ",
       "published": "2026-11-10",
-      "journal": "Analytical chemistry",
-      "pmid": "43010428",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43010428/"
-    },
-    {
-      "title": "Reduced ATXN1 expression as an adverse prognostic indicator in Acute myeloid leukemia.",
-      "authors": "Liu AQ, Shao YL, Wang KT, Wang N, Yang ZR",
-      "published": "2026-11-10",
-      "journal": "Gene",
-      "pmid": "42386119",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42386119/"
-    },
-    {
-      "title": "Screening for borderline personality disorder after self-harm episodes: validation of the self-rating KABOSS-BD, the borderline subscale of the Karolinska Affective and borderline symptoms scale.",
-      "authors": "Asellus P, Doering S, Renberg ES, Runeson B, Waern M",
-      "published": "2026-11-10",
-      "journal": "BMC psychiatry",
-      "pmid": "43009864",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009864/"
-    },
-    {
-      "title": "Commonly experienced acute and cumulative 8-hour sleep loss differentially affect simulated driving during a night-time to early-morning commute: a randomized controlled crossover trial.",
-      "authors": "Lakämper S, Scholz M, Kraemer T, Landolt HP, Keller K",
-      "published": "2026-11-10",
-      "journal": "Sleep",
-      "pmid": "42497088",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42497088/"
-    },
-    {
-      "title": "Diagnostic and prognostic biomarkers for pediatric cerebral malaria: a review.",
-      "authors": "Drelichowska A, Pikor D, Hurla M, Banaszek-Hurla N, Karnicka M",
-      "published": "2026-11-10",
-      "journal": "Molecular biology reports",
-      "pmid": "43007515",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43007515/"
-    },
-    {
-      "title": "Beyond ACE2 downregulation: daphnetin as a multi-target agent for COVID-19 and rheumatic comorbidities.",
-      "authors": "Chen M, Zhang N, Wu Q, Cao Y, Zhang Z",
-      "published": "2026-11-10",
-      "journal": "European journal of pharmacology",
-      "pmid": "43009037",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009037/"
-    },
-    {
-      "title": "Cell-free expression and NGS-powered substrate profiling reveal a thermostable metagenomic meganuclease from an extreme environment with novel specificity.",
-      "authors": "Dorrazehi GM, Penner M, Athanasiou C, Boursinhac L, Mobarec JC",
-      "published": "2026-11-10",
-      "journal": "Nucleic acids research",
-      "pmid": "43006240",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43006240/"
+      "journal": "Criminal behaviour and mental health : CBMH",
+      "pmid": "43008272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008272/"
     },
     {
       "title": "PREVALENCE AND CHARACTERISTICS OF CEMENTAL TEAR: A RETROSPECTIVE CROSS-SECTIONAL CONE-BEAM COMPUTED TOMOGRAPHY STUDY.",
@@ -211,20 +187,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43008849/"
     },
     {
-      "title": "Targeting lipid metabolism-associated lncHMGCS1 suppressed cell proliferation and restored intracellular lipid homeostasis by regulating ACSL3 in gastric cancer.",
-      "authors": "Yang Q, He Y, Wang L, Yuan X, Zhang J",
+      "title": "Impact of a national ban on highly hazardous pesticides on suicide and agricultural productivity in Nepal.",
+      "authors": "Ghimire R, Utyasheva L, Sharma DR, Bista SK, Bista S",
       "published": "2026-11-10",
-      "journal": "European journal of pharmacology",
-      "pmid": "42722057",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722057/"
+      "journal": "Clinical toxicology (Philadelphia, Pa.)",
+      "pmid": "43006667",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43006667/"
     },
     {
-      "title": "Rankings of Institutions.",
-      "authors": "Yousem DM, Radmard M, Tafazolimoghadam A, Nadgir R",
+      "title": "Evaluation of 3D palatal surface registration for human identification: The impact of developmental dentition stages.",
+      "authors": "Chiam TL, Hughes T, Palmer LJ, Higgins D",
       "published": "2026-11-10",
-      "journal": "Academic radiology",
-      "pmid": "43009365",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009365/"
+      "journal": "International journal of legal medicine",
+      "pmid": "43007435",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007435/"
+    },
+    {
+      "title": "Semi-automated sex estimation from the cochlea on routine clinical CT: limited incremental value of curvature-based shape descriptors.",
+      "authors": "Vishnumurthy P, Daval M, Helpard L, Ouzzine I, Haddad R",
+      "published": "2026-11-10",
+      "journal": "International journal of legal medicine",
+      "pmid": "43007436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007436/"
+    },
+    {
+      "title": "Exceptional preservation reveals the deep-time reproductive ecology and trophic breadth of Early Cretaceous viviparid gastropods.",
+      "authors": "Yoshimura T, Nakayama K, Asato K, Noda Y, Fujimoto H",
+      "published": "2026-11-10",
+      "journal": "Communications biology",
+      "pmid": "43009526",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009526/"
+    },
+    {
+      "title": "Disentangling Chemical Defence and Prey Composition of Oophaga sylvatica.",
+      "authors": "Tartara A, Neira-Salamea K, Keller A, Rödel MO, Frenzel F",
+      "published": "2026-11-10",
+      "journal": "Journal of chemical ecology",
+      "pmid": "43007349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007349/"
     },
     {
       "title": "Multidisciplinary forensic evaluation of fatal non-traumatic rectus sheath hematoma associated with acute pulmonary thromboembolism and salicylate exposure: A case report.",
@@ -235,12 +235,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43004056/"
     },
     {
-      "title": "GRIFFINs and GoBleNs: A Non-Fictional Tool for Identifying Trace Controlled Substance Surrogates in Complex Mixtures.",
-      "authors": "Holman AP, Borak L, Kurouski D",
+      "title": "Rankings of Institutions.",
+      "authors": "Yousem DM, Radmard M, Tafazolimoghadam A, Nadgir R",
       "published": "2026-11-10",
-      "journal": "Analytical chemistry",
-      "pmid": "43010424",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43010424/"
+      "journal": "Academic radiology",
+      "pmid": "43009365",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009365/"
     }
   ]
 }
