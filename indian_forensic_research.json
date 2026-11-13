@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:02:03.936704+00:00",
+  "updated": "2026-11-13T04:25:56.429616+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -11,6 +11,26 @@
       "authors": "Vinay Bannur, Dhivagar K, Ajay V. Patil, Chandrakant Kokatnur, Vijayesh V. Mokal",
       "url": "https://doi.org/10.1177/09710973261495256",
       "doi": "10.1177/09710973261495256",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "The age of health-AI and India: Ethics guidance, regulations, governance and beyond",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-11-11",
+      "authors": "Sunita Sheel Bandewar, Manjulika Vaz",
+      "url": "https://doi.org/10.20529/ijme.2026.066",
+      "doi": "10.20529/ijme.2026.066",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Another opportunity for India to advance the public interest in research: Copyright reform and a trust label",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-16",
+      "authors": "John Willinsky",
+      "url": "https://doi.org/10.20529/ijme.2026.062",
+      "doi": "10.20529/ijme.2026.062",
       "source": "Crossref",
       "country": "India"
     },
@@ -35,32 +55,42 @@
       "country": "India"
     },
     {
-      "title": "Associations of Mortuary Ambient Temperature, Relative Humidity and Gross Nutritional Status with Rigor Mortis and Postmortem Lividity in the Mahakaushal Region of Central India.",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Abhishek Soni",
-      "url": "https://doi.org/10.37506/hx593a15",
-      "doi": "10.37506/hx593a15",
+      "title": "Three steps forward, one step back: The Draft National Health Research Policy 2026",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-11-11",
+      "authors": "Rituparna Padhy, Shivani Mody, Dhvani Mehta",
+      "url": "https://doi.org/10.20529/ijme.2026.067",
+      "doi": "10.20529/ijme.2026.067",
       "source": "Crossref",
       "country": "India"
     },
     {
-      "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-19",
-      "authors": "",
-      "url": "https://doi.org/10.25258/ijddt.16.74s.77",
-      "doi": "10.25258/ijddt.16.74s.77",
+      "title": "Apathy to the power of 3 — the government, judiciary, and pharma companies on patented drug pricing",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-11-11",
+      "authors": "Prathibha Sivasubramanian, Veena Johari, Karunyapriya Maryam Mathews",
+      "url": "https://doi.org/10.20529/ijme.2026.065",
+      "doi": "10.20529/ijme.2026.065",
       "source": "Crossref",
       "country": "India"
     },
     {
-      "title": "Autopsy Findings in Pressure over Neck Deaths: A Cross-Sectional Autopsy Study from Western India",
-      "journal": "",
-      "published": "2026-11-04",
-      "authors": "HARDIK UPADHYAY, DEVKISHAN AHIR, CHANDRESH TAILOR, JIGNESH PATEL, PRATIK PATEL",
-      "url": "https://doi.org/10.21203/rs.3.rs-11212935/v1",
-      "doi": "10.21203/rs.3.rs-11212935/v1",
+      "title": "Cyberthanatology and digital immortality in bioethics",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-28",
+      "authors": "Walter Fontanini",
+      "url": "https://doi.org/10.20529/ijme.2026.063",
+      "doi": "10.20529/ijme.2026.063",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "From blots to a spreading stain on Alzheimer’s research … and beyond?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-10-14",
+      "authors": "Sharon Batt",
+      "url": "https://doi.org/10.20529/ijme.2026.061",
+      "doi": "10.20529/ijme.2026.061",
       "source": "Crossref",
       "country": "India"
     },
@@ -71,16 +101,6 @@
       "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
       "url": "https://doi.org/10.51984/7m4bap98",
       "doi": "10.51984/7m4bap98",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Psychological Autopsy in Adolescent Hanging- A Cross-Sectional Study to Find out the Background of Adolescent Suicide",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Manivel Subramani",
-      "url": "https://doi.org/10.37506/07f7ht72",
-      "doi": "10.37506/07f7ht72",
       "source": "Crossref",
       "country": "India"
     },
@@ -135,82 +155,12 @@
       "country": "India"
     },
     {
-      "title": "Observational Analysis of Alcohol in Postmortem Vitreous Humor: A Forensic Perspective",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Niranjan Sahoo, Yukti Awasarkar, Atul S. Keche, Deeksha Thakur",
-      "url": "https://doi.org/10.37506/1ywggx62",
-      "doi": "10.37506/1ywggx62",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Coronal Suture Fusion Assessed by Computed Tomography: Age Estimation Insights From Western Maharashtra",
       "journal": "Academic Forensic Pathology",
       "published": "2026-10-22",
       "authors": "Emarson L. Sison, Jomar L. Aban, Don Eliseo Lucero-Prisno, Alma M. Corpuz",
       "url": "https://doi.org/10.1177/19253621261500870",
       "doi": "10.1177/19253621261500870",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Advanced Techniques in Mosquito Blood Meal Dna Analysis: Technological Innovations in Forensic Methodologies",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Eni-Yimini Solomon Agoro, Teddy Charles Adias, Charles German Ikimi",
-      "url": "https://doi.org/10.37506/tj4dg675",
-      "doi": "10.37506/tj4dg675",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "AI-Driven Object Detection for Projectile Localization on Trauma X-rays: An Analytical Study of Diagnostic Accuracy and Forensic Utility",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Balamanikandan S, Vijayakumar Nair, Thumma Amar, Srimukesh A",
-      "url": "https://doi.org/10.37506/45zrb254",
-      "doi": "10.37506/45zrb254",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Forensic Discrimination of Salt Water Drowning Using Vitreous Lipid and Protein Analysis&lt;b&gt;&lt;i&gt;&lt;/i&gt;&lt;/b&gt;",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Eni-yimini Solomon Agoro, Kelechi Uzoma Akataobi, Cosmas Sopuruchi Agim",
-      "url": "https://doi.org/10.37506/zbq1hc80",
-      "doi": "10.37506/zbq1hc80",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Clustering of HIV, Hepatitis C and Tuberculosis in Custodial Deaths: Role of Drug Abuse and Socio-demographic Factors",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Preetinder Singh Chahal, Merry Pal Kaur Chawla, Akashdeep Aggarwal, Amandeep Kaur, Didar Singh Walia",
-      "url": "https://doi.org/10.37506/061bhc86",
-      "doi": "10.37506/061bhc86",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Efficacy of Energy Dispersive X-Ray Fluorescence Spectroscopy in the Characterisation of Ballpoint Pen Inks&lt;b&gt;&lt;/b&gt;",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Bhawana Dahiya, Dipika Mistry, Shakti Prakash, J. R. Gaur",
-      "url": "https://doi.org/10.37506/d5dksx73",
-      "doi": "10.37506/d5dksx73",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Comparative Evaluation of Ninhydrin, Iodine Fuming, and Silver Nitrate for the Chemical Detection of Sweat Residues on Porous and Non-Porous Substrates",
-      "journal": "Indian Journal of Forensic Medicine &amp; Toxicology",
-      "published": "2026-10-13",
-      "authors": "Ariiza Mehdi, Rakhi Rajput, Keya Pandey, Pradeep Kumar Yadav, Rohit Kumar Singh",
-      "url": "https://doi.org/10.37506/s4f57n23",
-      "doi": "10.37506/s4f57n23",
       "source": "Crossref",
       "country": "India"
     }
