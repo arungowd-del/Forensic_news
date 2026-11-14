@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-13T22:57:44.134559Z",
+  "updated": "2026-11-14T03:48:22.922813Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Microstructural alterations of human medial temporal lobe in dementia: volumetric and DTI findings correlate with cell number and neuropathology.",
-      "authors": "Castro-Fonseca E, Meireles F, Monteiro M, Guimarães DM, Morais V",
-      "published": "2026-11-13",
-      "journal": "Brain structure & function",
-      "pmid": "43024001",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43024001/"
-    },
     {
       "title": "Comparative effects of internal and external feedback during learning of a complex motor skill.",
       "authors": "Giuriato M, Mameli B, Ferretti G, Gotti D, Codella R",
@@ -17,38 +9,6 @@
       "journal": "The Journal of sports medicine and physical fitness",
       "pmid": "43023672",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43023672/"
-    },
-    {
-      "title": "ENPP1 deficiency in siblings with apparently discordant phenotypes: case report and a review of the literature.",
-      "authors": "Wada T, Miyahara Y, Hasegawa Y, Hirata K, Matsuoka K",
-      "published": "2026-11-13",
-      "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
-      "pmid": "43018541",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018541/"
-    },
-    {
-      "title": "Sarcomatoid Thymic Carcinoma With YAP1::MAML2 Fusion Transformed From Metaplastic Thymoma.",
-      "authors": "Ražanskienė G, Batiuškaitė R, Tzankov A, Menter T, Mickys U",
-      "published": "2026-11-13",
-      "journal": "International journal of surgical pathology",
-      "pmid": "43023380",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023380/"
-    },
-    {
-      "title": "In vitro human hepatocyte incubation of 5F-MDMB-PINACA, 5F-MDMB-PICA, 5F-EMDB-PICA, 4F-MDMB-BICA, and 4F-MDMB-BINACA and cannabinoid receptor 1 activity profiling of major human metabolites.",
-      "authors": "Stalberga D, Monti MC, Rautio T, Euwals W, Liu H",
-      "published": "2026-11-13",
-      "journal": "Archives of toxicology",
-      "pmid": "43024069",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43024069/"
-    },
-    {
-      "title": "Identification of gamma-hydroxybutyrate (GHB)-β-ribose as a promising biomarker enabling prolonged detection of GHB intake.",
-      "authors": "Faldborg KB, Hasselstrøm JB, Sørensen LK, Nielsen CB, Møller SLB",
-      "published": "2026-11-13",
-      "journal": "Science advances",
-      "pmid": "43024715",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43024715/"
     },
     {
       "title": "Beyond biochemical recovery: Persistent molecular and cellular states after acute hepatotoxic injury.",
@@ -59,20 +19,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43023460/"
     },
     {
+      "title": "In vitro human hepatocyte incubation of 5F-MDMB-PINACA, 5F-MDMB-PICA, 5F-EMDB-PICA, 4F-MDMB-BICA, and 4F-MDMB-BINACA and cannabinoid receptor 1 activity profiling of major human metabolites.",
+      "authors": "Stalberga D, Monti MC, Rautio T, Euwals W, Liu H",
+      "published": "2026-11-13",
+      "journal": "Archives of toxicology",
+      "pmid": "43024069",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024069/"
+    },
+    {
+      "title": "Microstructural alterations of human medial temporal lobe in dementia: volumetric and DTI findings correlate with cell number and neuropathology.",
+      "authors": "Castro-Fonseca E, Meireles F, Monteiro M, Guimarães DM, Morais V",
+      "published": "2026-11-13",
+      "journal": "Brain structure & function",
+      "pmid": "43024001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024001/"
+    },
+    {
+      "title": "ENPP1 deficiency in siblings with apparently discordant phenotypes: case report and a review of the literature.",
+      "authors": "Wada T, Miyahara Y, Hasegawa Y, Hirata K, Matsuoka K",
+      "published": "2026-11-13",
+      "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "pmid": "43018541",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018541/"
+    },
+    {
+      "title": "Identification of gamma-hydroxybutyrate (GHB)-β-ribose as a promising biomarker enabling prolonged detection of GHB intake.",
+      "authors": "Faldborg KB, Hasselstrøm JB, Sørensen LK, Nielsen CB, Møller SLB",
+      "published": "2026-11-13",
+      "journal": "Science advances",
+      "pmid": "43024715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024715/"
+    },
+    {
       "title": "A chemometrically validated discriminative sensing strategy combining biomolecular specificity with data-driven classification of Aβ(1-40) fibrils.",
       "authors": "Singh M, Ghosh P, Rati S, Jaganathan BG, Iyer PK",
       "published": "2026-11-13",
       "journal": "Nanoscale",
       "pmid": "43024222",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43024222/"
-    },
-    {
-      "title": "Human factors in forensic toxicology: an exploratory international survey.",
-      "authors": "Hamnett HJ",
-      "published": "2026-11-13",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "43021649",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021649/"
     },
     {
       "title": "TBK1 as a key regulator in breast cancer: opportunities for targeted therapy.",
@@ -83,60 +67,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43024137/"
     },
     {
-      "title": "Stature estimation from skull measurements using computed tomography images in a contemporary Thai dry skull sample.",
-      "authors": "Du Z, Navic P, Sinthubua A, Palee P, Mahakkanukrauh P",
-      "published": "2026-11-12",
-      "journal": "Anatomy & cell biology",
-      "pmid": "43015077",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015077/"
+      "title": "Human factors in forensic toxicology: an exploratory international survey.",
+      "authors": "Hamnett HJ",
+      "published": "2026-11-13",
+      "journal": "Journal of analytical toxicology",
+      "pmid": "43021649",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021649/"
     },
     {
-      "title": "\"Stage specific trends in prostate cancer among men aged 40-54 years: A SEER analysis, 2004-2022\".",
-      "authors": "Harbaugh DS, Ruprich M, Guzman A, Liu Q, Nieder AM",
-      "published": "2026-11-12",
-      "journal": "Cancer epidemiology",
-      "pmid": "43019837",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019837/"
-    },
-    {
-      "title": "Hexabromocyclododecane exposure induces cochlear hair cell damage via estrogen receptor α-mediated oxidative stress and autophagy dysfunction.",
-      "authors": "Yang Y, Wang C, Zhang L, Zhang F, Jia Y",
-      "published": "2026-11-12",
-      "journal": "Ecotoxicology and environmental safety",
-      "pmid": "43019658",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019658/"
-    },
-    {
-      "title": "Is healthcare under consumer law a threat to medical practice, or a necessary tool for patient rights in Nepal?",
-      "authors": "Nepal S, Ojha K, Menezes RG, Atreya A",
-      "published": "2026-11-12",
-      "journal": "The Medico-legal journal",
-      "pmid": "43018103",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018103/"
-    },
-    {
-      "title": "Tirofiban Prevents Delayed Cerebral Ischemia After Subarachnoid Hemorrhage in Aged Mice.",
-      "authors": "Wroe WW, Hong SH, Dienel A, Torres K, Potluri S",
-      "published": "2026-11-12",
-      "journal": "Journal of the American Heart Association",
-      "pmid": "43018063",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018063/"
-    },
-    {
-      "title": "A Hidden Source of Atmospheric HONO: The Hydrolysis of t-ONONO2 Catalyzed by Abundant Aerosol Amino Acids.",
-      "authors": "An GC",
-      "published": "2026-11-12",
-      "journal": "The journal of physical chemistry. A",
-      "pmid": "43018368",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018368/"
-    },
-    {
-      "title": "MicroRNA-1 and microRNA-499 as potential time-dependent biomarkers for the detection of early myocardial ischaemia.",
-      "authors": "Sauer A, Klewar M, Möhker L, Böhme P, Raupach A",
-      "published": "2026-11-12",
-      "journal": "International journal of legal medicine",
-      "pmid": "43015354",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015354/"
+      "title": "Sarcomatoid Thymic Carcinoma With YAP1::MAML2 Fusion Transformed From Metaplastic Thymoma.",
+      "authors": "Ražanskienė G, Batiuškaitė R, Tzankov A, Menter T, Mickys U",
+      "published": "2026-11-13",
+      "journal": "International journal of surgical pathology",
+      "pmid": "43023380",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023380/"
     },
     {
       "title": "Identification of a tri-allelic pattern at the Penta E locus in a case of parentage testing.",
@@ -147,44 +91,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43018710/"
     },
     {
-      "title": "Forensic Dermatology of Tattoos: Part 3B. Benign Skin Lesions and Cancers with Tattoos in a Forensic Setting.",
-      "authors": "Cohen PR",
-      "published": "2026-11-12",
-      "journal": "Clinics in dermatology",
-      "pmid": "43020234",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020234/"
-    },
-    {
-      "title": "Lynch syndrome.",
-      "authors": "Ryan NAJ, Gallon R, McVeigh T, Monahan KJ, Moeslein G",
-      "published": "2026-11-12",
-      "journal": "Lancet (London, England)",
-      "pmid": "43020098",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020098/"
-    },
-    {
       "title": "Synergistic reinforcement of liquid metal hydrogels via lignin stabilization and Cu(2+) coordination for flexible electronics.",
       "authors": "Zhang Y, Zhao D, Ouyang S, Luo J, Huang C",
       "published": "2026-11-12",
       "journal": "International journal of biological macromolecules",
       "pmid": "43020351",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43020351/"
-    },
-    {
-      "title": "Identification of leachates from synthetic and modified natural textiles during in vitro human digestion.",
-      "authors": "Dawson AL, Kerr E, Stockwell S, Beale DJ, Bose U",
-      "published": "2026-11-12",
-      "journal": "Environmental pollution (Barking, Essex : 1987)",
-      "pmid": "43020251",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020251/"
-    },
-    {
-      "title": "Raman Spectroscopy for Forensic Pathology Applications: A Case Series and Narrative Literature Review.",
-      "authors": "Morena D, Piro G, Crusco P, Scopetti M, Santurro A",
-      "published": "2026-11-12",
-      "journal": "Current pharmaceutical biotechnology",
-      "pmid": "43023372",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023372/"
     },
     {
       "title": "Trends in medications for opioid use disorder before surgery by payer type, 2016-2021.",
@@ -195,12 +107,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43020656/"
     },
     {
-      "title": "Missing links: A descriptive study of behaviors of missing people who die by suicide whilst absent.",
-      "authors": "Wayland S, Jackson B, Hudson C, Maple M",
+      "title": "Lynch syndrome.",
+      "authors": "Ryan NAJ, Gallon R, McVeigh T, Monahan KJ, Moeslein G",
       "published": "2026-11-12",
-      "journal": "Death studies",
-      "pmid": "43016325",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016325/"
+      "journal": "Lancet (London, England)",
+      "pmid": "43020098",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020098/"
+    },
+    {
+      "title": "Tirofiban Prevents Delayed Cerebral Ischemia After Subarachnoid Hemorrhage in Aged Mice.",
+      "authors": "Wroe WW, Hong SH, Dienel A, Torres K, Potluri S",
+      "published": "2026-11-12",
+      "journal": "Journal of the American Heart Association",
+      "pmid": "43018063",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018063/"
+    },
+    {
+      "title": "MicroRNA-1 and microRNA-499 as potential time-dependent biomarkers for the detection of early myocardial ischaemia.",
+      "authors": "Sauer A, Klewar M, Möhker L, Böhme P, Raupach A",
+      "published": "2026-11-12",
+      "journal": "International journal of legal medicine",
+      "pmid": "43015354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015354/"
+    },
+    {
+      "title": "Fracture rate and determinants of fractures and bone loss in women with postmenopausal osteoporosis discontinuing alendronate treatment: protocol for the Alendronate Discontinuation Study (ALEXIS) - a multicentre, randomised controlled trial.",
+      "authors": "Gram F, Langdahl BL, Gram J, Søe K, Jørgensen NR",
+      "published": "2026-11-12",
+      "journal": "BMJ open",
+      "pmid": "43020496",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020496/"
     },
     {
       "title": "Associations of severe violence exposure with substance use, internet addiction, and telomere length among Taiwanese children.",
@@ -211,20 +147,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43018287/"
     },
     {
+      "title": "\"Stage specific trends in prostate cancer among men aged 40-54 years: A SEER analysis, 2004-2022\".",
+      "authors": "Harbaugh DS, Ruprich M, Guzman A, Liu Q, Nieder AM",
+      "published": "2026-11-12",
+      "journal": "Cancer epidemiology",
+      "pmid": "43019837",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019837/"
+    },
+    {
+      "title": "Stature estimation from skull measurements using computed tomography images in a contemporary Thai dry skull sample.",
+      "authors": "Du Z, Navic P, Sinthubua A, Palee P, Mahakkanukrauh P",
+      "published": "2026-11-12",
+      "journal": "Anatomy & cell biology",
+      "pmid": "43015077",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015077/"
+    },
+    {
       "title": "Use and perceptions of AI tools among Australian general practice registrars: a national survey.",
       "authors": "Runciman D, Turnbull B, Walker L, Robinson-Kingi H, Patsan I",
       "published": "2026-11-12",
       "journal": "Journal of primary health care",
       "pmid": "43014351",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43014351/"
-    },
-    {
-      "title": "In vivo biomarkers for limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC): A scoping review of proposed measures.",
-      "authors": "Singh R, Reuben S, Oyelami M, Adeleye A, Marshall E",
-      "published": "2026-11-12",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "pmid": "43017915",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43017915/"
     },
     {
       "title": "Speak before the reveal: a practical method to protect clinical reasoning from artificial intelligence scribe deskilling, never-skilling, and mis-skilling.",
@@ -241,6 +185,62 @@
       "journal": "The Medico-legal journal",
       "pmid": "43018099",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43018099/"
+    },
+    {
+      "title": "Identification of leachates from synthetic and modified natural textiles during in vitro human digestion.",
+      "authors": "Dawson AL, Kerr E, Stockwell S, Beale DJ, Bose U",
+      "published": "2026-11-12",
+      "journal": "Environmental pollution (Barking, Essex : 1987)",
+      "pmid": "43020251",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020251/"
+    },
+    {
+      "title": "NutriA-Senior, a Mobile App to Enhance Nutritional Awareness in Older Adults: Design and Pilot Usability Study.",
+      "authors": "Bosoni P, Vincenti A, Bolpagni F, Larizza C, Madini N",
+      "published": "2026-11-12",
+      "journal": "JMIR formative research",
+      "pmid": "43019533",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019533/"
+    },
+    {
+      "title": "Raman Spectroscopy for Forensic Pathology Applications: A Case Series and Narrative Literature Review.",
+      "authors": "Morena D, Piro G, Crusco P, Scopetti M, Santurro A",
+      "published": "2026-11-12",
+      "journal": "Current pharmaceutical biotechnology",
+      "pmid": "43023372",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023372/"
+    },
+    {
+      "title": "Missing links: A descriptive study of behaviors of missing people who die by suicide whilst absent.",
+      "authors": "Wayland S, Jackson B, Hudson C, Maple M",
+      "published": "2026-11-12",
+      "journal": "Death studies",
+      "pmid": "43016325",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016325/"
+    },
+    {
+      "title": "Hexabromocyclododecane exposure induces cochlear hair cell damage via estrogen receptor α-mediated oxidative stress and autophagy dysfunction.",
+      "authors": "Yang Y, Wang C, Zhang L, Zhang F, Jia Y",
+      "published": "2026-11-12",
+      "journal": "Ecotoxicology and environmental safety",
+      "pmid": "43019658",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019658/"
+    },
+    {
+      "title": "A Hidden Source of Atmospheric HONO: The Hydrolysis of t-ONONO2 Catalyzed by Abundant Aerosol Amino Acids.",
+      "authors": "An GC",
+      "published": "2026-11-12",
+      "journal": "The journal of physical chemistry. A",
+      "pmid": "43018368",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018368/"
+    },
+    {
+      "title": "Cardiovascular risk, evaluation and management in patients with hypertriglyceridaemia: a Consensus Statement from the International Atherosclerosis Society.",
+      "authors": "Aggarwal R, Bursill C, Figtree GA, Hocking SL, Mason RP",
+      "published": "2026-11-12",
+      "journal": "Nature reviews. Cardiology",
+      "pmid": "43020860",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020860/"
     }
   ]
 }
