@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:51:51.231530+00:00",
+  "updated": "2026-11-15T04:06:00.744657+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -45,26 +45,6 @@
       "country": "India"
     },
     {
-      "title": "Pattern of Injuries Among Victims of Fatal Accidents Brought for Medico-Legal Autopsy at a Tertiary Care Teaching Hospital in Haryana: A Retrospective Study",
-      "journal": "International Journal of Drug Delivery Technology",
-      "published": "2026-10-15",
-      "authors": "Sonal Raman, Parveen Kumar, Shivam Sharma, kanika kohl, K. k. Aggarwal",
-      "url": "https://doi.org/10.25258/ijddt.16.71s.11",
-      "doi": "10.25258/ijddt.16.71s.11",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Child Sexual Abuse under India’s POCSO Act: A Scoping Review of Clinical and Medico-legal Characteristics",
-      "journal": "International Journal on Child Maltreatment: Research, Policy and Practice",
-      "published": "2026-11-13",
-      "authors": "Sarbasree Bhattacharjee, Jarina Begum, Gaurav Kumar Roy, Syed Irfan Ali",
-      "url": "https://doi.org/10.1007/s42448-026-00284-0",
-      "doi": "10.1007/s42448-026-00284-0",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Pattern of Fusion of Lambdoid Suture on Computed Tomography Skull for Forensic age Assessment with Documented age in Western India",
       "journal": "Academic Forensic Pathology",
       "published": "2026-11-06",
@@ -91,6 +71,16 @@
       "authors": "A Veeravijayan, L R A Suryaprakash, S. Ramalingam",
       "url": "https://doi.org/10.18231/j.ijfmts.19173.1792481549",
       "doi": "10.18231/j.ijfmts.19173.1792481549",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
+      "journal": "Legal Medicine",
+      "published": "2026-11-01",
+      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
+      "doi": "10.1016/j.legalmed.2026.103040",
       "source": "Crossref",
       "country": "India"
     },
