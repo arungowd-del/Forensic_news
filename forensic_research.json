@@ -1,23 +1,7 @@
 {
-  "updated": "2026-11-15T13:03:07.019294Z",
+  "updated": "2026-11-15T22:11:16.899893Z",
   "source": "PubMed",
   "items": [
-    {
-      "title": "Application of visible-near infrared hyperspectral imaging for detecting latent washed bloodstains on Colored fabrics.",
-      "authors": "Ai L, Wang H, Ma Y, Wen D",
-      "published": "2026-11-15",
-      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
-      "pmid": "42202739",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42202739/"
-    },
-    {
-      "title": "Application of Artificial Intelligence (AI) in cancer symptom management for adult cancer survivors: a scoping review.",
-      "authors": "Wang T, Wang H, Li M, Bressington D, Terry D",
-      "published": "2026-11-15",
-      "journal": "International journal of medical informatics",
-      "pmid": "42603423",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603423/"
-    },
     {
       "title": "Cathepsin C promotes atherosclerosis by modulating neutrophil recruitment and neutrophil extracellular trap formation.",
       "authors": "Li Z, Wang X, An Y, Li S, Li W",
@@ -25,14 +9,6 @@
       "journal": "International immunopharmacology",
       "pmid": "42777674",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777674/"
-    },
-    {
-      "title": "Interrogating imidazo[2,1-b]thiazole-4-thiazolidinone hybrids as antidiabetic leads: molecular cartography, pharmacokinetic profiling and rodent therapeutic response.",
-      "authors": "Bano S, Khan S, Chinnam S, Iqbal T, Almalki MA",
-      "published": "2026-11-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42914871",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42914871/"
     },
     {
       "title": "Tuning the d-band center of spinel Mn(3)O(4) via tetrahedral substitution toward enhanced oxidase-like activity for colorimetric detection of total antioxidant capacity in food.",
@@ -43,36 +19,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838673/"
     },
     {
-      "title": "Validation of qualitative and quantitative methods for 40 benzodiazepines and Z-drugs in hair by UPLC-MS/MS.",
-      "authors": "Zhang M, Zhao J, Yu S, Xiang P, Yan F",
+      "title": "Interrogating imidazo[2,1-b]thiazole-4-thiazolidinone hybrids as antidiabetic leads: molecular cartography, pharmacokinetic profiling and rodent therapeutic response.",
+      "authors": "Bano S, Khan S, Chinnam S, Iqbal T, Almalki MA",
       "published": "2026-11-15",
-      "journal": "Journal of pharmaceutical and biomedical analysis",
-      "pmid": "42263410",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42263410/"
-    },
-    {
-      "title": "Response to \"letter to the editor\" by Zhang and Liu, concerning \"long-term social cognitive impairment after ischemic stroke: Frequency and association with lesion volume and location in an exploratory pilot study\".",
-      "authors": "Helland GB, Enriquez B, Beyer MK, Rise HS, Ihle-Hansen H",
-      "published": "2026-11-15",
-      "journal": "Journal of the neurological sciences",
-      "pmid": "42636687",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636687/"
-    },
-    {
-      "title": "Aumolertinib Versus Osimertinib as First-Line Treatment for EGFR-Mutant Non-Small Cell Lung Cancer: A Retrospective Real-World Multicenter Study.",
-      "authors": "Wang J, Qi P, Li J, Wang N, Fu C",
-      "published": "2026-11-15",
-      "journal": "International journal of cancer",
-      "pmid": "42552814",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42552814/"
-    },
-    {
-      "title": "Nuclear blebs are composed of variable chromatin states and display increased transcription initiation relative to elongation.",
-      "authors": "Clark M, Losada A, Jahng S, Saini A, Chowhan F",
-      "published": "2026-11-15",
-      "journal": "Biology open",
-      "pmid": "42862039",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42862039/"
+      "journal": "Bioorganic chemistry",
+      "pmid": "42914871",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914871/"
     },
     {
       "title": "One-drop electrosynthesis of 3D Prussian blue analog@PEDOT on flexible porous graphene for portable NFC-enabled hydrogen peroxide determination in human semen.",
@@ -83,28 +35,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838686/"
     },
     {
-      "title": "Structure-guided identification and functional evaluation of small-molecule candidates predicted to target the LAG-3/MHC-II interface.",
-      "authors": "Ren K, Li P, Liu J, Elkord E",
+      "title": "Nuclear blebs are composed of variable chromatin states and display increased transcription initiation relative to elongation.",
+      "authors": "Clark M, Losada A, Jahng S, Saini A, Chowhan F",
       "published": "2026-11-15",
-      "journal": "Bioorganic chemistry",
-      "pmid": "42945717",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945717/"
-    },
-    {
-      "title": "Simultaneous enantioselective separation of 2-, 3- and 4-chloromethcathinones using supercritical fluid chromatography-tandem mass spectrometry and its application to human oral fluid samples.",
-      "authors": "Jorbenadze S, Tchelidze A, Sprega G, Tkemaladze V, Farkas T",
-      "published": "2026-11-15",
-      "journal": "Journal of pharmaceutical and biomedical analysis",
-      "pmid": "42378913",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42378913/"
-    },
-    {
-      "title": "A one-tube autocatalytic transcription-driven CRISPR cascade for ultrasensitive mRNA detection.",
-      "authors": "Tan Y, He X, Shao E, Chen Q, Zhang L",
-      "published": "2026-11-15",
-      "journal": "Biosensors & bioelectronics",
-      "pmid": "42485703",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485703/"
+      "journal": "Biology open",
+      "pmid": "42862039",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862039/"
     },
     {
       "title": "From predictive signal to deployable value: EHR measurement-process features in ICU AKI prediction.",
@@ -113,6 +49,22 @@
       "journal": "International journal of medical informatics",
       "pmid": "42636654",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42636654/"
+    },
+    {
+      "title": "Validation of qualitative and quantitative methods for 40 benzodiazepines and Z-drugs in hair by UPLC-MS/MS.",
+      "authors": "Zhang M, Zhao J, Yu S, Xiang P, Yan F",
+      "published": "2026-11-15",
+      "journal": "Journal of pharmaceutical and biomedical analysis",
+      "pmid": "42263410",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42263410/"
+    },
+    {
+      "title": "Application of Artificial Intelligence (AI) in cancer symptom management for adult cancer survivors: a scoping review.",
+      "authors": "Wang T, Wang H, Li M, Bressington D, Terry D",
+      "published": "2026-11-15",
+      "journal": "International journal of medical informatics",
+      "pmid": "42603423",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603423/"
     },
     {
       "title": "Targeting oxysterol-binding protein (OSBP) as a novel strategy to inhibit herpes simplex virus 2 (HSV-2) replication: First structure-activity relationship study of antiviral cholenamide derivatives.",
@@ -131,12 +83,100 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42538607/"
     },
     {
+      "title": "Simultaneous enantioselective separation of 2-, 3- and 4-chloromethcathinones using supercritical fluid chromatography-tandem mass spectrometry and its application to human oral fluid samples.",
+      "authors": "Jorbenadze S, Tchelidze A, Sprega G, Tkemaladze V, Farkas T",
+      "published": "2026-11-15",
+      "journal": "Journal of pharmaceutical and biomedical analysis",
+      "pmid": "42378913",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378913/"
+    },
+    {
+      "title": "A one-tube autocatalytic transcription-driven CRISPR cascade for ultrasensitive mRNA detection.",
+      "authors": "Tan Y, He X, Shao E, Chen Q, Zhang L",
+      "published": "2026-11-15",
+      "journal": "Biosensors & bioelectronics",
+      "pmid": "42485703",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485703/"
+    },
+    {
+      "title": "Aumolertinib Versus Osimertinib as First-Line Treatment for EGFR-Mutant Non-Small Cell Lung Cancer: A Retrospective Real-World Multicenter Study.",
+      "authors": "Wang J, Qi P, Li J, Wang N, Fu C",
+      "published": "2026-11-15",
+      "journal": "International journal of cancer",
+      "pmid": "42552814",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42552814/"
+    },
+    {
+      "title": "Application of visible-near infrared hyperspectral imaging for detecting latent washed bloodstains on Colored fabrics.",
+      "authors": "Ai L, Wang H, Ma Y, Wen D",
+      "published": "2026-11-15",
+      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "pmid": "42202739",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202739/"
+    },
+    {
+      "title": "Response to \"letter to the editor\" by Zhang and Liu, concerning \"long-term social cognitive impairment after ischemic stroke: Frequency and association with lesion volume and location in an exploratory pilot study\".",
+      "authors": "Helland GB, Enriquez B, Beyer MK, Rise HS, Ihle-Hansen H",
+      "published": "2026-11-15",
+      "journal": "Journal of the neurological sciences",
+      "pmid": "42636687",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636687/"
+    },
+    {
+      "title": "Structure-guided identification and functional evaluation of small-molecule candidates predicted to target the LAG-3/MHC-II interface.",
+      "authors": "Ren K, Li P, Liu J, Elkord E",
+      "published": "2026-11-15",
+      "journal": "Bioorganic chemistry",
+      "pmid": "42945717",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945717/"
+    },
+    {
       "title": "The single nucleotide polymorphism rs12041948 influences CDX4-Mediated RGS4 gene expression.",
       "authors": "Xu FL, Yang XR, Yang YY, Wang RS, Liu L",
       "published": "2026-11-15",
       "journal": "Gene",
       "pmid": "42542172",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542172/"
+    },
+    {
+      "title": "Balancing Security, Autonomy, and Dignity at the End of Life in Forensic Psychiatry: A Case Report.",
+      "authors": "Yakubov R, de Lasa C, Kravtsenyuk M",
+      "published": "2026-11-14",
+      "journal": "Journal of palliative care",
+      "pmid": "43033052",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033052/"
+    },
+    {
+      "title": "Distinct cellular source and bulk immune correlates of HAVCR2 expression in seminoma.",
+      "authors": "Kim SH, Lee DY, Kim MG, Jung MJ, Han TW",
+      "published": "2026-11-14",
+      "journal": "Medical oncology (Northwood, London, England)",
+      "pmid": "43033371",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033371/"
+    },
+    {
+      "title": "Transverse versus longitudinal mucosotomy during peroral endoscopic myotomy: results of a multicenter randomized controlled trial.",
+      "authors": "Rodríguez-Fajardo JA, Frías-Ordoñez JS, Marulanda-Fernandez H, Otero-Regino W, Jaramillo-Trujillo G",
+      "published": "2026-11-14",
+      "journal": "Surgical endoscopy",
+      "pmid": "43034195",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034195/"
+    },
+    {
+      "title": "Genetic diversity and core SNP marker development for dragon fruit (Selenicereus spp.) germplasm identification and breeding.",
+      "authors": "Li J, Lin M, Liu Y, Sun Q",
+      "published": "2026-11-14",
+      "journal": "Functional & integrative genomics",
+      "pmid": "43033289",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033289/"
+    },
+    {
+      "title": "Cardiac transcriptomics identifies S100A8/A9 as novel dual biomarkers and therapeutic targets for acute myocardial ischemia.",
+      "authors": "Chen L, Lin J, Shen Y, Ye X",
+      "published": "2026-11-14",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "43033399",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033399/"
     },
     {
       "title": "Identification of Key Fatty acid Metabolism-Related Genes in Vascular Dementia.",
@@ -147,52 +187,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033318/"
     },
     {
+      "title": "An Intrapersonal Network Approach to Acute Symptom Dynamics After Sport-Related Concussion.",
+      "authors": "Ingram EO, Carmo M, Rast P, Manderino L, Karr JE",
+      "published": "2026-11-14",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "pmid": "43033350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033350/"
+    },
+    {
+      "title": "Rectal colonisation with carbapenemase-producing Enterobacterales, vancomycin-resistant enterococci, ESBL-producing Enterobacterales and Clostridioides difficile in hospitalised patients: a point prevalence study.",
+      "authors": "Dolan AM, Varden S, Donovan L, O'Connell B",
+      "published": "2026-11-14",
+      "journal": "Irish journal of medical science",
+      "pmid": "43033352",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033352/"
+    },
+    {
       "title": "Post-mortem CT angiography for fatal vascular lesions in forensic death investigation: a systematic review of diagnostic performance, added value, and pitfalls.",
       "authors": "Marinelli L, Cappabianca F, Cappabianca S",
       "published": "2026-11-14",
       "journal": "International journal of legal medicine",
       "pmid": "43033218",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033218/"
-    },
-    {
-      "title": "From Precision Medicine to the Morgue: Translating Pharmacogenomic Knowledge into Forensic Toxicology Practice.",
-      "authors": "Jobi K, Pedroza Matute S, Iyavoo S",
-      "published": "2026-11-14",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "43033267",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033267/"
-    },
-    {
-      "title": "Occupational impact and support needs following suicide loss: A scoping review.",
-      "authors": "Romão ME, Tafini A, Belli G, Setti I",
-      "published": "2026-11-14",
-      "journal": "Work (Reading, Mass.)",
-      "pmid": "43033068",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033068/"
-    },
-    {
-      "title": "Genetic diversity and phylogenetic analysis of 24 autosomal STR loci in the Santhal population of Bihar, India.",
-      "authors": "Kumar B, Biswas A, Dixit S, Sharma S, Chilukuri RVE",
-      "published": "2026-11-14",
-      "journal": "International journal of legal medicine",
-      "pmid": "43026287",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43026287/"
-    },
-    {
-      "title": "Quantitative Analysis of Lysergic Acid Diethylamide: A Ring Study Among Five Swiss Drug Checking Services.",
-      "authors": "Monti MC, Gianola E, Koning RPJ, Ventura M, Oomen PE",
-      "published": "2026-11-14",
-      "journal": "Drug testing and analysis",
-      "pmid": "43031473",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43031473/"
-    },
-    {
-      "title": "Genetic diversity and core SNP marker development for dragon fruit (Selenicereus spp.) germplasm identification and breeding.",
-      "authors": "Li J, Lin M, Liu Y, Sun Q",
-      "published": "2026-11-14",
-      "journal": "Functional & integrative genomics",
-      "pmid": "43033289",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033289/"
     },
     {
       "title": "De Novo Balanced Chromosomal Translocations Separate Intact FOXF1 From Its Distant Lung-Specific Enhancer in Lethal Alveolar Capillary Dysplasia.",
@@ -211,20 +227,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033450/"
     },
     {
-      "title": "Risks and medico-legal aspects of pediatric tonsillectomy: a comprehensive and systematic review.",
-      "authors": "Re M, Iannella G, Pace A, Scarpa A, Cristalli G",
+      "title": "Genetic diversity and phylogenetic analysis of 24 autosomal STR loci in the Santhal population of Bihar, India.",
+      "authors": "Kumar B, Biswas A, Dixit S, Sharma S, Chilukuri RVE",
       "published": "2026-11-14",
-      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
-      "pmid": "43026354",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43026354/"
-    },
-    {
-      "title": "Children in contact with security units in Türkiye: a nationwide forensic analysis of victimization and delinquency patterns.",
-      "authors": "İnce MA, İnce E",
-      "published": "2026-11-14",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "43033397",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033397/"
+      "journal": "International journal of legal medicine",
+      "pmid": "43026287",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026287/"
     },
     {
       "title": "Intervertebral disc versus vertebral body as the percutaneous sample site for pyogenic spondylodiscitis: Which yields a higher microbiological diagnosis? A prospective study.",
@@ -233,14 +241,6 @@
       "journal": "The spine journal : official journal of the North American Spine Society",
       "pmid": "43033832",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033832/"
-    },
-    {
-      "title": "Rectal colonisation with carbapenemase-producing Enterobacterales, vancomycin-resistant enterococci, ESBL-producing Enterobacterales and Clostridioides difficile in hospitalised patients: a point prevalence study.",
-      "authors": "Dolan AM, Varden S, Donovan L, O'Connell B",
-      "published": "2026-11-14",
-      "journal": "Irish journal of medical science",
-      "pmid": "43033352",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033352/"
     }
   ]
 }
