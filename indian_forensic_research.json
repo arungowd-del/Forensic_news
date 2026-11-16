@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:20:27.337630+00:00",
+  "updated": "2026-11-16T04:05:55.265964+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -21,16 +21,6 @@
       "authors": "Sunita Sheel Bandewar, Manjulika Vaz",
       "url": "https://doi.org/10.20529/ijme.2026.066",
       "doi": "10.20529/ijme.2026.066",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Another opportunity for India to advance the public interest in research: Copyright reform and a trust label",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-16",
-      "authors": "John Willinsky",
-      "url": "https://doi.org/10.20529/ijme.2026.062",
-      "doi": "10.20529/ijme.2026.062",
       "source": "Crossref",
       "country": "India"
     },
@@ -85,12 +75,22 @@
       "country": "India"
     },
     {
-      "title": "Application of Diatom Analysis in the Forensic Differentiation Between Drowning and Postmortem Immersion: A Case Series from the Yamuna River, India",
-      "journal": "Journal of Medical Sciences",
-      "published": "2026-10-16",
-      "authors": "Fakhri Omar Issa, A.K. Gupta, Munish Mishra",
-      "url": "https://doi.org/10.51984/7m4bap98",
-      "doi": "10.51984/7m4bap98",
+      "title": "Epidemiological Profile of Female Fatal Poisoning: A Retrospective Autopsy-Based Study from Assam, India",
+      "journal": "International Journal of Drug Delivery Technology",
+      "published": "2026-10-19",
+      "authors": "",
+      "url": "https://doi.org/10.25258/ijddt.16.74s.77",
+      "doi": "10.25258/ijddt.16.74s.77",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Autopsy Findings in Pressure over Neck Deaths: A Cross-Sectional Autopsy Study from Western India",
+      "journal": "",
+      "published": "2026-11-04",
+      "authors": "HARDIK UPADHYAY, DEVKISHAN AHIR, CHANDRESH TAILOR, JIGNESH PATEL, PRATIK PATEL",
+      "url": "https://doi.org/10.21203/rs.3.rs-11212935/v1",
+      "doi": "10.21203/rs.3.rs-11212935/v1",
       "source": "Crossref",
       "country": "India"
     },
@@ -131,6 +131,16 @@
       "authors": "A Veeravijayan, L R A Suryaprakash, S. Ramalingam",
       "url": "https://doi.org/10.18231/j.ijfmts.19173.1792481549",
       "doi": "10.18231/j.ijfmts.19173.1792481549",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
+      "journal": "Legal Medicine",
+      "published": "2026-11-01",
+      "authors": "Kamsalem Guite, Tanuj Kanchan, Pawan Kumar Garg",
+      "url": "https://doi.org/10.1016/j.legalmed.2026.103040",
+      "doi": "10.1016/j.legalmed.2026.103040",
       "source": "Crossref",
       "country": "India"
     },
