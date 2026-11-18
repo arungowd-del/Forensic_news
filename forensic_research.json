@@ -1,22 +1,38 @@
 {
-  "updated": "2026-11-17T15:00:28.957650Z",
+  "updated": "2026-11-18T00:06:14.058597Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Patterns, outcomes and predictors of severe hospital course among people in prison admitted for poisoning in northwest Iran: a retrospective analytical cross-sectional study.",
-      "authors": "Hatami MF, Boushehri B",
+      "title": "Biological Effects of Ablative Fractional Laser in Basal Cell Carcinoma Are Restricted by Laser Channel Penetration Depth.",
+      "authors": "Olesen UH, Pedersen KK, Andersen JD, Litman T, Haedersdal M",
       "published": "2026-11-17",
-      "journal": "International journal of prison health",
-      "pmid": "43036047",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43036047/"
+      "journal": "Lasers in surgery and medicine",
+      "pmid": "43043083",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043083/"
     },
     {
-      "title": "Recent advances in cobalt group metal complexes as anticancer agents: influence of ligands on therapeutic efficacy.",
-      "authors": "Yadav N, Anjali, Sanjana, Sharma V, Sharma KN",
+      "title": "Integrated forensic analysis of a firearm assault: A case report.",
+      "authors": "Padubidri JR, B G C, G V C, M S, S VK",
       "published": "2026-11-17",
-      "journal": "Dalton transactions (Cambridge, England : 2003)",
-      "pmid": "42929697",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42929697/"
+      "journal": "The Medico-legal journal",
+      "pmid": "43042656",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042656/"
+    },
+    {
+      "title": "Assessing the suitability of a new porcine dry bone scoring method for South African burial taphonomy when applied to two posthumous human skeletal samples.",
+      "authors": "Jackson N, Landsman C, Meyer A",
+      "published": "2026-11-17",
+      "journal": "International journal of legal medicine",
+      "pmid": "43039992",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43039992/"
+    },
+    {
+      "title": "Environmental contamination, human rights and medico-legal responsibility after Cannavacciuolo and Others v Italy (ECtHR).",
+      "authors": "Cioffi A, Cipolloni L, Cecannecchia C",
+      "published": "2026-11-17",
+      "journal": "The Medico-legal journal",
+      "pmid": "43042672",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042672/"
     },
     {
       "title": "Development and technical validation of a standardised CT image preprocessing workflow for reproducible AI for forensic anthropological applications.",
@@ -27,12 +43,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43039990/"
     },
     {
-      "title": "A Systematic Review of Medicolegal Social Media-Related Issues in Plastic Surgery.",
-      "authors": "Brotgandel A, Moffitt S, Bair C, Cruz C, Scarcella J",
+      "title": "Sex-Related Injury Patterns and Manner-of-Death Characteristics in Sharp-Force Fatalities: A 10-Year Medico-Legal Autopsy Study.",
+      "authors": "Tarımer ML, Dere F, Gülbeyaz İlingi H, Balcı Y",
       "published": "2026-11-17",
-      "journal": "Aesthetic surgery journal",
-      "pmid": "41549612",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41549612/"
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "43040598",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040598/"
+    },
+    {
+      "title": "Genetically Predicted MRI Phenotypes Are Associated with Risk of Multiple Sclerosis.",
+      "authors": "Shao B, Brenya-Asamoah J, Ramachandran S, Upcott M, Vandebergh M",
+      "published": "2026-11-17",
+      "journal": "Annals of neurology",
+      "pmid": "43042456",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042456/"
     },
     {
       "title": "The Unheard Patient: Active Listening as a Core Clinical Skill in Aesthetic Surgery.",
@@ -43,12 +67,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42628969/"
     },
     {
-      "title": "Sex-Related Injury Patterns and Manner-of-Death Characteristics in Sharp-Force Fatalities: A 10-Year Medico-Legal Autopsy Study.",
-      "authors": "Tarımer ML, Dere F, Gülbeyaz İlingi H, Balcı Y",
+      "title": "Unraveling the genetic structure and demographic history of the Guangxi Zhuang and Yanbian Korean populations using a high-resolution 97-plex Y-STR system.",
+      "authors": "Liu Q, Shi X, Shen R, Zhuo C, Li Y",
       "published": "2026-11-17",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "43040598",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040598/"
+      "journal": "International journal of legal medicine",
+      "pmid": "43039991",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43039991/"
+    },
+    {
+      "title": "The Joint Impact of Deleterious Mutations, Dominance, and Gene Flow on Linked Neutral Variation in Structured Populations.",
+      "authors": "Lesturgie P, Blanckaert A, Sousa VC",
+      "published": "2026-11-17",
+      "journal": "G3 (Bethesda, Md.)",
+      "pmid": "43043345",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043345/"
+    },
+    {
+      "title": "Profiling cultivable bacteria in Forcipomyia spp. (Diptera: Ceratopogonidae), feeding on the silkworm Antheraea mylitta (Lepidoptera: Saturniidae): insights into possible transmission routes.",
+      "authors": "Maitra Mazumdar S, Banerjee N, Sarkar A, Saha A, Gadad H",
+      "published": "2026-11-17",
+      "journal": "Journal of economic entomology",
+      "pmid": "43042937",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042937/"
+    },
+    {
+      "title": "Recent advances in cobalt group metal complexes as anticancer agents: influence of ligands on therapeutic efficacy.",
+      "authors": "Yadav N, Anjali, Sanjana, Sharma V, Sharma KN",
+      "published": "2026-11-17",
+      "journal": "Dalton transactions (Cambridge, England : 2003)",
+      "pmid": "42929697",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929697/"
     },
     {
       "title": "Metagenomic analysis of peritonitis with filamentous bacteria in dogs and cats reveals polymicrobial communities beyond bacteria with filamentous morphology.",
@@ -67,28 +115,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42680160/"
     },
     {
-      "title": "Tumour-first DNA testing as a gateway to germline screening in patients with metastatic prostate cancer.",
-      "authors": "Kloots ISH, Kets CM, Schuurs-Hoeijmakers J, Kroeze LI, Pillay S",
+      "title": "The chaperone in the modern outpatient clinic: reconsidering gender, autonomy, and professional standards.",
+      "authors": "Thakare P, El-Diaz N, Pawa N",
       "published": "2026-11-17",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pmid": "42800309",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800309/"
+      "journal": "Postgraduate medical journal",
+      "pmid": "42949194",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949194/"
     },
     {
-      "title": "Analysis of dishonesty cases in medical disciplinary proceedings: a comprehensive 15-year review.",
-      "authors": "Lee JHB, Thirumoorthy T",
+      "title": "A Systematic Review of Medicolegal Social Media-Related Issues in Plastic Surgery.",
+      "authors": "Brotgandel A, Moffitt S, Bair C, Cruz C, Scarcella J",
       "published": "2026-11-17",
-      "journal": "Singapore medical journal",
-      "pmid": "43037129",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43037129/"
-    },
-    {
-      "title": "A Rare Case of Fatal Brainstem Encephalitis.",
-      "authors": "Ng C, Deisch J, Gray A",
-      "published": "2026-11-17",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "43040590",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040590/"
+      "journal": "Aesthetic surgery journal",
+      "pmid": "41549612",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41549612/"
     },
     {
       "title": "Tentative identification of a labetalol metabolite in the investigation of a false-positive amphetamine immunoassay result using targeted and untargeted high-resolution mass spectrometry.",
@@ -99,148 +139,108 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43037497/"
     },
     {
-      "title": "Unraveling the genetic structure and demographic history of the Guangxi Zhuang and Yanbian Korean populations using a high-resolution 97-plex Y-STR system.",
-      "authors": "Liu Q, Shi X, Shen R, Zhuo C, Li Y",
+      "title": "Use of Large Language Models for Structured Quantitative and Qualitative Analysis of Simulation Debriefings Using the DASH Framework (AIDE Study): Prospective Observational Study.",
+      "authors": "Pico J, Bouhadiba T, Jazestani S, Zhu E, Nguyen BK",
       "published": "2026-11-17",
-      "journal": "International journal of legal medicine",
-      "pmid": "43039991",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039991/"
+      "journal": "JMIR formative research",
+      "pmid": "43044104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044104/"
     },
     {
-      "title": "Assessing the suitability of a new porcine dry bone scoring method for South African burial taphonomy when applied to two posthumous human skeletal samples.",
-      "authors": "Jackson N, Landsman C, Meyer A",
+      "title": "Counterfeit and grey market dental products: A public health perspective on risks, detection and mitigation strategies.",
+      "authors": "Kushwaha S, Goyal K, Jeyaseelan C, Puri P",
       "published": "2026-11-17",
-      "journal": "International journal of legal medicine",
-      "pmid": "43039992",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039992/"
+      "journal": "The Medico-legal journal",
+      "pmid": "43042631",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042631/"
     },
     {
-      "title": "Oral Cancer Data Repositories: Challenges, Ethical Concerns, and Strategic Frameworks - A SWOT Analysis.",
-      "authors": "Jayasankar P, Pattnaik T, Singh NN",
-      "published": "2026-11-16",
-      "journal": "Journal of cancer policy",
-      "pmid": "43039222",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039222/"
+      "title": "A Rare Case of Fatal Brainstem Encephalitis.",
+      "authors": "Ng C, Deisch J, Gray A",
+      "published": "2026-11-17",
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "43040590",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040590/"
     },
     {
-      "title": "A Plasma eMTBR-Tau Immunoassay for Detection of Advanced Insoluble Tau Pathology.",
-      "authors": "Brum WS, Janelidze S, Singh A, Rahmouni N, Hosseini SA",
-      "published": "2026-11-16",
-      "journal": "JAMA",
-      "pmid": "43038566",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038566/"
+      "title": "Correction to: Multi‑analytical screening of pesticides, phenols, heavy metals, and hydrocarbons in sediments from industrialized sites: a preliminary forensic interpretation.",
+      "authors": "Loutis M, Meftali D, Benayad T, Djellouli F, Dahmani A",
+      "published": "2026-11-17",
+      "journal": "Environmental monitoring and assessment",
+      "pmid": "43043568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043568/"
     },
     {
-      "title": "Presence of Kaposi Sarcoma-Associated Herpesvirus tissue reservoirs in seronegative postmortem cases from Zambia.",
-      "authors": "Kibanga W, Lai CY, Julius P, Kang G, Siyumbwa SN",
-      "published": "2026-11-16",
-      "journal": "The Journal of infectious diseases",
-      "pmid": "43038355",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038355/"
+      "title": "A metaheuristic-based ensemble framework for osteoporosis classification using knee X-ray images.",
+      "authors": "Yelamati S, Thota S",
+      "published": "2026-11-17",
+      "journal": "Journal of ultrasound",
+      "pmid": "43043602",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043602/"
     },
     {
-      "title": "Assessing dietary intake in infants through fecal sample analysis in the LLNEXT Cohort.",
-      "authors": "Gumbaragyte J, Rivera C, Bauer A, Gois M, Sinha T",
-      "published": "2026-11-16",
-      "journal": "The American journal of clinical nutrition",
-      "pmid": "43039144",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039144/"
+      "title": "Pediatric forensic cases during the COVID 19 lockdown and reopening periods: a retrospective cohort study from a tertiary care pediatric emergency department.",
+      "authors": "Bekdas M, Bekdas MF",
+      "published": "2026-11-17",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "43043600",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043600/"
     },
     {
-      "title": "Supervised machine learning enables forensic microbiome source attribution in soil and touch samples with evidence-type-specific relic DNA effects.",
-      "authors": "Cantrell E, Truan-Walker S, Tait JE, Saho R, Buchan A",
-      "published": "2026-11-16",
-      "journal": "Journal of forensic sciences",
-      "pmid": "43040795",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040795/"
+      "title": "Effects of Direct-Current Electric Field on Cellular Behaviors and Gene Expression in HTR-8/SVneo trophoblast cells.",
+      "authors": "Tang Y, Zhou S, Yang X, Meng Z, Li Y",
+      "published": "2026-11-17",
+      "journal": "Biology of reproduction",
+      "pmid": "43043122",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043122/"
     },
     {
-      "title": "X-ray µ-CT contrast agents employing highly-concentrated low-viscosity layered double hydroxide nanoparticles for high-resolution imaging of vasculature.",
-      "authors": "Ando Y, Shimizu S, Poologasundarampillai G, Brownbill P, Evangelinos A",
-      "published": "2026-11-16",
-      "journal": "Materials advances",
-      "pmid": "42877626",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877626/"
+      "title": "Tumour-first DNA testing as a gateway to germline screening in patients with metastatic prostate cancer.",
+      "authors": "Kloots ISH, Kets CM, Schuurs-Hoeijmakers J, Kroeze LI, Pillay S",
+      "published": "2026-11-17",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pmid": "42800309",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800309/"
     },
     {
-      "title": "highSpaClone enables copy number alteration inference and tumor subclone analysis for high-resolution spatial transcriptomics.",
-      "authors": "Zang C, Schueddig E, Guo CC, Madan R, Kochat V",
-      "published": "2026-11-16",
-      "journal": "Cell reports methods",
-      "pmid": "42721967",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721967/"
+      "title": "Global overview and regional protocols for molecular diagnosis of human T-cell lymphotropic virus.",
+      "authors": "Hetzel PAS, Rowan A, Assone T, Vandegraaff N, Taylor G",
+      "published": "2026-11-17",
+      "journal": "Journal of clinical microbiology",
+      "pmid": "43043001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043001/"
     },
     {
-      "title": "Screening of residual solvents in cocaine seizures by HS-SPME-GC-MS: Application to multi-class solvent profiling.",
-      "authors": "Góngora J",
-      "published": "2026-11-16",
-      "journal": "Journal of forensic sciences",
-      "pmid": "43040781",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040781/"
+      "title": "Forensic anal examinations to infer consensual same-sex sexual activity: Scientific validity, ethical concerns and medico-legal implications for Sri Lanka: A review.",
+      "authors": "Wijenayaka PRC",
+      "published": "2026-11-17",
+      "journal": "The Medico-legal journal",
+      "pmid": "43042653",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042653/"
     },
     {
-      "title": "Characterization of gastrointestinal pathology in a fatal ehrlichiosis mouse model.",
-      "authors": "Chien RC, Hodgson JJ",
-      "published": "2026-11-16",
-      "journal": "Veterinary pathology",
-      "pmid": "43040953",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040953/"
+      "title": "Patterns, outcomes and predictors of severe hospital course among people in prison admitted for poisoning in northwest Iran: a retrospective analytical cross-sectional study.",
+      "authors": "Hatami MF, Boushehri B",
+      "published": "2026-11-17",
+      "journal": "International journal of prison health",
+      "pmid": "43036047",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036047/"
     },
     {
-      "title": "Alcohol consumption is associated with increased prediction error in a buccal swab-based DNA methylation age prediction model.",
-      "authors": "Keskin N, Ersoy G, Sımsek SZ, Can K, Bulbul O",
-      "published": "2026-11-16",
-      "journal": "Journal of forensic sciences",
-      "pmid": "43040784",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040784/"
+      "title": "Analysis of dishonesty cases in medical disciplinary proceedings: a comprehensive 15-year review.",
+      "authors": "Lee JHB, Thirumoorthy T",
+      "published": "2026-11-17",
+      "journal": "Singapore medical journal",
+      "pmid": "43037129",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43037129/"
     },
     {
-      "title": "Combined piperazine ferulate and sulforaphane attenuate methotrexate-induced pulmonary toxicity through modulation of Apelin/APJ, Notch-3, and FOXO3a-associated signaling pathways.",
-      "authors": "Alhassani AN, Darwish A, Abd-Eldayem AM, Abdelaal N, Sharkawi SMZ",
-      "published": "2026-11-16",
-      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-      "pmid": "43037726",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43037726/"
-    },
-    {
-      "title": "Revisiting the Role of Mouse Mammary Tumor Virus (MMTV) in Breast Cancer Through the Lens of a Signal Peptide.",
-      "authors": "Braitbard O, Hochman J",
-      "published": "2026-11-16",
-      "journal": "The oncologist",
-      "pmid": "43037085",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43037085/"
-    },
-    {
-      "title": "3D Gaussian splatting for forensic autopsy documentation: Influence of image acquisition strategy on reconstruction quality.",
-      "authors": "Lux C, Kreitmeier F, Schweitzer W, Meixner E, Eggert S",
+      "title": "Evaluating magnetic fingerprint powders: Impact of chemical composition, magnetization, and potential safety concerns.",
+      "authors": "Knott HA, Hughes CJ, King K, Wang Q, Palma DA",
       "published": "2026-11-16",
       "journal": "Journal of forensic sciences",
-      "pmid": "43040791",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040791/"
-    },
-    {
-      "title": "Clinical characteristics, offending patterns, and treatment outcomes in patients found not criminally responsible: A high-security forensic psychiatry study.",
-      "authors": "Erguner Aral A, Aral A, Erdogan E, Çaparoğlu M",
-      "published": "2026-11-16",
-      "journal": "Journal of forensic sciences",
-      "pmid": "43040782",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040782/"
-    },
-    {
-      "title": "Rapid forensic THC determination in cannabis plant material: A proof-of-concept study of low-power microwave drying.",
-      "authors": "Nioi M, Mulano I, Maccioni A, Cortis G",
-      "published": "2026-11-16",
-      "journal": "Journal of forensic sciences",
-      "pmid": "43040829",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040829/"
-    },
-    {
-      "title": "Full-length β-tubulin sequencing of Trichuris trichiura in South Korea reveals novel variants with a conserved benzimidazole-binding pocket.",
-      "authors": "Delaluna JO, Lee T, Nam C, Song HB",
-      "published": "2026-11-16",
-      "journal": "PLoS neglected tropical diseases",
-      "pmid": "43038298",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43038298/"
+      "pmid": "43041002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041002/"
     }
   ]
 }
