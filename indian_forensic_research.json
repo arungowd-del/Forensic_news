@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T05:19:46.354311+00:00",
+  "updated": "2026-11-19T14:59:21.323508+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -11,16 +11,6 @@
       "authors": "Vinay Bannur, Dhivagar K, Ajay V. Patil, Chandrakant Kokatnur, Vijayesh V. Mokal",
       "url": "https://doi.org/10.1177/09710973261495256",
       "doi": "10.1177/09710973261495256",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "The age of health-AI and India: Ethics guidance, regulations, governance and beyond",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-11-11",
-      "authors": "Sunita Sheel Bandewar, Manjulika Vaz",
-      "url": "https://doi.org/10.20529/ijme.2026.066",
-      "doi": "10.20529/ijme.2026.066",
       "source": "Crossref",
       "country": "India"
     },
@@ -45,32 +35,12 @@
       "country": "India"
     },
     {
-      "title": "Three steps forward, one step back: The Draft National Health Research Policy 2026",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-11-11",
-      "authors": "Rituparna Padhy, Shivani Mody, Dhvani Mehta",
-      "url": "https://doi.org/10.20529/ijme.2026.067",
-      "doi": "10.20529/ijme.2026.067",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Apathy to the power of 3 — the government, judiciary, and pharma companies on patented drug pricing",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-11-11",
-      "authors": "Prathibha Sivasubramanian, Veena Johari, Karunyapriya Maryam Mathews",
-      "url": "https://doi.org/10.20529/ijme.2026.065",
-      "doi": "10.20529/ijme.2026.065",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Cyberthanatology and digital immortality in bioethics",
-      "journal": "Indian Journal of Medical Ethics",
-      "published": "2026-10-28",
-      "authors": "Walter Fontanini",
-      "url": "https://doi.org/10.20529/ijme.2026.063",
-      "doi": "10.20529/ijme.2026.063",
+      "title": "Association of body mass index with morphology of various organs in autopsy-proven sudden natural death cases: an autopsy-based study from Southern India",
+      "journal": "Egyptian Journal of Forensic Sciences",
+      "published": "2026-11-19",
+      "authors": "Vishal Rangsa Marak, Pavanchand Shetty, B Suresh Kumar Shetty, Jagadish Rao Padubidri, Mayur Sudhir Balbudhe, Deepa Adiga S A, Prateek Rastogi",
+      "url": "https://doi.org/10.1186/s41935-026-00597-8",
+      "doi": "10.1186/s41935-026-00597-8",
       "source": "Crossref",
       "country": "India"
     },
@@ -121,16 +91,6 @@
       "authors": "Manish Shrigiriwar",
       "url": "https://doi.org/10.6026/973206300226464",
       "doi": "10.6026/973206300226464",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
-      "title": "Coronal Suture Fusion Assessed by Computed Tomography: Age Estimation Insights From Western Maharashtra",
-      "journal": "Academic Forensic Pathology",
-      "published": "2026-10-22",
-      "authors": "Emarson L. Sison, Jomar L. Aban, Don Eliseo Lucero-Prisno, Alma M. Corpuz",
-      "url": "https://doi.org/10.1177/19253621261500870",
-      "doi": "10.1177/19253621261500870",
       "source": "Crossref",
       "country": "India"
     }
