@@ -1,38 +1,38 @@
 {
-  "updated": "2026-11-18T23:39:16.844319Z",
+  "updated": "2026-11-19T04:46:20.766146Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Climate change and nutritional security: current challenges and future priorities.",
-      "authors": "Gianfredi V, Troiano E, Vezzosi S, Nucci D",
-      "published": "2026-11-18",
-      "journal": "International journal of food sciences and nutrition",
-      "pmid": "43050676",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050676/"
+      "title": "Cancer Genomic Medicine in Japan: Current Status and Future Perspectives.",
+      "authors": "Sasaki R, Takeda M",
+      "published": "2026-11-19",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "pmid": "43051904",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051904/"
     },
     {
-      "title": "American Femicide as a Function of Gun Access and Ownership: A Comparison of 2 States.",
-      "authors": "Alexander AL, Pack C, Gill JR",
+      "title": "Light-Responsive Hybrid Lipid Nanoparticles with Gold Nanorods for Light-Triggered DNA Delivery.",
+      "authors": "Quagliarini E, Petronella F, Digiacomo L, Miglietta S, Buccini L",
       "published": "2026-11-18",
-      "journal": "The American journal of forensic medicine and pathology",
-      "pmid": "43046318",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046318/"
+      "journal": "ACS applied materials & interfaces",
+      "pmid": "42979718",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979718/"
     },
     {
-      "title": "Introduction to the Special Issue on Operational Psychology.",
-      "authors": "Eid J, Hystad SW, Hansen AL",
+      "title": "Sheep or cattle fecal contamination? Using long-read amplicon sequencing for fecal source attribution and apportionment.",
+      "authors": "Taylor W, Devane M, Coxon S, Gilpin B",
       "published": "2026-11-18",
-      "journal": "Scandinavian journal of psychology",
-      "pmid": "43046907",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046907/"
+      "journal": "Applied and environmental microbiology",
+      "pmid": "43049338",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049338/"
     },
     {
-      "title": "Revisiting sex chromosome dosage variation as a biomarker for forensic age estimation.",
-      "authors": "Chen A, Yang F, Liu Y, Yang Q, Liu S",
+      "title": "Beyond age and ovarian reserve: a prospective study exploring inflammatory and cycle-specific biomarkers to enhance IVF outcome prediction.",
+      "authors": "Omes C, Montobbio G, De Amici M, Riva F, Camia B",
       "published": "2026-11-18",
-      "journal": "International journal of legal medicine",
-      "pmid": "43049810",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049810/"
+      "journal": "Journal of assisted reproduction and genetics",
+      "pmid": "43045943",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045943/"
     },
     {
       "title": "Cryptic Y Chromosome Mosaicism in Turner Syndrome revealed by multi-tissue ddPCR and Y-STR.",
@@ -43,12 +43,60 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43046282/"
     },
     {
+      "title": "Cutaneous immune-related adverse events as early indicators of multiorgan toxicity from immune checkpoint inhibitors.",
+      "authors": "Kim E, Pabani A, Sunshine JC",
+      "published": "2026-11-18",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "pmid": "43045840",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045840/"
+    },
+    {
+      "title": "Kidney involvement is associated with glucose-insulin homeostasis in adolescents with newly diagnosed anorexia nervosa: an observational study.",
+      "authors": "Di Sessa A, Salerno F, Panico F, Miragliuolo L, Gleijeses MG",
+      "published": "2026-11-18",
+      "journal": "European journal of pediatrics",
+      "pmid": "43049797",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049797/"
+    },
+    {
+      "title": "Modeling exhaled aerosol deposition in an impaction filter across clinically measured breath flowrates.",
+      "authors": "Malavé V, Berry JL, Hayes AC, Cinnamon Bidwell L, Lovestead TM",
+      "published": "2026-11-18",
+      "journal": "Journal of breath research",
+      "pmid": "42970830",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970830/"
+    },
+    {
+      "title": "Sex estimation in a Malaysian population using radiographic measurements of the femur and humerus.",
+      "authors": "Che Manshor NSN, Amir Hamzah SPA",
+      "published": "2026-11-18",
+      "journal": "International journal of legal medicine",
+      "pmid": "43049809",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049809/"
+    },
+    {
       "title": "Efficacy of sacubitril/valsartan and bosentan in amelioration of estradiol induced endometrial changes via regulation of Wnt/β-catenin and IL6/JAK/STAT3 pathways.",
       "authors": "Refaie MMM, Ibrahim MFG, Sherkawy HS, Mohamed HMM, Marey H",
       "published": "2026-11-18",
       "journal": "Journal of molecular histology",
       "pmid": "43049843",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43049843/"
+    },
+    {
+      "title": "Shifting epidemiology of fatal unintentional drowning in Finland: a population-based study of the emerging 'senior risk'.",
+      "authors": "Lunetta P, Haikonen K",
+      "published": "2026-11-18",
+      "journal": "Injury prevention : journal of the International Society for Child and Adolescent Injury Prevention",
+      "pmid": "43051968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051968/"
+    },
+    {
+      "title": "Clinical assessment of resilience in bipolar disorder: a systematic review.",
+      "authors": "Clougher D, Crespin JJ, Serra-Navarro M, De Prisco M, César G",
+      "published": "2026-11-18",
+      "journal": "BMJ mental health",
+      "pmid": "43051871",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051871/"
     },
     {
       "title": "Exploring the Contribution of Cytochrome P450 Pharmacogenetics to Methadone Enantiomeric Distribution in a Postmortem Setting.",
@@ -67,44 +115,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43046842/"
     },
     {
-      "title": "Kidney involvement is associated with glucose-insulin homeostasis in adolescents with newly diagnosed anorexia nervosa: an observational study.",
-      "authors": "Di Sessa A, Salerno F, Panico F, Miragliuolo L, Gleijeses MG",
+      "title": "Climate change and nutritional security: current challenges and future priorities.",
+      "authors": "Gianfredi V, Troiano E, Vezzosi S, Nucci D",
       "published": "2026-11-18",
-      "journal": "European journal of pediatrics",
-      "pmid": "43049797",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049797/"
-    },
-    {
-      "title": "Therapeutic values of medicinal plants on inflammation indexes and the severity of pain in patients with rheumatoid arthritis: a systematic review.",
-      "authors": "Ghorani-Azam A, Nazari-Khanamiri F, Sepahi S",
-      "published": "2026-11-18",
-      "journal": "Inflammopharmacology",
-      "pmid": "43050177",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050177/"
-    },
-    {
-      "title": "Beyond age and ovarian reserve: a prospective study exploring inflammatory and cycle-specific biomarkers to enhance IVF outcome prediction.",
-      "authors": "Omes C, Montobbio G, De Amici M, Riva F, Camia B",
-      "published": "2026-11-18",
-      "journal": "Journal of assisted reproduction and genetics",
-      "pmid": "43045943",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43045943/"
-    },
-    {
-      "title": "Sheep or cattle fecal contamination? Using long-read amplicon sequencing for fecal source attribution and apportionment.",
-      "authors": "Taylor W, Devane M, Coxon S, Gilpin B",
-      "published": "2026-11-18",
-      "journal": "Applied and environmental microbiology",
-      "pmid": "43049338",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049338/"
-    },
-    {
-      "title": "Cutaneous immune-related adverse events as early indicators of multiorgan toxicity from immune checkpoint inhibitors.",
-      "authors": "Kim E, Pabani A, Sunshine JC",
-      "published": "2026-11-18",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-      "pmid": "43045840",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43045840/"
+      "journal": "International journal of food sciences and nutrition",
+      "pmid": "43050676",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050676/"
     },
     {
       "title": "Metabolite Identification of Sauchinone in Rats using HPLC-HRMS and Its Metabolism in Rat, Mouse and Human Liver Microsomes.",
@@ -115,28 +131,52 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43049678/"
     },
     {
-      "title": "Sex estimation in a Malaysian population using radiographic measurements of the femur and humerus.",
-      "authors": "Che Manshor NSN, Amir Hamzah SPA",
+      "title": "The minimum temporal derivative of the unipolar electrogram downslope as a measure of local 3D conduction velocity in arrhythmogenic myocardium.",
+      "authors": "Sahota M, Campos FO, Whitaker J, Plank G, Williams SE",
+      "published": "2026-11-18",
+      "journal": "Computers in biology and medicine",
+      "pmid": "43051067",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051067/"
+    },
+    {
+      "title": "A Cross-Sectional Analysis of Pediatric Dermatology Malpractice Cases.",
+      "authors": "Barnawi G, Aldibane R, Awad E, Lipner S",
+      "published": "2026-11-18",
+      "journal": "Journal of the American Academy of Dermatology",
+      "pmid": "43051550",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051550/"
+    },
+    {
+      "title": "Introduction to the Special Issue on Operational Psychology.",
+      "authors": "Eid J, Hystad SW, Hansen AL",
+      "published": "2026-11-18",
+      "journal": "Scandinavian journal of psychology",
+      "pmid": "43046907",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046907/"
+    },
+    {
+      "title": "Revisiting sex chromosome dosage variation as a biomarker for forensic age estimation.",
+      "authors": "Chen A, Yang F, Liu Y, Yang Q, Liu S",
       "published": "2026-11-18",
       "journal": "International journal of legal medicine",
-      "pmid": "43049809",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049809/"
+      "pmid": "43049810",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049810/"
     },
     {
-      "title": "Modeling exhaled aerosol deposition in an impaction filter across clinically measured breath flowrates.",
-      "authors": "Malavé V, Berry JL, Hayes AC, Cinnamon Bidwell L, Lovestead TM",
+      "title": "Aetiological diagnosis of pneumonia: advances, limits and unresolved questions.",
+      "authors": "Murdoch DR",
       "published": "2026-11-18",
-      "journal": "Journal of breath research",
-      "pmid": "42970830",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970830/"
+      "journal": "Expert review of molecular diagnostics",
+      "pmid": "43052180",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052180/"
     },
     {
-      "title": "Light-Responsive Hybrid Lipid Nanoparticles with Gold Nanorods for Light-Triggered DNA Delivery.",
-      "authors": "Quagliarini E, Petronella F, Digiacomo L, Miglietta S, Buccini L",
+      "title": "American Femicide as a Function of Gun Access and Ownership: A Comparison of 2 States.",
+      "authors": "Alexander AL, Pack C, Gill JR",
       "published": "2026-11-18",
-      "journal": "ACS applied materials & interfaces",
-      "pmid": "42979718",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42979718/"
+      "journal": "The American journal of forensic medicine and pathology",
+      "pmid": "43046318",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046318/"
     },
     {
       "title": "Hemodynamic burden of mitral annular calcification: improved estimation by left atrial expansion index.",
@@ -147,92 +187,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43049845/"
     },
     {
-      "title": "A metaheuristic-based ensemble framework for osteoporosis classification using knee X-ray images.",
-      "authors": "Yelamati S, Thota S",
-      "published": "2026-11-17",
-      "journal": "Journal of ultrasound",
-      "pmid": "43043602",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43043602/"
+      "title": "Therapeutic values of medicinal plants on inflammation indexes and the severity of pain in patients with rheumatoid arthritis: a systematic review.",
+      "authors": "Ghorani-Azam A, Nazari-Khanamiri F, Sepahi S",
+      "published": "2026-11-18",
+      "journal": "Inflammopharmacology",
+      "pmid": "43050177",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050177/"
     },
     {
-      "title": "Unraveling the genetic structure and demographic history of the Guangxi Zhuang and Yanbian Korean populations using a high-resolution 97-plex Y-STR system.",
-      "authors": "Liu Q, Shi X, Shen R, Zhuo C, Li Y",
+      "title": "Global overview and regional protocols for molecular diagnosis of human T-cell lymphotropic virus.",
+      "authors": "Hetzel PAS, Rowan A, Assone T, Vandegraaff N, Taylor G",
       "published": "2026-11-17",
-      "journal": "International journal of legal medicine",
-      "pmid": "43039991",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039991/"
-    },
-    {
-      "title": "Analysis of dishonesty cases in medical disciplinary proceedings: a comprehensive 15-year review.",
-      "authors": "Lee JHB, Thirumoorthy T",
-      "published": "2026-11-17",
-      "journal": "Singapore medical journal",
-      "pmid": "43037129",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43037129/"
-    },
-    {
-      "title": "The Unheard Patient: Active Listening as a Core Clinical Skill in Aesthetic Surgery.",
-      "authors": "Friedman O, Mizrahi Reuveni M, Paniri Y, Afek A, Maiershon D",
-      "published": "2026-11-17",
-      "journal": "Aesthetic surgery journal",
-      "pmid": "42628969",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42628969/"
-    },
-    {
-      "title": "Patterns, outcomes and predictors of severe hospital course among people in prison admitted for poisoning in northwest Iran: a retrospective analytical cross-sectional study.",
-      "authors": "Hatami MF, Boushehri B",
-      "published": "2026-11-17",
-      "journal": "International journal of prison health",
-      "pmid": "43036047",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43036047/"
-    },
-    {
-      "title": "Echoes of infection: viral persistence, immune activation, and histopathological changes in long COVID: a systematic review.",
-      "authors": "Elmahroky A, Aly Y, Farghaly A, Abdelrasoul H, Suliman H",
-      "published": "2026-11-17",
-      "journal": "Clinical and experimental medicine",
-      "pmid": "43050005",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050005/"
-    },
-    {
-      "title": "A Systematic Review of Medicolegal Social Media-Related Issues in Plastic Surgery.",
-      "authors": "Brotgandel A, Moffitt S, Bair C, Cruz C, Scarcella J",
-      "published": "2026-11-17",
-      "journal": "Aesthetic surgery journal",
-      "pmid": "41549612",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41549612/"
-    },
-    {
-      "title": "Environmental contamination, human rights and medico-legal responsibility after Cannavacciuolo and Others v Italy (ECtHR).",
-      "authors": "Cioffi A, Cipolloni L, Cecannecchia C",
-      "published": "2026-11-17",
-      "journal": "The Medico-legal journal",
-      "pmid": "43042672",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43042672/"
-    },
-    {
-      "title": "Forensic anal examinations to infer consensual same-sex sexual activity: Scientific validity, ethical concerns and medico-legal implications for Sri Lanka: A review.",
-      "authors": "Wijenayaka PRC",
-      "published": "2026-11-17",
-      "journal": "The Medico-legal journal",
-      "pmid": "43042653",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43042653/"
-    },
-    {
-      "title": "Integrated forensic analysis of a firearm assault: A case report.",
-      "authors": "Padubidri JR, B G C, G V C, M S, S VK",
-      "published": "2026-11-17",
-      "journal": "The Medico-legal journal",
-      "pmid": "43042656",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43042656/"
-    },
-    {
-      "title": "Use of Large Language Models for Structured Quantitative and Qualitative Analysis of Simulation Debriefings Using the DASH Framework (AIDE Study): Prospective Observational Study.",
-      "authors": "Pico J, Bouhadiba T, Jazestani S, Zhu E, Nguyen BK",
-      "published": "2026-11-17",
-      "journal": "JMIR formative research",
-      "pmid": "43044104",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044104/"
+      "journal": "Journal of clinical microbiology",
+      "pmid": "43043001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043001/"
     },
     {
       "title": "Genetically Predicted MRI Phenotypes Are Associated with Risk of Multiple Sclerosis.",
@@ -241,6 +209,38 @@
       "journal": "Annals of neurology",
       "pmid": "43042456",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43042456/"
+    },
+    {
+      "title": "The chaperone in the modern outpatient clinic: reconsidering gender, autonomy, and professional standards.",
+      "authors": "Thakare P, El-Diaz N, Pawa N",
+      "published": "2026-11-17",
+      "journal": "Postgraduate medical journal",
+      "pmid": "42949194",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949194/"
+    },
+    {
+      "title": "High-Throughput Mass Spectrometry Imaging of Single Human Hair Strands.",
+      "authors": "Spurgeon JE, Enad P, Bender KJ, Dolatmoradi M, Neumann EK",
+      "published": "2026-11-17",
+      "journal": "Analytical chemistry",
+      "pmid": "43046474",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046474/"
+    },
+    {
+      "title": "A Modified Delphi Study on the Ethics and Governance of Live Injecting at Aesthetic Conferences: Is There a Better and Safer Alternative?",
+      "authors": "Goodman GJ, Magnusson MR, Rahman E, Boxley SG, Kumar N",
+      "published": "2026-11-17",
+      "journal": "Aesthetic surgery journal",
+      "pmid": "42680160",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680160/"
+    },
+    {
+      "title": "Forensic anal examinations to infer consensual same-sex sexual activity: Scientific validity, ethical concerns and medico-legal implications for Sri Lanka: A review.",
+      "authors": "Wijenayaka PRC",
+      "published": "2026-11-17",
+      "journal": "The Medico-legal journal",
+      "pmid": "43042653",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042653/"
     }
   ]
 }
