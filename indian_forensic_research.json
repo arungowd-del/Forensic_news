@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T14:59:21.323508+00:00",
+  "updated": "2026-11-20T00:05:25.322640+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -35,12 +35,22 @@
       "country": "India"
     },
     {
-      "title": "Association of body mass index with morphology of various organs in autopsy-proven sudden natural death cases: an autopsy-based study from Southern India",
-      "journal": "Egyptian Journal of Forensic Sciences",
-      "published": "2026-11-19",
-      "authors": "Vishal Rangsa Marak, Pavanchand Shetty, B Suresh Kumar Shetty, Jagadish Rao Padubidri, Mayur Sudhir Balbudhe, Deepa Adiga S A, Prateek Rastogi",
-      "url": "https://doi.org/10.1186/s41935-026-00597-8",
-      "doi": "10.1186/s41935-026-00597-8",
+      "title": "Navigating ethical and medicolegal challenges in obstetrics and gynecology: A review of case studies and best practices in India",
+      "journal": "Indian Journal of Obstetrics and Gynecology Research",
+      "published": "2026-11-17",
+      "authors": "Shiva Shiva, Medha Rai, Singupuram Naimisha Priya, Manas Ranjan Sahu, Manoj Kumar Mohanty, Saubhagya Kumar Jena",
+      "url": "https://doi.org/10.18231/j.ijogr.10406.1791969736",
+      "doi": "10.18231/j.ijogr.10406.1791969736",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Child Sexual Abuse under India’s POCSO Act: A Scoping Review of Clinical and Medico-legal Characteristics",
+      "journal": "International Journal on Child Maltreatment: Research, Policy and Practice",
+      "published": "2026-11-13",
+      "authors": "Sarbasree Bhattacharjee, Jarina Begum, Gaurav Kumar Roy, Syed Irfan Ali",
+      "url": "https://doi.org/10.1007/s42448-026-00284-0",
+      "doi": "10.1007/s42448-026-00284-0",
       "source": "Crossref",
       "country": "India"
     },
@@ -65,16 +75,6 @@
       "country": "India"
     },
     {
-      "title": "Evolution of crimes against women and related criminal law reforms in India: emerging trends and the expanding role of forensic medicine specialists",
-      "journal": "IP International Journal of Forensic Medicine and Toxicological Sciences",
-      "published": "2026-11-02",
-      "authors": "A Veeravijayan, L R A Suryaprakash, S. Ramalingam",
-      "url": "https://doi.org/10.18231/j.ijfmts.19173.1792481549",
-      "doi": "10.18231/j.ijfmts.19173.1792481549",
-      "source": "Crossref",
-      "country": "India"
-    },
-    {
       "title": "Applicability of Snodgrass method for age estimation from thoracic osteophytes: A computed tomographic study in an Indian population",
       "journal": "Legal Medicine",
       "published": "2026-11-01",
@@ -91,6 +91,16 @@
       "authors": "Manish Shrigiriwar",
       "url": "https://doi.org/10.6026/973206300226464",
       "doi": "10.6026/973206300226464",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Coronal Suture Fusion Assessed by Computed Tomography: Age Estimation Insights From Western Maharashtra",
+      "journal": "Academic Forensic Pathology",
+      "published": "2026-10-22",
+      "authors": "Emarson L. Sison, Jomar L. Aban, Don Eliseo Lucero-Prisno, Alma M. Corpuz",
+      "url": "https://doi.org/10.1177/19253621261500870",
+      "doi": "10.1177/19253621261500870",
       "source": "Crossref",
       "country": "India"
     }
