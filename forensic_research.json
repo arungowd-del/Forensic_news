@@ -1,38 +1,126 @@
 {
-  "updated": "2026-11-23T04:22:38.208206Z",
+  "updated": "2026-11-23T16:40:24.517958Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "The relationship between socio-environmental factors, brain growth and cognition in middle childhood.",
-      "authors": "Bonthrone AF, Gal-Er B, MacLeod R, Chew A, van der Meijden MEM",
-      "published": "2026-11-21",
-      "journal": "Pediatric research",
-      "pmid": "43067605",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43067605/"
+      "title": "Computational Mapping of Cholesterol-Binding Landscapes in TRPV6.",
+      "authors": "Domene C, Blayney AM, Eardley-Brunt ASJ, Martin-Hernandez V, Morris J",
+      "published": "2026-11-23",
+      "journal": "Journal of chemical information and modeling",
+      "pmid": "43070954",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070954/"
     },
     {
-      "title": "Spatial Transcriptomics Reveals the Macroscale Signatures of Cortical Cell Types on Anatomic Magnetic Resonance Imaging.",
-      "authors": "Chowdhury NF, Jafar T, Irimia A",
-      "published": "2026-11-21",
-      "journal": "Neuroinformatics",
-      "pmid": "43066834",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066834/"
+      "title": "Metabolite identification of sauchinone in rats using HPLC-HRMS and its metabolism in rat, mouse and human liver microsomes.",
+      "authors": "Liu H, Peng Y, Huang X, Yan S, Cheng C",
+      "published": "2026-11-23",
+      "journal": "Xenobiotica; the fate of foreign compounds in biological systems",
+      "pmid": "43049678",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049678/"
     },
     {
-      "title": "TToTP model: An automated detection of Alzheimer's disease and frontotemporal dementia using Tesla Tree of Thought Pattern with EEG signals.",
-      "authors": "Tasci I, Tuncer T, Barua PD, Dogan S, Taşcı B",
-      "published": "2026-11-21",
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "pmid": "43066578",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066578/"
+      "title": "The mysterious lipoprotein(a) surprised researchers in the HORIZON study.",
+      "authors": "Vuorio A, Kovanen PT",
+      "published": "2026-11-23",
+      "journal": "Expert review of cardiovascular therapy",
+      "pmid": "43062940",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062940/"
     },
     {
-      "title": "Bridging the institutional divide between death investigation and bereavement care: Lessons from a Japanese consent autopsy program.",
-      "authors": "Shimizu T, Nabeshima N, Aoki S, Broome-Webster A, Ikegaya H",
-      "published": "2026-11-21",
-      "journal": "Medicine, science, and the law",
-      "pmid": "43066575",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066575/"
+      "title": "Prevent cognitive decline in GBA1-associated Parkinson's disease using prasinezumab (PreCoDe): Rationale, design and cognitive endpoint for a proof-of-concept trial.",
+      "authors": "Brockmann K, Avenali M, Bode M, Corvol JC, Alessio DF",
+      "published": "2026-11-23",
+      "journal": "Journal of Parkinson's disease",
+      "pmid": "43070417",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070417/"
+    },
+    {
+      "title": "A two-step RT-LAMP workflow combining colorimetric screening and lateral flow assay for rapid differentiation of SARS-CoV-2 and influenza A.",
+      "authors": "Ferreira LM, Estrela PFN, Resende PC, Siqueira MM, Duarte GRM",
+      "published": "2026-11-23",
+      "journal": "The Analyst",
+      "pmid": "42709455",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709455/"
+    },
+    {
+      "title": "The Relationship Between Exposure to War- and Terrorism-Themed Social Media Content and Secondary Traumatic Stress Among Nursing Students.",
+      "authors": "Dikici A, Karataş S, Yüksel E, Altunkaynak EC, Yılmaz M",
+      "published": "2026-11-23",
+      "journal": "Journal of forensic nursing",
+      "pmid": "43069459",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069459/"
+    },
+    {
+      "title": "Generative artificial intelligence and forensic medicine professionals: knowledge, representations and uses in 2024-25. A short international survey.",
+      "authors": "Lefèvre T, Laugier V, Tournois L, Ludes B",
+      "published": "2026-11-23",
+      "journal": "International journal of legal medicine",
+      "pmid": "43069320",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069320/"
+    },
+    {
+      "title": "Microphysiological organ-on-a-chip system for anti-doping research: long-term CYP activity characterization and S107 metabolism in a HepaRG™-based 3D liver model.",
+      "authors": "Peters I, Naumann N, Görgens C, Guddat S, Thevis M",
+      "published": "2026-11-23",
+      "journal": "The Analyst",
+      "pmid": "42895197",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895197/"
+    },
+    {
+      "title": "Fetal age estimation using micro-CT volumetric and metric analysis of deciduous tooth germs.",
+      "authors": "Fournier G, Visser SC, Dawood Y, Khan F, Maret D",
+      "published": "2026-11-23",
+      "journal": "International journal of legal medicine",
+      "pmid": "43069319",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069319/"
+    },
+    {
+      "title": "4-Hydroxytamoxifen-induced dimerization of STAT3ER induces Y705 phosphorylation independently of LIF signaling in mouse embryonic stem cells.",
+      "authors": "Tomonaga K, Fujita J, Uranishi K, Ueda A, Yokota T",
+      "published": "2026-11-23",
+      "journal": "Journal of biochemistry",
+      "pmid": "43070639",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070639/"
+    },
+    {
+      "title": "Transverse intervertebral ratios of computed tomographic myelography of the caudal cervical spine (C5-C7) are a reliable diagnostic parameter in horses with ataxia caused by enlarged caudal intervertebral articular process joints.",
+      "authors": "Pudert T, Looijen M, Freise F, Seehusen F, Baumgärtner W",
+      "published": "2026-11-22",
+      "journal": "Equine veterinary journal",
+      "pmid": "43068685",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068685/"
+    },
+    {
+      "title": "Trait anxiety is associated with increased sensitivity to self-face: evidence from an ERP study.",
+      "authors": "Zhang RT, Cai YH, Li W, Chen J",
+      "published": "2026-11-22",
+      "journal": "Neuroscience",
+      "pmid": "43068756",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068756/"
+    },
+    {
+      "title": "An Anti-Adhesive Hydrogel Delivering Ginger-Derived Exosome-Like Nanoparticles Reshapes the Neuroinflammatory Microenvironment After Traumatic Brain Injury.",
+      "authors": "Chen J, Zhu T, Wen J, Shen M, Hou B",
+      "published": "2026-11-22",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "43068868",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068868/"
+    },
+    {
+      "title": "Deep Brain Stimulation of the Nucleus Accumbens and Anterior Limb of the Internal Capsule in Severe Autism Spectrum Disorder: Clinical Outcomes and Infralimbic-Accumbens Circuit Involvement.",
+      "authors": "Wu Y, Pei JS, Guo Y, Yin SL, Xu YY",
+      "published": "2026-11-22",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "43068962",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068962/"
+    },
+    {
+      "title": "Soft Priming in the Mechanically Heterogeneous Primary Tumor Potentiates Negative Durotaxis as a Biophysical Hallmark of Brain Metastasis.",
+      "authors": "Zheng Y, Zhang B, Li X, Han X, Li S",
+      "published": "2026-11-22",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "43068954",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068954/"
     },
     {
       "title": "Agatha Christie: medicine, diagnosis, and the art of detection.",
@@ -43,14 +131,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43057261/"
     },
     {
-      "title": "A \"genuine\" internal ligature mark and a special crime-scene cleaning.",
-      "authors": "Windgassen M, Kaldun H, Hunold T",
-      "published": "2026-11-21",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "43066887",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066887/"
-    },
-    {
       "title": "Synergistic adsorption of malachite green using Trichophyton rubrum (Castell.) Sabour. biomass together with cysteine-functionalized iron oxide nanoparticles.",
       "authors": "Gupta A, George N, Pandya S, Singh H",
       "published": "2026-11-21",
@@ -59,28 +139,52 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43066828/"
     },
     {
-      "title": "Surgical interventions for adults with low back pain with or without spine-related leg pain or degenerative lumbar spinal abnormalities: an overview of systematic reviews of randomised controlled trials.",
-      "authors": "Hansford HJ, Cashin AG, Wand BM, O'Connell NE, Ferreira ML",
-      "published": "2026-11-20",
-      "journal": "The Cochrane database of systematic reviews",
-      "pmid": "43061899",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43061899/"
+      "title": "Bridging the institutional divide between death investigation and bereavement care: Lessons from a Japanese consent autopsy program.",
+      "authors": "Shimizu T, Nabeshima N, Aoki S, Broome-Webster A, Ikegaya H",
+      "published": "2026-11-21",
+      "journal": "Medicine, science, and the law",
+      "pmid": "43066575",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066575/"
     },
     {
-      "title": "Preoperative nutritional risk assessment and optimization in retroperitoneal sarcoma surgery: current evidence and practical strategies.",
-      "authors": "García-Ortega DY, Gutiérrez-Salmeán G, Alamilla-García G, Villavicencio-Valencia SV, Meléndez-Fernández AP",
-      "published": "2026-11-20",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-      "pmid": "43062493",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062493/"
+      "title": "Oxygen Vacancies in Metal-Based Catalysts for Advanced Oxidation Processes: From Defect States to Reaction Pathways.",
+      "authors": "Wu L, Pan Z, Zhao C, She Y, Lyu C",
+      "published": "2026-11-21",
+      "journal": "Environmental science & technology",
+      "pmid": "43070433",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070433/"
     },
     {
-      "title": "Liquid biopsy and cancer therapy: current technology, diagnosis, prognosis, and cancer treatments.",
-      "authors": "Xu L, Li H, Wen C, Li H, Wang C",
-      "published": "2026-11-20",
-      "journal": "Molecular biomedicine",
-      "pmid": "43064877",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064877/"
+      "title": "The relationship between socio-environmental factors, brain growth and cognition in middle childhood.",
+      "authors": "Bonthrone AF, Gal-Er B, MacLeod R, Chew A, van der Meijden MEM",
+      "published": "2026-11-21",
+      "journal": "Pediatric research",
+      "pmid": "43067605",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067605/"
+    },
+    {
+      "title": "A \"genuine\" internal ligature mark and a special crime-scene cleaning.",
+      "authors": "Windgassen M, Kaldun H, Hunold T",
+      "published": "2026-11-21",
+      "journal": "Forensic science, medicine, and pathology",
+      "pmid": "43066887",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066887/"
+    },
+    {
+      "title": "TToTP model: An automated detection of Alzheimer's disease and frontotemporal dementia using Tesla Tree of Thought Pattern with EEG signals.",
+      "authors": "Tasci I, Tuncer T, Barua PD, Dogan S, Taşcı B",
+      "published": "2026-11-21",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "pmid": "43066578",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066578/"
+    },
+    {
+      "title": "Spatial Transcriptomics Reveals the Macroscale Signatures of Cortical Cell Types on Anatomic Magnetic Resonance Imaging.",
+      "authors": "Chowdhury NF, Jafar T, Irimia A",
+      "published": "2026-11-21",
+      "journal": "Neuroinformatics",
+      "pmid": "43066834",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066834/"
     },
     {
       "title": "The Association between Physical Activity and Higher Corticolimbic Synaptic Density is Independent of Body Mass Index.",
@@ -99,68 +203,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43017132/"
     },
     {
-      "title": "Very High Baseline HIV-RNA and Advanced HIV Disease: Outcomes After INSTI-Based ART Initiation in the ICONA cohort.",
-      "authors": "Giacomelli A, Lentini N, Tavelli A, Mondi A, Taramasso L",
-      "published": "2026-11-20",
-      "journal": "International journal of antimicrobial agents",
-      "pmid": "43064122",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064122/"
-    },
-    {
-      "title": "Cosmeticorexia and cosmetic-related behaviors: A qualitative analysis of online content.",
-      "authors": "Lasheras-Pérez MA, Escutia-Muñoz B, Taberner R, Martínez Jarreta B, Botella-Estrada R",
-      "published": "2026-11-20",
-      "journal": "Actas dermo-sifiliograficas",
-      "pmid": "43064023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064023/"
-    },
-    {
-      "title": "Alcohol, drugs and self-harm emergencies in a national unscheduled care system: a retrospective observational study.",
-      "authors": "Schölin L, McStravick M, Lloyd A, Brett J, Eddleston M",
-      "published": "2026-11-20",
-      "journal": "Emergency medicine journal : EMJ",
-      "pmid": "42778343",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778343/"
-    },
-    {
-      "title": "Stem Cell and Extracellular Vesicle Therapies for Subarachnoid Hemorrhage: Pathophysiology, Preclinical Evidence, and Translational Challenges.",
-      "authors": "Hamad N, Altabbakh O, O'Leary S, Azhar M, Durrani A",
-      "published": "2026-11-20",
-      "journal": "Translational stroke research",
-      "pmid": "43062740",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062740/"
-    },
-    {
-      "title": "Tonic Immobility and Peritraumatic Dissociation as Risk Factors for Posttraumatic Stress Disorder: A Systematic Review and Narrative Synthesis.",
-      "authors": "Arslan Kırcı E, Kırcı MF",
-      "published": "2026-11-20",
-      "journal": "Trauma, violence & abuse",
-      "pmid": "43062194",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062194/"
-    },
-    {
-      "title": "2-Trifluoroetomidate induces visual toxicity in zebrafish larvae via phototransduction and retinoic acid disruption compared with the parent compound etomidate.",
-      "authors": "Zhang L, Shi WJ, Huang E, Liu Y, Yang L",
-      "published": "2026-11-20",
-      "journal": "Environmental pollution (Barking, Essex : 1987)",
-      "pmid": "43064288",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064288/"
-    },
-    {
       "title": "Post-ischemic disruptive sequences: Polymicrogyria, porencephaly, hydranencephaly and their accompanying central nervous system pathologies.",
       "authors": "Fisher Y, Shannon P, Parks WT, Shinar S, Miller E",
       "published": "2026-11-20",
       "journal": "Brain pathology (Zurich, Switzerland)",
       "pmid": "43065162",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43065162/"
-    },
-    {
-      "title": "Met4All: a dockerised Shiny application for DNA methylation array analysis, visualization and reporting.",
-      "authors": "Roca C, Campo-Fernández G, Moreno-Cabrera JM, Rivera B",
-      "published": "2026-11-20",
-      "journal": "Bioinformatics (Oxford, England)",
-      "pmid": "43064689",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064689/"
     },
     {
       "title": "Swatting, Criminal Responsibility, and Risk in Forensic Psychiatry.",
@@ -171,12 +219,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43064526/"
     },
     {
-      "title": "Machine learning-supported polytrauma triage decision support: A concept analysis for emergency nursing.",
-      "authors": "Setiyono E, Kosasih CE, Trisyani Y",
+      "title": "Flow-induced endothelial lipid dysregulation in ischemic stroke: from mechanotransduction to therapeutic implications.",
+      "authors": "Tang T, Tao Y, Yue Z, Shi H, Wen Y",
       "published": "2026-11-20",
-      "journal": "International emergency nursing",
-      "pmid": "43063551",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063551/"
+      "journal": "Neuroscience",
+      "pmid": "43064183",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064183/"
     },
     {
       "title": "An experimental study on HRM combined with multiplex PCR for the identification of single and mixed diatom species.",
@@ -187,60 +235,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42927172/"
     },
     {
-      "title": "The mysterious lipoprotein(a) surprised researchers in the horizon study.",
-      "authors": "Vuorio A, Kovanen PT",
+      "title": "Met4All: a dockerised Shiny application for DNA methylation array analysis, visualization and reporting.",
+      "authors": "Roca C, Campo-Fernández G, Moreno-Cabrera JM, Rivera B",
       "published": "2026-11-20",
-      "journal": "Expert review of cardiovascular therapy",
-      "pmid": "43062940",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062940/"
-    },
-    {
-      "title": "Concentric cylindrical scaffolds orchestrate immunomodulation and angiogenesis to augment osteoporotic bone regeneration.",
-      "authors": "Liu H, Wei J, Zhang W, Yuan L, Liu Y",
-      "published": "2026-11-20",
-      "journal": "Journal of materials chemistry. B",
-      "pmid": "43062693",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062693/"
-    },
-    {
-      "title": "Relative presence during brain death evaluation: a systematic review.",
-      "authors": "Del Duca F, Treglia M, Bocci MG, Frati P, Casertano L",
-      "published": "2026-11-20",
-      "journal": "Journal of critical care",
-      "pmid": "43063663",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063663/"
-    },
-    {
-      "title": "Longitudinal pre-diagnostic blood samples predict osteoporosis risk.",
-      "authors": "Lassen JK, Nielsen KL, Hindhede L, Mikkelsen S, Kjerulff B",
-      "published": "2026-11-20",
-      "journal": "iScience",
-      "pmid": "42871651",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871651/"
-    },
-    {
-      "title": "Nitazene analogs in unintentional and undetermined intent drug overdose deaths - United States, 2019-2025.",
-      "authors": "Zlotorzynska M, Krotulski AJ, Quader ZS, Gladden RM, Papsun DM",
-      "published": "2026-11-20",
-      "journal": "The International journal on drug policy",
-      "pmid": "43063795",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063795/"
-    },
-    {
-      "title": "The human post-mortem microbiome in forensic practice: a scoping review with critical appraisal.",
-      "authors": "Ferorelli D, Vinci A, Sirago G, Visci P, Dell'Erba G",
-      "published": "2026-11-20",
-      "journal": "International journal of legal medicine",
-      "pmid": "43062692",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43062692/"
-    },
-    {
-      "title": "Flow-induced endothelial lipid dysregulation in ischemic stroke: from mechanotransduction to therapeutic implications.",
-      "authors": "Tang T, Tao Y, Yue Z, Shi H, Wen Y",
-      "published": "2026-11-20",
-      "journal": "Neuroscience",
-      "pmid": "43064183",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064183/"
+      "journal": "Bioinformatics (Oxford, England)",
+      "pmid": "43064689",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064689/"
     }
   ]
 }
