@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:47:56.886886+00:00",
+  "updated": "2026-11-25T01:48:09.707336+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
@@ -41,6 +41,16 @@
       "authors": "Brajesh Kumar, Amitabh Biswas, Shivani Dixit, Shivkant Sharma, Rajendra V. E. Chilukuri, Vikash Sharma, Pankaj Shrivastava",
       "url": "https://doi.org/10.1007/s00414-026-04068-6",
       "doi": "10.1007/s00414-026-04068-6",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Critical condition: What are we doing about nuclear war?",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-11-20",
+      "authors": "Kamran Abbasi, Parveen Ali, Virginia Barbour, Marion Birch, Matthew Bivens, Inga Blum, Francisco Javier Bonilla-Escobar, Richard Horton, Kati Juva, Jose F Lapena Jr",
+      "url": "https://doi.org/10.20529/ijme.2026.070",
+      "doi": "10.20529/ijme.2026.070",
       "source": "Crossref",
       "country": "India"
     },
@@ -101,6 +111,16 @@
       "authors": "Vishal Rangsa Marak, Pavanchand Shetty, B Suresh Kumar Shetty, Jagadish Rao Padubidri, Mayur Sudhir Balbudhe, Deepa Adiga S A, Prateek Rastogi",
       "url": "https://doi.org/10.1186/s41935-026-00597-8",
       "doi": "10.1186/s41935-026-00597-8",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Autopsy Findings in Pressure over Neck Deaths: A Cross-Sectional Autopsy Study from Western India",
+      "journal": "",
+      "published": "2026-11-04",
+      "authors": "HARDIK UPADHYAY, DEVKISHAN AHIR, CHANDRESH TAILOR, JIGNESH PATEL, PRATIK PATEL",
+      "url": "https://doi.org/10.21203/rs.3.rs-11212935/v1",
+      "doi": "10.21203/rs.3.rs-11212935/v1",
       "source": "Crossref",
       "country": "India"
     },
