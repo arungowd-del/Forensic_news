@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-26T15:54:51.932376Z",
+  "updated": "2026-11-27T01:13:35.902167Z",
   "source": "PubMed",
   "items": [
     {
-      "title": "Notes from the Field: Death Involving the Semisynthetic Kratom-Derived Opioid Dihydro-7-Hydroxymitragynine (MGM-15) from a Product Labeled Cat's Claw - San Francisco, California, September 2026.",
-      "authors": "Rodda LN, Zeigler K, Hom JK",
+      "title": "Structure-Based Discovery and Experimental Validation of Potential mGlu(5) Positive Allosteric Modulators With Anti-inflammatory Effects in Microglia.",
+      "authors": "He B, Wang L, Huang M, Zhang X, Jin X",
       "published": "2026-11-26",
-      "journal": "MMWR. Morbidity and mortality weekly report",
-      "pmid": "43084439",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084439/"
+      "journal": "Cell biochemistry and biophysics",
+      "pmid": "43097274",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097274/"
     },
     {
       "title": "Geographic and environmental variability in decomposition-based PMI estimation: a systematic review of TBS and TDS models.",
@@ -19,12 +19,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43086495/"
     },
     {
-      "title": "Nanopore Protein Analysis: Complementary Routes to Single-Molecule Protein Information.",
-      "authors": "Wang Z, Fan Y, Gao Z",
+      "title": "Preclinical Medical Students' Reflections on Physician Litigation Narratives in an Interdisciplinary Online Medico-Legal Workshop: Qualitative Study.",
+      "authors": "Ng DY, Liu TH, Kuo CC, Tsai YL, Shyu HJ",
       "published": "2026-11-26",
-      "journal": "Chembiochem : a European journal of chemical biology",
-      "pmid": "43032978",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43032978/"
+      "journal": "JMIR medical education",
+      "pmid": "43097712",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097712/"
+    },
+    {
+      "title": "Violet Light Elicits a Pronounced Response from Zeaxanthin and Retinal in Model Lipid Membranes and the Human Retina.",
+      "authors": "Zubik-Duda M, Luchowski R, Grudzinski W, Sowinski K, Rekas K",
+      "published": "2026-11-26",
+      "journal": "The journal of physical chemistry. B",
+      "pmid": "43096815",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43096815/"
+    },
+    {
+      "title": "Solvent-driven modulation of ESIPT within triphenylamine-decorated HPO-based fluorophore: Insights from DFT-TD-DFT quantum-chemical simulations.",
+      "authors": "Jiang Y, Jia R, Chen J, Pang H",
+      "published": "2026-11-26",
+      "journal": "Journal of molecular modeling",
+      "pmid": "43097036",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097036/"
+    },
+    {
+      "title": "Rapid identification of marijuana using copper-phosphine ion complexation and commercialized paper spray ionization-mass spectrometry.",
+      "authors": "Couch AN, Zall CM, Davidson JT",
+      "published": "2026-11-26",
+      "journal": "Analytical methods : advancing methods and applications",
+      "pmid": "42936871",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936871/"
     },
     {
       "title": "Loss of nuclear YAP1 expression in autopsy myocardium across selected fatal congenital heart disease phenotypes.",
@@ -35,6 +59,78 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43086470/"
     },
     {
+      "title": "Incidences of suicide and unintentional poisoning mortality after discharge from involuntary psychiatric hospitalization.",
+      "authors": "Szewczyk W, Hensley S, Angerhofer JE, Rowhani-Rahbar A, Matheson AI",
+      "published": "2026-11-26",
+      "journal": "Epidemiology and psychiatric sciences",
+      "pmid": "43095926",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095926/"
+    },
+    {
+      "title": "Postmortem DNA methylation profiling uncovers signatures associated with left ventricle size.",
+      "authors": "Christiansen SNN, Boisen Olsen K, Tangmose Larsen S, Heimdal Holm P, Kroman Palsøe M",
+      "published": "2026-11-26",
+      "journal": "Cardiovascular research",
+      "pmid": "42778399",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778399/"
+    },
+    {
+      "title": "Identification of potential small-molecule LSD1 inhibitors from traditional Chinese medicine library via virtual screening, molecular dynamics simulation, and pharmacokinetic prediction.",
+      "authors": "Lu J, Du B, Lu W, Liu F, Wang M",
+      "published": "2026-11-26",
+      "journal": "Journal of molecular modeling",
+      "pmid": "43097175",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097175/"
+    },
+    {
+      "title": "Beyond the vessel wall: single-cell dissection of epicardial fat-myocardial crosstalk in coronary artery disease.",
+      "authors": "Puluca N, Vafadarnejad E, Saleem T, Rammoser C, Wirth F",
+      "published": "2026-11-26",
+      "journal": "Cardiovascular research",
+      "pmid": "42834504",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834504/"
+    },
+    {
+      "title": "Discovery of 2-(Phenylamino)-6H-pyrimido[5,4-b][1,4]oxazin-7(8H)-one Derivatives as Selective ACK1 Inhibitors with Immunomodulatory Effects Enhancing Anti-PD-1 Therapy for Triple-Negative Breast Cancer.",
+      "authors": "Zhong L, Zhang Y, Yuan T, Sun X, Wang N",
+      "published": "2026-11-26",
+      "journal": "Journal of medicinal chemistry",
+      "pmid": "43095946",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095946/"
+    },
+    {
+      "title": "Posthumous mental-state assessment in suicide litigation: Medico-legal limits of psychological autopsy.",
+      "authors": "Lee K",
+      "published": "2026-11-26",
+      "journal": "Medicine, science, and the law",
+      "pmid": "43097686",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097686/"
+    },
+    {
+      "title": "Identification of GPR35 Agonists from Corydalis bungeana Turcz.",
+      "authors": "Liu Z, Si Z, Han Y, Wang P, Wang J",
+      "published": "2026-11-26",
+      "journal": "Applied biochemistry and biotechnology",
+      "pmid": "43097293",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097293/"
+    },
+    {
+      "title": "The Prevalence of a PFO in the General Population Matching Morphological Dimensions That Are Associated With Cryptogenic Stroke Is Significantly Less Than 25.",
+      "authors": "Witte LS, Bouziani AE, Grundeken MJD, Straver B, Robbers-Visser D",
+      "published": "2026-11-26",
+      "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions",
+      "pmid": "43095794",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095794/"
+    },
+    {
+      "title": "Notes from the Field: Death Involving the Semisynthetic Kratom-Derived Opioid Dihydro-7-Hydroxymitragynine (MGM-15) from a Product Labeled Cat's Claw - San Francisco, California, September 2026.",
+      "authors": "Rodda LN, Zeigler K, Hom JK",
+      "published": "2026-11-26",
+      "journal": "MMWR. Morbidity and mortality weekly report",
+      "pmid": "43084439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084439/"
+    },
+    {
       "title": "Updated guidelines for the publication of genetic population data.",
       "authors": "Lutz-Bonengel S, Bodner M",
       "published": "2026-11-26",
@@ -43,108 +139,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43086496/"
     },
     {
-      "title": "TEX264-mediated ER-phagy dysfunction contributes to Cadmium-induced ER stress: Implication of hippocampal neuronal apoptosis and cognitive deficits.",
-      "authors": "Gao Y, Cao L, Hong Y, Ke H, Yuan Q",
-      "published": "2026-11-25",
-      "journal": "Chemico-biological interactions",
-      "pmid": "42668033",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668033/"
-    },
-    {
-      "title": "Childhood Trauma and Functional Impairment in Adult ADHD: Mediating Roles of Symptoms and Depression.",
-      "authors": "Crespín JJ, Corrales M, Richarte V, Parramón G, Mestres F",
-      "published": "2026-11-25",
-      "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
-      "pmid": "43079956",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43079956/"
-    },
-    {
-      "title": "Gold Nanostars Enhance Biotinidase Assay Performance and Apparent Enzyme Stability.",
-      "authors": "Mgidlana S, Ojwach JD, Khoarai V, Mampunye L, Smit FJ",
-      "published": "2026-11-25",
-      "journal": "Analytical biochemistry",
-      "pmid": "43085481",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43085481/"
-    },
-    {
-      "title": "Between clinical uncertainty and legal pressure: Psychiatrists' perceptions of the suicide care model in emergency departments.",
-      "authors": "Ibáñez Vizoso JE, Bermejo Pastor A, Alberdi-Páramo Í",
-      "published": "2026-11-25",
-      "journal": "Australasian psychiatry : bulletin of Royal Australian and New Zealand College of Psychiatrists",
-      "pmid": "43080194",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43080194/"
-    },
-    {
-      "title": "Machine learning-driven SERS platform for rapid detection and multi-analyte discrimination.",
-      "authors": "Kshetrimayum BD, Vanlalnunpuia C, Das A, Mayanglambam SD, Moirangthem RS",
-      "published": "2026-11-25",
-      "journal": "RSC advances",
-      "pmid": "43032559",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43032559/"
-    },
-    {
-      "title": "A forensic evaluation of homicide-suicide cases autopsied in Ankara.",
-      "authors": "Emiral E, Değirmenci B, Aslan M, Kara ZG",
-      "published": "2026-11-25",
-      "journal": "Medicine, science, and the law",
-      "pmid": "43083851",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43083851/"
-    },
-    {
-      "title": "Mapping unsolved lipidomes accelerates lipid discovery in major bacterial pathogens.",
-      "authors": "Nair YM, Menon AR, Lin Z, Vossenberg MRL, Munsamy-Govender V",
-      "published": "2026-11-25",
-      "journal": "Nature microbiology",
-      "pmid": "43086404",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43086404/"
-    },
-    {
-      "title": "Hidden in plain sight: a comprehensive analysis of missed rib fractures across five anatomic sectors of the chest wall.",
-      "authors": "Sucher JF, Arrington T, Lim H, Mina A, Sholem S",
-      "published": "2026-11-25",
-      "journal": "European journal of trauma and emergency surgery : official publication of the European Trauma Society",
-      "pmid": "43084055",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084055/"
-    },
-    {
-      "title": "Designer Benzodiazepines in Norwegian Police Casework: Blood Concentrations Related to Clinical Impairment.",
-      "authors": "Heide G, Øiestad ÅML, Dugstad KU, Langødegård M, Middelkoop G",
-      "published": "2026-11-25",
-      "journal": "Journal of analytical toxicology",
-      "pmid": "43082196",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43082196/"
-    },
-    {
-      "title": "Postmortem computed tomography findings in drowning: a systematic review of diagnostic usefulness.",
-      "authors": "Gonoi W, Takahashi MM, Shirota G, Tsuneya S, Makino Y",
-      "published": "2026-11-25",
-      "journal": "Insights into imaging",
-      "pmid": "43084013",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084013/"
-    },
-    {
-      "title": "RNA interference and antisense strategies for chronic hepatitis B: mechanisms, clinical advances, and pathways toward functional cure.",
-      "authors": "Atoom AM, Rizaev J, Kadhim AA, Jamuna KV, Maharana L",
-      "published": "2026-11-25",
-      "journal": "Immunotherapy",
-      "pmid": "43094279",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43094279/"
-    },
-    {
-      "title": "Fetal mental programming: maternal psychological homeostasis as a placenta-mediated determinant of cognitive and emotional development - an integrative perspective.",
-      "authors": "Andonotopo W, Bachnas MA, Adi Pramono MB, Dewantiningrum J, Lukas E",
-      "published": "2026-11-25",
-      "journal": "Journal of perinatal medicine",
-      "pmid": "42627173",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42627173/"
-    },
-    {
-      "title": "Patterns and Determinants of Autopsy Uptake After Perinatal Death: A National Analysis in Ireland, 2011-2022.",
-      "authors": "San Lázaro Campillo IJ, Manning E, Keane J, O Donoghue K, Twomey A",
-      "published": "2026-11-25",
-      "journal": "Birth (Berkeley, Calif.)",
-      "pmid": "43087068",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43087068/"
+      "title": "Nanopore Protein Analysis: Complementary Routes to Single-Molecule Protein Information.",
+      "authors": "Wang Z, Fan Y, Gao Z",
+      "published": "2026-11-26",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "pmid": "43032978",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032978/"
     },
     {
       "title": "How denial through non-disclosure undermines memory: the role of lack of rehearsal in a mock crime event.",
@@ -155,36 +155,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43082128/"
     },
     {
-      "title": "Histopathologic and toxicological evaluation of δ⁹-tetrahydrocannabinol (δ⁹-thc) and its metabolite thc-cooh in cannabis-related fatalities: a forensic autopsy-based study.",
-      "authors": "Paknahad S, Forouzesh M, Akhgari M, Bagheri F, Ghadipasha M",
+      "title": "RNA interference and antisense strategies for chronic hepatitis B: mechanisms, clinical advances, and pathways toward functional cure.",
+      "authors": "Atoom AM, Rizaev J, Kadhim AA, Jamuna KV, Maharana L",
       "published": "2026-11-25",
-      "journal": "Forensic science, medicine, and pathology",
-      "pmid": "43084047",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084047/"
+      "journal": "Immunotherapy",
+      "pmid": "43094279",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094279/"
     },
     {
-      "title": "The nucleus accumbens: an emerging modulator in anxiety disorders.",
-      "authors": "Liu Q, Wang Y, Lu Z, Ma N, Si T",
+      "title": "Machine learning-driven SERS platform for rapid detection and multi-analyte discrimination.",
+      "authors": "Kshetrimayum BD, Vanlalnunpuia C, Das A, Mayanglambam SD, Moirangthem RS",
       "published": "2026-11-25",
-      "journal": "Molecular psychiatry",
-      "pmid": "43086324",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43086324/"
+      "journal": "RSC advances",
+      "pmid": "43032559",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032559/"
     },
     {
-      "title": "DNA methylation-dependent CDX1 enrichment at PVT1 exon 9 associated promoter drives overexpression of PVT1 exon 9 in aggressive prostate cancer.",
-      "authors": "Udekwu CC, Bonacci RE, Adams S, Nurazizah SK, Finnegan C",
+      "title": "Microwave-assisted synthesis of thioether-linked sulfonamides as dual DHPS/DHFR inhibitors: biological evaluation and molecular dynamics studies.",
+      "authors": "Devliya B, Al-Kubeisi AK, Chauhan S, Barot J, Patel N",
       "published": "2026-11-25",
-      "journal": "Cell communication and signaling : CCS",
-      "pmid": "43079480",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43079480/"
-    },
-    {
-      "title": "Opportunistic identification of metabolic syndrome using abdominal CT-derived body composition: a comparative study.",
-      "authors": "Chen BQ, Chen GD, Ju RH, Long HY",
-      "published": "2026-11-25",
-      "journal": "Insights into imaging",
-      "pmid": "43086476",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43086476/"
+      "journal": "RSC advances",
+      "pmid": "43095138",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095138/"
     },
     {
       "title": "Forensic dating of thrombi in pulmonary embolism: neutrophil-to-macrophage ratio and bi-exponential modelling in an autopsy series.",
@@ -195,12 +187,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43079079/"
     },
     {
-      "title": "TIP60-mediated acetylation remodels pathological FUS condensates and promotes lysosome-dependent clearance.",
-      "authors": "Wei P, Liu M, Shang Z, Zhou C, Wang Q",
+      "title": "Fetal mental programming: maternal psychological homeostasis as a placenta-mediated determinant of cognitive and emotional development - an integrative perspective.",
+      "authors": "Andonotopo W, Bachnas MA, Adi Pramono MB, Dewantiningrum J, Lukas E",
       "published": "2026-11-25",
-      "journal": "Journal of cell science",
-      "pmid": "43080154",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43080154/"
+      "journal": "Journal of perinatal medicine",
+      "pmid": "42627173",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42627173/"
     },
     {
       "title": "Generating scRNA-seq data from bulk RNA-seq using a Gaussian mixture variational autoencoder.",
@@ -211,36 +203,44 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43084611/"
     },
     {
-      "title": "Multiplexed targeted iprm-PASEF assays for MALDI mass spectrometry imaging of lipids, NAD(+), and related metabolites in CD38 knockout mice.",
-      "authors": "Schurman CA, Bons J, Kumaar PVA, Cheruvu S, Fang J",
+      "title": "Gold Nanostars Enhance Biotinidase Assay Performance and Apparent Enzyme Stability.",
+      "authors": "Mgidlana S, Ojwach JD, Khoarai V, Mampunye L, Smit FJ",
       "published": "2026-11-25",
-      "journal": "Journal of proteomics",
-      "pmid": "43085657",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43085657/"
+      "journal": "Analytical biochemistry",
+      "pmid": "43085481",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085481/"
     },
     {
-      "title": "Comparative evaluation of zebrafish larvae, differentiated human HepaRG cells and human postmortem specimens for new psychoactive substance metabolism: the example of eutylone.",
-      "authors": "Pelletier R, Willeman T, Ferron PJ, Legrand-Brault ER, Chauvin C",
-      "published": "2026-11-24",
-      "journal": "Archives of toxicology",
-      "pmid": "43078961",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43078961/"
+      "title": "TIP60-mediated acetylation remodels pathological FUS condensates and promotes lysosome-dependent clearance.",
+      "authors": "Wei P, Liu M, Shang Z, Zhou C, Wang Q",
+      "published": "2026-11-25",
+      "journal": "Journal of cell science",
+      "pmid": "43080154",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080154/"
     },
     {
-      "title": "Rodent studies of hypoxic-ischemic encephalopathy-induced neonatal seizures: A systematic review on model variations and reporting standards.",
-      "authors": "Schelhaas M, Keijer BL, Wever KE, Hoebeek FE",
-      "published": "2026-11-24",
-      "journal": "Epilepsia",
-      "pmid": "43076605",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43076605/"
+      "title": "The nucleus accumbens: an emerging modulator in anxiety disorders.",
+      "authors": "Liu Q, Wang Y, Lu Z, Ma N, Si T",
+      "published": "2026-11-25",
+      "journal": "Molecular psychiatry",
+      "pmid": "43086324",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43086324/"
     },
     {
-      "title": "General Practitioners' Knowledge, Perceptions, and Practices Regarding Fetal Pathology and Fetal Autopsy: A French National Cross-Sectional Survey.",
-      "authors": "Martineau R, Wells CF, Lamouroux A",
-      "published": "2026-11-24",
-      "journal": "Prenatal diagnosis",
-      "pmid": "43077680",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43077680/"
+      "title": "Postmortem computed tomography findings in drowning: a systematic review of diagnostic usefulness.",
+      "authors": "Gonoi W, Takahashi MM, Shirota G, Tsuneya S, Makino Y",
+      "published": "2026-11-25",
+      "journal": "Insights into imaging",
+      "pmid": "43084013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084013/"
+    },
+    {
+      "title": "TEX264-mediated ER-phagy dysfunction contributes to Cadmium-induced ER stress: Implication of hippocampal neuronal apoptosis and cognitive deficits.",
+      "authors": "Gao Y, Cao L, Hong Y, Ke H, Yuan Q",
+      "published": "2026-11-25",
+      "journal": "Chemico-biological interactions",
+      "pmid": "42668033",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668033/"
     }
   ]
 }
