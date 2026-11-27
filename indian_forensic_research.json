@@ -1,9 +1,29 @@
 {
-  "updated": "2026-11-27T01:21:24.177312+00:00",
+  "updated": "2026-11-27T15:55:14.114906+00:00",
   "country": "India",
   "collection": "Indian Forensic Research",
   "window_days": 30,
   "items": [
+    {
+      "title": "Prospective Study on Drowning Victims in Southwestern Punjab",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-11-26",
+      "authors": "Karan Pramod, Rajiv Joshi, Shilekh Mittal",
+      "url": "https://doi.org/10.1177/09710973261505596",
+      "doi": "10.1177/09710973261505596",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Storm After the Calm: A Case of Autopsy Unmasking Disseminated Philadelphia Chromosome–Positive B-ALL with Multiorgan Infiltration in an Adult",
+      "journal": "Journal of Indian Academy of Forensic Medicine",
+      "published": "2026-11-26",
+      "authors": "Sneha P, Basappa S Hugar, Padma Priya K, Sulata M Kamath, Rakshith Kumar K",
+      "url": "https://doi.org/10.1177/09710973261507490",
+      "doi": "10.1177/09710973261507490",
+      "source": "Crossref",
+      "country": "India"
+    },
     {
       "title": "Shotgun Slug Injury Masked by the Kennedy Phenomenon: A Case Report",
       "journal": "Journal of Indian Academy of Forensic Medicine",
@@ -51,6 +71,16 @@
       "authors": "Brajesh Kumar, Amitabh Biswas, Shivani Dixit, Shivkant Sharma, Rajendra V. E. Chilukuri, Vikash Sharma, Pankaj Shrivastava",
       "url": "https://doi.org/10.1007/s00414-026-04068-6",
       "doi": "10.1007/s00414-026-04068-6",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "When a child dies in the burn ICU: The grief we carry",
+      "journal": "Indian Journal of Medical Ethics",
+      "published": "2026-11-25",
+      "authors": "Lala Rukh Bangash",
+      "url": "https://doi.org/10.20529/ijme.2026.071",
+      "doi": "10.20529/ijme.2026.071",
       "source": "Crossref",
       "country": "India"
     },
@@ -131,6 +161,16 @@
       "authors": "Shiva Shiva, Medha Rai, Singupuram Naimisha Priya, Manas Ranjan Sahu, Manoj Kumar Mohanty, Saubhagya Kumar Jena",
       "url": "https://doi.org/10.18231/j.ijogr.10406.1791969736",
       "doi": "10.18231/j.ijogr.10406.1791969736",
+      "source": "Crossref",
+      "country": "India"
+    },
+    {
+      "title": "Child Sexual Abuse under India’s POCSO Act: A Scoping Review of Clinical and Medico-legal Characteristics",
+      "journal": "International Journal on Child Maltreatment: Research, Policy and Practice",
+      "published": "2026-11-13",
+      "authors": "Sarbasree Bhattacharjee, Jarina Begum, Gaurav Kumar Roy, Syed Irfan Ali",
+      "url": "https://doi.org/10.1007/s42448-026-00284-0",
+      "doi": "10.1007/s42448-026-00284-0",
       "source": "Crossref",
       "country": "India"
     },
